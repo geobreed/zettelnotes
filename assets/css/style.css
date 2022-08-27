@@ -473,7 +473,7 @@ hr {
 
 
 .notes-page-heading {
-    color: #ED363B;
+    color: #555555;
     font-size: 15px;
     font-weight: 600;
     padding-top: 15px;
@@ -743,7 +743,7 @@ hr {
 }
 
 .feed-title {
-    color: #555555;
+    color: #ED363B;
     margin-left: 20px;
     margin-right: 50px;
     font-size: 16px;
