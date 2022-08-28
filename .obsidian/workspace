@@ -19,57 +19,53 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "491ee891b52432b1",
-    "type": "mobile-drawer",
+    "id": "2e02f1369ff779db",
+    "type": "split",
     "children": [
       {
-        "id": "17324eae89468917",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "2a96d00358e8666e",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "b03dabd57466855b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8664a7cac2bf63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10f1831b85c3321d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4b149c0e25b1105",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "879e1d457957da67",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "df0ee90b92842537",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "f5be9fdc9c7c08fa",
-    "type": "mobile-drawer",
+    "id": "07f64e0c15dbb275",
+    "type": "split",
     "children": [
       {
         "id": "a9787d2dd7e91d91",
@@ -111,7 +107,9 @@
         }
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "0456a0fbce898fa8",
   "lastOpenFiles": [
