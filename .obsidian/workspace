@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Idea Into Product.md",
+            "file": "_notes/How to use the special features.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -20,65 +20,61 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "593cd48d24532153",
-    "type": "mobile-drawer",
+    "id": "2e02f1369ff779db",
+    "type": "split",
     "children": [
       {
-        "id": "8ea7216ff71c5485",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "7669b336e7ec1218",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "b03dabd57466855b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8664a7cac2bf63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10f1831b85c3321d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4b149c0e25b1105",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "0eee0dc2c2f26ede",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "642321c4e61c9ea3",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "9195bae5b2e66c6a",
-    "type": "mobile-drawer",
+    "id": "07f64e0c15dbb275",
+    "type": "split",
     "children": [
       {
-        "id": "c336a11ba7a022ef",
+        "id": "a9787d2dd7e91d91",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Idea Into Product.md",
+            "file": "_notes/How to use the special features.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,41 +86,43 @@
         }
       },
       {
-        "id": "6940b67bd8c0efe7",
+        "id": "4c7ac1d64efa8c77",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Idea Into Product.md",
+            "file": "_notes/How to use the special features.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "c4fedd03ea24d31d",
+        "id": "a59a607148613416",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Idea Into Product.md"
+            "file": "_notes/How to use the special features.md"
           }
         }
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "7798cd0d8722d63b",
   "lastOpenFiles": [
+    "_notes/Embodying Inside Product.md",
     "_notes/Adding Others Value.md",
-    "_notes/Leave Everything Better.md",
+    "_notes/How to use the special features.md",
     "_notes/Idea Into Product.md",
+    "_notes/Leave Everything Better.md",
     "assets/template/NewNotes.md",
     "_notes/New.md",
     "about.md",
     "dates.md",
-    "index.md",
-    "notes.md",
-    "README.md"
+    "index.md"
   ]
 }
