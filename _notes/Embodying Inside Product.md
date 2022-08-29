@@ -1,7 +1,7 @@
 ---
 title: Embodying Inside Product
 date: 20220829
-tags: #Entrepreneur
+tags: Entrepreneur
 ---
 
 The perfect form of business development 
