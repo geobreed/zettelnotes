@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "assets/template/NewNotes.md",
+            "file": "_notes/Leave Everything Better.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "assets/template/NewNotes.md",
+            "file": "_notes/Leave Everything Better.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "assets/template/NewNotes.md",
+            "file": "_notes/Leave Everything Better.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -103,7 +103,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "assets/template/NewNotes.md"
+            "file": "_notes/Leave Everything Better.md"
           }
         }
       }
@@ -114,9 +114,9 @@
   },
   "active": "7798cd0d8722d63b",
   "lastOpenFiles": [
-    "_notes/Untitled.md",
-    "_notes/New.md",
     "assets/template/NewNotes.md",
+    "_notes/Leave Everything Better.md",
+    "_notes/New.md",
     "about.md",
     "dates.md",
     "index.md",
