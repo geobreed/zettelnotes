@@ -1,7 +1,10 @@
 ---
-title:
-date: {{date:YYYYMMDD-HHmm}}
+title: {{title}}
+date: {{date:YYYYMMDD}}
 tags:
-toc:
-season:
 ---
+
+
+
+
+#### Reference
