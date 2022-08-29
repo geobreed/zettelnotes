@@ -5,3 +5,8 @@ _site
 vendor
 .idea
 .DS_Store
+
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+.obsidian/workspace
