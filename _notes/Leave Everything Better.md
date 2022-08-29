@@ -6,7 +6,7 @@ tags:
 
 Leave Everything and Everyone Better than you found them
 
-Simplest act of [[Adding Value to Self]] is by [[Adding Value to Others]]
+Simplest act of [[Adding Self Value]] is by [[Adding Others Value]]. 
 
 
 

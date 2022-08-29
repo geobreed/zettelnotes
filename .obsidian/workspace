@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Leave Everything Better.md",
+            "file": "_notes/Adding Others Value.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Leave Everything Better.md",
+            "file": "_notes/Adding Others Value.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Leave Everything Better.md",
+            "file": "_notes/Adding Others Value.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -103,7 +103,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Leave Everything Better.md"
+            "file": "_notes/Adding Others Value.md"
           }
         }
       }
@@ -114,15 +114,15 @@
   },
   "active": "7798cd0d8722d63b",
   "lastOpenFiles": [
-    "assets/template/NewNotes.md",
     "_notes/Leave Everything Better.md",
+    "assets/template/NewNotes.md",
+    "_notes/Adding Others Value.md",
     "_notes/New.md",
     "about.md",
     "dates.md",
     "index.md",
     "notes.md",
     "README.md",
-    "_notes/Obsidian integration.md",
-    "_notes/How to use the special features.md"
+    "_notes/Obsidian integration.md"
   ]
 }
