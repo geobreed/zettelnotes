@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0456a0fbce898fa8",
+        "id": "7798cd0d8722d63b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "assets/template/NewNotes.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -73,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "about.md",
+            "file": "assets/template/NewNotes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,7 +91,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "about.md",
+            "file": "assets/template/NewNotes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -102,7 +103,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "about.md"
+            "file": "assets/template/NewNotes.md"
           }
         }
       }
@@ -111,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0456a0fbce898fa8",
+  "active": "7798cd0d8722d63b",
   "lastOpenFiles": [
+    "_notes/Untitled.md",
+    "_notes/New.md",
+    "assets/template/NewNotes.md",
+    "about.md",
     "dates.md",
     "index.md",
     "notes.md",
     "README.md",
-    "_notes/New.md",
-    "assets/template/NewNotes.md",
     "_notes/Obsidian integration.md",
-    "_notes/How to use the special features.md",
-    "about.md",
-    "First file.md"
+    "_notes/How to use the special features.md"
   ]
 }
