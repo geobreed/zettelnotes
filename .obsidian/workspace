@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "_notes/(LIT) The E-Myth Revisited.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "index.md",
+            "file": "_notes/(LIT) The E-Myth Revisited.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +91,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "index.md",
+            "file": "_notes/(LIT) The E-Myth Revisited.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -103,7 +103,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "index.md"
+            "file": "_notes/(LIT) The E-Myth Revisited.md"
           }
         }
       }
@@ -114,8 +114,8 @@
   },
   "active": "7798cd0d8722d63b",
   "lastOpenFiles": [
-    "_notes/Idea Into Product.md",
     "index.md",
+    "_notes/Idea Into Product.md",
     "_notes/How to use the special features.md",
     "_notes/Embodying Inside Product.md",
     "_notes/Adding Others Value.md",
