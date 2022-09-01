@@ -69,13 +69,31 @@ We have 3 personality that have to be balanced
 
 [[Entrepreneurial Model Business]] seeing business as product. Not the resulting product but the way business deliver result. Looking for opportunity, create solution, specifying the form onto business, to satisfy customer not self.
 ## Part II: The Turn-Key Revolution: A New View of Business
-
 ### Chapter 7. The Turn-Key Revolution
+[[Turn-Key Revolution]] way of doing business that can turn chaos to order and growth when Ray Kroc first sees McDonalds
+The genesis of franchise phenomenon, but not past franchise that trade mark franchise with licenses
+Turning the Key: [[Business Format Franchise]] not only lend name but also give entire system for doing business.
+Know not just the product that bring business success, true product is not the product but the selling way.
+[[System-Dependent Business]] not [[People-Dependent Business]] 
+building from predictable component that been tested on [[The Franchise Prototype]]
 
 ### Chapter 8. The Franchise Prototype
-
+The success reason of [[Business Format Franchise]] 
+Testing all assumption to work on business with value Does it Work?
+So that the system become solution with Discipline, Standardization, and Order
+place to concieve and perfect the system.
+place vision come alive for [[The Entrepreneur Personality]]
+Order predictability for [[The Manager Personality]]
+place to work for [[The Technician Personality]]
 ### Chapter 9. Working On Your Business, Not In It
-
+You are not your business. Build business with first prototype from many business to come.
+This is the Franchise Game, and it has [[Franchise Game Rules]]
+- [[Provide Consistent Value]] to customer employe supplier all. What is the business value?
+- [[Lowest Skill Operatable]] maximize replicatable skill with inovative system that works
+- [[Impeccable Order Place]] that sign existing structure
+- [[Documented Operations Manuals]] systemize all operation, written account of efficient and effective way. Structure become specific mean than generalized end, to simple task.
+- [[Provide Predictable Service]] A consistent experience to customer, not based on business whim
+- [[Utilize Uniform Code]] to color dress facilities, pick the most beneficial to business
 ## Part III: Building a Small Business That Works!
 
 ### Chapter 10. The Business Development Process
