@@ -114,11 +114,56 @@ Building business prototype is continous with 3 process
 - [[Business Development Quantification]]
 	- [[Business Development Innovation]] need to be Quantified to judge the effect
 	- numbers related to innovation impact
-	- 
+	- quantifying everything related to business process
+		- customer per day
+		- in morning or afternoon
+		- how many call
+		- ask for price
+		- wanting to purchase
+		- how many sold
+		- at what time
+		- peak day, intensities
+		- etc
+	- in time, we think of business as numbers
+	- know which number is critical
+- [[Business Development Orchestration]] 
+	- once discover how to increase yes and decrease no
+	- elimination of discretion, choice on operating level of business
+	- discretion is enemy of order standar quality
+	- no orchestration > no ownership > no dependable > no franchise > no success
+	- your franchise is unique way to handle business, predictable, replicable
+	-  my people need predictable > system should facilitate > to give customer the same quality everytime
+	- Orchestration process is simple
+		- doing what you are doing now as long as result is desireable
+		- if doesnt work any longer, change it
+		- orchestration is not static
+		- creating a habit while looking to better the habit
+Innovation Quantification Orchestration is the backbone of business, always goes on to be investigation of the work.
+we fill position fill function fill itself and business fill its purpose in world
 ### Chapter 11. Your Business Development Program
+To create business that works without a lot of works and without you to work it.
+We have done [[Business Development Innovation]] to solve problem, and then [[Business Development Quantification]] those innovation making sure not complication, and then [[Business Development Orchestration]] to make predictable result
+[[Business Development Program]] is process to convert business into [[The Franchise Prototype]] and composed of 7 step
+1. Your [[Business Primary Aim]]
+2. Your [[Business Strategic Objective]]
+3. Your [[Business Organizational Strategy]]
+4. Your [[Business Management Strategy]]
+5. Your [[Business People Strategy]]
+6. Your [[Business Marketing Strategy]]
+7. Your [[Business Systems Strategy]]
 
 ### Chapter 12. Your Primary Aim
-
+You are priority, not business. Your most value, wanted life, lifestyle, purpose feel, wishes.
+Ponder these:
+- wanted life
+- day to day life
+- perception about own life
+- other relation on life
+- other perception of self
+- future me 2, 10, 20 years, end
+- knowledge experience skill to pursuit
+- money for wanted activities and when
+Your [[Business Primary Aim]] represent your vision
 ### Chapter 13. Your Strategic Objective
 
 ### Chapter 14. Your Organizational Strategy
