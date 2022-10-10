@@ -151,7 +151,6 @@ We have done [[Business Development Innovation]] to solve problem, and then [[Bu
 5. Your [[Business People Strategy]]
 6. Your [[Business Marketing Strategy]]
 7. Your [[Business Systems Strategy]]
-
 ### Chapter 12. Your Primary Aim
 You are priority, not business. Your most value, wanted life, lifestyle, purpose feel, wishes.
 Ponder these:
@@ -165,7 +164,30 @@ Ponder these:
 - money for wanted activities and when
 Your [[Business Primary Aim]] represent your vision
 ### Chapter 13. Your Strategic Objective
-
+Once realizing vision or most important next is [[Business Strategic Objective]]
+Very clear statement of what your business must do to achieve your [[Business Primary Aim]]
+The vision of finished product that is your business, a means to achieve Primary Aim.
+Is a
+- Not a business plan but product of Life and Business Strategy and Plan.
+- Is a list of standards, 
+- tool to measure progress to specific end, 
+- for implementation not rationalization
+- template for business
+Some of standards
+- Money, [[Life Financial Standard]] 
+	- gross revenue, how big? $300 Thousand? $1 Mill? $500 Mill?
+	- gross profit, pretax profit, posttax profit, define any standard always better than none
+	- Core question, how much money to live my wished life? Not income but assets. To be independent of work. 
+	- Next step to sell for how much? 10 times earnings? 20? When? 3 years after? 5?
+	- After financial standard for life, ROI, next is the realistic chance to achieving that, or produs ROI
+- Is the business is [[Opportunity Worth Pursuing]] 
+	- a business that can fullfill [[Life Financial Standard]] for [[Business Primary Aim]] and [[Business Strategic Objective]]
+	- Does business alleviate frustation experienced by a lot of people to make it worthwhile? Defines:
+		- What kind of business, what to sell, not commodities but what they feel after buying, Revlon manufacture cosmetics but Revlon sells hope.
+			- Peace of mind? Power? Love? What feeling?
+			- How business anticipate the feeling and satisfied that?
+		- Who is costumer, to whom, [[Central Demographic Model]], 
+			- most probable customer
 ### Chapter 14. Your Organizational Strategy
 
 ### Chapter 15. Your Management Strategy
