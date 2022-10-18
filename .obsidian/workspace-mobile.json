@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Adding Self Value.md",
+                "file": "_notes/Self Expression Project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Adding Self Value.md",
+            "file": "_notes/Self Expression Project.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Adding Self Value.md",
+            "file": "_notes/Self Expression Project.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Adding Self Value.md"
+            "file": "_notes/Self Expression Project.md"
           }
         }
       }
@@ -127,15 +127,15 @@
   },
   "active": "530a48ce31e16b02",
   "lastOpenFiles": [
-    "assets/template/NewNotes.md",
-    "_notes/Adding Self Value.md",
+    "_notes/Embodying Inside Product.md",
+    "_notes/Idea Into Product.md",
     "_notes/Adding Others Value.md",
     "_notes/Leave Everything Better.md",
+    "_notes/Adding Self Value.md",
+    "assets/template/NewNotes.md",
     "_notes/(LIT) The E-Myth Revisited.md",
     "index.md",
-    "_notes/Idea Into Product.md",
     "_notes/How to use the special features.md",
-    "_notes/Embodying Inside Product.md",
     "_notes/how-markdown-is-rendered.md"
   ]
 }
