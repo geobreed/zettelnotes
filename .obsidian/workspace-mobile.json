@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "eb5990c4a1d50355",
+    "id": "9569a7fa2ccdfdbe",
     "type": "split",
     "children": [
       {
-        "id": "1299b7fd66bbb544",
+        "id": "ed1b00d0d2d743e2",
         "type": "tabs",
         "children": [
           {
-            "id": "530a48ce31e16b02",
+            "id": "30e7c93a5c92b854",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Metric Becomes Target.md",
+                "file": "_notes/(LIT) The E-Myth Revisited.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,11 +26,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d9859dec1b2ad8de",
+    "id": "c68ac8b65c5a5444",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d77950faae6f2cac",
+        "id": "c26975a567fe6c25",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +40,7 @@
         }
       },
       {
-        "id": "15b1a6a607aea8cc",
+        "id": "ed6aa128d82c2ab8",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +55,7 @@
         }
       },
       {
-        "id": "70646738f65efd96",
+        "id": "6a54fc5a52b9c987",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,7 +66,7 @@
         }
       },
       {
-        "id": "25d975bbf748dd13",
+        "id": "e5e36ba1c19ea5e6",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -74,19 +74,20 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
-    "id": "26d0f1083ef0e89f",
+    "id": "333055b30fab98be",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cadbac2a59fdffe8",
+        "id": "5c5e7f460861e130",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Metric Becomes Target.md",
+            "file": "_notes/(LIT) The E-Myth Revisited.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,24 +99,24 @@
         }
       },
       {
-        "id": "6fa463b8ffd4edac",
+        "id": "fedb3cb210cde753",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Metric Becomes Target.md",
+            "file": "_notes/(LIT) The E-Myth Revisited.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "3c8ddf7761d52de2",
+        "id": "7567e1d0ec752dd1",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Metric Becomes Target.md"
+            "file": "_notes/(LIT) The E-Myth Revisited.md"
           }
         }
       }
@@ -125,17 +126,6 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "530a48ce31e16b02",
-  "lastOpenFiles": [
-    "_notes/Percieved Value Standard.md",
-    "_notes/Adding Others Value.md",
-    "_notes/Obsidian integration.md",
-    "_notes/KMS Based Agent.md",
-    "_notes/Self Expression Project.md",
-    "_notes/Embodying Inside Product.md",
-    "_notes/Idea Into Product.md",
-    "_notes/Leave Everything Better.md",
-    "_notes/Adding Self Value.md",
-    "assets/template/NewNotes.md"
-  ]
+  "active": "30e7c93a5c92b854",
+  "lastOpenFiles": []
 }
