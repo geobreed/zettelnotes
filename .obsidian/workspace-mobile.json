@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed1b00d0d2d743e2",
+        "id": "2c2c72d26fb9e049",
         "type": "tabs",
         "children": [
           {
-            "id": "30e7c93a5c92b854",
+            "id": "4e89bce71e576ba4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/(LIT) The E-Myth Revisited.md",
+                "file": "_notes/Your People Strategy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/(LIT) The E-Myth Revisited.md",
+            "file": "_notes/Your People Strategy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/(LIT) The E-Myth Revisited.md",
+            "file": "_notes/Your People Strategy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/(LIT) The E-Myth Revisited.md"
+            "file": "_notes/Your People Strategy.md"
           }
         }
       }
@@ -126,6 +126,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "30e7c93a5c92b854",
-  "lastOpenFiles": []
+  "active": "4e89bce71e576ba4",
+  "lastOpenFiles": [
+    "_notes/(LIT) The E-Myth Revisited.md",
+    "_notes/Provide Consistent Value.md",
+    "_notes/Your People Strategy.md",
+    "_notes/Always Game First.md",
+    "_notes/Games You'll Play.md",
+    "_notes/Your Management Strategy.md",
+    "_notes/The Management System.md",
+    "_notes/Your Systems Strategy.md",
+    "_notes/Business Development Program.md",
+    "_notes/Your Marketing Strategy.md"
+  ]
 }
