@@ -18,15 +18,7 @@ Their commitment based on owner introduction to the game before it begun.
 [[Your People Strategy]] is the way to communicate this idea
 Start from [[Your Primary Aim]] and [[Your Strategic Objective]] continue to [[Your Organizational Strategy]] with chart and position contract and operating manual.
 The game is a measure of you. 
-A few [[The Game Rules]] for a taste
-- [[Always Game First]] 
-- [[Games You'll Play]]
-- Make sure there are specific ways to win without ending the game. The end will take the life of the game and business. Unless there is victories in the process, here and there, people will weary. Make game appealing even if not.
-- Change the game tactic, not strategies, from time to time. Strategies is ethic, moral of the game logic. The foundation of people commitment. Know when change is called for, might be resistance but persist and it will move them.
-- Never expect game to be self sustaining, remind people constantly. Once a week meeting about the game exception make sure everyone know. In itself the game doesn't exist, except when people make it so. Remind them of the game with you. Can't remind them too often.
-- The game has to make sense. Everyone shoul be able to see the logic is sufficiently attractive. Know the ground to stand and assemble armament. Game that isn't tested isn't a game at all. Best logic still need strong emotional commitment support. If commitment wanes, logic forgotten. Make sure everyone remember the game reason to exist.
-- The game need to be fun from time to time. The thrill is how to deal with "no fun" part. But fun need to be planned into game. Maybe once every six months, something to look forward, and something to forget.
-- If you can't think of a good game, steal one. But stolen game need to be learned by heart. Don't pretend to play a game.
+![[The Game Rules]] 
 The idea need to be communicated to people, both word and deed, a well planned process.
 Not only document but manner. Hiring process comprised of distinct components
 Systemazing business need not a dehumanizing experience.
