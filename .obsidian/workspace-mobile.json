@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Your People Strategy.md",
+                "file": "_notes/Opportunity Worth Pursuing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "333055b30fab98be",
@@ -87,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Your People Strategy.md",
+            "file": "_notes/Opportunity Worth Pursuing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Your People Strategy.md",
+            "file": "_notes/Opportunity Worth Pursuing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Your People Strategy.md"
+            "file": "_notes/Opportunity Worth Pursuing.md"
           }
         }
       }
@@ -128,9 +127,9 @@
   },
   "active": "4e89bce71e576ba4",
   "lastOpenFiles": [
+    "_notes/Your People Strategy.md",
     "_notes/(LIT) The E-Myth Revisited.md",
     "_notes/Provide Consistent Value.md",
-    "_notes/Your People Strategy.md",
     "_notes/Always Game First.md",
     "_notes/Games You'll Play.md",
     "_notes/Your Management Strategy.md",
