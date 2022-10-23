@@ -26,59 +26,53 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c68ac8b65c5a5444",
-    "type": "mobile-drawer",
+    "id": "2e02f1369ff779db",
+    "type": "split",
     "children": [
       {
-        "id": "c26975a567fe6c25",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "alphabetical"
+        "id": "b03dabd57466855b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8664a7cac2bf63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10f1831b85c3321d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4b149c0e25b1105",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "ed6aa128d82c2ab8",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
-          }
-        }
-      },
-      {
-        "id": "6a54fc5a52b9c987",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "e5e36ba1c19ea5e6",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "333055b30fab98be",
-    "type": "mobile-drawer",
+    "id": "07f64e0c15dbb275",
+    "type": "split",
     "children": [
       {
         "id": "5c5e7f460861e130",
@@ -120,7 +114,9 @@
         }
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
