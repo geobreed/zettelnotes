@@ -11,4 +11,4 @@ List of my own project:
 - [[HPMOR Edit Cleansing]]
 - [[DIY Media NAS]]
 - [[Second YouTube Channel]]
-- 
+- [[Machine Learning Study]]

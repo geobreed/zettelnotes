@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Your People Strategy.md",
+                "file": "_notes/Creating Script Materials.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Your People Strategy.md",
+            "file": "_notes/Creating Script Materials.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Your People Strategy.md",
+            "file": "_notes/Creating Script Materials.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Your People Strategy.md"
+            "file": "_notes/Creating Script Materials.md"
           }
         }
       }
@@ -128,15 +128,15 @@
   },
   "active": "4e89bce71e576ba4",
   "lastOpenFiles": [
-    "_notes/(LIT) The E-Myth Revisited.md",
-    "_notes/Provide Consistent Value.md",
-    "_notes/Your People Strategy.md",
-    "_notes/Always Game First.md",
-    "_notes/Games You'll Play.md",
-    "_notes/Your Management Strategy.md",
-    "_notes/The Management System.md",
-    "_notes/Your Systems Strategy.md",
-    "_notes/Business Development Program.md",
-    "_notes/Your Marketing Strategy.md"
+    "_notes/Idea Into Product.md",
+    "_notes/HPMOR Edit Cleansing.md",
+    "_notes/Self Expression Project.md",
+    "_notes/KMS Based Agent.md",
+    "_notes/Adding Self Value.md",
+    "_notes/Occasional Fun Part.md",
+    "_notes/Adding Others Value.md",
+    "_notes/Percieved Value Standard.md",
+    "_notes/Metric Becomes Target.md",
+    "_notes/Opportunity Worth Pursuing.md"
   ]
 }
