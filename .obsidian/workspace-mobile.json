@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Creating Script Materials.md",
+                "file": "_notes/The Student Principle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,61 +26,67 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2e02f1369ff779db",
-    "type": "split",
+    "id": "ed82c86fd9137428",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b03dabd57466855b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1c8664a7cac2bf63",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "10f1831b85c3321d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "e4b149c0e25b1105",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "0d4184f779cead7a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "c0582f920a023ce7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "46640158b95d5b63",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "826e80e59a1636ec",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "07f64e0c15dbb275",
-    "type": "split",
+    "id": "9860c383b90e1e72",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "5c5e7f460861e130",
+        "id": "f14b717e70d9c1f1",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Creating Script Materials.md",
+            "file": "_notes/The Student Principle.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -92,46 +98,44 @@
         }
       },
       {
-        "id": "fedb3cb210cde753",
+        "id": "ce1baa5633375a92",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Creating Script Materials.md",
+            "file": "_notes/The Student Principle.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "7567e1d0ec752dd1",
+        "id": "e0eee43647f58df4",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Creating Script Materials.md"
+            "file": "_notes/The Student Principle.md"
           }
         }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "4e89bce71e576ba4",
   "lastOpenFiles": [
+    "_notes/Adding Self Value.md",
+    "_notes/Adding Others Value.md",
+    "_notes/Creating Script Materials.md",
     "_notes/Idea Into Product.md",
     "_notes/HPMOR Edit Cleansing.md",
     "_notes/Self Expression Project.md",
     "_notes/KMS Based Agent.md",
-    "_notes/Adding Self Value.md",
     "_notes/Occasional Fun Part.md",
-    "_notes/Adding Others Value.md",
     "_notes/Percieved Value Standard.md",
-    "_notes/Metric Becomes Target.md",
-    "_notes/Opportunity Worth Pursuing.md"
+    "_notes/Metric Becomes Target.md"
   ]
 }
