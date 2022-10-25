@@ -14,3 +14,5 @@ I want this to be my second brain. Where I can upload my thoughts for easy acces
 One complication is that a wishlist is not an actual function. What will I do with this?
 
 I construct this according to zettellkasten, where the relation between notes is the point although this means notes recognition and familiarity also important. This construction is very good for article or book creation. 
+
+My first creation is based on some example of integrating Obsidian, Jekyll, and Netlify and my [[Initial PKM Information]]
