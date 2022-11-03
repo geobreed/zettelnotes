@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Entrepreneurial Model Business.md",
+                "file": "_notes/The Student Principle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,11 +26,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c68ac8b65c5a5444",
+    "id": "ed82c86fd9137428",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c26975a567fe6c25",
+        "id": "0d4184f779cead7a",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,7 +40,7 @@
         }
       },
       {
-        "id": "ed6aa128d82c2ab8",
+        "id": "c0582f920a023ce7",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -55,7 +55,7 @@
         }
       },
       {
-        "id": "6a54fc5a52b9c987",
+        "id": "46640158b95d5b63",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -66,7 +66,7 @@
         }
       },
       {
-        "id": "e5e36ba1c19ea5e6",
+        "id": "826e80e59a1636ec",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -77,16 +77,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "333055b30fab98be",
+    "id": "9860c383b90e1e72",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5c5e7f460861e130",
+        "id": "f14b717e70d9c1f1",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/Entrepreneurial Model Business.md",
+            "file": "_notes/The Student Principle.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,24 +98,24 @@
         }
       },
       {
-        "id": "fedb3cb210cde753",
+        "id": "ce1baa5633375a92",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/Entrepreneurial Model Business.md",
+            "file": "_notes/The Student Principle.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "7567e1d0ec752dd1",
+        "id": "e0eee43647f58df4",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/Entrepreneurial Model Business.md"
+            "file": "_notes/The Student Principle.md"
           }
         }
       }
@@ -127,14 +127,14 @@
   },
   "active": "4e89bce71e576ba4",
   "lastOpenFiles": [
+    "_notes/Adding Self Value.md",
+    "_notes/Adding Others Value.md",
     "_notes/Creating Script Materials.md",
     "_notes/Idea Into Product.md",
     "_notes/HPMOR Edit Cleansing.md",
     "_notes/Self Expression Project.md",
     "_notes/KMS Based Agent.md",
-    "_notes/Adding Self Value.md",
     "_notes/Occasional Fun Part.md",
-    "_notes/Adding Others Value.md",
     "_notes/Percieved Value Standard.md",
     "_notes/Metric Becomes Target.md"
   ]

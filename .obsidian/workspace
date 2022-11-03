@@ -4,127 +4,133 @@
     "type": "split",
     "children": [
       {
-        "id": "7798cd0d8722d63b",
+        "id": "5aab166521cea6d4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/(LIT) The E-Myth Revisited.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d9859dec1b2ad8de",
-    "type": "mobile-drawer",
+    "id": "c787920d9c841326",
+    "type": "split",
     "children": [
       {
-        "id": "d77950faae6f2cac",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "15b1a6a607aea8cc",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "e7bd5302bc6edb8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67dea96c35174cde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ae2ccee726f248f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c86a65da79d410a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "70646738f65efd96",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "25d975bbf748dd13",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "26d0f1083ef0e89f",
-    "type": "mobile-drawer",
+    "id": "4c7c14ea25859e8a",
+    "type": "split",
     "children": [
       {
-        "id": "cadbac2a59fdffe8",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "_notes/(LIT) The E-Myth Revisited.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "0c08dcb0e851459a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72ace126e78397eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aecc838ea13b3b14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d08d267602b0661",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "163546c18ac0f751",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "6fa463b8ffd4edac",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "_notes/(LIT) The E-Myth Revisited.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "3c8ddf7761d52de2",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "_notes/(LIT) The E-Myth Revisited.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "7798cd0d8722d63b",
+  "active": "5aab166521cea6d4",
   "lastOpenFiles": [
-    "index.md",
-    "_notes/Idea Into Product.md",
-    "_notes/How to use the special features.md",
+    "_notes/OldNotes/how-markdown-is-rendered.md",
+    "_notes/Initial PKM Information.md",
+    "_notes/OldNotes/How-to-setup-this-site.md",
+    "_notes/OldNotes/How to use the special features.md",
+    "_notes/Personal Knowledge Management.md",
+    "_notes/Self Expression Project.md",
     "_notes/Embodying Inside Product.md",
+    "_notes/Idea Into Product.md",
     "_notes/Adding Others Value.md",
-    "_notes/how-markdown-is-rendered.md",
-    "_notes/Leave Everything Better.md",
-    "assets/template/NewNotes.md",
-    "_notes/New.md",
-    "about.md"
+    "_notes/OldNotes/Obsidian integration.md"
   ]
 }
