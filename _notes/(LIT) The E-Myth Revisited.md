@@ -24,7 +24,7 @@ We have 3 personality that have to be balanced
 ### Chapter 4. Adolescence: Getting Some Help
 ![[Adolescence - Getting Help]] 
 ### Chapter 5. Beyond the Comfort Zone
-[[Beyond Comfort Zone]] 
+![[Beyond Comfort Zone]] 
 ### Chapter 6. Maturity and the Entrepreneurial Perspective
 ![[Maturity - Entrepreneurial Perspective]] 
 ![[Entrepreneurial Model Business]]
