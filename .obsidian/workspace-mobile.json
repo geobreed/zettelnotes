@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/The Student Principle.md",
+                "file": "_notes/(LIT) The E-Myth Revisited.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_notes/The Student Principle.md",
+            "file": "_notes/(LIT) The E-Myth Revisited.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_notes/The Student Principle.md",
+            "file": "_notes/(LIT) The E-Myth Revisited.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,27 +115,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_notes/The Student Principle.md"
+            "file": "_notes/(LIT) The E-Myth Revisited.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "4e89bce71e576ba4",
   "lastOpenFiles": [
+    "_notes/Your Marketing Strategy.md",
+    "_notes/(LIT) The E-Myth Revisited.md",
+    "_notes/The Student Principle.md",
     "_notes/Adding Self Value.md",
     "_notes/Adding Others Value.md",
     "_notes/Creating Script Materials.md",
     "_notes/Idea Into Product.md",
     "_notes/HPMOR Edit Cleansing.md",
     "_notes/Self Expression Project.md",
-    "_notes/KMS Based Agent.md",
-    "_notes/Occasional Fun Part.md",
-    "_notes/Percieved Value Standard.md",
-    "_notes/Metric Becomes Target.md"
+    "_notes/KMS Based Agent.md"
   ]
 }
