@@ -1,7 +1,8 @@
 ---
 title: Opportunity Worth Pursuing
 date: 20221022
-tags:
+tags: #E-Myth
+citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 
 When constructing [[Your Strategic Objective]] for [[The Franchise Prototype]], the business must be one that is

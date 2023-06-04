@@ -1,7 +1,8 @@
 ---
 title: Idea Into Product
 date: 20220829
-tags:
+tags: 
+citation: 
 ---
 
 Sometimes ideas need to exist as a product before value can be extracted. 

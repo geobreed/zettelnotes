@@ -1,7 +1,8 @@
 ---
 title: Adding Self Value
 date: 20221017
-tags:
+tags: 
+citation: 
 ---
 
 With [[Leave Everything Better]], activities maybe difficult to distinguished from [[Adding Others Value]]

@@ -56,12 +56,7 @@ We have 3 personality that have to be balanced
 ### Chapter 17. Your Marketing Strategy
 ![[Your Marketing Strategy]] 
 ### Chapter 18. Your Systems Strategy
-A system is set of things, actions, ideas, and information that interact with each other and alter other system. 
-Innovation, Quantification, Orchestration, and Integration of 3 System in business is what [[Business Development Program]] is
-Those 3 kinds of system in business is:
-- ![[Business Hard System]]
-- ![[Business Soft System]]
-- ![[Business Information System]]
+![[Your Systems Strategy]]
 
 ### Chapter 19. A Letter to Sarah
 

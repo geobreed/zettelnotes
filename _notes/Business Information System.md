@@ -1,7 +1,8 @@
 ---
 title: Business Information System
 date: 20221023
-tags:
+tags: #E-Myth
+citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 
 - those that provide us with information about interaction between other two.

@@ -1,7 +1,8 @@
 ---
 title: Self Expression Project
 date: 20221018
-tags:
+tags: 
+citation: 
 ---
 
 List of my own project:

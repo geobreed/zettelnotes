@@ -1,7 +1,8 @@
 ---
 title: The Student Principle
 date: 20221022
-tags:
+tags: 
+citation: 
 ---
 
 Living life with a perspective to learn. 

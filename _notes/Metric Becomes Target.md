@@ -1,7 +1,8 @@
 ---
 title: Metric Becomes Target
 date: 20221020
-tags:
+tags: 
+citation: 
 ---
 
 Goodhart's Law

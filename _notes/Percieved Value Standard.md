@@ -1,7 +1,8 @@
 ---
 title: Percieved Value Standard
 date: 20221020
-tags:
+tags: 
+citation: 
 ---
 
 About how one measure value. 

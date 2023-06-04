@@ -1,7 +1,8 @@
 ---
 title: Your People Strategy
 date: 20221022
-tags:
+tags: #E-Myth
+citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 
 How to compel people to do checklist, we can't. Only way is making an environment that 'doing it' is more important to people than not doing it. Where it became a way of life for them.
@@ -18,7 +19,7 @@ Their commitment based on owner introduction to the game before it begun.
 [[Your People Strategy]] is the way to communicate this idea
 Start from [[Your Primary Aim]] and [[Your Strategic Objective]] continue to [[Your Organizational Strategy]] with chart and position contract and operating manual.
 The game is a measure of you. 
-![[The Game Rules]] 
+![[Business 'Game Rules']] 
 The idea need to be communicated to people, both word and deed, a well planned process.
 Not only document but manner. Hiring process comprised of distinct components
 Systemazing business need not a dehumanizing experience.

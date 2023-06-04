@@ -1,7 +1,8 @@
 ---
 title: Your Marketing Strategy
 date: 20221022
-tags:
+tags: #E-Myth
+citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 
 Marketing strategy start and end with customer. Forget about everything but customer. What customer want, not what you think customer want.

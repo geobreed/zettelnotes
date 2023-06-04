@@ -1,7 +1,8 @@
 ---
 title: KMS Based Agent
 date: 20221018
-tags:
+tags: 
+citation: 
 ---
 
 A project to manifest my ideal KLIP. Where the core is Knowledge Based System not fostering Super Agent. 

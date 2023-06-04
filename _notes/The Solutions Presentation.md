@@ -1,7 +1,8 @@
 ---
 title: The Solutions Presentation
 date: 20221023
-tags:
+tags: #E-Myth
+citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 
 - the easiest, because if previous step done effectively, the sale is already made.
