@@ -9,4 +9,8 @@ An Icelandic ex-patriot says, no, her nation won't starve. That's true, says an 
 
 ----
 
+https://www.npr.org/sections/money/2008/10/hear_iceland_has_food.html
+
+
+
 ----

@@ -9,4 +9,8 @@ The American economy appeared to shrink in the third quarter of 2008. With so ma
 
 ----
 
+https://www.npr.org/sections/money/2008/10/hear_the_rword.html
+
+
+
 ----
