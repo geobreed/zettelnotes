@@ -9,4 +9,8 @@ If there's any corner of the financial world where angels fear to tread, it's cr
 
 ----
 
+https://www.npr.org/sections/2011/02/14/10/hear_the_cds_monster.html
+
+
+
 ----
