@@ -7,7 +7,17 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 
 Russians have gotten almost accustomed to an economy that grew rapidly, until this year, that is. Now, as David Kestenbaum reports, people there are struggling with what to call the new economic climate. Andrei Illarianov, former adviser to President Vladimir Putin and now of the Cato Institute, says neither media nor the government wants to call it a crisis. Plus: Iceland's government became the second to fall as a direct result of the economic crisis. Icelandic National Broadcasting's Bjorn Malmquist reports on what some are calling a revolution.
 
+Today on Planet Money:
+
+-- Iceland's government became the second to fall as a direct result of the economic crisis. Icelandic National Broadcasting's Bjorn Malmquist reports on what some are calling a revolution.
+
+-- Russians have gotten almost accustomed to an economy that grew rapidly, until this year, that is. Now, as David Kestenbaum reports, people there are struggling with what to call the new economic climate. Andrei Illarianov, former adviser to President Vladimir Putin and now of the Cato Institute, says neither media nor the government wants to call it a crisis.
+
+Download the podcast; or subscribe. Intro music: The Streets' "Everything Is Borrowed." Find us: Twitter/ Facebook/ Flickr.
+
 ----
+
+https://www.npr.org/sections/money/2009/01/hear_dont_call_it_a_crisis.html
 
 
 
