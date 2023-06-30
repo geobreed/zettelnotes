@@ -9,6 +9,8 @@ On today's Planet Money: Adam Davidson chats with the intrepid David Kestenbaum 
 
 ----
 
+https://www.podcasts.com/npr_planet_money_podcast/episode/131_planet_money_the_possible_promise_and_peril_of_cap_and_trade
+
 
 
 ----

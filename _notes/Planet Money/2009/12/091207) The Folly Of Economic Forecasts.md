@@ -7,7 +7,17 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 
 Russ Roberts, George Mason University economist and host of EconTalk, explains why he thinks is economics is an imperfect science. Roberts says he has come to believe it's impossible to predict future economic conditions because good data is so hard to come by and even harder to compare. So what about all his fellow economists who seem to have an opinion on almost any topic? Roberts says they should come out and tell the truth, that their policy recommendations are based on philosophy and ideology, not on empirical data.
 
+On today's Planet Money:
+
+Russ Roberts, George Mason University economist and host of EconTalk, explains why he thinks is economics is an imperfect science.
+
+Roberts says he has come to believe it's impossible to predict future economic conditions because good data is so hard to come by and even harder to compare. So what about all his fellow economists who seem to have an opinion on almost any topic? Roberts says they should come out and tell the truth, that their policy recommendations are based on philosophy and ideology, not on empirical data.
+
+Download the podcast; or subscribe. Music: Crooked Fingers' "You're Control." Find us: Twitter/ Facebook/ Flickr.
+
 ----
+
+https://www.npr.org/sections/money/2009/12/podcast_the_folly_of_financial.html
 
 
 
