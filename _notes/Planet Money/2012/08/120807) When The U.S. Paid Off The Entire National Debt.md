@@ -1,73 +1,30 @@
 ---
-title: 110513) When The U.S. Paid Off The Entire National Debt
-date: 20110513
+title: 120807) When The U.S. Paid Off The Entire National Debt
+date: 20120807
 tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
 
-On today's Planet Money: The legend of the national debt. Where the debt came from, what happened the one time we paid it all off, and why Congress created the debt ceiling in the first place.
+On Jan. 8, 1835, all the big political names in Washington gathered to celebrate what President Andrew Jackson had just accomplished. A senator rose to make the big announcement: "Gentlemen ... the national debt ... is PAID." That was the one time in U.S. history when the country was debt free. It lasted exactly one year. On today's Planet Money: The legend of the national debt. Where the debt came from, what happened the one time we paid it all off, and why Congress created the debt ceiling in the first place. This episode originally aired on May 13, 2011.
 
 On Jan. 8, 1835, all the big political names in Washington gathered to celebrate what President Andrew Jackson had just accomplished. A senator rose to make the big announcement: "Gentlemen ... the national debt ... is PAID."
 
 That was the one time in U.S. history when the country was debt free. It lasted exactly one year.
 
-By 1837, the country would be in panic and headed into a massive depression. We'll get to that, but first let's figure out how Andrew Jackson did the impossible.
+On today's Planet Money: The legend of the national debt. Where the debt came from, what happened the one time we paid it all off, and why Congress created the debt ceiling in the first place.
 
-It helps to remember that debt was always a choice for America. After the revolution, the founding fathers debated whether or not to just wipe clean all those financial promises made during the war.
+This episode originally aired on May 13, 2011.
 
-Deciding to default "would have ruined our credit and would have left the economy on a very agricultural, subsistence basis," says Robert E. Wright, a professor at Augustana College in South Dakota.
+More from Planet Money:
 
-So the U.S. agreed early on to consolidate the debts of all the states — $75 million.
+    "The Debt Ceiling, Explained"
+    "When The U.S. Paid Off The Entire National Debt (And Why It Didn't Last)"
 
-During the good times, the country tried to pay down the debt. Then there would be another war, and the debt would go up again. The politicians never liked the debt.
-
-"What the battle was really about was how quickly to pay off the national debt, not whether to pay it off or not," Wright says.
-Sponsor Message
-
-But, just like today, it wasn't easy for politicians to slash spending — until Andrew Jackson came along.
-
-"For Andrew Jackson, politics was very personal," says H.W. Brands, an Andrew Jackson biographer at the University of Texas. "He hated not just the federal debt. He hated debt at all."
-
-Before he was president, Jackson was a land speculator in Tennessee. He learned to hate debt when a land deal went bad and left him with massive debt and some worthless paper notes.
-
-So when Jackson ran for president, he knew his enemy: banks and the national debt. He called it the national curse. People ate it up.
-
-In Jackson's mind, debt was "a moral failing," Brands says. "And the idea you could somehow acquire stuff through debt almost seemed like black magic."
-
-So Jackson decided to pay off the debt.
-
-To do that, he took advantage of a huge real-estate bubble that was raging in the Western U.S. The federal government owned a lot of Western land — and Jackson started selling it off.
-
-He was also ruthless on the budget. He blocked every spending bill he could.
-
-"He vetoed, for example, programs to build national highways," Brands says. "He considered these to be unconstitutional in the first place, but bad policy in the second place."
-
-When Jackson took office, the national debt was about $58 million. Six years later, it was all gone. Paid off. And the government was actually running a surplus, taking in more money than it was spending.
-Sponsor Message
-
-That created a new problem: What to do with all that surplus money?
-
-Jackson had already killed off the national bank (which he hated more than debt). So he couldn't put the money there. He decided to divide the money among the states.
-
-But, according to economic historian John Steele Gordon, the party didn't last for long.
-
-The state banks went a little crazy. They were printing massive amounts of money. The land bubble was out of control.
-
-Andrew Jackson tried to slow everything down by requiring that all government land sales needed to be done with gold or silver. Bad idea.
-
-"It was a huge crash, and the beginning of the longest depression in American history," Gordon says. "It actually lasted six years before the economy began to grow again."
-
-During the depression, the government started borrowing money again.
-
-No one says that paying off the debt caused the depression. The bubble was going to pop sometime. But the result was that we had to kiss a debt-free U.S. goodbye. The country never came close again.
-
-Note: This post was expanded at 10:15 a.m. to replace an earlier, much shorter post.
+Download the Planet Money iPhone App. Music: Surfer Blood's "I'm Not Ready." Find us:Twitter/ Facebook/ Spotify/ Tumblr.
 
 ----
 
 https://www.npr.org/sections/money/2012/08/07/158376579/episode-273-when-the-u-s-paid-off-the-entire-national-debt
-
-https://www.npr.org/sections/money/2011/04/15/135423586/when-the-u-s-paid-off-the-entire-national-debt-and-why-it-didnt-last
 
 confirm transcript
 
