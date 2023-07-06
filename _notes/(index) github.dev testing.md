@@ -9,4 +9,9 @@ A few interesting thing to be the topic of my upcoming books:
 
 - how to explain, to impart insight
 - forced agreement, priorities
-- 
+- motivation, why people do things
+
+
+KESE
+PAKsa
+ATAN
