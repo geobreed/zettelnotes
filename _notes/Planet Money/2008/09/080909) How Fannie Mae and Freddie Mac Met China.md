@@ -9,6 +9,8 @@ Economist Brad Setser obsessively studies the way China buys American debt. If t
 
 ----
 
+
+
 The affordable than in the following message come from Jess works just works and helps teens of all sizes. Get access to high-quality affordable, benefits, automated table, playing support, and HR tools all in one place get two months free when you go to jessworks.com/Budi, China and the US are in a crazy codependent relationship. We keep buying stuff from China with our dollars. Then China turns around and lens those dollars right back to us so we can then buy some more stuff from China but what you might not know and I didn’t know until very recently is that Fannie Mae and Freddie Mac those two companies you’ve heard a lot about lately they are centrally are crucial to that whole recycling of money process they make it happen or at least they help make it Happen.
 
   
