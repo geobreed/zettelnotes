@@ -99,11 +99,85 @@ The US can track the amount of debt they issues and they can track for sale of b
 Is that by design? Does China not want us to know?
 
 **(Brad Setser):**
-I don't think they're hiding. I think it's just 
+I don't think they're hiding. I think it's just time zones. A lot of times it's just time zones.
 
-08.02
+**(Adam Davidson):**
+Like is there a building full of guys or floor full of guys in Beijing who are just on the phone to London all the time saying, "Hey, we need another ... .
 
-like is there a building full of guys are four full of guys in Beijing who are just on the phone to London all the time saying hey, we need another this is have someone explain it to me in China that is the end of every day that the reserve manager and institution of the great state, a ministration of women  exchange safe and they they are there. The guy gets a call from my other peoples Bank of China today we ended up we bought $2 billion in the market do you have another $2 billion that you need to put to work and then he knows OK well I will use bonds mature expiring as I already holding a 1.8 trillion reserves so certain amount of that is calm paid on some of the loans and bars a lot now little bit more minute  and sense of the end of the business day in China USA to sleep the natural thing. Hey how many bonds can you tell me I’m in that process it was on a day after day another problem it’s hard to track it from the USA USA, then you have to go to the Chinese Chinese data and try to figure out how much China’s for an asset to Ghana. Well try to central bank is actually really slow and Elisa with reserves  a quarter by release it he just made a publish how much how much they hold and I don’t want to go into the details about how many of your websites you need to visit in order to try to get a good estimate of how much money to state exam I don’t speak. Mandarin have a friend who dies Ness the only way you can possibly find some  basis for doing the estimate. Where is that what you’re doing all the time calling up a friend and begging them to go in the Mandarin language VOCs website sometimes yeah yeah another mean so there’s dozens of weird Chinese you know the Chinese agricultural the data on the foreign exchange system  define plan but in the hard part is you never quite know where the increase is going to show up in what data series and sometimes it changes around why are you so obsessed with us? Why not? What why do you wanna know so badly a deep puzzle about the global economy  one is that a relatively poor country normally think about the money before the other way around and it is a countries find the poor countries just like rich bags, one for people, rich banks, fun, rich people as well if you found out at Citibank, was you know some guys make Frank and queens was funding Citibank  but it’s also a very fast growing economy which is financed. Also, perhaps not the way I mean I’m hearing this is an intellectual curiosity like you could do crossword puzzles instead how much US debt the Chinese government has it’s not that you wake up every morning with all my God with my standard of living collapse in with the US economy fall apart it’s really weird I don’t understand it. Well, I think the in the initial motivation we also a little bit based on  the more time and then you’re actually with couldn’t go on forever to make a public prediction. If something is it gonna go on forever and it seems to keep going on long past appointments and it would kind of get interested in going forever. China cannot reduce the amount of financing that it provides the United States without inducing. A slow down in the US economy is slow down or fall in the US purposes of Chinese good you were Chinese exports, and I think that is a very important consideration that way, he’s very heavily on Chinese parsley make it for China isn’t providing all this financing to the US , is it Mugsy states do they want us to hack delivery honor means that an explicit gold they want interest rates low in America so that I spend more on my credit card and I buy more Chinese stuff if you ask Chyn is Lita’s do they want the rest of it be on this means I think it  was a no that is building up dollars cast of windows dollars out and if you were need someone who needs tomorrow otherwise I need to be someone in the US is living beyond their means in order to keep her demand for Chinese goods going so in that says the indirect fat policy has been to encourage the US  S means stated goal and it’s good for them. Good for them good for us a different interest inside change the different interests inside the US it is good for the US treasury if China buys a ton of treasury bond that keeps interest rates low It is bad for workers in Ohio producing goods that compete with Chinese goods if Chyn is holding his currency down and taking marketshare away from the same thing works in the opposite way and sunshine. It’s good for Chinese explorers it’s good for workers in the export sector , but it isn’t good for Chinese taxpayers cause I’m gonna be taking a walk. Is it good for the workers who could be employed building schools in China China couldn’t buy a Biltmore of if it borrowed more money at the government level in Veteran winning it to US use that borrowing to buy the Billboard schools domestically  so their choices in those choices have different affects on different groups and it’s very hard to say the say, one side wins, the other side, loses anymore different parts of the two economies are impacted in different ways so trying to Alex a new leader tomorrow he doesn’t care about financial stability. He doesn’t care about his own economy. He’s just hell-bent on using whatever power he can to destroy America now if Robert Mugabe decided that I think it’s safe to swim, Zimbabwe does not have the ability to destroy the US economy trip , Hugo Chavez could call Gladys Rupšienė but couldn’t destroyer what would try to do let’s just say they hired use of Brad can you destroy the Earth economy for us? I can’t destroy the US economy I can cause a lot of damage to the US federal system and I would say you have a very simple option if you want to cause a great deal of disruption to the US financial system to the US government bond market, and buy application . Just have to stop buying a single new US government or USA if this stops if the unsustainable is no longer sustained of trying to stop buying US debt total class of capitalism great depression in late 70s kind of slow down malaise early 2000 reefer session that doesn’t hurt I mean where we’re at on that continuum more late 70s and collapse of capitalism  unemployment goes up an appointment already going up appointment goes off my walk more in America steals. Poor America hast to live with this means were you still in the beyond our means borrow as housing prices go down broad there’s your new cool things like I pause. Well, you are a new cool things I get to buy fuel you get to buy you were new things and those cool new things cost a little bit more right there the iPod may not be manufactured in China may not use designed in California manufactured in China famously well maybe it’ll be designed in California manufactured half an accident happen in California in Kost twice as much exaggerate a little bit , but so there will be some people will benefit from there be certain kinds of jobs will grow in the US maybe absolutely I mean, as you said before the people who are hurt now will no longer be hurt, and the people who win in one won’t win, but it’s the shift between the two time it takes effort factory doesn’t just spring up magically. There’s an interesting story about her business week about a young American inventor. Dad created a better battery for laptops, and they wanted to find out through technology  manufacturer in the US to build this new battery pack. OK I’ll shipping costs are gone way way way up there’s actually not that strong a reason to have this inside a low cost but there wasn’t any contract manufactured in the US with building batteries takes a while to build up the skills. Where is in China there a time it doesn’t wears in China Dyme-A-Duzin, so it is the difficulties in the air by contrast know we had to specialist here in the US economy who could take a mortgage with really complicated features reverse amortization very name  package it with other mortgage and very complicated features combine it into a bond combine that with that bond in the different parts come on those parts into another bond and sell it took out lotta work. It didn’t turn out to be quite put it it it was a saddle skills which wouldn’t be present in China so there’s a the process of changing the way what an economy produces takes time and there’s also the effect , and for that’s probably good in a long-term sense would be so pretty crappy not absolute misery it’s kind of yeah I’m I’m not on the coral doing gloom side of the spectrum, but at the same time it is I would much rather see a process by which there’s a  gradual reduction in China’s reliance on the US and Europe for demand for its products, much more reliance on internal forces, and a gradual process, where the US moves from a world where, in order to keep running a large trade deficit. Just keep borrowing marks on from the government to a world where trader from  a smaller and that trade us by sely private investors but I want that process it happen gradually suddenly suddenly are you cutting unpleasant and it’s noches unpleasant if somethings in efficient because economy cat shit from manufacturing mortgages to manufacturing laptop, batteries overnight slow basis of your investment in new factories other services Ron comes online as the sectors of the benefit from strong Chinese demand for dad  thank you for listening to the very first planet money podcast. We have a lot more information about Fannie Mae and Freddie Mac and China and everything that we talk about here on our website including some links to articles by Brad that’s npr.org/economy oh also please do send us your questions and your comments and your ideas for future podcasts or stories to global economy at npr.org. That’s one word or thoughts or anything global economy at npr.org. One thing please do let me know how I did in this podcast did did did I make things clear? Did you understand it? Was it interesting? What could’ve been better I really wanna make this work for for you so I would genuinely love to know  hopefully I’ll be reasonably polite but you can give me real constructive criticism Michael global economy at npr.org I am Adam Davidson, NPR news.
+**(Brad Setser):**
+This is how someone explain it to me in China. That at the end of every day, the reserve manager in China. Institution of the great state administration of foreign exchange.
+
+**(Adam Davidson):**
+Safe
+
+**(Brad Setser):**
+Safe. They. The guy gets a call from the peoples Bank of China says, "This, today we ended up, we bought, $2 billion in the market. So you have another $2 billion that you need to put to work." And then he knows OK well I will use bonds mature expiring as I already hold a 1.8 trillion in reserves. So certain amount of that is going, I'm going to get paid on some of the loans and bonds and a lot. A little bit more money to put to work. And since at the end of the business day in China, US is asleep. The natural thing to do is get on the phone and call London. So he gets on the phone and calls London and says, "Hey, how many bonds can you sell me?" And that process it was on, day after day after day. 
+
+Another problem, so we know it’s hard to track it from the US side, then you have to go to the Chinese side, look at Chinese data, and try to figure out how much China’s foreign asset has gone up. Well, Chine central bank is actually really slow in releasing its reserves. Most central bank release their reserve data once a month. China does it once a quarter and sometime ... .
+
+**(Adam Davidson):**
+And by release it, you just mean they publish how much ... .
+
+**(Brad Setser):**
+Publish on their website how much they hold. And I don’t want to go into the details about how many obscure websites you need to visit in order to try to get a good estimate of how much money to state has. I don’t speak Mandarin I have a friend who does. It's the only way you can possibly find some data series that might give you some basis for doing the estimate. 
+
+**(Adam Davidson):**
+Wait, is that what you’re doing all the time? 
+
+**(Brad Setser):**
+Calling up a friend and begging them to go on the Mandarin language mediacy website?Sometimes, yeah.
+
+**(Adam Davidson):**
+Yeah. Another mean ... . So there’s dozens of weird Chinese, you know ... the Chinese agricultural it's ... .
+
+**(Brad Setser):**
+It's actually not ... I mean it's the data on the foreign exchange holding at the state banking system. Which is just a little bit harder to find at the central bank website. 
+
+**(Adam Davidson):**
+Yeah, Wow.
+
+**(Brad Setser):**
+But the hard part is you never quite know where the increase is going to show up. In what data series and sometimes it changes around. You need a little bit of guessing. 
+
+**(Adam Davidson):**
+Why are you so obsessed with this? Why not? What why do you wanna know so badly?
+
+**(Brad Setser):**
+To me there is a sort of a deep puzzle about the global economy, that for the past several years. Think about puzzle in a lot of different ways. One is that, a relatively poor country, which I guess a post war country, is financing a much wealthier country. We might normally think that the money flow the other way around.
+
+**(Adam Davidson):**
+And it ... historically that is the way it work.
+
+**(Brad Setser):**
+Historically, yeah.
+
+**(Adam Davidson):**
+The rich countries fund the poor countries, just like rich banks fund poor people.
+
+**(Brad Setser):**
+Yeah, exactly. 
+
+**(Adam Davidson):**
+If you found out ... .
+
+**(Brad Setser):**
+Well, sometimes rich banks fund rich people as well, um you know ... .
+
+**(Adam Davidson):**
+But if you found out that Citibank was, you know some guys name Frank in Queens was funding Citibank, it's a, that's weird.
+
+**(Brad Setser):**
+Yeah, you'll be a little bit ... you kinda wanna know where Frank was kinda get his money. 
+
+But it’s also a very fast growing economy which is financing a slow growing economy. Also, perhaps not the way things normally would.
+
+**(Adam Davidson):**
+I mean I’m hearing this is an intellectual curiosity like, you could do crossword puzzles. Instead you figuring out how much US debt the Chinese government has. It’s not that you wake up every morning going, "Oh my God. Will my standard of living collapse and will the US economy fall apart?" It's, "Wow, this is really weird. I wan’t to understand this". 
+
+**(Brad Setser):**
+Well, I think the initial motivation were also a little based on the concern. The concern was that the US can go on forever. And than the more times we're looking ... and then yeah. I actually written a paper that saying that we couldn’t go on forever. And then we make a public prediction that something is'nt gonna go on forever and it seems to keep going on long past the point that we say it wouldn't. You kind of get interested 
+
+
 
 ----
 
