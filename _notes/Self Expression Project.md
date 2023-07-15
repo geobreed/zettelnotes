@@ -13,3 +13,4 @@ List of my own project:
 - [[DIY Media NAS]]
 - [[Second YouTube Channel]]
 - [[Machine Learning Study]]
+- [[(index) Zettelkasten Research Trail]]
