@@ -1,2 +1,0 @@
-[[@razlogova01NotetakingHistorians]]
-
