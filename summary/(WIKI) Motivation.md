@@ -17,15 +17,19 @@ Another point of view is through flexibility that reflected in changing behavior
 
 Every Agent have motivational states, with various strength, that drives them through goal oriented behavior. The main state is desires, but there is also beliefs and intentions. Multiple states can conflicting and the strongest will be manifesting into behavior. So behavior doesn't necessarily reflect existing motivations, just the strongest.
 
-The categorization of Agent may be another point of discussion. Either continuity of human and animal, or difference of specific reason committed through intention than just following strongest desire.
+The categorization of Agent may be another point of discussion. Either continuity of human and animal, or difference of specific reason and commit through intention than just following strongest desire.
 
-
+Relation between motivation and behavior can be defined as core causal or just one explanation aspect. 
 
 The content of motivational states bring various theories that categorically named [[Motivation - Content Theories]]. Theories that posit humans have needs to drives motivation with various priorities from basic to higher needs. To define using internal force can bring complexities to measure.
 
-Another category is [[Motivation - Behaviorist Theories]], that try to explain based on relation between situation and observable behavior without referencing mental states. A theories that empirical theorist prefer.
+Another category is [[Motivation - Behaviorist Theories]], that try to explain based on relation between situation and observable behavior without referencing mental states. A theories that empirical theorist prefer. But an Agent may behave differently even in similar situation. An indicator that internal states, mainly mental states, still has an effect. 
+
+Main paradigm of mental states is desire. Although there’s other states too, like beliefs in relation to obligation or intention. Mental disease can occur when there is no motivation. 
 
 From desire point of view, motivation can be intrinsic if the behavior itself is inherently desirable, or extrinsic if the goal is outside the behavior itself. Some argue intrinsic is better than extrinsic.
+
+States that bring motivation, or “essentially motivation-constituting attitudes”, and states that circumstance or other states contingent is distinct. 
 
 Another category is awareness, whether the Agent is aware of the motivation that drives them, between conscious and unconscious motivation.
 
