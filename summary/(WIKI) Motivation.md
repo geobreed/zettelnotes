@@ -11,13 +11,19 @@ citekey: Motivation2023
 [online](http://zotero.org/users/local/gmKBCdbk/items/DK7296S6) [local](zotero://select/library/items/DK7296S6)
  
 
-Motivation is why a behavior start, resume, or stop.
+Motivation is why a behavior start, resume, or stop at certain moment. 
 
-Every Agent have motivational states that drives them through goal oriented behavior. The main state is desires, but there is also beliefs and intentions. Multiple states can conflicting and the strongest will be manifesting into behavior. So behavior doesn't necessarily reflect existing motivations, just the strongest.
+Another point of view is through flexibility that reflected in changing behavior through new experience. Rat through maze is more flexible, and can be said has motivational states, than flies. Although still need to consider limitation, like a paralyzed person that can have motivational states without displaying flexibility. So flexibility is suffice but isn't essential to indicate motivation.
 
-The content of motivational states bring various theories that categorically named [[Motivation - Content Theories]]. Theories that posit humans have needs to drives motivation with various priorities from basic to higher needs.
+Every Agent have motivational states, with various strength, that drives them through goal oriented behavior. The main state is desires, but there is also beliefs and intentions. Multiple states can conflicting and the strongest will be manifesting into behavior. So behavior doesn't necessarily reflect existing motivations, just the strongest.
 
-Another category is [[Motivation - Behaviorist Theories]], that try to explain based on relation between situation and observable behavior without referencing mental states.
+The categorization of Agent may be another point of discussion. Either continuity of human and animal, or difference of specific reason committed through intention than just following strongest desire.
+
+
+
+The content of motivational states bring various theories that categorically named [[Motivation - Content Theories]]. Theories that posit humans have needs to drives motivation with various priorities from basic to higher needs. To define using internal force can bring complexities to measure.
+
+Another category is [[Motivation - Behaviorist Theories]], that try to explain based on relation between situation and observable behavior without referencing mental states. A theories that empirical theorist prefer.
 
 From desire point of view, motivation can be intrinsic if the behavior itself is inherently desirable, or extrinsic if the goal is outside the behavior itself. Some argue intrinsic is better than extrinsic.
 

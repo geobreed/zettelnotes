@@ -1,9 +1,15 @@
 ---
-title: (LIT) The E-Myth Revisited
-date: 20220830
-tags: Entrepreneur
-toc: true
+cssclass: research-note
+type: "book"
+author: "Gerber, Michael E."
+title: "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It"
+date: 2009-03-17
+citekey: gerberEMythRevisitedWhy2009
 ---
+[1]
+
+M. E. Gerber, _The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It_. Harper Collins, 2009.
+[online](http://zotero.org/users/local/gmKBCdbk/items/2QCLJ9AU) [local](zotero://select/library/items/2QCLJ9AU)
 
 # The E-Myth Revisited
 
