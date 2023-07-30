@@ -7,6 +7,19 @@ Open Git Bash from start menu
 Go to zettelnotes folder
 cd D:/[project]/zettelnotes
 
+git status
+git fetch origin
+
+git commit -a -m "Updating"
+or
+git add --all
+git commit -m "Updating"
+
+git pull origin
+git push origin
+
+
+
 check the Git status and see if it is a part of our repo
 git status
 
