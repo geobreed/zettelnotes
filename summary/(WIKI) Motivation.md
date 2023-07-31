@@ -29,7 +29,7 @@ Main paradigm of mental states is desire. Although there’s other states too, l
 
 From desire point of view, motivation can be intrinsic if the behavior itself is inherently desirable, or extrinsic if the goal is outside the behavior itself. Some argue intrinsic is better than extrinsic.
 
-States that bring motivation, or “essentially motivation-constituting attitudes”, and states that circumstance or other states contingent is distinct. 
+States that bring motivation, or “essentially motivation-constituting attitudes”, and states that circumstance or other states contingent is distinct. [[The Action Desire]] always provide motivation, even if ended up against performing action because of circumstances.
 
 Another category is awareness, whether the Agent is aware of the motivation that drives them, between conscious and unconscious motivation.
 
