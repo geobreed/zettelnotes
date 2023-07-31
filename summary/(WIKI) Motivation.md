@@ -17,6 +17,8 @@ Another point of view is through flexibility that reflected in changing behavior
 
 Every Agent have motivational states, with various strength, that drives them through goal oriented behavior. The main state is desires, but there is also beliefs and intentions. Multiple states can conflicting and the strongest will be manifesting into behavior. So behavior doesn't necessarily reflect existing motivations, just the strongest.
 
+Theories from Humean Tradition, denies states other than desire can motivate. With desire strength, form strongest desire thesis. Where various weak desire may defeat the strongest desire. Objection raised with relationship of the Agent themselves that have freewill and the Agent themselves that decide the action. Other is sense of duty that may conflicting with strongest desire or intention that based on commitment. Though intention might be combined with the strongest desire, may materialized with the difference of animal and human.
+
 The categorization of Agent may be another point of discussion. Either continuity of human and animal, or difference of specific reason and commit through intention than just following strongest desire.
 
 Relation between motivation and behavior can be defined as core causal or just one explanation aspect. 
@@ -29,9 +31,11 @@ Main paradigm of mental states is desire. Although there’s other states too, l
 
 From desire point of view, motivation can be intrinsic if the behavior itself is inherently desirable, or extrinsic if the goal is outside the behavior itself. Some argue intrinsic is better than extrinsic.
 
-States that bring motivation, or “essentially motivation-constituting attitudes”, and states that circumstance or other states contingent is distinct. [[The Action Desire]] always provide motivation, even if ended up against performing action because of circumstances.
+States that bring motivation, or “essentially motivation-constituting attitudes”, and states that circumstance or other states contingent is distinct. [[The Action Desire]] always provide motivation, even if ended up against performing action because of circumstances. Instrumental belief of ways achieving goals, might provide motivational contingent. An Agent may have many goals, but contingent on the Agent's ability or capability. Absence of desire doesn't indicate absence of motivation. Rational deliberation might produce motivation.
 
-Another category is awareness, whether the Agent is aware of the motivation that drives them, between conscious and unconscious motivation.
+Another category is awareness, Occurent and Standing Desires, whether the Agent is aware of the motivation that drives them, between conscious (Occurent) and unconscious (Standing) motivation. 
+
+[[Motivation Socio-Cultural Theories]] sees motivation as result of being inside cultural context of social groups.
 
 The central ideas is that Agent will behave according to what that Agent rationally believe need to be taken. Akrasia, or [[Weakness of Will]], is if the Agent taking irrationally different behavior.
 
