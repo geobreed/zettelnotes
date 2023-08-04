@@ -11,7 +11,7 @@ A few interesting thing to be the topic of my upcoming books:
 - forced agreement, priorities
 	- 
 - [[Motivation; Understanding the Root of Behavior]]
-	- Wiki Link (“Motivation,” 2023) (“Motivation,” 2023) 
+	- concepting my book 
 
 
 To create and structure, I will need tools to help parse the knowledge resource
