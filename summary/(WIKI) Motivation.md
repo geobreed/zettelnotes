@@ -55,10 +55,10 @@ From desire point of view, motivation can be intrinsic if the behavior itself is
 
 States that bring motivation, or “essentially motivation-constituting attitudes”, and states that circumstance or other states contingent is distinct. [[The Action Desire]] always provide motivation, even if ended up against performing action because of circumstances. Instrumental belief of ways achieving goals, might provide motivational contingent. An Agent may have many goals, but contingent on the Agent's ability or capability. Absence of desire doesn't indicate absence of motivation. Rational deliberation might produce motivation.
 
-Another category is awareness, Occurent and Standing Desires, whether the Agent is aware of the motivation that drives them, between conscious (Occurent) and unconscious (Standing) motivation. Conscious when Agent aware of the motives, and Unconcious when Agent don't. The difference is important to Sigmund Freud's psychoanalytical theories.
+Another category is awareness, Occurent and Standing Desires, whether the Agent is aware of the motivation that drives them, between conscious (Occurent) and unconscious (Standing) motivation. Conscious when Agent aware of the motives, and Unconcious when Agent don't. The difference between them is important to Sigmund Freud's psychoanalytical theories. 
 
 ((lanjut))
-Freud says, unconscious has various parts of mind that repressed
+Freud says, unconscious has various parts of mind that repressed like anxious thoughts and out of social norm ideas. With censorship as filter barrier from consciousness. But those instinctual impulses has influence as unconscious motivation, where Agents only aware of the goal not actual source. Freud devide as Sexual Instincts (desire to stay alive and ensure mankind), Death Instincts (drive for self destruction, close to Freud id concept that goes for pleasure disregarding consequences), and Self-Preservation Instincts (instinct for assuring Agent feels their behaviour are validated). Sexual and Death like angel and devil on shoulder. For example, Sexual urges to act on Agent attraction but Self-Preservation prevents until its socially acceptable. The three are interdependence, like Freud's psychic theory id, ego, and superego, and act as checks and balances system for what instinct to act on and what behaviour to satisfy as many of them. 
 
 [[Motivation Socio-Cultural Theories]] sees motivation as result of being inside cultural context of social groups.
 
