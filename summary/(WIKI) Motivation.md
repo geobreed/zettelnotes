@@ -68,3 +68,5 @@ Freud reliance on unconscious motivation been criticize by Gordan Allport who po
 The central ideas is that Agent will behave according to what that Agent rationally believe need to be taken. Akrasia, or [[Weakness of Will]], is if the Agent taking irrationally different behavior.
 
 A few field of motivation research is on business with [[ The Work Motivation]] and on education with [[The Learning Motivation]]. Including difference intrinsic and extrinsic effect.
+
+Motivational Reason are practical reason Agent to prefer certain course of action. Contrasted with normative reason that decide what Agent should do from impartial point of view.
