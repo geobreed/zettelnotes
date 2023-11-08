@@ -69,4 +69,5 @@ The central ideas is that Agent will behave according to what that Agent rationa
 
 A few field of motivation research is on business with [[ The Work Motivation]] and on education with [[The Learning Motivation]]. Including difference intrinsic and extrinsic effect.
 
-Motivational Reason are practical reason Agent to prefer certain course of action. Contrasted with normative reason that decide what Agent should do from impartial point of view.
+Motivational Reason are practical reason for Agent to prefer certain course of action. Contrasted with normative reason that decide what Agent should do from impartial point of view. For example, Jane has high blood pressure a normative reason to not eat chocolate. But Jane has motivational reason to eat chocolate. 
+
