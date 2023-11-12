@@ -81,4 +81,6 @@ When applied to business, according to Maslow theory, money is the lowest motiva
 
 Maslow’s theory said that lower level needs has to be fulfilled before higher level needs. A good manager will be able to assess at what level an employee currently at and supply fulfillment for that level needs. 
 
-From Maslow view, money is the lowest hierarchy, and other need has higher level. 
+From Maslow view, money is the lowest hierarchy, and other need has higher level. McGregor’s theory X also put money as poor motivator and consider praise and recognition as stronger one in theory Y. 
+
+Motivated Agent always look for better ways to work, more quality oriented, and more productive. 
