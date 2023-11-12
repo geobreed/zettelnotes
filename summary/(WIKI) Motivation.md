@@ -77,4 +77,8 @@ With many motivation theory, motivation control still very little understood. Va
 
 Motivational theory make prediction about what will work. Like Douglas McGregor's Theory Y have assumption that people not only accept responsibility, but seeks it and enjoy working, so they will satisfied if there is wider range of work to do. So as a firm gives greater responsibility, employee will get greater satisfaction, that lead to greater commitment. Similarly, allocation more work predicted an increase in engagement. Furthermore, Malone posits that responsibility delegation will lead to motivation because of creative control over their own work and more productivity from collaborative problem solving. Other also support decision making participation for commitment and morale boost that lead to greater productivity.  As reported in Hawthorn Western Electric Company studies, If teams and members increasing motivation, incorporating teams will provide incentives to work. Generally, motivation theory often applied to employee motivation.
 
-When applied to business, according to Maslow theory, money is the lowest motivational need that will have the shortest effect, as been said on Herzberg two factor model. At higher level, praise, respect, recognition, empowerment, will have longer lasting effect, 
+When applied to business, according to Maslow theory, money is the lowest motivational need that will have the shortest effect, as been said on Herzberg two factor model. At higher level, praise, respect, recognition, empowerment, will have longer lasting effect, as suggested by Maslow theory and Douglas McGregor theory Y theory X. 
+
+Maslow’s theory said that lower level needs has to be fulfilled before higher level needs. A good manager will be able to assess at what level an employee currently at and supply fulfillment for that level needs. 
+
+From Maslow view, money is the lowest hierarchy, and other need has higher level. 
