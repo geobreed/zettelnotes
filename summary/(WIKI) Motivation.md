@@ -84,3 +84,8 @@ Maslow’s theory said that lower level needs has to be fulfilled before higher 
 From Maslow view, money is the lowest hierarchy, and other need has higher level. McGregor’s theory X also put money as poor motivator and consider praise and recognition as stronger one in theory Y. 
 
 Motivated Agent always look for better ways to work, more quality oriented, and more productive. 
+
+General workplace usually between high threat and high opportunity. Threat motivation is a dead end strategy. Employee more attracted to opportunity. Lawrence Steinmetz sees motivation as a source for efficient work production. Steinmetz Also discuss three character types, ascendant, indifferent, and ambivalent. Three types that need different approaches by the leader to work and grow. 
+
+Goldthorpe _et al._ with Vauxhall Motors study give alternate view from Maslow and Herzberg with the concept of orientation to work: instrumental (work as means to an end), bureaucratic (work as a source of status, security, and reward), and solidaristic (group loyalty). 
+
