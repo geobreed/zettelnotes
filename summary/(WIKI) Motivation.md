@@ -89,3 +89,4 @@ General workplace usually between high threat and high opportunity. Threat motiv
 
 Goldthorpe _et al._ with Vauxhall Motors study give alternate view from Maslow and Herzberg with the concept of orientation to work: instrumental (work as means to an end), bureaucratic (work as a source of status, security, and reward), and solidaristic (group loyalty). 
 
+Other theory expanded on Maslow and Herzberg. Like Kurt Lewin’s force field analysis, Edwin A Locke’s goal setting theory, and Viktor Vroom's expectancy theory. About cultural influence and different timing to motivation. 
