@@ -90,3 +90,17 @@ General workplace usually between high threat and high opportunity. Threat motiv
 Goldthorpe _et al._ with Vauxhall Motors study give alternate view from Maslow and Herzberg with the concept of orientation to work: instrumental (work as means to an end), bureaucratic (work as a source of status, security, and reward), and solidaristic (group loyalty). 
 
 Other theory expanded on Maslow and Herzberg. Like Kurt Lewin’s force field analysis, Edwin A Locke’s goal setting theory, and Viktor Vroom's expectancy theory. About cultural influence and different timing to motivation. 
+
+From Frederick Winslow Taylor’s scientific management system, pay is the only component of worker motivation. As such, management does need to consider psychological and social aspect of work. Effectively discarding intrinsic reward and focus on extrinsic reward. 
+
+David McClelland has contrasting views. That Agent can’t be motivated by mere money. In fact, extrinsic motivation can extinguish intrinsic motivation like achievement  motivation. Although money can become an indicator of one’s views of success. In turn, McClelland’s consulting firm strives to align lives with fundamental motivation. 
+
+Elton Mayo’s model, Hawthorne effect, focus on social contact on workplace, that boredom and repetitive task would reduce motivation. So this model giving on the job decision making freedom and informal work groups. 
+
+AGRASEKHARA ATISAKTI
+KANTOR LAYANAN INFORMASI DAN PENGADUAN (KLIP) GEDUNG A LT 2
+JL JEND GATOT SUBROTO KAV 40-42
+KEL SENAYAN, KEC KABAYORAN BARU
+Hubungi Kami / Contact Us
+Call Center : mandiri call 14000 / +62 21 52997777
+   JAKARTA SELATAN 12190
