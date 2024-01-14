@@ -95,7 +95,9 @@ From Frederick Winslow Taylor’s scientific management system, pay is the only 
 
 David McClelland has contrasting views. That Agent can’t be motivated by mere money. In fact, extrinsic motivation can extinguish intrinsic motivation like achievement  motivation. Although money can become an indicator of one’s views of success. In turn, McClelland’s consulting firm strives to align lives with fundamental motivation. 
 
-Elton Mayo’s model, Hawthorne effect, focus on social contact on workplace, that boredom and repetitive task would reduce motivation. So this model giving on the job decision making freedom and informal work groups. 
+Elton Mayo’s model, Hawthorne effect, focus on social contact on workplace, that boredom and repetitive task would reduce motivation. So this model giving on the job decision making freedom and informal work groups. Some might comments on the reliance on social contact on work. 
+
+William Ouchi’s system Z, a hybrid of Japanese and American
 
 AGRASEKHARA ATISAKTI
 KANTOR LAYANAN INFORMASI DAN PENGADUAN (KLIP) GEDUNG A LT 2
