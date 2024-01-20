@@ -97,7 +97,18 @@ David McClelland has contrasting views. That Agent can’t be motivated by mere 
 
 Elton Mayo’s model, Hawthorne effect, focus on social contact on workplace, that boredom and repetitive task would reduce motivation. So this model giving on the job decision making freedom and informal work groups. Some might comments on the reliance on social contact on work. 
 
-William Ouchi’s system Z, a hybrid of Japanese and American
+William Ouchi’s system Z, a hybrid of Japanese and American philosophy. With Japanese similar to clan with common structure in equal goal and emphasize on employee socialization and American with formalities and authority between ranks. Hybrid of common structure and commitment to organization and constant improvement of work efficacy.
+
+Robbins and Judge in _Essentials of Organizational Behavior_ (2007), focuses on recognition in employee motivation and conclude 5 points
+- recognition of employee differences and clear behavior identification that deemed worthy to recognize
+- avenue for employee participation
+- link rewards to performance
+- nominator reward
+- clearly visible recognition process
+
+
+
+
 
 AGRASEKHARA ATISAKTI
 KANTOR LAYANAN INFORMASI DAN PENGADUAN (KLIP) GEDUNG A LT 2
