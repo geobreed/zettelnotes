@@ -106,7 +106,18 @@ Robbins and Judge in _Essentials of Organizational Behavior_ (2007), focuses on 
 - nominator reward
 - clearly visible recognition process
 
+Modern organization that uses non tangible non monetary means to motivate employee, and focus to fulfill employee contribution, participation, and satisfaction will increase morale with:
+- positive work environment
+- increase team contribution and rewards
+- feedback
+- give challenging role
 
+Hackman and Oldham construct Job Characteristic Model (JCM) with aim to use job design to improve employee motivation. They suggest that any job can be described using 5 characteristics:
+- Skill variety - degree of skill and talent variety needed to doing the job
+- Task identity - degree of job contribution to a clearly identifiable larger purpose
+- Task significance - degree of effect that the job bring to other work or people
+- Autonomy - degree of independence, freedom, and discretion given to employee to do the job
+- Task feedback - degree of clear, specific, actionable, detailed information about effectiveness of employee performance
 
 
 
