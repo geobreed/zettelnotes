@@ -118,7 +118,19 @@ Hackman and Oldham construct Job Characteristic Model (JCM) with aim to use job 
 - Task significance - degree of effect that the job bring to other work or people
 - Autonomy - degree of independence, freedom, and discretion given to employee to do the job
 - Task feedback - degree of clear, specific, actionable, detailed information about effectiveness of employee performance
+Those 5 characteristics can be combined into predictive model called motivating potential score (MPS).  And calculating MPS = Autonomy x Feedback x ((Skill variety + Task identity + Task significance) / 3). So job that high in MPS has to have high Autonomy, Feedback, and one of the other 3.
 
+Employee recognition program focus on changing work culture to more align with core values and beliefs. Strategic employee recognition is the most important program not only about gifts or point, because it can affect business in a more measurable way. This program can also develop a more innovative environment.
+
+Motivation in education can bring various effect on students:
+- direct behavior to specific goals
+- increasing effort and energy
+- increasing initiation and persistence in activities
+- enhance cognitive processing
+- reinforcing chosen consequences
+- improving performance
+
+Teacher can't always hope for student to have their own intrinsic motivation, so teacher always have to creates situated motivation from environmental conditions.
 
 
 AGRASEKHARA ATISAKTI
