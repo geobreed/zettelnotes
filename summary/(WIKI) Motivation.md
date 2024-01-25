@@ -130,7 +130,20 @@ Motivation in education can bring various effect on students:
 - reinforcing chosen consequences
 - improving performance
 
-Teacher can't always hope for student to have their own intrinsic motivation, so teacher always have to creates situated motivation from environmental conditions.
+Teacher can't always hope for student to have their own intrinsic motivation, so teacher always have to creates situated motivation from environmental conditions. Extrinsic motivation can lead to student dependency and difficult to divert course taken.
+
+Addressing each student distinctive needs at orientation of higher study in the beginning has been researched by Cassandra B. Whyte and been reported that has resulted in improvement over a quarter century later.
+
+Current understanding of difference between intrinsic and extrinsic motivation has shifted from completely distinct category into a range of continuum across two ideal types. 
+
+Whyte's research support the importance of locus of control and achievement that goes hand in hand.
+
+Fisher, Nanayakkara, and Marshall has a neuroscience research on children motivation orientation, error monitoring, and academic achievement. They find that those 3 contributing in a positive way and goes hand in hand.
+
+Motivation also an important factor of andragogy (motivation source for adult learner). It also can be used to treat Autism Spectrum Disorder and also critical for adolescence compliance to health suggestion. Since commitment require believe of  bad consequence of not taking action.
+
+Doyle and Moeyn found that using anxiety as negative motivation has less effectiveness compared to positive motivation in relation with learning, since anxiety interferes with performance of complex tasks.
+
 
 
 AGRASEKHARA ATISAKTI
