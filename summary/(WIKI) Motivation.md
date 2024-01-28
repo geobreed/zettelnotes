@@ -144,6 +144,16 @@ Motivation also an important factor of andragogy (motivation source for adult le
 
 Doyle and Moeyn found that using anxiety as negative motivation has less effectiveness compared to positive motivation in relation with learning, since anxiety interferes with performance of complex tasks.
 
+Symer et al. want to better define medical training participant that have "surgical personality" by evaluating using comparation of motivational traits 801 surgical interns who finish surgical training and those who don't. They conclude there is no discernable difference between 80.5% that finish the training and 19.5% that don't, so motivation does not associated with completion of training program.
+
+Some student might seem more motivated than other, but according to current researchs, motivation is dynamic and changeable. So student have flexibility to change their motivation regardless of their initial motivation level. While this flexibility is important, teacher teaching style and school environment may play a factor.
+
+Sansone and Morgan said that initial intrinsic motivation of a student can changed their perspective and even undermine those motivation from the type of feedback that the teacher give. Maclellan also looked at the type of feedback and the result is if the feedback is directed at the student, it will create a sense of "fixed intelligence". Conversely, if the feedback is directed at the student's effort and strategy, it will create a sense of "malleable intelligence". In other word, feedback to their effort can inform the students of room for growth and feedback to themselves can limit their mindset of "fixed intelligence" even discourage them to event try.
+
+In a study by Katz and Shahar using questionnaires and Likert style scales to research what makes a motivating teacher. Their result indicate that teacher who intrinsically motivating and believe that student need to be teach in an autonomous style are the type of teacher who inspire intrinsic motivation in students, the similar result from Deci, Sheinman, and Nezlek although their result indicate that even though student can quickly adapt but the impact was short lived. The teacher can also be limited by the school administration rules. So even with motivating teacher, the school also plays a part in an extrinsically motivating factor.
+
+For indigenous student, motivation can come from social organization. With important consideration for for teacher on sociolinguistic and cognition. The top down approach for school management is rather ineffective for multi culture children who more affected by sense of community, purpose, and competence. Horizontally structure, community based are
+
 
 
 AGRASEKHARA ATISAKTI
