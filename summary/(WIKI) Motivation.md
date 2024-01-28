@@ -152,7 +152,15 @@ Sansone and Morgan said that initial intrinsic motivation of a student can chang
 
 In a study by Katz and Shahar using questionnaires and Likert style scales to research what makes a motivating teacher. Their result indicate that teacher who intrinsically motivating and believe that student need to be teach in an autonomous style are the type of teacher who inspire intrinsic motivation in students, the similar result from Deci, Sheinman, and Nezlek although their result indicate that even though student can quickly adapt but the impact was short lived. The teacher can also be limited by the school administration rules. So even with motivating teacher, the school also plays a part in an extrinsically motivating factor.
 
-For indigenous student, motivation can come from social organization. With important consideration for for teacher on sociolinguistic and cognition. The top down approach for school management is rather ineffective for multi culture children who more affected by sense of community, purpose, and competence. Horizontally structure, community based are
+For indigenous student, motivation can come from social organization. With important consideration for for teacher on sociolinguistic and cognition. The top down approach for school management is rather ineffective for multi culture children who more affected by sense of community, purpose, and competence. Horizontally structure, community based are structurally supportive to indigenous student who are more driven by social/affective emphasis, harmony, holistic perspective, expressive creativity, and nonverbal communication. The drive that has origin on cultural tradition of community expectation of participation in activities and group goals, rather individual aspiration.
+
+In some indigenous communities, young children can display community based motivation in parent like interaction with sibling. They will assist and demonstrate without prompt from authority figures. Observation and integration are demonstrated in weaving activities on Chiapas, Mexico for example, where children learn from a more skilled members of the community. Similarly in Mayan community, when the more skilled members of weaving apprenticeship are given multiple obligation, an older child will step up to teach the learner. Sibling guidance begins from early age with learning through play encourage horizontally structured environment through "Intent Community Participation". Research also suggest western schooling can change indigenous community social life. 
+
+In some indigenous community in America, motivation is the driving force for learning and children is trusted and welcomed to be active contributors and participants in daily activities and giving them a sense of belonging.
+
+With children transitioning to middle childhood, both in indigenous communities of Quechua and Rioja in Peru, children often get increased participation to community's endeavors. Thus changes their position and role in families to be more responsible which in turn increase their motivation. With this transition period, children often develop a sense of identity within their family and community.
+
+
 
 
 
