@@ -160,7 +160,17 @@ In some indigenous community in America, motivation is the driving force for lea
 
 With children transitioning to middle childhood, both in indigenous communities of Quechua and Rioja in Peru, children often get increased participation to community's endeavors. Thus changes their position and role in families to be more responsible which in turn increase their motivation. With this transition period, children often develop a sense of identity within their family and community.
 
+Transition into adolescence can be seen by the number of work the children take. In Yucatec Mayan children play time decrease and replace with working. Changing from work initiated by other and gradually into self  initiated. Those two change shows motivation to participate and learning. This transition also increasing motivation because of increasing social responsibility within their families. In some Mexican communities of indigenous heritage, the contribution also essential to establishing their roles and relationship within their family and community. Like young Mayan children of San Pedro, Guatemala learn to farm and work on family business, learning to sew and earn their own wool from watching their own mother or carrying firewood alongside their father.
 
+The children motivation to learn not only from desire to belong but to support their community success. Children from Navajo communities has higher level of social concern, not only for school but also towards their peer, than Anglo-American children in school. An example of sense of responsibility to their community.
+
+Children also need to be aware of their surroundings and community's goal to be knowledgeable contributors. Those sense developed from observing and helping others in community. Through this participation, they can develop their purpose and become active participant in their community.
+
+Motivational model are central in game design in order for a player to continue to play. Richard Bartle propose model for gameplay motivation. Jon Radoff proposed four quadrant of gameplay motivation, cooperation, competition, immersion, and achievement. The motivational structure of gamification. Game designer need to know the need and desires of  their customer. 
+
+Two study by the same people on Taiwanese adolescents and addiction to games revealed that addicted players showing higher intrinsic than extrinsic motivation and higher intrinsic than non addicted players. Addicted player are more motivated to play games. There is also studies that shows that motivation gives player a future with long lasting experience to keep in life.
+
+Findings on intrinsic motivation can be used to achieve effective legal compliance. While deterrence theory focus on punishment to decrease behavior, some empirical finding bringing different view. Based on the idea that fining a behavior puts a price on the violation, therefore a specific consequences of the violation. On the other side, the crowding out effect has been observed in whistleblowing practices, with reward discouraging reports in highly intrinsically motivated subjects. This finding indicate that effective policy should focus on advocacy and promote compliance rather than rely only on deterrence. For example, company compliance program can be used to develop stronger ethical culture and in turn higher intrinsic motivation. However, fine reduction as a reward can leads to crowding out effects.
 
 
 
