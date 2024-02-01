@@ -10,7 +10,6 @@ citekey: Motivation2023
 “Motivation,” _Wikipedia_. 10 Juli 2023. Diakses: 15 Juli 2023. [Daring]. Tersedia pada: [https://en.wikipedia.org/w/index.php?title=Motivation&oldid=1164722686](https://en.wikipedia.org/w/index.php?title=Motivation&oldid=1164722686)
 [online](http://zotero.org/users/local/gmKBCdbk/items/DK7296S6) [local](zotero://select/library/items/DK7296S6)
  
-
 Motivation is why a behavior start, resume, or stop at certain moment. 
 
 Another point of view is through flexibility that reflected in changing behavior through new experience. Rat through maze is more flexible, and can be said has motivational states, than flies. Although still need to consider limitation, like a paralyzed person that can have motivational states without displaying flexibility. So flexibility is suffice but isn't essential to indicate motivation.
