@@ -4,8 +4,9 @@ date: 20220829
 tags: 
 citation: 
 ---
+The main focus of [[~Leave Everything Better~]]. That my transformative effect is an added value to others.
 
-How my resource can be of use to others. Begin with [[Percieved Value Standard]] of self, so there is a possibility to be biased and became [[Forcing Own Value]]. The important thing is getting consent. This includes requests. 
+How my resource can be of use to others and the simplest form of [[Adding Self Value]]
 
 My Idea can 
 - [[Enrich Existing Ideas]] or 
