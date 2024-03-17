@@ -4,7 +4,6 @@ date: 20221022
 tags: #E-Myth
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
-
 When constructing [[Your Strategic Objective]] for [[The Franchise Prototype]], the business must be one that is
 - a business that can fullfill [[Life Financial Standard]] for [[Your Primary Aim]] and [[Your Strategic Objective]]
 - Does business alleviate frustation experienced by a lot of people to make it worthwhile

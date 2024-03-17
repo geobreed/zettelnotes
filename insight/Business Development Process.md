@@ -4,7 +4,6 @@ date: 20221022
 tags: #E-Myth
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
-
 Building business prototype is continous with 3 process
 - ![[Development Process - Innovation]] 
 - ![[Development Process - Quantification]]

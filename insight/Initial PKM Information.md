@@ -4,7 +4,6 @@ date: 20221023
 tags: 
 citation: 
 ---
-
 # How To Setup This Site
 This is going to be a super simple post about how to setup and use this theme for your own website.
 

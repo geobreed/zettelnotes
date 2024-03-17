@@ -4,7 +4,6 @@ date: 20221022
 tags: #E-Myth
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
-
 Marketing strategy start and end with customer. Forget about everything but customer. What customer want, not what you think customer want.
 [[Irrational Buying Decision]] is what it is.
 Two Pillars of successfull marketing strategy is [[Central Demographic Model]] and [[Central Psychographic Model]]. Who and the Why.

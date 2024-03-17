@@ -4,5 +4,8 @@ date: 20240316
 tags: 
 citation:
 ---
-Every sentient being has a sense of self that is formed from [[Basic Belief Systems]] 
-Those belief system is that being's core identity and [[To Know Oneself]] is to identify those belief system that is the basic of ones every action.
+Every sentient being has a sense of self that is formed from various [[Basic Belief System]] that is accumulated from their experience in life.
+
+Every individual has their own core identity, consisted with their own set of belief system. Those belief system set is that individual's core identity.
+
+One of my core identity basic belief system is The Art of Charm motto, [[Leave Everything Better]].

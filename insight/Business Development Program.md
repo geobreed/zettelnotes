@@ -4,7 +4,6 @@ date: 20221022
 tags: #E-Myth
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
-
 To create business that works without a lot of works and without you to work it.
 We have done [[Development Process - Innovation]] to solve problem, and then [[Development Process - Quantification]] those innovation making sure not complication, and then [[Development Process - Orchestration]] to make predictable result
 [[Business Development Program]] is process to convert business into [[The Franchise Prototype]] and composed of 7 step to make **your** franchise prototype. 
