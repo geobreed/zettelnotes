@@ -21,7 +21,7 @@ M. E. Gerber, _The E-Myth Revisited: Why Most Small Businesses Don’t Work and 
 ![[Entrepreneurial Fatal Assumption]] 
 
 ### Chapter 2. The Entrepreneur, the Manager, and the Technician
-![[Entrepreneurship Personality Trinity]]
+We have 3 personality that have to be balanced
 - ![[The Entrepreneur Personality]]
 - ![[The Manager Personality]]
 - ![[The Technician Personality]]
