@@ -37,6 +37,7 @@ M. E. Gerber, _The E-Myth Revisited: Why Most Small Businesses Don’t Work and 
 ## Part II: The Turn-Key Revolution: A New View of Business
 ### Chapter 7. The Turn-Key Revolution
 ![[Turn-Key Revolution]]  
+![[Business Format Franchise]]
 ### Chapter 8. The Franchise Prototype
 ![[The Franchise Prototype]]
 

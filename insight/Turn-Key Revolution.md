@@ -6,4 +6,4 @@ citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t
 ---
 When Ray Kroc first sees McDonalds operation, there is a way of doing business that can turn chaos to order and growth. The genesis of franchise phenomenon, but not past franchise that only trade mark franchise with licenses. This revolution sees [[Entrepreneurial Model Business]] in franchise format.
 
-Turning the Key is when Ray Kroc sees a new format for franchise business ![[Business Format Franchise]]
+Turning the Key is when Ray Kroc sees a new format for franchise business
