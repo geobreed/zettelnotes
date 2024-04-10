@@ -35,3 +35,22 @@ windows > anaconda
 `               [--max_words_per_line MAX_WORDS_PER_LINE]`
 `               [--threads THREADS]`
 `               audio [audio ...]`
+
+Faster Whisper -------------------------------
+anaconda too
+model on C:\\Users\\atisakti\\.cache
+file on C:\\Users\\atisakti
+file on C:\\Users\\atisakti\\anaconda3
+using py
+	
+	from faster_whisper import WhisperModel
+	model_size = "distil-large-v2"
+	model = WhisperModel(model_size, device="cpu", compute_type="int8")
+	segments, info = model.transcribe("audio.mp3", beam_size=5, language="en")
+	f = open("audio.txt", "a")
+	for segment in segments:
+	    print(segment.text)
+	    f.write(segment.text)
+	    f.write("\n")
+    f.close()
+	
