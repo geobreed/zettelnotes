@@ -43,7 +43,7 @@ M. E. Gerber, _The E-Myth Revisited: Why Most Small Businesses Don’t Work and 
 
 ### Chapter 9. Working On Your Business, Not In It
 ![[ Working On Business]]
-
+![[Franchise Game Rules]]
 ## Part III: Building a Small Business That Works!
 ### Chapter 10. The Business Development Process
 ![[Business Development Process]]

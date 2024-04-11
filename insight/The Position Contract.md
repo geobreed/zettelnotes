@@ -8,3 +8,5 @@ This is not job description, but a contract between company and employee
 A summary of the rules of the company's game
 To provide commitment and accountability
 Who responsible for what position, and being counted on to produce what
+And specific responsibility and authority
+A representation of [[Management By Delegation]] in business structure

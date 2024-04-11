@@ -1,10 +1,11 @@
 ---
-title: Development Process - Quantification
+title: Quantification - Impact Number
 date: 20221022
-tags: #E-Myth
+tags: 
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
-- [[Development Process - Innovation]] need to be Quantified to judge the effect
+Second process of [[Business Development Process]] with these characteristic:
+- [[Innovation - Simple New]] need to be Quantified to judge the effect
 - numbers related to innovation impact
 - quantifying everything related to business process
 	- customer per day
