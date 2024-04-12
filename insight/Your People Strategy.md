@@ -6,9 +6,12 @@ citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t
 ---
 The fifth step of [[Business Development Program]], about the strategy to compel people.
 
+To separate business from self means to compel people to run that business, each of the mundanity.
+
 How to compel people to do checklist, we can't. Only way is making an environment that 'doing it' is more important to people than not doing it. Where it became a way of life for them.
 Take them seriously, take business seriously, so they take business seriously.
 Introduce to the idea of what the business do, [[Your Primary Aim]] the philosophy, how the work is reflection of who we are.
+
 Give people opportunity to make choice before they done the work. Make sure they understand the idea that more important behind the work they asked to do.
 Example:
 - the customer is not always right, but either way, our job is to make them feel right
@@ -24,5 +27,5 @@ The game is a measure of you.
 ![[Business 'Game Rules']] 
 The idea need to be communicated to people, both word and deed, a well planned process.
 Not only document but manner. Hiring process comprised of distinct components
-Systemazing business need not a dehumanizing experience.
+Systemyzing business need not a dehumanizing experience.
 Without idea worth pursuing, there is no People Strategy at all.
