@@ -4,6 +4,7 @@ date: 20221023
 tags: #E-Myth
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
+The third type of business system in [[Your Systems Strategy]], a system that deals with
 - those that provide us with information about interaction between other two.
 - Inventory control, cash flow forecasting, sales activity summary report
 - The Information System will track activity of Selling System from Benchmark to Benchmark

@@ -4,6 +4,7 @@ date: 20221023
 tags: #E-Myth
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
+The second point of [[PowerPoint Selling Process]]
 - repeat of [[The Appointment Presentation]] reestablish emotional commitment
 - tell how to proceed to fulfill promise, how business has develop effective ways to bring product
 - establish credibility in prospect mind, first company expertise, second personal willingness to do what necessary to utilize expertise
