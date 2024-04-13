@@ -60,6 +60,8 @@ M. E. Gerber, _The E-Myth Revisited: Why Most Small Businesses Don’t Work and 
 ![[Your Management Strategy]]
 ### Chapter 16. Your People Strategy
 ![[Your People Strategy]]
+
+![[Business 'Game Rules']]
 ### Chapter 17. Your Marketing Strategy
 ![[Your Marketing Strategy]] 
 ### Chapter 18. Your Systems Strategy
