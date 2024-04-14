@@ -4,10 +4,19 @@ date: 20080909
 tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
+Value can flow through buying and selling, in the form of money. And in this story, between US and China. Where US overwhelmingly buying product from China, And all those value recycled back to US through lending. Which can be good, if those value is not spent on [[Living Beyond Means]]. 
+
+To using value in the form of debt for consumption is rarely a wise choice. And using debt to create value can be considered a wise choice, even if those endeavor be burdened with risk. Further discussion can be make on the border of what is a good indicator of risk to differentiate between debt that is [[Living Within Means]] and not Beyond.
+
+----
+# Article
 
 Economist Brad Setser obsessively studies the way China buys American debt. If the buying stops, he says, the American economy would be in trouble — and the laws of economic logic suggest that's almost inevitable.
 
 ----
+# Transcribe
+
+###### laskd
 
 Support for Planet Money and the following message come from just works. Just works  help teams of all sizes get access to high-quality affordable, benefits, automated payroll, compliant support, and HR tools all in one place. Get two months free when you go to justworks.com/money.
 
@@ -286,9 +295,4 @@ One thing please do let me know how I did in this podcast. Did it ... did I make
 
 I am Adam Davidson, NPR news. 
 
-----
-
-Value can flow through buying and selling, in the form of money. And in this story, between US and China. Where US overwhelmingly buying product from China, And all those value recycled back to US through lending. Which can be good, if those value is not spent on [[Living Beyond Means]]. 
-
-To using value in the form of debt for consumption is rarely a wise choice. And using debt to create value can be considered a wise choice, even if those endeavor be burdened with risk. Further discussion can be make on the border of what is a good indicator of risk to differentiate between debt that is [[Living Within Means]] and not Beyond.
 
