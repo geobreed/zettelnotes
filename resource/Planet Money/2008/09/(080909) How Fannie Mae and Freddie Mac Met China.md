@@ -16,8 +16,6 @@ Economist Brad Setser obsessively studies the way China buys American debt. If t
 ----
 # Transcribe
 
-###### laskd
-
 Support for Planet Money and the following message come from just works. Just works  help teams of all sizes get access to high-quality affordable, benefits, automated payroll, compliant support, and HR tools all in one place. Get two months free when you go to justworks.com/money.
 
 **(Adam Davidson):**
