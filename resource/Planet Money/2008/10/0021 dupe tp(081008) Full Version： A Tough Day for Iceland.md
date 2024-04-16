@@ -1,0 +1,638 @@
+---
+title: 081008) Full Version - A Tough Day for Iceland
+date: 20081008
+tags: #PlanetMoney
+citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+---
+
+
+----
+# Points
+
+- 
+
+----
+# Article
+
+If you got a truncated version of the Oct. 7 Planet Money, here's the real deal. We're making stops in Iceland, New York City and the Federal Reserve.
+
+
+# Transcribe
+----
+# Transcribe (below)
+
+**(Adam Davidson):**
+
+**(Laura Conaway):**
+In my presidency, we have faced tough times after the terrorist attack of 9-11, and we
+came through strongly.
+And we're going to come through this.
+No question the times are tough, but no question America will emerge.
+Hi, and welcome to NPR's Planet Money.
+I'm Alex Bloomberg, and I'm here with Laura Conaway.
+Nice to see you.
+And today is Tuesday, October 7th.
+It's 4.45 p.m. here in New York.
+And that clip we just played was President Bush speaking earlier today about the economy.
+More bad news there.
+The stock market has lost more than 1,400 points in the last five sessions.
+That's 13% of its value.
+The Federal Reserve has made some moves, and we'll talk about that a little bit later.
+A lot of people have been asking on the blog how they can follow the economy.
+Should they look at the stock market or what part of the stock market?
+Adam Davidson and I talked earlier today to a trader named Vinnie Catalano.
+And just before we play this interview, you should know one term that we use.
+We talk about the credit markets.
+Just a way to think about that, if the stock market is a place where you can go
+and own a piece of a company, the credit markets is where you go and you look and
+you see how much it costs to borrow money.
+That's true whether you're a person buying a mortgage or a gigantic multinational corporation
+trying to borrow a billion dollars.
+If you want to find out how much it will cost you to borrow money, what the
+rate will be, you go to the credit markets.
+That's where you look.
+The reason I wanted to talk to you, Vinnie, is you had a post today that was just
+screamingly, it was just exactly something I have been saying all week.
+Can you just spell it out?
+Surely.
+The title of the blog posting today is Keep Your Eye on the Credit Markets
+Ball.
+It's not really the stock market, it's the credit market.
+Wait a second, Vinnie.
+We hear every hour on the news, the front of the news.
+Dow Jones collapses 800 points, falls below 10,000.
+Dow Jones falls another 700 points.
+That's what we hear all the time.
+That's got to be the most important information.
+Actually, I beg to differ.
+It is important.
+It does matter, but right now what really matters most is what's going on in the
+credit markets.
+You're saying that for everyday people, the stock market, sure it's going to affect
+their 401Ks, their pension funds and everything like that, but on their day-to-day
+life, the economy, their microeconomy of their lives is much more affected by
+these things called the credit markets.
+That is correct, but also their investments and their stock market
+investments will be affected by whether or not this freeze thaws.
+Right.
+So if you were advising people, don't look at the Dow Jones if you want to
+freak yourself out.
+Here's what you look at to freak yourself out, and you're saying you
+want to look at two indices in particular.
+That's correct.
+Well, I would look at the treasury bond rates, specifically the three-month
+rate, treasury bills actually, and see if they are going up in yield, which
+means that less money is going into them and people are getting less
+panicky, and then I would look at what the rate is between the banks that
+they lend to one another.
+That's called the LIBOR.
+Okay.
+So the treasury yield, so the three-month treasury, that is the
+secret, that's the sort of secret gauge of how panicked people with
+money are about where they're going to put it.
+That's correct.
+And the higher that goes...
+Exactly right.
+So if I'm...
+Okay, so I'm an investor, I'm not an investor, I'm a person, I'm
+getting up in the morning and I'm like, I'm going to try to figure out
+how freaked out I should be today.
+I go...
+Where do I go?
+Where you can go is frankly a great location, totally free is Yahoo
+Finance.
+So I go to Yahoo Finance and I type in three-month treasury, right?
+Well, actually on the left-hand side on the navigation bar, there will be a
+link to bonds.
+In fact, let me look at it right here on the screen.
+I'm going to do it too, Vinny.
+It'll say, view more bonds.
+And it'll be under the market summary.
+Okay?
+And if you don't have market summary opened up when you go there, open
+it up, click on it.
+And there's two indices underneath, there's two links.
+One says, view more indices, which is good for stocks, the other one is view
+more bonds.
+And all you have to do is click on the view more bonds and voila.
+All right.
+So I'm looking at the three-month.
+It's the US treasury bond rates right there.
+All right.
+So the three months, so I look at the three-month and what's...
+What are you seeing, Vinny?
+I'm seeing 0.74% today versus 0.35 yesterday versus 1.67 a month ago.
+What it's telling me is that rates are going up a bit, less money is
+going into treasuries, fear is diminishing a bit, but it's not as good as it was
+a month ago.
+So the higher the number is, the calmer we can be.
+Correct.
+And so, okay.
+That's very helpful.
+That's really helpful.
+And that's because generally, the lower the treasury rate, that means the more
+people, the more investors are taking their money out of other things like
+lending it to each other and to banks and to us and to everybody else
+who needs money, and they're just giving it to the government because
+they're afraid that if they lend it to us, we're not going to pay it
+back.
+That's correct.
+It's called a flight equality.
+This is a panic equality.
+Right.
+Because no matter how good an investment I may be or my business may be,
+I can't print money like the U.S. government can.
+That's correct.
+And this is where everybody goes and they're taking money out of
+money markets, professional investors too, taking them out and stuffing them
+into treasuries, three-month treasuries, and this is a great gauge
+to see just how significant the fear factor is and whether it's
+alleviating.
+Now, by the way, if I may mention, several days ago, this rate was,
+you're ready, 0.05%.
+It was almost at 0% yield.
+Meaning the U.S.
+government could borrow money for three months and pay no interest
+effectively.
+Effectively no interest.
+That's correct.
+That's how great the fear was.
+That's sticking it under the mattress.
+That's the equivalent.
+So if our listeners wake up in a week from now and they click on
+Yahoo Finance and they go to view more bonds and they find the
+three-month treasury rate at 0.00 or 0.01 or something like that,
+that's when they start throwing their hands in the air and
+wailing at the sky?
+Yes, definitely.
+And that's where, that's right, and that's where your stock
+market portfolio, let's take the Dow Jones.
+The Dow Jones would be closer to 8,000 than to 10,000 if you
+saw something like that because it's telling you that the fear is
+still great and no matter what the government is doing, it just
+doesn't seem to be working.
+Now, you said there's another number.
+So that's one of the numbers.
+And walk us through this other number.
+You said the LIBOR number.
+Sure.
+The other number you can find on Bloomberg.com.
+All right.
+Let's go there.
+Kind of have to hunt around for it a little bit, but it's
+called the TED spread, okay?
+And what the TED spread is, it's a very simple calculation.
+It's one rate compared to another.
+It's how much banks are lending to one another minus the three-month
+treasury rate.
+Okay.
+Okay?
+And that's another measure of fear.
+And if you want to see that rate come down because you want
+to see that they are lending money to one another, the banks are,
+and you want to see that rate come down, and that's not happening
+because that rate right now is in excess of 4%.
+This rate, by the way, was right around before all the panic
+and everything else occurred.
+It was more like 1%.
+It's now up at 3.5%.
+Wow.
+So, you know, it's basically 250% higher in fear than it was not too long
+ago.
+And again, this is like the safest of the safe of money between
+banks, overnight money, and that's how great the fear is.
+And these are the two you want to watch.
+So in other words, what you're saying is like, here's the safest,
+if I have a lot of money, the safest place I can put it, if I don't
+want it lost, I put it in U.S.
+treasuries.
+That's the safest place because in order for me not to get my money
+back, the U.S.
+government has to disappear, which won't happen.
+Now, the second safest place I can put my money is I can loan it
+to another bank overnight.
+Well, no, that doesn't quite happen that way because banks are
+lending to one another.
+Right. That's what I'm saying.
+No, no, I'm a bank.
+No, no, I'm a bank in this situation.
+Right.
+So I'm a bank.
+The safest place I put my money is the treasuries.
+The second safe as a bank, the second safest place I can put it is
+I can loan it to another bank, one of my fellow banks overnight.
+They're going to give it back to me the very next day.
+They're a bank.
+So that's considered a very safe rate.
+And what you're saying right now is the rate that the government
+is charging me is zero and the rate that a bank is charging
+me is four percent, basically.
+No, you can look at it that way.
+That's correct.
+Think of it this way as far as the banks are concerned.
+Make me your bank, OK?
+You can borrow from the Treasury, from the Fed, at two percent.
+And anything above that is profit.
+Right.
+OK.
+So if you were to lend it out to another bank,
+because the other bank needs it for their businesses,
+that they're lending it to, right?
+If you can lend it from one bank,
+like one of the core banks, like a JP Morgan,
+you lend it to another bank, maybe a smaller bank,
+at a three percent rate or a four percent rate.
+I mean, you know, that's where you can go with this
+to earn a terrific rate of return.
+And they're afraid.
+They're just fearful of doing this.
+So these are measures to watch to see
+if the deep freeze is thawing.
+If you look at them, the easiest way is the Treasury,
+like I mentioned before.
+And this one becomes a little bit more involved to monitor.
+But this is what will give you
+an indication of how stocks ultimately
+are going to do better or they're not going to do better.
+I mean, this is, if you're looking for something
+that's the epicenter of the storm, this is it.
+The Ted spread.
+Yes, because they've got to get businesses to lend.
+They've got to get banks to lend to businesses.
+They've got to get investors to put money
+into short-term instruments.
+I just saw, for example,
+the state of Massachusetts has postponed
+the $700 million bond issue
+because of the money market conditions,
+because they can't get the money
+at the rates that they want them at.
+Last week, Schwarzenegger
+and the state of California says,
+if we don't get money within the next 30 days,
+we're going to have to start laying people off.
+This isn't because the state is out of business
+or out of money.
+What it means is that the way businesses function
+is that they go to the markets
+to borrow on a short-term basis.
+Businesses do this.
+For example, many businesses make no money
+throughout the whole year
+and they make all their money
+at the end of the year around Christmastime.
+Like a toy company or an electronics company or something.
+Exactly.
+Well, how do you maintain your cash flows,
+pay your bills and all of that throughout the year?
+You basically don't accumulate all the money
+and then dole it out month after month after month.
+Now what you typically do is that you borrow
+on a short-term basis,
+knowing that at the end of the year,
+you're going to make it all back
+and then you're going to pay off all the bills
+and you'll have a nice profit at the end of the year.
+Well, when you shut down that borrowing,
+then the ability to make payroll,
+to buy equipment that's going to be sold for later on,
+that becomes impaired significantly.
+Now you're impacting the real economy.
+That's the big danger here, not the stock market.
+The stock market is simply reflecting this danger.
+Right, and so what you're saying is the reason Massachusetts
+can't borrow money, the reason California
+can't borrow money, nobody's lending it to them.
+Correct.
+And that fear to lend to anybody is,
+that is this TED spread number.
+That is this 4% number.
+That's correct, yeah.
+If you look at, all you have to do is monitor this.
+This is the epicenter.
+This will tell you whether or not the actions
+by the Treasury and the Fed and the other central banks
+and the manifestation of that is going to be
+whether or not you see this TED spread start to decline.
+And if you do, then you know
+that things are starting to work
+and what will happen is you'll see the stock market
+reflect that and start to go up.
+Great, well, thank you so much Vinnie.
+That was fabulous and we'd love to have you back
+talking about these issues.
+And again, that was Vinnie Catalano,
+President and Global Investment Strategist
+for Blue Marble Research here in New York.
+We're gonna link to his blog,
+vinniecatalano.blogspot.com.
+Thanks so much.
+My pleasure, thank you so much.
+That was Trader Vinnie Catalano
+talking with Adam Davidson and me.
+And we'll put those links that he was talking about
+in our interview on our blog at npr.org slash money.
+You know, I came in today with this news
+about Iceland actually.
+It said something like,
+Iceland is on the verge of bankruptcy.
+Literally, it was with a headline
+in the Wall Street Journal.
+Right, and that is some crazy news
+because you sort of think that a country
+can't go bankrupt, but apparently Iceland is close.
+The government has been making announcements
+about the economy there and it turns out.
+They're not really true.
+Yeah, they've been sort of lying
+about the state of their economy.
+And now it seems to be in free fall
+and no one can quite get a handle on what's happening.
+So we called up Lars Christensen,
+Chief Analyst at Danske Bank based in Copenhagen
+and asked him what's going on with Iceland.
+We can say Iceland has for some time
+been first in line to be hit on a country level
+by the global credit crunch.
+And Iceland is probably the first country
+to really fall into a very, very serious recession
+due to the global credit crunch.
+And we have seen very, very sharp fall
+in the Icelandic corona.
+On Monday alone, it fell by more than 30%
+and the turmoil has continued today.
+That's 30% after falling a lot
+over the last few months, right?
+Yes, yes.
+We have seen since August 2007,
+the Icelandic corona has been in a very sharp fall
+and that has accelerated this week.
+And we have now out of the three large Icelandic banks
+two have been basically nationalized,
+put under government control,
+Lidnia and Landsbanking.
+So only one of the large Icelandic banks is standing.
+So the Icelandic government is effectively taking
+almost socializing.
+Effectively, the Icelandic government has nationalized
+two of three major banks in the country
+and at the moment is itself struggling very seriously
+to pay off its debt.
+So right now Iceland is, would you call it
+the most destabilized economy in the world right now?
+I guess we have-
+I think it's by far the country in the world
+that is suffering the most from the credit crunch.
+And comparing to other countries in the world
+that are also suffering from this,
+it's very clear that Iceland is the country
+that I'm in most distress.
+Now why is that?
+I think most of us, when we think of Iceland,
+we think of happy blonde people
+and imagine everything's very nice.
+There is absolutely good reason to think about that.
+But on the economic front,
+the banks and the households
+have probably been a little bit too happy
+and departing a little bit too much in recent years.
+We've seen Icelandic debt levels
+and foreign debt especially accelerate
+very, very dramatically-
+They're borrowing huge amounts of money from overseas.
+Oh, that's true.
+And a lot of that has been foreign currency lending.
+So that has been quite dramatic
+in terms of the raising of debt.
+There was something very odd.
+You wrote a note today that you sent out
+that the prime minister announced
+that he was borrowing money from Russia
+but then Vladimir Putin said, that's not true.
+We're not giving them any money.
+Can you explain-
+Well, apparently first Icelandic government
+said it had reached a deal with Russia
+to get a loan of three or four billion euros
+with the Russian government.
+That was later denied by the Russian government
+and this is highly unorthodox.
+So until now, it's pretty hard to say
+where we are on this.
+So on any of the circumstances,
+it raised a lot of eyebrows around the world
+that Iceland is now maybe trying to get a loan
+with the Russian government.
+What's next?
+What are we gonna see in Iceland?
+I think it's a little bit premature
+to take a very bleak scenario of a national default
+but I think it's very clear
+that the Iceland need outside helps get back on its feet
+and I think the IMF is most likely
+as international institution coming in
+and helping out to have a restructuring
+of the Icelandic economy
+and as with the American banks needing a rescue package,
+the Icelandic economy certainly needs a rescue package.
+The whole country needs it.
+The whole country needs a rescue package.
+Yes.
+I think the key issue here is that the banks
+in Iceland are significantly larger on the economy.
+The balance sheet of the Iceland banks
+is eight to 10 times larger than the Icelandic economy
+and therefore you can't rescue the banks
+if the banks are significantly larger
+because of a lot of foreign exposure than the country.
+So the Icelandic banks are 10 times bigger
+than the entire economy,
+meaning they're many, many times bigger
+than the government.
+Yes.
+So the government can't,
+that's not the case in the U.S.
+In the U.S. the U.S. government.
+Exactly and that's why you can't effectively
+have a rescue plan in the U.S.
+but that's much harder to do or impossible
+without having a serious de-leveraging
+and what will happen is and what we're seeing now
+is Icelandic banks are of course being taken over
+by government but it's also selling off
+all of these activities abroad
+and scaling down very, very dramatically
+what we call de-leveraging
+and of course that is having a severe impact
+on the credit situation in Iceland.
+Effectively the Icelandic krona
+is now only being traded in Iceland.
+So the situation is quite dramatic.
+Lars, thank you so much.
+We're gonna be monitoring Iceland carefully
+because it seems like they're in serious trouble.
+I guess if we wanted to say who's second most in danger
+would that be Hungary?
+Well, I think you should look
+in Central and Eastern Europe.
+I don't wanna point fingers.
+There's a lot of finger pointing at the moment so.
+Let's point a few fingers.
+Slovakia, Slovak Republic, Hungary, Bulgaria.
+Well, I think you're closing in.
+We'll see.
+All right, thanks a lot Lars.
+Okay, bye.
+Thanks to Lars Kristensen for coming on the show.
+What do we got next, Laura?
+I sat Adam down in the chair
+and I asked him to take a question from a listener.
+So Adam.
+Hey Laura.
+I've been getting this question all day from listeners
+and people coming around the blog.
+This version of it comes from Marissa Brandt.
+She says, the Fed recently announced
+that it will purchase commercial paper.
+Is that with money from the bailout
+or is it additional treasury funds?
+How much money can the treasury really create in that way?
+Isn't this going to contribute
+to the devaluation of the dollar?
+Take that.
+Wow, these are fabulous questions
+and I gotta say, we always get fabulous questions.
+I really like the questions.
+This harkens back a little bit
+to something we talked about yesterday,
+which is how the Fed is different
+from the treasury department.
+So the quick answer is no,
+this is not part of the $700 billion bailout
+and also, no, this is not treasury department money.
+So the Fed and the treasury department
+have very different roles.
+You remember Laura, we talked about
+the Fed is monetary policy,
+the treasury is fiscal.
+Fiscal policy. Fiscal policy.
+I so remember it.
+Tax and spend. You remember it.
+Right, so the treasury is like,
+it's almost like a business.
+They make money mostly through taxes
+and they spend money like on roads and hospitals
+and aircraft carriers and things like that.
+The Federal Reserve is very different.
+They effectively create money.
+They add money to the economy
+and sometimes they subtract money from the economy.
+But this thing with the Fed and buying commercial paper,
+what is commercial paper and what are they buying?
+From whom are they buying it?
+So commercial paper is like a big IOU.
+A bank says, hey Laura,
+I need a billion dollars
+to get me through the next three months
+because I got some short-term needs for money.
+I'll give you 1.1 billion three months from now
+if you give me a billion today.
+And what I give you is this IOU.
+It's called commercial paper.
+It's basically a short-term bond.
+So what the Fed is gonna do
+is they're gonna be the one who gives the money.
+So Bank of America, just to pick an example,
+or Citibank or whatever.
+Every time I do this thinking of a bank,
+I only think of banks that no longer exist.
+So a bank that exists says,
+boy, we need a billion dollars.
+Now until two weeks ago, it was easy.
+They go to the commercial paper market.
+They call some guy on Wall Street and they say,
+hey, we need this.
+And the guy on Wall Street puts it up on a computer.
+And pretty soon some other bank
+that has an extra billion dollars lying around
+says, no problem, here's your billion.
+We'll take the IOU and we'll get our 1.1 billion back
+three months from now.
+That 1.1 is a little off
+because no one's making 10% interest in three months.
+But anyway, you get the rough idea.
+So now they get to go straight to the Federal Reserve.
+Now the Fed is gonna make it a little less attractive.
+They're gonna charge a fee.
+They're not gonna accept as high,
+they're not gonna accept anything high risk.
+They're only gonna buy from the most top rated companies,
+the most secure companies.
+And they're going to,
+so Bank of America or whomever can go straight.
+And the banks already can do this through other vehicles
+but now General Electric could go to the Fed and say,
+we need a billion to get us through the next three months.
+We wanna open some new factories.
+We wanna pay our payroll, whatever it is.
+We need a billion bucks.
+That commercial paper market has completely frozen.
+No, there's no movement there or there wasn't until today.
+So we are gonna go straight to the Fed
+and we're gonna ask the Fed to give us the billion
+dollars.
+The Fed is sort of like the all night taco stand here
+and that they're there when no one else is.
+Right.
+Now what I think they're hoping
+and what seems to possibly be happening,
+they are hoping that simply by saying they will do this,
+it gives confidence to the market
+and then someone else will step in and say, well.
+And what money are they using to say, we'll do this.
+The Fed has money.
+They have their own balance sheet,
+which is, but they are running through it very quickly.
+I don't remember the last time I looked at it
+but they've spent hundreds of billions of dollars
+in the last few months. Fanny, Freddie.
+Fanny, Freddie, all this stuff.
+When they run out of that,
+they do have to go to the Treasury Department
+and say, hey, we need some more money.
+So that comes from us, from taxpayers.
+I believe we are not yet there.
+I'm pretty sure we're not yet there, but we're close.
+We're closer than we've been in a very long time.
+So I guess you can effectively say this is taxpayer money
+but it's totally separate from the 700 billion.
+The idea here though is this is pretty safe.
+So we are gonna get paid back
+and we'll actually probably make money on this deal
+because we're only gonna lend
+to the most credit-worthy, trustworthy companies.
+I'm smiling.
+You're smiling
+because the most credit-worthy, trustworthy companies
+have been collapsing.
+I'm a believer, Adam, thank you.
+All right, thank you, Laura.
+And thanks, Marissa Brant.
+Keep those questions coming, everyone.
+Yeah, we're at npr.org slash money.
+And that's the Planet Money podcast for today.
+I'm Alex Bloomberg.
+And I'm Laura Conaway.
+Thanks for listening.
+["Money on the Side"]
+Wake up this morning
+Smile like the rising sun
+Three little birds
+That by my doorstep
+
+
+
+
+Support for planet money, and the following message come from Jess works just works helps teams in all sizes. Get access to high-quality affordable, benefit, automated payroll, complaint support, and HRT all in one place get two months free when you go to justworks.com/money back of 911 no question a timer for tough America will emerge hi and welcome to NPR and today is Tuesday, October 7. It’s 4:45 PM here in New York President Bush stock market has lost her than 1400 points in the last five sessions with 13% of its value that I love people been asking on the blog how they can follow the car and look at the stock market what part of the stock market and a Adam Davidson I  Have a Lotta at the credit market is the way to think about that. If the stock market is a place we can go in company you look fast borrow person by mortgage or a gigantic multinational corporation for million dollars wanna find out how much will cost to the bottom  of the reason I wanted to talk to Vinny is you had a post today that was just screaming the heat was just exactly something I have been saying all week you spell it out keep your eye on the credit market here every hour on the news Dow Jones collapse is 800 points father low 10,000 miles another 700 point we’re here that’s what we’re here all the time that’s got to be the most important information  it does matter but right now what really matters most is what’s going on in the credit market you’re saying that like every day people does the stock market I mean sure the day-to-day life that lives there in will be affected by whether or not this freeze bread, so and in the freezer  be if you were advising people don’t look at the Dow Jones. Here’s what you look at freaky and you’re saying you wanna look at two in the season in particular where are they now when I would look at the treasury bond rates are going up Nljog, which means Acmods Mario , and then I would look at what the rate is between the bank treasury. That is the secret secret gauge of how panic people with money are they gonna put it in a higher than yours OK so I’m I’m I’m in the bathroom and I’m getting up in the morning and I’m like , dang I go where do I go where you can go location so I go to Yahoo finance my typing tracker navigation bar and there will be a link to pay you more Bon OK and it’ll be on the market open it up and there’s a few more buns and Wala versus 0.35 yesterday is that  OK OK was a month ago so this is the higher number the higher the number is the calmer we can be, and so OK because generally the lower the treasury rate that means the more people the more investors are taking the money out of other things, like lending it to each other for everybody  Equality read read how good investment I may be how significant this rate was you’re ready 05% it was almost at 0% yield mean with US government could borrow money for three months and pay no interest affect. They have great wake up like in a week from now  on Yahoo finance in the treasury treasury at 0.00 0.0 portfolio take the Dow Jones thousand 10 to 10,000 great now you said there’s another number that’s one of the numbers and other numbers of using the like or not OK a little bit far is called or spread OK  Shuffle calculation minus OK OK and that that’s another measure of peace and if you want to come down because you want to see that there lending money to one another and you want to see come down and now by the way was right around everything else occurred. It was more like 1% , wow so higher in fear of money between banks money saying is like here’s the here’s the safest if I am at five alarm and put it back now the second safest place I can put my money is I can load it to another bank overnight. Thanks for lending to one another. What is my money is the treasury  if I can move it to another bank where my fellow banks overnight very next day there a bang what you’re saying right now is the rate that the government is charging is zero and the rate that is charging 4% from the fifth at 2% and anything OK so if you want to lend it out to another bank  JP Morgan bank Adam late I mean you know that’s where you can go and do a little bit more involved monitor work will give you an indication of better of investors put money into $700 million bond issue because of the money market conditions because they can’t get the money  to Mat Lansbury Schwarzenegger California the next 30 days money go to the market tomorrow like a toy company or an electronics how do you mean you don’t do that and then you’re going to big danger reason of when you can’t borrow money that beer to lend to anybody is that is this  All you have to do this will tell you whether or not the actions by the treasury in the bed and the manifestation of that is and if you do then you know that things are starting to work and work well. Thank you so much money that was fabulous and we love to have you back issue issues and a Catalano, our president and global investment strategies for blue marble research here in New York  Blog Vinny Catalano thanks so much my pleasure that was trader Vinny Catalano, talking with Adam Davidson me and look at those links in the interview on a blog at npr.org/money is about Iceland actually is on the verge of bankruptcy and country. can’t go back up north currently  Turns out Ruth yeah honey all in Millington Pokémon with happening, so we thought of Lars Christensen the bank and ask him first in line to be on the country level probably the first country to Welly: very very serious, and we have seen very very on Monday alone it fell by more than 30% and continue today  That’s 30% after filing a lot of the last few yet yes we have seven we have now out of the tree to have taken over the country so right now Iceland Iceland is the most destabilize economy in the world right now I guess while I think it it it it is by far the country in the world  Happy blonde people win Icelandic there, borrow money up from overseas rating off of of that. There was something very high note today that you sent out that the Prime Minister announce that he was borrowing money from Russia with him alone off to what snack scenario off of a national American banks meeting out ha ha , ha ha the whole punch from Barrington, the whole country yes but the bank rescue the bank or 10 times bigger in the entire economy. Meaning are many many times bigger than the government. Yes government and that’s not the case in the US that that’s why you can’t pick you up on that and I thought that is having  Large thank you so much we’re gonna be monitoring Iceland carefully today seems like they’re in serious trouble I guess if we wanted to say who second most endangered with happy hungry well I think Slovakia Hungary well Bulgaria, Michelle I sent Adam down in the chair and I asked him to take a question from a listener, so Adam Taylor I’ve been getting this question all day from people coming around the block. This version of it comes from Marissa Brandt. She says the Fed recently an hour  Purchase commercial paper is that money from the bill out or is it additional treasury funds how much money can a treasury really create in that way isn’t the score to contribute to the devaluation of the doll take that fabulous questions and I gotta say I really like the questions harkens back a little bit of something we talked about yesterday, which is how the Fed is different from the treasury department  no this is not part of the $700 billion bail out and also know this is not treasury department money and the treasury department have a very different role as you remember where we talked about monetary policy for treasury wrap so the treasury is like Dhamas like a business they make money most of your taxes, and they spend money on roads and hospitals in aircraft carriers and things like  That is very different. They affectively create money add money to the economy and sometimes they subtract money from the thing with the feds in buying commercial paper. What is commercial paper and what are they fine some commercial paper is like a big I/O you a bang says hey Laura I need $1 billion to get me through the next three months , I’ll give you 1.1 billion three months from now if you give me 1 billion today so what the fit is going to do as they’re gonna they’re gonna be the one who gives the money so Bank of America just pick an example or whatever thinking of a bank says Boy we need $1 billion  to go to the commercial paper market they call Sudan Wall Street put it up on a computer and pretty soon some other bank has an extra billion dollar problem is your billions will take the Iwan will get 1.1 billion back that a 10% interest once but anyway , so now they get to go straight to the federal reserve a little less attractive they’re gonna charge you feed them not gonna except as high anything high risk only gonna buy from the most top rated companies and secure companies and they are going to Bank of America auto already can do this to other vehicles, but now General Electric to go to the fair  Billion to get us through the next three months payroll whatever it is we need 1 billion bucks for commercial paper market really frozen no there’s no movement there or there wasn’t until today so we are gonna go straight to the fifth fifth to give us the billion dollar taco stand here and that they’re there they’re with no one else’s know what I think they’re hoping in what seems to possibly be happening. They are hoping that simply by saying they will do this. It gives confidence to the market and then someone else will step in and say well , the Fed has money they have their own balance sheet which is but they are running through it very quickly. I don’t remember the last time I looked at it but they’ve spent hundreds of billions of dollars when they run out of that they do have to go to the treasury department and say hey, we need some more money so that comes from us from taxpayers Mike I believe we are not yet. They are pretty sure we’re not yet they are but we’re close we’re close very long time so I guess you can affect your money but it’s totally separate from the 700 billion , that was this is really safe so we are going to get paid back will actually probably make money on this trustworthy companies :-) you’re smiling is the most incredible believer Adam thank you thank you Laura thanks Marissa Brent we are npr.org/Murray and that’s the planet money podcast for today and I’m Laura Conway 
+
+----

@@ -1,12 +1,63 @@
 ---
-title: (080909) How Fannie Mae and Freddie Mac Met China
+title: 0001 (080909) How Fannie Mae and Freddie Mac Met China
 date: 20080909
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
 Value can flow through buying and selling, in the form of money. And in this story, between US and China. Where US overwhelmingly buying product from China, And all those value recycled back to US through lending. Which can be good, if those value is not spent on [[Living Beyond Means]]. 
 
 To using value in the form of debt for consumption is rarely a wise choice. And using debt to create value can be considered a wise choice, even if those endeavor be burdened with risk. Further discussion can be make on the border of what is a good indicator of risk to differentiate between debt that is [[Living Within Means]] and not Beyond.
+
+----
+# Points
+
+- China US has financial codependent relationship
+	- US buy stuff from China with dollars
+	- China lends back that dollars to US 
+	- that borrowed dollars, goes back to buy stuff
+- Fannie Mae and Freddie Mac are central for the money recycling
+	- dollars from China seller go to bank because seller wants renminbi
+	- bank to central bank, but dollars don't earn interest
+	- central bank want safe investment
+	- government debt favorite, but not enough
+	- next best Fannie Mae and Freddie Mac bond
+- FMFM bond form from mortgages
+- China buy in the last 12 months roughly $400 billion in US debt
+	- $2 billion dollars a day
+- US government doesn't sell directly to China Central Bank
+	- sells to the broker dealer community, the primary dealers, the buyout treasuries
+	- the big banks Goldmann Sachs, Citi, JP Morgan
+	- then they sell them to the bank in London 
+	- and then the bank in London sells the bond to China central bank
+- Hard to track bond
+	- US track amount of debt not who has it
+	- China buy from London because of time zone
+	- most bank release data once a month, China slow in releasing reserve data once a quarter
+	- and the data in obscure website in mandarin, the data on the foreign exchange holding at the state banking system
+- one interesting thing, poor financing wealthy
+	- if you found out that Citibank was, you know some guys name Frank in Queens
+	- you kinda wanna know where Frank was kinda get his money
+- US couldn’t go on forever
+	- China cannot reduce the amount of financing that it provides the US without inducing a slow down in the US economy.
+	- US is live beyond our means
+	- explicitly China doesn't want US [[Living Beyond Means]], but it certainly profits them
+	- There's a different interest in China and US
+	- in US. good for US treasury if China buys bond, keeps interest rates low. bad for Ohio workers that compete with Chinese goods, if China is holding currency and taking market share from US factories. 
+	- in China. good for Chinese exporters. good for exports sector, bad for Chinese taxpayers cause taking a loss. bad for workers who could building schools in China. If borrowed money at government level rather than lending it to US. to build more schools domestically. 
+	- different parts of the two economies are impacted a different ways
+- impact on US economy
+	- can’t destroy the US economy. 
+	- can cause a lot of damage to the US financial system. 
+	- Just have to stop buying a single new US government or US state bonds
+	- Unemployment going up by a lot more, US feels poor and have to live within it's means. We borrow less. Housing prices go down. Our dollars don’t buy as much abroad. buy fewer new things and those cool new things cost a little bit more.
+	- the shift between the two, that takes time, and it takes effort. A factory doesn’t just spring up magically. 
+- comparative advantage
+	- in the US with experts to build a batteries, so it takes a while to build up a skills. 
+	- in China they're dime a dozen.
+	- in the US economy who could, take a mortgage with really complicated features, reverse amortization, various name. Package it with other mortgage and very complicated features. Combine it into a bond. Combine that ... split that bond in different parts, combine those parts into another bond. And sell it.
+	- would much rather see a process by which there’s a gradual reduction in China’s reliance on US and Europe for demand for it's products.
+	- US to move away from keep borrowing from government to smaller trade and borrowing from private investor
+	
 
 ----
 # Article

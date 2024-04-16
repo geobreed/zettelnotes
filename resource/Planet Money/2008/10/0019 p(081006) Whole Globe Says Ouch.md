@@ -5,9 +5,19 @@ tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
 
+
+----
+# Points
+
+- 
+
+----
+# Article
+
 Stocks in Europe tanked enough to make America's trading freefall on Monday look not so bad. But don't be fooled. The global economy needs a fix. It's just not necessarily going to like the medicine.
 
 ----
+# Transcribe
 
 https://www.npr.org/transcripts/95454373
 
