@@ -5,9 +5,19 @@ tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
 
+
+----
+# Points
+
+- 
+
+----
+# Article
+
 Thanks to a little-noticed provision that's sort of in the $700 billion bailout, the U.S. Treasury says it's preparing to partially nationalize the banking industry. It's a big deal. And not everyone we talked to thinks it will work.
 
 ----
+# Transcribe
 
 https://www.npr.org/transcripts/95579936
 
