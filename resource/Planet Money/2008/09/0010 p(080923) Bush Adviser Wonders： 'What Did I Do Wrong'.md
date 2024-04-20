@@ -15,6 +15,23 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 
 Economist Tim Adams worked under President Bush in the U.S. Treasury. He says traders didn't understand what they were trading, and regulators didn't see what was coming.'
 
+**Bush Adviser Ponders: What Did I Do Wrong?**
+
+At the United Nations, 09.23.08
+Timothy A. Clary/AFP/Getty Images
+
+Just press play.
+
+Today on Planet Money:
+
+-- What did I do wrong? Tim Adams, a Bush adviser who served in the U.S. Treasury Department, takes a minute to consider that question seriously.
+
+-- It's real money. Economist Brad Setser considers who besides the U.S. government could gin up $700 billion for a bailout.
+
+-- Listener checks in: What's wrong with limiting executive pay?
+
+Download the podcast; or subscribe. Follow our Twitter feed. (Music from the Gorillaz, "Every Planet We Reach Is Dead," off Demon Days.)
+
 ----
 
 https://www.npr.org/sections/money/2008/09/bush_adviser_ponders_what_did.html

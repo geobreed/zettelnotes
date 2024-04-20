@@ -16,6 +16,28 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 
 Stocks in Europe tanked enough to make America's trading freefall on Monday look not so bad. But don't be fooled. The global economy needs a fix. It's just not necessarily going to like the medicine.
 
+https://www.npr.org/sections/money/2008/10/hear_whole_globe_says_ouch.html
+
+Hear: Whole Globe Says Ouch
+October 6, 20087:07 PM ET
+
+By 
+
+Laura Conaway
+24-Minute Listen
+
+    Transcript
+
+ 
+
+Wall Street, 10.06.08 Today on Planet Money:
+
+    Yale Law deputy dean Jonathan Macey explains why Europe's misery is proving hard to fix -- and why the American fix is so problematic.
+    New York trader Tom Corona of says he likes what Europe has done so far. He calls it better than what America is doing.
+    Listener Dave Griner asks what to make of Jim Cramertelling the world to get out of the stock market.
+
+Download the podcast; or subscribe. Follow our Twitter feed. 
+
 ----
 # Transcribe
 

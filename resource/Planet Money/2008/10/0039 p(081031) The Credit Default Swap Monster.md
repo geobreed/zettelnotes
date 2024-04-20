@@ -5,9 +5,26 @@ tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
 
+
+----
+# Points
+
+- 
+
+----
+# Article
+
 If there's any corner of the financial world where angels fear to tread, it's credit default swaps. Alex Blumberg leads the way in, with an amazingly understandable primer. Satyajit Das follows up by answering listener questions.
 
 ----
+# Transcribe
+----
+# Transcribe (below)
+
+**(Adam Davidson):**
+
+**(Laura Conaway):**
+
 
 https://www.npr.org/transcripts/96402462
 

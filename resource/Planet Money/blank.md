@@ -14,10 +14,7 @@ citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/
 ----
 # Article
 
-
 # Transcribe
-----
-# Transcribe (below)
 
 **(Adam Davidson):**
 
