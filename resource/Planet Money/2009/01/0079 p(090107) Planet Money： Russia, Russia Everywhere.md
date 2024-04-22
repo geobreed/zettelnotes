@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-If you're an American and your gas stove won't light, you start by calling a repair company or checking to make sure you paid the bill. If you're a European, you might start by blaming Russia. That nation's state-owned Gazprom appears to have cut the supply of gas to neighbors from Romania to Austria. It's the second time in recent years that Russia has turned off the spigots. Meanwhile, in Africa, Nigeria is burning off 20 billion cubic meters of natural gas a year — because it has no way to ship the stuff to market. As Eurasia Group analyst Geoff Porter tells it, some in Europe would like to build a pipeline from Nigeria through Northern Africa and across the Mediterranean. It's a bit of a pipe dream, but one player has shown some interest in the region — Russia's Gazprom.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/99096633/npr_99096633.mp3?e=99096633&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+If you're an American and your gas stove won't light, you start by calling a repair company or checking to make sure you paid the bill. If you're a European, you might start by blaming Russia. That nation's state-owned Gazprom appears to have cut the supply of gas to neighbors from Romania to Austria. It's the second time in recent years that Russia has turned off the spigots. Meanwhile, in Africa, Nigeria is burning off 20 billion cubic meters of natural gas a year — because it has no way to ship the stuff to market. As Eurasia Group analyst Geoff Porter tells it, some in Europe would like to build a pipeline from Nigeria through Northern Africa and across the Mediterranean. It's a bit of a pipe dream, but one player has shown some interest in the region — Russia's Gazprom. 
 
 https://www.npr.org/sections/money/2009/01/hear_russia_russia_everywhere_1.html
 

@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-With the incoming Obama administration planning for a $700 billion economic stimulus, the question now is whether a wave of government spending will revive the economy. For answers, we turn to the example of President Franklin Delano Roosevelt. If you're like me, you first encountered FDR in history class as the hero of the Great Depression. Lately, though, some people have renewed debate over whether FDR and the New Deal saved America or made matters worse. We'll start with historian Eric Rauchway, who considers a world in which FDR had done nothing.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/99026407/npr_99026407.mp3?e=99026407&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+With the incoming Obama administration planning for a $700 billion economic stimulus, the question now is whether a wave of government spending will revive the economy. For answers, we turn to the example of President Franklin Delano Roosevelt. If you're like me, you first encountered FDR in history class as the hero of the Great Depression. Lately, though, some people have renewed debate over whether FDR and the New Deal saved America or made matters worse. We'll start with historian Eric Rauchway, who considers a world in which FDR had done nothing. 
 
 https://www.npr.org/sections/money/2009/01/hear_if_fdr_had_done_nothing.html
 

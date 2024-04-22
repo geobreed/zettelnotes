@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Ammon Shea, author of Reading the OED, defines "money." Literally. Adam Davidson takes former Treasury Under Secretary Peter Fisher out for street food, plus a mindblowing curbside chat on which kind of money is what.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97553474/npr_97553474.mp3?e=97553474&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Ammon Shea, author of Reading the OED, defines "money." Literally. Adam Davidson takes former Treasury Under Secretary Peter Fisher out for street food, plus a mindblowing curbside chat on which kind of money is what. 
 
 ----
 # Transcribe

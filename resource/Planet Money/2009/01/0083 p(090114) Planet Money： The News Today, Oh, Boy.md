@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-A number of listeners have asked us to look at what's happening inside our own industry — media. Magazines have been shutting down, newspapers are canceling home delivery and furloughing staff, publications are moving online, radio networks are laying off workers. Which is just the half of it, really. Economist Anita McGahan, author of How Industries Evolve, studies what's known as punctuated change. She says the line between shifting and dying is not always apparent, at the time. But the first company to figure out what comes next wins. Bonus: A newspaper carrier says the print edition he delivers is now too light for him to throw it onto porches properly. --
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/99369971/npr_99369971.mp3?e=99369971&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+A number of listeners have asked us to look at what's happening inside our own industry — media. Magazines have been shutting down, newspapers are canceling home delivery and furloughing staff, publications are moving online, radio networks are laying off workers. Which is just the half of it, really. Economist Anita McGahan, author of How Industries Evolve, studies what's known as punctuated change. She says the line between shifting and dying is not always apparent, at the time. But the first company to figure out what comes next wins. Bonus: A newspaper carrier says the print edition he delivers is now too light for him to throw it onto porches properly. -- 
 
 https://www.npr.org/sections/money/2009/01/hear_the_news_today_oh_boy_1.html
 

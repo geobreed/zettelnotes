@@ -14,17 +14,34 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-If there's any corner of the financial world where angels fear to tread, it's credit default swaps. Alex Blumberg leads the way in, with an amazingly understandable primer. Satyajit Das follows up by answering listener questions.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96413904/npr_96413904.mp3?e=96413904&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+If there's any corner of the financial world where angels fear to tread, it's credit default swaps. Alex Blumberg leads the way in, with an amazingly understandable primer. Satyajit Das follows up by answering listener questions. 
+
+https://www.npr.org/sections/2011/02/14/10/hear_the_cds_monster.html
+
+Hear: The CDS Monster
+October 31, 20083:29 PM ET
+
+Laura Conaway
+18-Minute Listen
+
+Scary out there.
+Jacqueline Wells/Planet Money Facebook
+Hear: The CDS Monster
+
+Today on Planet Money:
+
+We're all about credit default swaps, the great trick-or-treat of the modern economy.
+
+— Alex Blumberg, our collaborator from This American Life, eases us all through Credit Default Swaps School. (From his two-part series on All Things Considered.)
+
+— Economist Satyajit Das takes listener questions on CDS, including how people settle things when they go wrong.
+
+Download the podcast; or subscribe. Music today: Smashing Pumpkins' "I Am One." Follow our Twitter feed. Join our Facebook group.
 
 ----
 # Transcribe
-----
-# Transcribe (below)
-
-**(Adam Davidson):**
-
-**(Laura Conaway):**
-
 
 https://www.npr.org/transcripts/96402462
 

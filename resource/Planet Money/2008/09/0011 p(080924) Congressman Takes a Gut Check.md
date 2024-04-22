@@ -14,7 +14,33 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Rep. Brad Miller of North Carolina says he knows something needs to be done to save the economy. He's just not sure it's this bill, by Friday. Plus, an economist considers how much time is left to act.'
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95018191/npr_95018191.mp3?e=95018191&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Rep. Brad Miller of North Carolina says he knows something needs to be done to save the economy. He's just not sure it's this bill, by Friday. Plus, an economist considers how much time is left to act. 
+
+https://www.npr.org/sections/money/2008/09/listen_up_congressman_takes_a.html
+
+Listen Up: Congressman Takes A Gut Check
+September 24, 20086:14 PM ET
+
+Laura Conaway
+11-Minute Listen
+
+Federal Reserve chairman Ben Bernanke on Capitol Hill, 09.24.08.
+Alex Wong/Getty Images
+Listen Up: Congressman Takes A Gut Check
+
+Just press play.
+
+On today's Planet Money podcast:
+
+-- Democratic Rep. Brad Miller talks about why he's not convinced by the current $700 billion bailout proposal.
+
+-- Economist Raghu Rajan says something needs to be done to save the economy, but maybe not by Friday.
+
+---------
+
+Download the podcast; or subscribe. Follow our Twitter feed. (Music by Elizabeth Mitchell, covering "What Goes On")
 
 ----
 # Transcribe

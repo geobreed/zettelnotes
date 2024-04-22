@@ -14,14 +14,33 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-A listener in Portland, Ore., tells us she was laid off on Thursday. But never fear. MIT economist Simon Johnson, of Baseline Scenario, is ready to help. Plus: What's a Wall Street circuit breaker? And what's a healthy bank?
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96124482/npr_96124482.mp3?e=96124482&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
 
-----
-# Transcribe
+A listener in Portland, Ore., tells us she was laid off on Thursday. But never fear. MIT economist Simon Johnson, of Baseline Scenario, is ready to help. Plus: What's a Wall Street circuit breaker? And what's a healthy bank? 
 
 https://www.npr.org/sections/money/2008/10/hear_an_economist_house_call.html
 
-confirm transcript
+Hear: An Economist House Call!
+October 24, 20085:03 PM ET
+
+Laura Conaway
+
+Instant folk art.
+Brennan McVicar
+Hear: An Economist House Call!
+
+Today on Planet Money:
+
+We used to have a credit crisis. Now, the world seems to be settling in for a humdinger of a recession.
+
+-- Investors are selling off so many stocks that people are talking again about possible Wall Street circuit breakers. Stock strategist Vinny Catalano, president of Blue Marble Research, explains the thinking behind an official timeout.
+
+-- The Economist House Call! Sophia Suhu of Portland, Ore., is working on getting her architect's license. On Thursday, she was laid off from her job at an architecture firm. But never fear -- economist Simon Johnson of Baseline Scenario is ready to help.
+
+Download the podcast; or subscribe. Music today: Nu Shooz' "I Can't Wait ." Follow our Twitter feed. Join our Facebook group.
+
+----
+# Transcribe
 
 https://www.npr.org/transcripts/96122936
 

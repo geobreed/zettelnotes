@@ -28,7 +28,27 @@ all things considered, on crisis have multiple contributor, politician always pu
 ----
 # Article
 
-The financial world — and more to the point, the rest of us — woke up Monday morning to a whole new Planet Money. Lehman Brothers filed for bankruptcy. Merrill Lynch sold itself to Bank of America. And the questions came pouring in. We answered as many as we coul d in 22 minutes.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/94672530/npr_94672530.mp3?e=94672530&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The financial world — and more to the point, the rest of us — woke up Monday morning to a whole new Planet Money. Lehman Brothers filed for bankruptcy. Merrill Lynch sold itself to Bank of America. And the questions came pouring in. We answered as many as we coul d in 22 minutes. 
+
+https://www.npr.org/sections/money/2008/09/listen_up_your_questions_answe.html
+
+Listen Up: Your Questions Answered Here
+September 15, 20084:46 PM ET
+
+Laura Conaway
+21-Minute Listen
+
+Pumpkins are experiencing a renaissance among gourmet chefs.
+Andreas Rentz/Getty Images
+Listen Up: Your Questions Answered Here
+
+Click for answers.
+
+With hopes for a pumpkin-like renaissance in the American financial system, may I present a special podcast in which Adam Davidson answers innumerable questions in 22 minutes. If you asked us something about the Lehman/Merrill news today, there's a very good chance your answer's here. Just press click to play, or download here.
+
+(Our friends at HQ in D.C. say we're coming to iTunes later this week. For now, you can subscribe through this link.)
 
 ----
 # Transcribe

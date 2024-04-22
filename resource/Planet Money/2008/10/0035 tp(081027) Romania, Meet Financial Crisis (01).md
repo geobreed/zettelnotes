@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-They binged on debt — some of it for building factories and such, some for flat-screen TVs. Now the foreign investment that made it all possible has turned for home, leaving the countries of emerging markets in trouble deep.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96197146/npr_96197146.mp3?e=96197146&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+They binged on debt — some of it for building factories and such, some for flat-screen TVs. Now the foreign investment that made it all possible has turned for home, leaving the countries of emerging markets in trouble deep. 
 
 ----
 # Transcribe

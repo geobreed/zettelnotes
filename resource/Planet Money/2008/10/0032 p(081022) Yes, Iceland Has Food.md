@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-An Icelandic ex-patriot says, no, her nation won't starve. That's true, says an Icelandic reporter, but the thrill's still gone. Plus: David Kestenbaum rings up a report on the next crisis, and Adam Davidson gets an unlikely nod for . . . Treasury Secretary.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96002301/npr_96002301.mp3?d=1447&e=96002301&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+An Icelandic ex-patriot says, no, her nation won't starve. That's true, says an Icelandic reporter, but the thrill's still gone. Plus: David Kestenbaum rings up a report on the next crisis, and Adam Davidson gets an unlikely nod for . . . Treasury Secretary. 
 
 https://www.npr.org/sections/money/2008/10/hear_iceland_has_food.html
 

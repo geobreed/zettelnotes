@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-President-elect Barack Obama says his plan for economy will create 2.5 million jobs. Economist Russell Roberts, of George Mason University, says the government just shifts money from one part of the economy to another, so the net effect is minimal. Plus: A husband and wife at the University of Florida own their home — but don't know where they'll end up working.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97778304/npr_97778304.mp3?e=97778304&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+President-elect Barack Obama says his plan for economy will create 2.5 million jobs. Economist Russell Roberts, of George Mason University, says the government just shifts money from one part of the economy to another, so the net effect is minimal. Plus: A husband and wife at the University of Florida own their home — but don't know where they'll end up working. 
 
 ----
 # Transcribe

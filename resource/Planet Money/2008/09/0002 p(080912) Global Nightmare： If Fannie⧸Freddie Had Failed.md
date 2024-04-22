@@ -13,6 +13,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 
 ----
 # Article
+
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/94582047/npr_94582047.mp3?e=94582047&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
 Whatever the cost to taxpayers, foreign financial ministers tell us the U.S. Treasury had no choice but to save Fannie Mae and Freddie Mac. They say it was either act now or face economic Armageddon. 
 
 ----

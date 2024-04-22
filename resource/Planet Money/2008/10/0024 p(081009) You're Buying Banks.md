@@ -14,7 +14,32 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Thanks to a little-noticed provision that's sort of in the $700 billion bailout, the U.S. Treasury says it's preparing to partially nationalize the banking industry. It's a big deal. And not everyone we talked to thinks it will work.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95580407/npr_95580407.mp3?e=95580407&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Thanks to a little-noticed provision that's sort of in the $700 billion bailout, the U.S. Treasury says it's preparing to partially nationalize the banking industry. It's a big deal. And not everyone we talked to thinks it will work. 
+
+https://www.npr.org/sections/money/2008/10/hear_youre_buying_banks.html
+
+Hear: You're Buying Banks
+October 9, 20087:09 PM ET
+Adam Davidson
+
+Adam Davidson
+22-Minute Listen
+
+Big. And moving fast.
+Win McNamee/Getty Images
+Hear: You're Buying Banks
+
+Today on Planet Money:
+
+That backdoor bailout we've been talking about came now front and center. U.S. Treasury Secretary Henry Paulson says the U.S. is prepared to use public money to buy up portions of private banks. Alternately called a stock injection and a capital one, the move would amount to at least a partial nationalization of the financial system.
+
+-- Christian Menegatti of RGE Monitor says Paulson should make a priority of the stock injection.
+
+-- Listener Greg King asks whether it's possible to untangle all the properties in a single mortgage-backed security. The short answer: Who knows? But Whit Solberg and HJ Kim, of Mission Peak Capital, show us the amazing collection of odds and ends packed into just one.
+
+Download the podcast; or subscribe. Follow our Twitter feed.
 
 ----
 # Transcribe

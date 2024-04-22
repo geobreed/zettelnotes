@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Yes, we're scared in the United States. We can feel a recession coming. But in Iceland, folks are living out an astounding economic collapse. Plus: The wizard of Wharton tees off on Henry Paulson, and a listener asks what a write-off is.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95852109/npr_95852109.mp3?e=95852109&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Yes, we're scared in the United States. We can feel a recession coming. But in Iceland, folks are living out an astounding economic collapse. Plus: The wizard of Wharton tees off on Henry Paulson, and a listener asks what a write-off is. 
 
 ----
 # Transcribe

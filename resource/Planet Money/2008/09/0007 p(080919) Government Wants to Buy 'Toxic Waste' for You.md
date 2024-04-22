@@ -13,9 +13,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The U.S. Treasury Department and members of Congress are considering a $1 trillion plan to buy up bad assets on Wall Street. Economist Raghu Rajan says that looks like a move made in panic to him. He blames election-year politics, and proposes a way for Wall Street to save itself.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/94835464/npr_94835464.mp3?e=94835464&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
 
-----
+The U.S. Treasury Department and members of Congress are considering a $1 trillion plan to buy up bad assets on Wall Street. Economist Raghu Rajan says that looks like a move made in panic to him. He blames election-year politics, and proposes a way for Wall Street to save itself. 
 
 https://www.npr.org/sections/money/2008/09/government_to_buy_toxic_waste.html
 

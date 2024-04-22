@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Five school districts in Wisconsin borrowed, invested and lost an awful lot of money. A few months ago, the IMF was laying off workers. Now it's scrambling to save the world. And a listener checks in with a picture from the local coffee shop.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96545242/npr_96545242.mp3?e=96545242&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Five school districts in Wisconsin borrowed, invested and lost an awful lot of money. A few months ago, the IMF was laying off workers. Now it's scrambling to save the world. And a listener checks in with a picture from the local coffee shop. 
 
 ----
 # Transcribe

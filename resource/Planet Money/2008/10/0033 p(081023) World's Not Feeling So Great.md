@@ -14,7 +14,33 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Federal Reserve Chairman Alan Greenspan tells Congress how his worldview got upended. An economist eyes the hedge fund trouble to end all troubles. And a political analyst says our global situation was a long time in the making.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96063334/npr_96063334.mp3?e=96063334&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Federal Reserve Chairman Alan Greenspan tells Congress how his worldview got upended. An economist eyes the hedge fund trouble to end all troubles. And a political analyst says our global situation was a long time in the making. 
+
+https://www.npr.org/sections/money/2008/10/hear_worlds_not_feeling_great.html
+
+Hear: World's Not Feeling Great
+October 23, 20085:16 PM ET
+
+Laura Conaway
+20-Minute Listen
+
+Imagine your bond here.
+Daniel Garcia/AFP/Getty Images
+Hear: World's Not Feeling Great
+
+Today on Planet Money:
+
+Former Federal Reserve Chairman Alan Greenspan tells Congress he was shocked to discover a flaw in the markets. The TED spread stopped falling. And one investor lost a whole lot of money.
+
+-- Listener Aimee Ennis asks if it's true that hedge funds are the next great calamity. That's what Nouriel Roubini has been saying.
+
+-- Economist Elisa Parisi, of Roubini's RGE Monitor, explains that hedge funds are downright contagious.
+
+-- Ian Bremmer of Eurasia Group reveals the world's troubles were a long time coming.
+
+Download the podcast; or subscribe. Music today: The Pretenders' "My City Was Gone." Follow our Twitter feed. Join our Facebook group.
 
 ----
 # Transcribe

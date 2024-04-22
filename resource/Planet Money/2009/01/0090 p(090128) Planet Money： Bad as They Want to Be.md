@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The latest idea for saving U.S. financial institutions is to have one big bank mop up all the toxic assets and figure out a way to sell them. Economist Larry Ausubel says it's doable. Plus: Felix Salmon of Portfolio hates on ex-Merrill Lynch CEO John Thain, and a listener rations sawdust - for a very good reason.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/99981552/npr_99981552.mp3?e=99981552&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The latest idea for saving U.S. financial institutions is to have one big bank mop up all the toxic assets and figure out a way to sell them. Economist Larry Ausubel says it's doable. Plus: Felix Salmon of Portfolio hates on ex-Merrill Lynch CEO John Thain, and a listener rations sawdust - for a very good reason. 
 
 https://www.npr.org/sections/money/2009/01/hear_bad_as_they_want_to_be.html
 

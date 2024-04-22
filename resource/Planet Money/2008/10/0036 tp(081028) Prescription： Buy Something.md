@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-A survey finds consumer confidence at its lowest level in 35 years. An economist walks us through the wreckage. Plus: A guy in Rhode Island says he has stopped spending money. Simon Johnson, economist, diagnoses the trouble with that.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96240461/npr_96240461.mp3?e=96240461&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+A survey finds consumer confidence at its lowest level in 35 years. An economist walks us through the wreckage. Plus: A guy in Rhode Island says he has stopped spending money. Simon Johnson, economist, diagnoses the trouble with that. 
 
 ----
 # Transcribe

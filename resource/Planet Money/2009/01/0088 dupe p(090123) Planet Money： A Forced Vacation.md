@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Which would you rather have happen to you — a layoff, a pay cut or a furlough? As companies look for ways to slash costs without canning workers, more of you are reporting that you're being asked to take short periods off without pay. Listeners Elizabeth Call and Daniel Cross wonder what will happen next, and economist Howard Rosen worries. Plus: A newly laid-off Microsoft worker gets advice from his kids. 
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/99821541/npr_99821541.mp3?e=99821541&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Which would you rather have happen to you — a layoff, a pay cut or a furlough? As companies look for ways to slash costs without canning workers, more of you are reporting that you're being asked to take short periods off without pay. Listeners Elizabeth Call, Daniel Cross, and Sarah Yarrito wonder what will happen next, and economist Howard Rosen worries. Plus: A newly laid-off Microsoft worker gets advice from his kids. 
 
 https://www.npr.org/sections/money/2009/01/hear_a_forced_vacation.html
 

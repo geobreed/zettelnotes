@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-John Ewan of the British Bankers Association leads a TED spread party by telling us all about LIBOR — it's fun, really. David Kestenbaum wonders just how global this global recession really is — hey, Liberia's growing. And a Florida man reveals his latest strategy for finding a job.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/99477012/npr_99477012.mp3?e=99477012&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+John Ewan of the British Bankers Association leads a TED spread party by telling us all about LIBOR — it's fun, really. David Kestenbaum wonders just how global this global recession really is — hey, Liberia's growing. And a Florida man reveals his latest strategy for finding a job. 
 
 https://www.npr.org/sections/money/2009/01/hear_mixed_signs_of_the_times_1.html
 

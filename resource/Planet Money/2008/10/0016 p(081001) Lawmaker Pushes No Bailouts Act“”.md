@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Rep. Peter DeFazio has his own answer to saving Wall Street. The Oregon Democrat calls his bill the "No Bailouts Act." He says the method has been proven to work and could cost almost nothing.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95272813/npr_95272813.mp3?e=95272813&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Rep. Peter DeFazio has his own answer to saving Wall Street. The Oregon Democrat calls his bill the "No Bailouts Act." He says the method has been proven to work and could cost almost nothing. 
 
 ----
 # Transcribe

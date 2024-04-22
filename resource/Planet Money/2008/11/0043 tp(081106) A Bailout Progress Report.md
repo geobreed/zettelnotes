@@ -14,7 +14,31 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The Treasury Department gave its first report to Congress on the bailout this week. So far, it's given banks $115 billion in capital. And a new study examines how the political pasts of a company's board of directors affect its stock prices.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96725650/npr_96725650.mp3?e=96725650&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The Treasury Department gave its first report to Congress on the bailout this week. So far, it's given banks $115 billion in capital. And a new study examines how the political pasts of a company's board of directors affect its stock prices. 
+
+https://www.npr.org/sections/money/2008/11/hear_a_bailout_update.html
+
+Hear: A Bailout Progress Report
+November 6, 20084:52 PM ET
+
+Caitlin Kenney
+13-Minute Listen
+
+Twin Cities, MN, 11.02.08
+Elizabeth Deviney
+Hear: A Bailout Progress Report
+
+Today on Planet Money:
+
+The Treasury Department gave its first report to Congress on the bailout this week. We find out where the money is going and what's next. Plus: A look at what happens when big corporations make friends with one political party and another party comes into power.
+
+-- Treasury spokesperson Jennifer Zuccarelli gives us a status update on the bailout.
+
+-- Finance professor Michael Weisbach tells us how the political affiliations of a company's bard of directors affect its stock prices.
+
+Download the podcast; or subscribe. Intro music today: Oasis's "Live Forever." Get the opening clip in full. Follow our Twitter feed. Join our Facebook group.
 
 ----
 # Transcribe

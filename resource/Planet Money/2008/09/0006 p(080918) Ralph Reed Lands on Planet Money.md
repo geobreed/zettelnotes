@@ -13,7 +13,31 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Ralph Reed provides one of the clearest takes on the financial crisis that we've yet heard, and then switches over to politics. Plus, more questions from listeners and answers from us.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/94784211/npr_94784211.mp3?e=94784211&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Ralph Reed provides one of the clearest takes on the financial crisis that we've yet heard, and then switches over to politics. Plus, more questions from listeners and answers from us. 
+
+https://www.npr.org/sections/money/2008/09/listen_up_ralph_reed_lands_on.html
+
+Listen Up: Ralph Reed Lands On Planet Money
+September 18, 20086:14 PM ET
+
+Laura Conaway
+23-Minute Listen
+
+Ralph Reed, Republican strategist, guest on Planet Money
+Gregory Smith/AP Photo
+Listen Up: Ralph Reed Lands On Planet Money
+
+Just press play.
+
+Republican strategist Ralph Reed just happened to be visiting the bureau today. Adam caught him in the hall and asked him to sit for a podcast interview. Reed gamely agreed.
+
+Also, we've got some more listener questions, and yet more on the way. Adam's guesting on washingtonpost.com tomorrow, where he'll take yet more questions. I'll post a link.
+
+(For those of you asking how the financial crisis on Wall Street affects the price of milk, stay tuned.)
+
+Download the podcast here; subscribe here. Follow our Twitter feed here. (Music from Elizabeth Mitchell's "You Are My Little Bird.")
 
 ----
 # Transcribe (below)

@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-President-elect Barack Obama now has to deal with the economy. Listeners give him some ideas. And an urban planner says economic pain in the suburbs helped push Obama over the top.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96706983/npr_96706983.mp3?e=96706983&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+President-elect Barack Obama now has to deal with the economy. Listeners give him some ideas. And an urban planner says economic pain in the suburbs helped push Obama over the top. 
 
 ----
 # Transcribe

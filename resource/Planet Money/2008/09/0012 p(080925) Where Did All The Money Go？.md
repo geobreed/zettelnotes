@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-As Congress moves toward agreement on a bailout of Wall Street, a listener asks where all the money went. Plus: What, exactly, is money?'
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95065730/npr_95065730.mp3?e=95065730&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+As Congress moves toward agreement on a bailout of Wall Street, a listener asks where all the money went. Plus: What, exactly, is money? 
 
 ----
 # Transcribe

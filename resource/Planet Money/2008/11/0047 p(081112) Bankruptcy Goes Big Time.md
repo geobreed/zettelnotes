@@ -14,15 +14,14 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The largest auto maker in the U.S. is now worth less than Footlocker. Is bankruptcy an option? And we look at how a one line change in tax code brought in billions for big corporations.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96939761/npr_96939761.mp3?e=96939761&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The largest auto maker in the U.S. is now worth less than Footlocker. Is bankruptcy an option? And we look at how a one line change in tax code brought in billions for big corporations. 
 
 https://www.npr.org/sections/money/2008/11/hear_bankruptcy_goes_big_time.html
 
-
 Hear: Bankruptcy Goes Big Time
 November 12, 20086:50 PM ET
-
-By 
 
 Caitlin Kenney
 19-Minute Listen
@@ -44,9 +43,7 @@ Download the podcast; or subscribe. Intro music today: Led Zeppelin's "Dazed and
 ----
 # Transcribe
 
-**(Adam Davidson):**
-
-**(Laura Conaway):**
+https://www.npr.org/transcripts/96939197
 
 (SOUNDBITE OF ARCHIVED RECORDING)
 

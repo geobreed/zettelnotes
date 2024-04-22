@@ -14,7 +14,29 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-William Longbrake, former CFO of Washington Mutual, says he first started worrying about the housing market in 2002. He gives Adam Davidson and Alex Blumberg the inside view of WaMu's collapse, and his take on the Wall Street bailout.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95314273/npr_95314273.mp3?e=95314273&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+William Longbrake, former CFO of Washington Mutual, says he first started worrying about the housing market in 2002. He gives Adam Davidson and Alex Blumberg the inside view of WaMu's collapse, and his take on the Wall Street bailout. 
+
+https://www.npr.org/sections/money/2008/10/hear_wamu_banker_bares_soul.html
+
+Hear: WaMu Banker Bares Soul
+October 2, 20085:50 PM ET
+
+Laura Conaway
+25-Minute Listen
+
+The biggest federal bank failure in U.S. history.
+Robert Giroux/Getty Images
+Hear: WaMu Banker Bares Soul
+
+Today on Planet Money:
+
+William Longbrake served as chief financial officer for Washington Mutual from 1982 through 2002. Longbrake retired a few weeks before the bank suffered the largest bank bankruptcy in US history last month.
+
+In an interview that's equal parts terrifying, reassuring and revealing, the financial executive gives Alex Blumberg and Adam Davidson his view of the financial crisis and the need for intervention.
+
+Download the podcast; or subscribe. Follow our Twitter feed.
 
 ----
 # Transcribe

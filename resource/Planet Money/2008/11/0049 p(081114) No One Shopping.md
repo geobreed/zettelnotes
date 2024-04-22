@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-With Black Friday fast approaching, things aren't looking bright for retailers. Retail sales saw the biggest drop off on record last month. The good news: the FDIC is now insuring gift cards. Plus: finance professor John Cochrane says he doesn't get what all the fuss is about.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97037781/npr_97037781.mp3?e=97037781&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+With Black Friday fast approaching, things aren't looking bright for retailers. Retail sales saw the biggest drop off on record last month. The good news: the FDIC is now insuring gift cards. Plus: finance professor John Cochrane says he doesn't get what all the fuss is about. 
 
 https://www.npr.org/sections/money/2008/11/hear_no_one_shopping.html
 

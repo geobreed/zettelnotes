@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Call it a mystery solved. We've been promising to figure out who slipped language into the $700 billion bailout that allows the federal government to buy stock in banks. Now, David Kestenbaum reveals all, in conversations that include lawmakers Spencer Bachus, Barney Frank and Jim Moran It all happened in on the floor of the House of Representatives. Bonus: Why did U.S. Treasury Secretary Henry Paulson need all those M&Ms?
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98542507/npr_98542507.mp3?e=98542507&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Call it a mystery solved. We've been promising to figure out who slipped language into the $700 billion bailout that allows the federal government to buy stock in banks. Now, David Kestenbaum reveals all, in conversations that include lawmakers Spencer Bachus, Barney Frank and Jim Moran It all happened in on the floor of the House of Representatives. Bonus: Why did U.S. Treasury Secretary Henry Paulson need all those M&Ms? 
 
 https://www.npr.org/sections/money/2008/12/hear_700_billion_bailout_myste.html
 

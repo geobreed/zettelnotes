@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The U.S. lowered a benchmark interest rate today, along a slew of central banks in other countries. Amir Sufi says the fix may lie in getting people to spend more money, somehow. Simon Johnson objects to Europe's patchwork response to the financial crisis. And David Kestenbaum finds a guy who knew the bailout boss way back when.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95528289/npr_95528289.mp3?e=95528289&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The U.S. lowered a benchmark interest rate today, along a slew of central banks in other countries. Amir Sufi says the fix may lie in getting people to spend more money, somehow. Simon Johnson objects to Europe's patchwork response to the financial crisis. And David Kestenbaum finds a guy who knew the bailout boss way back when. 
 
 ----
 

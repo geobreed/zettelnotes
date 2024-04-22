@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-If you got a truncated version of the Oct. 7 Planet Money, here's the real deal. We're making stops in Iceland, New York City and the Federal Reserve.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95528241/npr_95528241.mp3?e=95528241&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+If you got a truncated version of the Oct. 7 Planet Money, here's the real deal. We're making stops in Iceland, New York City and the Federal Reserve. 
 
 ----
 # Transcribe

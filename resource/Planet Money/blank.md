@@ -21,4 +21,4 @@ citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/
 **(Laura Conaway):**
 
 
-**(John Snow):**
+**faster whisper:**

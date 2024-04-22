@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-In a special appearance with This American Life host Ira Glass, Adam Davidson wrestles with the $700 billion question. Plus: A talk with an advocate for a tax break on children's wooden arrows, and a currency analyst gets gloomier after news from Europe.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95384324/npr_95384324.mp3?e=95384324&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+In a special appearance with This American Life host Ira Glass, Adam Davidson wrestles with the $700 billion question. Plus: A talk with an advocate for a tax break on children's wooden arrows, and a currency analyst gets gloomier after news from Europe. 
 
 https://www.npr.org/sections/money/2008/10/hear_is_the_bailout_worth_it.html
 

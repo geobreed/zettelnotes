@@ -14,10 +14,11 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-French President Nicolas Sarkozy is hailing a G-20 declaration that credit ratings agencies be monitored as a victory. A banking professor says the declaration means nothing without enforcement. And a journalist in China calls capitalism a mixed bag.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97181611/npr_97181611.mp3?e=97181611&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+French President Nicolas Sarkozy is hailing a G-20 declaration that credit ratings agencies be monitored as a victory. A banking professor says the declaration means nothing without enforcement. And a journalist in China calls capitalism a mixed bag. 
 
 https://www.npr.org/sections/money/2008/11/hear_worlds_shortest_editorial.html
-
 
 Hear: World's Shortest Editorials
 November 18, 20086:19 PM ET

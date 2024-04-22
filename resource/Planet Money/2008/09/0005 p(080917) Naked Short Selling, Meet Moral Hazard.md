@@ -13,7 +13,27 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Alex Blumberg takes a peek at the arcane Wall Street practice of naked short selling, while Adam Davidson considers what happens when the Street takes a break from moral hazard.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/94745096/npr_94745096.mp3?e=94745096&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Alex Blumberg takes a peek at the arcane Wall Street practice of naked short selling, while Adam Davidson considers what happens when the Street takes a break from moral hazard. 
+
+https://www.npr.org/sections/money/2008/09/listen_up_naked_short_selling.html
+
+Listen Up: Naked Short Selling, Meet Moral Hazard
+September 17, 20086:29 PM ET
+
+Laura Conaway
+27-Minute Listen
+
+The game goes on.
+Paul Ellis/AFP/Getty Images
+Listen Up: Naked Short Selling, Meet Moral Hazard
+
+Just press play.
+
+Today's podcast is in. We're on about "naked short selling," thanks to Alex Blumberg, and "moral hazard," thanks to Adam Davidson. How did I end up hanging out with these guys?
+
+Download here; subscribe here. More questions answered, next time.
 
 ----
 # Transcribe (below)

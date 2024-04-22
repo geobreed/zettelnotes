@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Lately, we're hearing from economists that they don't much like the nearly $900 billion stimulus bill now before Congress. Kent Smetters of Wharton puts the smackdown on the Congressional Budget Office. Then Steve Fazzari of Washington University calls it a disappointing, if standard, grab bag of programs. Plus: People line up in Times Square for free money from "Bailout Bill."
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/100258261/npr_100258261.mp3?e=100258261&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Lately, we're hearing from economists that they don't much like the nearly $900 billion stimulus bill now before Congress. Kent Smetters of Wharton puts the smackdown on the Congressional Budget Office. Then Steve Fazzari of Washington University calls it a disappointing, if standard, grab bag of programs. Plus: People line up in Times Square for free money from "Bailout Bill." 
 
 https://www.npr.org/sections/money/2009/02/hear_meet_bailout_bill.html
 

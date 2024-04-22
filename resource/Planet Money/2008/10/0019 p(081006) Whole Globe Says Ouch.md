@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Stocks in Europe tanked enough to make America's trading freefall on Monday look not so bad. But don't be fooled. The global economy needs a fix. It's just not necessarily going to like the medicine.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95455550/npr_95455550.mp3?e=95455550&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Stocks in Europe tanked enough to make America's trading freefall on Monday look not so bad. But don't be fooled. The global economy needs a fix. It's just not necessarily going to like the medicine. 
 
 https://www.npr.org/sections/money/2008/10/hear_whole_globe_says_ouch.html
 

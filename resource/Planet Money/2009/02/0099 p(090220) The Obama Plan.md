@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-President Barack Obama this week unveiled a $275 billion plan to prevent homeowners from going into foreclosure. The questions now range from whether it's big enough to whether it's aggressive enough. Robert Shiller of the Case-Shiller Index calls it a crucial part of America's social compact. Amir Sufi of the University of Chicago Booth School of Business fears it may not be tough enough to make banks or homeowners play. Plus: Your Twitter questions galore.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/100946800/npr_100946800.mp3?e=100946800&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+President Barack Obama this week unveiled a $275 billion plan to prevent homeowners from going into foreclosure. The questions now range from whether it's big enough to whether it's aggressive enough. Robert Shiller of the Case-Shiller Index calls it a crucial part of America's social compact. Amir Sufi of the University of Chicago Booth School of Business fears it may not be tough enough to make banks or homeowners play. Plus: Your Twitter questions galore. 
 
 https://www.npr.org/sections/money/2009/02/hear_the_obama_plan.html
 

@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-President-elect Barack Obama wants to give the auto industry more help. One economist says they need it to survive. And an auto worker from Detroit calls for an economist housecall.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-mp3/npr/pmoney/2008/11/20081111_pmoney_565a19aa-7941-404b-b204-4d9a4495b67a.mp3?d=1161&size=18579166&e=96884814&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+President-elect Barack Obama wants to give the auto industry more help. One economist says they need it to survive. And an auto worker from Detroit calls for an economist housecall. 
 
 https://www.npr.org/sections/money/2008/11/hear_auto_industry_asks_for_he.html
 

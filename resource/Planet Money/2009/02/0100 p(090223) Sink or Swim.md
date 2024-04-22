@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Citigroup spent the weekend in talks with the U.S. government over a plan to convert the taxpayers' holdings from preferred to common stock. Rolf Winkler of Option Armageddon walks guest host Uri Berliner through what that means. Plus: Janos Samu of Concorde Securities gives a brief history of Europe's own subprime crisis. And PTA president Caroline Raye makes up for shortcomings at an elementary school in Gainesville, Fla.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/101070432/npr_101070432.mp3?e=101070432&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Citigroup spent the weekend in talks with the U.S. government over a plan to convert the taxpayers' holdings from preferred to common stock. Rolf Winkler of Option Armageddon walks guest host Uri Berliner through what that means. Plus: Janos Samu of Concorde Securities gives a brief history of Europe's own subprime crisis. And PTA president Caroline Raye makes up for shortcomings at an elementary school in Gainesville, Fla. 
 
 https://www.npr.org/sections/money/2009/02/hear_sink_or_swim.html
 

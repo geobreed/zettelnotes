@@ -14,6 +14,8 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97892895/npr_97892895.mp3?e=97892895&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
 Two workers wrestling with layoffs turn their attention to an argument that's standard fare for academics: Namely, that a flexible economy is a healthy economy. If companies can't fire people, argues one economist, they won't hire them, either. 
 
 https://www.npr.org/sections/money/2008/12/hear_layoffs_are_good_for_us.html

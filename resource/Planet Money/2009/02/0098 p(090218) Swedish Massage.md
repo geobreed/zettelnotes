@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-With some of the biggest U.S. banks looking, um, insolvent, we're hearing more talk about nationalizing them. Hey, it worked for the Swedes, right? Leif Pagrotsky, vice chairman of the Swedish central bank, says his nation isn't quite a perfect model for Americans. Bonus: Economist Paul Krugman, winner of the Nobel Prize, takes questions from the Twitter crowd.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/100841680/npr_100841680.mp3?e=100841680&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+With some of the biggest U.S. banks looking, um, insolvent, we're hearing more talk about nationalizing them. Hey, it worked for the Swedes, right? Leif Pagrotsky, vice chairman of the Swedish central bank, says his nation isn't quite a perfect model for Americans. Bonus: Economist Paul Krugman, winner of the Nobel Prize, takes questions from the Twitter crowd. 
 
 https://www.npr.org/sections/money/2009/02/swedish_massage.html
 

@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-On Tuesday, U.S. Treasury Secretary Tim Geithner is expected to unveil the government's latest plan for helping troubled banks. Early reports say it's something of a public/private partnership. Economist Adam Posen of the Peterson Institute says the big problem is that American leaders still are getting tough enough on banks. Plus: A Vermont selectman says his townspeople have been hypnotized by the promise of a stimulus check.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/100476483/npr_100476483.mp3?e=100476483&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+On Tuesday, U.S. Treasury Secretary Tim Geithner is expected to unveil the government's latest plan for helping troubled banks. Early reports say it's something of a public/private partnership. Economist Adam Posen of the Peterson Institute says the big problem is that American leaders still are getting tough enough on banks. Plus: A Vermont selectman says his townspeople have been hypnotized by the promise of a stimulus check. 
 
 https://www.npr.org/sections/money/2009/02/get_tougher_please.html
 

@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Stocks fell 778 points — the biggest point dro in one day ever — after the House of Representatives spike a rescue of Wall Street. A group of economists reveal how scared they are — and how scared they think you should be. The news is not great, but we haven't yet reached calamity.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95197289/npr_95197289.mp3?e=95197289&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Stocks fell 778 points — the biggest point dro in one day ever — after the House of Representatives spike a rescue of Wall Street. A group of economists reveal how scared they are — and how scared they think you should be. The news is not great, but we haven't yet reached calamity. 
 
 ----
 # Transcribe

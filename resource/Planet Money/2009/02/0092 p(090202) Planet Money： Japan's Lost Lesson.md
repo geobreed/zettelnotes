@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Japan spent the 1990s slogging through the economic doldrums, complete with soup kitchens and homeless camps. Economist Adam Posen of the Peterson Institute says the misery could have been cut to three years if policymakers had acted boldly. Posen, author of Japan's Financial Crisis and Its Parallels to U.S. Experience, says the Obama administration needs to get more aggressive with banks, and in a hurry. Plus: The $800 billion stimulus bill now before Congress contains a little money for oversight of the spending — a perhaps very little, reports Adam Davidson. And a Finnish Facebook group fights a message to spend, not save.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/100167873/npr_100167873.mp3?e=100167873&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Japan spent the 1990s slogging through the economic doldrums, complete with soup kitchens and homeless camps. Economist Adam Posen of the Peterson Institute says the misery could have been cut to three years if policymakers had acted boldly. Posen, author of Japan's Financial Crisis and Its Parallels to U.S. Experience, says the Obama administration needs to get more aggressive with banks, and in a hurry. Plus: The $800 billion stimulus bill now before Congress contains a little money for oversight of the spending — a perhaps very little, reports Adam Davidson. And a Finnish Facebook group fights a message to spend, not save. 
 
 https://www.npr.org/sections/money/2009/02/hear_japans_lost_lesson.html
 

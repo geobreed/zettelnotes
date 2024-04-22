@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-On Tuesday, the Federal Reserve cut its key interest rate to the lowest on record. On Wednesday, Simon Johnson, former chief economist of the International Monetary Fund, explains what the federal funds target rate is, why anyone would want to change, how you do that, and what it means. Bonus: He loves the Mardi Gras feel of it.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98425739/npr_98425739.mp3?e=98425739&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+On Tuesday, the Federal Reserve cut its key interest rate to the lowest on record. On Wednesday, Simon Johnson, former chief economist of the International Monetary Fund, explains what the federal funds target rate is, why anyone would want to change, how you do that, and what it means. Bonus: He loves the Mardi Gras feel of it. 
 
 ----
 # Transcribe

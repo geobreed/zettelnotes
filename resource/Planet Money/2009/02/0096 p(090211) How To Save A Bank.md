@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-When the previous Treasury secretary, Henry Paulson, announced his plans for saving the economy, professor Jeremy Siegel of Wharton gave him an F-. We asked Siegel to grade the performance of the new Treasury secretary, Tim Geithner. Plus: Adam Davidson and Alex Blumberg pick apart the Geithner plan, starting with the question of what it really takes to rescue a bank.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/100600610/npr_100600610.mp3?e=100600610&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+When the previous Treasury secretary, Henry Paulson, announced his plans for saving the economy, professor Jeremy Siegel of Wharton gave him an F-. We asked Siegel to grade the performance of the new Treasury secretary, Tim Geithner. Plus: Adam Davidson and Alex Blumberg pick apart the Geithner plan, starting with the question of what it really takes to rescue a bank. 
 
 https://www.npr.org/sections/money/2009/02/hear_how_to_save_a_bank_1.html
 

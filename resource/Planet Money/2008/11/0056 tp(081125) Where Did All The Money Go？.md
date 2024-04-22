@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-In the first part of our series on the nature of money, we talked about money as relationship. Today, we look at what happens when your sugar up and leaves. Where, oh, where does the money go? Plus, a divine Economist House Call with Simon Johnson and a Presbyterian pastor from California.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97488703/npr_97488703.mp3?e=97488703&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+In the first part of our series on the nature of money, we talked about money as relationship. Today, we look at what happens when your sugar up and leaves. Where, oh, where does the money go? Plus, a divine Economist House Call with Simon Johnson and a Presbyterian pastor from California. 
 
 ----
 # Transcribe

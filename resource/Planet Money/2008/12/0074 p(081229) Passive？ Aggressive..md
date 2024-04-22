@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Satyajit Das says the old economic order got obliterated this year, and without a new one in place, no one really knows what to do. Bill Bernstein, neurologist and genius economic historian, has an idea. Bernstein backs a style of playing in the market called "passive index investing."
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98802156/npr_98802156.mp3?e=98802156&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Satyajit Das says the old economic order got obliterated this year, and without a new one in place, no one really knows what to do. Bill Bernstein, neurologist and genius economic historian, has an idea. Bernstein backs a style of playing in the market called "passive index investing." 
 
 https://www.npr.org/sections/money/2008/12/hear_the_power_of_passive.html
 

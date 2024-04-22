@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-New claims for unemployment benefits dipped a bit last week. Economist Karl Case says you can't draw too much on numbers about jobs, though, because no one really knows how many people are working — and how many wish they were.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97832388/npr_97832388.mp3?e=97832388&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+New claims for unemployment benefits dipped a bit last week. Economist Karl Case says you can't draw too much on numbers about jobs, though, because no one really knows how many people are working — and how many wish they were. 
 
 https://www.npr.org/sections/money/2008/12/hear_the_mystery_of_jobs.html
 

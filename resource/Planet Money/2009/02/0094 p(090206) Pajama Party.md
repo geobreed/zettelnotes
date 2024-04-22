@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-A rule designed to protect the U.S. textile industry from Chinese exports just expired. The big loser, says Rachel Lousie Snyder, author of Fugitive Denim, may be the makers of pajamas - in Cambodia. Plus: Simon Johnson talks national debt, and a San Francisco radio host says he was stunned by the number of calls from listeners on a special segment about looking for work.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/100345722/npr_100345722.mp3?e=100345722&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+A rule designed to protect the U.S. textile industry from Chinese exports just expired. The big loser, says Rachel Lousie Snyder, author of Fugitive Denim, may be the makers of pajamas - in Cambodia. Plus: Simon Johnson talks national debt, and a San Francisco radio host says he was stunned by the number of calls from listeners on a special segment about looking for work. 
 
 https://www.npr.org/sections/money/2009/02/hear_pajama_party.html
 

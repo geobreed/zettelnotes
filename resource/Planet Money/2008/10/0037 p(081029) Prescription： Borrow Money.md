@@ -14,7 +14,35 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-As expected, the Federal Reserve lowered the interest rate we all care about by another half point, to 1. Economic historian John Steele Gordon says the idea is to get people to borrow money again — responsibly this time, please. Plus: What's a yen-carry trade?
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96295437/npr_96295437.mp3?e=96295437&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+As expected, the Federal Reserve lowered the interest rate we all care about by another half point, to 1. Economic historian John Steele Gordon says the idea is to get people to borrow money again — responsibly this time, please. Plus: What's a yen-carry trade? 
+
+https://www.npr.org/sections/money/2008/10/hear_prescription_borrow.html
+
+Hear: Prescription? Borrow.
+October 29, 20085:52 PM ET
+
+Laura Conaway
+20-Minute Listen
+
+Stormy weather.
+Koichi Kamoshida/Getty Images
+Hear: Prescription? Borrow.
+
+Today on Planet Money:
+
+The Federal Reserve cut a benchmark interest rate today for the second time in three weeks — knocking half a percentage point off the federal funds target rate. It's now at 1, and it's all about you.
+
+-- Vinny Catalano, president of the Blue Marble investment firm, says the stock market will go up. Absolutely. Positively. Up.
+
+-- Economic historian John Steele Gordon explains the Federal Reserve wants people to borrow money — responsibly.
+
+-- Listener Sean Flynn wants to know what in the world is a "yen-carry trade."
+
+-- Currency strategist Meg Browne of Brown Brothers Harriman explains the yen-carry trade, and more.
+
+Download the podcast; or subscribe. Music today: Muddy Water's "Blow Wind Blow." Follow our Twitter feed. Join our Facebook group.
 
 ----
 # Transcribe

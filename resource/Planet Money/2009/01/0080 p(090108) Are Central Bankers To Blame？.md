@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-President-elect Barack Obama headed to the place least receptive to his economic policy today, George Mason University. Obama was there to pitch his plan for economic stimulus. Russ Roberts tells us why he and the other economists at George Mason don't think it's such a great idea. Plus, a critique of the government's response to the current crisis from a man who knows a lot about central banking.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/99142981/npr_99142981.mp3?e=99142981&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+President-elect Barack Obama headed to the place least receptive to his economic policy today, George Mason University. Obama was there to pitch his plan for economic stimulus. Russ Roberts tells us why he and the other economists at George Mason don't think it's such a great idea. Plus, a critique of the government's response to the current crisis from a man who knows a lot about central banking. 
 
 https://www.npr.org/sections/money/2009/01/hear_what_the_fed_did_wrong.html
 

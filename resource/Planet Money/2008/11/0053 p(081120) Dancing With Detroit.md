@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-A bipartisan group of lawmakers says it's ready to bail out the auto industry. Congressional Democrats say show us the plan and we'll show you the money. Plus: Adam Davidson reveals what's bothering him about the stock market.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97289278/npr_97289278.mp3?e=97289278&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+A bipartisan group of lawmakers says it's ready to bail out the auto industry. Congressional Democrats say show us the plan and we'll show you the money. Plus: Adam Davidson reveals what's bothering him about the stock market. 
 
 https://www.npr.org/sections/money/2008/11/hear_dancing_with_detroit.html
 

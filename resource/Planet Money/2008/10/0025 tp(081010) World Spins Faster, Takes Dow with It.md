@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Wall Street set a new benchmark today. Oct. 10 marked the first time the Dow Jones Industrial Average has traveled a thousands points in a single day. Meanwhile, the wheels of the great bailout machine rolled forward. A listener asks everyone's mortgage question. And a panhandler finds his niched in the faltering global economy.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95626330/npr_95626330.mp3?e=95626330&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Wall Street set a new benchmark today. Oct. 10 marked the first time the Dow Jones Industrial Average has traveled a thousands points in a single day. Meanwhile, the wheels of the great bailout machine rolled forward. A listener asks everyone's mortgage question. And a panhandler finds his niched in the faltering global economy. 
 
 ----
 

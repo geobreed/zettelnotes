@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-You're kidding me, thought Simon Johnson of Baseline Scenario, after reading an analyst's call for the U.S. to pay top dollar for toxic assets — or else. Johnson and Adam Davidson call up the person who wrote it, Joseph LaVorgna of Deutsche Bank. Plus: Adam put himself through a viewing of The International, a supposed thriller. For real edge-of-your-seat cinema, he says, listen to this tale from John Moscow.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/100694502/npr_100694502.mp3?e=100694502&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+You're kidding me, thought Simon Johnson of Baseline Scenario, after reading an analyst's call for the U.S. to pay top dollar for toxic assets — or else. Johnson and Adam Davidson call up the person who wrote it, Joseph LaVorgna of Deutsche Bank. Plus: Adam put himself through a viewing of The International, a supposed thriller. For real edge-of-your-seat cinema, he says, listen to this tale from John Moscow. 
 
 https://www.npr.org/sections/money/2009/02/hear_pay_up_or_else.html
 

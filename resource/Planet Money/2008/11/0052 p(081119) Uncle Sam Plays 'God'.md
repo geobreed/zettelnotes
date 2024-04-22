@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-U.S. officials are now deciding which banks should get a potentially life-saving injection of public capital, and which shouldn't. A bank analyst says the government is "playing God" with the banks — and maybe playing politics, too. Plus: a song about a central banker's dilemma.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97234143/npr_97234143.mp3?e=97234143&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+U.S. officials are now deciding which banks should get a potentially life-saving injection of public capital, and which shouldn't. A bank analyst says the government is "playing God" with the banks — and maybe playing politics, too. Plus: a song about a central banker's dilemma. 
 
 https://www.npr.org/sections/money/2008/11/hear_uncle_sam_plays_god.html
 

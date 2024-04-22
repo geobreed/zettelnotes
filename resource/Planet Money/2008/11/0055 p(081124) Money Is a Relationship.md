@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-We spend a lot of time worrying about money, working for money, spending money, saving money — but what, exactly, is money? Where does it come from? Where does it go? Today, we begin a series that we hope will answer those questions (and, you know, more). First up: Economist Niall Ferguson, who describes money in a rather surprising way.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97430139/npr_97430139.mp3?e=97430139&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+We spend a lot of time worrying about money, working for money, spending money, saving money — but what, exactly, is money? Where does it come from? Where does it go? Today, we begin a series that we hope will answer those questions (and, you know, more). First up: Economist Niall Ferguson, who describes money in a rather surprising way. 
 
 https://www.npr.org/sections/2011/01/18/11/hear_money_is_a_relationship.html
 

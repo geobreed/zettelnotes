@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The U.S. Senate turned back a rescue plan for the Big 3 automakers, sparking more cries that the industry is too big to fail. But as historian John Steele Gordon tells us, we've heard that one before — from the American makers of steel.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98214480/npr_98214480.mp3?e=98214480&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The U.S. Senate turned back a rescue plan for the Big 3 automakers, sparking more cries that the industry is too big to fail. But as historian John Steele Gordon tells us, we've heard that one before — from the American makers of steel. 
 
 https://www.npr.org/sections/money/2008/12/hear_too_big_to_fail_take_two.html
 

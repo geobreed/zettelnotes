@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The Old Order Amish of Lancaster County, Pennsylvania almost never use credit. The one exception is when they buy a farm, and for that they turn Bill O'Brien. The mortgage broker says he has never lost money on an Amish deal, though he does put a thousand miles a week on his car.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98167238/npr_98167238.mp3?e=98167238&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The Old Order Amish of Lancaster County, Pennsylvania almost never use credit. The one exception is when they buy a farm, and for that they turn Bill O'Brien. The mortgage broker says he has never lost money on an Amish deal, though he does put a thousand miles a week on his car. 
 
 ----
 # Transcribe

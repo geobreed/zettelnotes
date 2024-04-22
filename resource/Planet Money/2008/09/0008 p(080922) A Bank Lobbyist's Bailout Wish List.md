@@ -14,7 +14,35 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-With Congress determined to pass a $700 billion bailout bill for Wall Street this week, bank lobbyist Scott Talbott gives us his view of the action. He wants the economy back on his feet — but he wants no limit on pay for the boss.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/94895105/npr_94895105.mp3?e=94895105&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+With Congress determined to pass a $700 billion bailout bill for Wall Street this week, bank lobbyist Scott Talbott gives us his view of the action. He wants the economy back on his feet — but he wants no limit on pay for the boss. 
+
+https://www.npr.org/sections/money/2008/09/listen_up_what_a_bank_lobbyist.html
+
+Listen Up: What A Bank Lobbyist Wants Right Now
+September 22, 20082:06 PM ET
+
+Laura Conaway
+10-Minute Listen
+
+Sen. Chris Dodd (left) wants to limit executive pay. The bank lobbyists, not so much.
+Lauren Victoria Burke/AP
+Listen Up: What A Bank Lobbyist Wants Right Now
+
+Just press play.
+
+Scott Talbott, chief lobbyist for the Financial Services Roundtable, will spend this week trying to get the best possible deal for his clients — the bankers and investors whose miserable balance sheets almost brought down the global economy last week.
+
+Now those bankers stand to get a bailout from the federal government. Congress and the U.S. Treasury are working out a bill that would allow the Treasury secretary to buy up $700 billion in bad debts.
+
+Talbott says the banking industry does bear some responsibility for things going so wrong, though not sole responsibility. Among his concerns this week: erasing a proposed provision to limit executive pay.
+
+Update: Congress says White House agrees to limit executive pay.
+
+---------
+
+Download the podcast; or subscribe. Follow our Twitter feed.
 
 ----
 # Transcribe

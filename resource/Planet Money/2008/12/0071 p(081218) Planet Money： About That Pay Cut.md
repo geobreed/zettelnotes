@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Listeners have been writing in with their stories of reductions in overall pay — whether in tips, 401k contributions or hourly wages. Economist Howard Rosen of the Peterson Institute considers the bigger picture.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98483432/npr_98483432.mp3?e=98483432&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Listeners have been writing in with their stories of reductions in overall pay — whether in tips, 401k contributions or hourly wages. Economist Howard Rosen of the Peterson Institute considers the bigger picture. 
 
 https://www.npr.org/sections/money/2008/12/hear_about_that_pay_cut.html
 

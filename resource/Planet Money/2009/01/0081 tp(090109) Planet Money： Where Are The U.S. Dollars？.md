@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-If you add up all the U.S. currency out there, it's about $900 billion. But where is it? Economists Ken Rogoff and Richard Porter say a lot of it is overseas, and much of the missing currency helps people avoid paying taxes. The good news: It helps the economy. Plus: Money trader Will Aston-Reese gives the (improving, but still not great) view from his desk. And a laid-off worker wonders if she can get even a low-wage job.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/99192906/npr_99192906.mp3?e=99192906&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+If you add up all the U.S. currency out there, it's about $900 billion. But where is it? Economists Ken Rogoff and Richard Porter say a lot of it is overseas, and much of the missing currency helps people avoid paying taxes. The good news: It helps the economy. Plus: Money trader Will Aston-Reese gives the (improving, but still not great) view from his desk. And a laid-off worker wonders if she can get even a low-wage job. 
 
 ----
 # Transcribe

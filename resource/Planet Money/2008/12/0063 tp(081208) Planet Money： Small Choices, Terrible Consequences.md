@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Small decisions by consumers and companies are reshaping the economy we live in. Eric Hansen, a clothing distributor, says these days even people who have money and jobs aren't spending. Hansen's orders have been drastically cut. This week, he's selling stock for cheap in a Manhattan sample sale.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97986914/npr_97986914.mp3?e=97986914&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Small decisions by consumers and companies are reshaping the economy we live in. Eric Hansen, a clothing distributor, says these days even people who have money and jobs aren't spending. Hansen's orders have been drastically cut. This week, he's selling stock for cheap in a Manhattan sample sale. 
 
 ----
 # Transcribe

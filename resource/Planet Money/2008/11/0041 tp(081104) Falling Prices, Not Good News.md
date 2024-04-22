@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-A listener asks "what's so bad about lower prices anyway?" An economist answers.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96595872/npr_96595872.mp3?e=96595872&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+A listener asks "what's so bad about lower prices anyway?" An economist answers. 
 
 ----
 # Transcribe

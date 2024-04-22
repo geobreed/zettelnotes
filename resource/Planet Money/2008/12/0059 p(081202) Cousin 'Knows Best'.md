@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-We don't usually listen to our family members when they offer financial advice. But what happens when your family member happens to be Planet Money host Adam Davidson? Adam tells his cousin, DJ, that he's facing economic danger. A finance professor says not so fast.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97730264/npr_97730264.mp3?e=97730264&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+We don't usually listen to our family members when they offer financial advice. But what happens when your family member happens to be Planet Money host Adam Davidson? Adam tells his cousin, DJ, that he's facing economic danger. A finance professor says not so fast. 
 
 https://www.npr.org/sections/money/2008/12/hear_uncle_knows_best.html
 

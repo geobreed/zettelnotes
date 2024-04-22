@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Inflation went down last month, which turns out to be unnerving instead of good news. That's partly because consumers are keeping their money in their pockets, even with cheaper prices on the shelves. Plus: An expert gives us a tour of one bank's balance sheet.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95808623/npr_95808623.mp3?e=95808623&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Inflation went down last month, which turns out to be unnerving instead of good news. That's partly because consumers are keeping their money in their pockets, even with cheaper prices on the shelves. Plus: An expert gives us a tour of one bank's balance sheet. 
 
 ----
 # Transcribe

@@ -5,7 +5,7 @@ tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
 
-Economists whack the McCain and Obama plans around. And meet the listener who got an unpleasant surprise in his credit card statement — the company lowered his limit $500. He says he never saw it coming.
+
 
 ----
 
@@ -18,6 +18,9 @@ Economists whack the McCain and Obama plans around. And meet the listener who go
 ----
 # Article
 
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95761922/npr_95761922.mp3?e=95761922&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Economists whack the McCain and Obama plans around. And meet the listener who got an unpleasant surprise in his credit card statement — the company lowered his limit $500. He says he never saw it coming. 
 
 # Transcribe
 ----

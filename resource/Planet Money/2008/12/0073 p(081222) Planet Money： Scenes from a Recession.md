@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The economy is sending surprising signals, not all of them easy to decode. A Brooklyn printing company says business is down, but a certain kind of salesperson still buys big. A California man wonders why his mall's Christmas tree looks so puny. And recycling folks out West say they suffer when consumers put off buying that new TV.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98620304/npr_98620304.mp3?e=98620304&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The economy is sending surprising signals, not all of them easy to decode. A Brooklyn printing company says business is down, but a certain kind of salesperson still buys big. A California man wonders why his mall's Christmas tree looks so puny. And recycling folks out West say they suffer when consumers put off buying that new TV. 
 
 https://www.npr.org/sections/money/2008/12/hear_scenes_from_a_recession.html
 

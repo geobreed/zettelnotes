@@ -14,7 +14,34 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-China has committed $586 billion to try to help the economy. It's not a bailout. It's a stimulus package. Plus: trying to buy a sweet potato on the streets of Beijing.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96832514/npr_96832514.mp3?e=96832514&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+China has committed $586 billion to try to help the economy. It's not a bailout. It's a stimulus package. Plus: trying to buy a sweet potato on the streets of Beijing. 
+
+https://www.npr.org/sections/money/2008/11/hear_chinas_big_stimulus.html
+
+Hear: China's Big Stimulus
+November 10, 20084:59 PM ET
+
+Caitlin Kenney
+15-Minute Listen
+
+A street vendor in Beijing, China.
+NPR
+Hear: China's Big Stimulus
+
+Today on Planet Money:
+
+The federal government is throwing billions more at AIG, and the insurance giant isn't the only one in need of help; the Big Three want a loan of their own. Plus: China has its own solution to deal with the struggling economy: a $586 billion stimulus package.
+
+-- Simon Johnson talks about how China plans to spend the money.
+
+-- Laura checks in with an audio postcard from the streets of Beijing.
+
+Download the podcast; or subscribe. Intro music today: Air's "Universal Traveler." Get the opening clip in full. Follow our Twitter feed. Join our Facebook group.
+
+    Simon Johnson
+    China
 
 ----
 # Transcribe

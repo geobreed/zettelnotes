@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Listeners wrote to ask us what happened to all the private mortgage premiums that were paid to help banks in case of foreclosures. An insurance expert says they'll only be of limited help.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/97116912/npr_97116912.mp3?e=97116912&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Listeners wrote to ask us what happened to all the private mortgage premiums that were paid to help banks in case of foreclosures. An insurance expert says they'll only be of limited help. 
 
 https://www.npr.org/sections/money/2008/11/hear_pmi_to_the_rescue.html
 

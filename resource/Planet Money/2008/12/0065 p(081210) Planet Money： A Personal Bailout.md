@@ -14,6 +14,8 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98109418/npr_98109418.mp3?e=98109418&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
 An Oregon woman bought a house at the peak of the market, just before prices began to tumble. Back in school, she keeps up with the monthly note — painful as it is. Now she wonders whether she can stop paying the mortgage and get help in the bailout. An economist gives his take on that. 
 
 https://www.npr.org/sections/money/2008/12/hear_a_personal_bailout_1.html

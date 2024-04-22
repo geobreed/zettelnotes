@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-An incoming president faces a downturn in the economy. He gathers the best and brightest economists, and they get to work on a stimulus program of government spending. No, we're not talking about President-elect Barack Obama. We're talking about President John F. Kennedy, whose policies author Robert J. Samuelson says ultimately backfired. The Washington Post op-ed columnist looks at the long-range consequences of Kennedy's deficit spending. Samuelson, author of The Great Inflation and Its Aftermath, says even the smartest folks make mistakes. The worst of it, he argues, is that you sometimes need decades to see the effects.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98855175/npr_98855175.mp3?e=98855175&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+An incoming president faces a downturn in the economy. He gathers the best and brightest economists, and they get to work on a stimulus program of government spending. No, we're not talking about President-elect Barack Obama. We're talking about President John F. Kennedy, whose policies author Robert J. Samuelson says ultimately backfired. The Washington Post op-ed columnist looks at the long-range consequences of Kennedy's deficit spending. Samuelson, author of The Great Inflation and Its Aftermath, says even the smartest folks make mistakes. The worst of it, he argues, is that you sometimes need decades to see the effects. 
 
 https://www.npr.org/sections/money/2008/12/hear_the_lessons_of_jfk.html
 

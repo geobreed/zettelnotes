@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Federal officials today announced they were using the $700 billion bailout to buy shares in banks. The idea is to get money into them quickly so they can start lending money again. It's a big idea — and a smart one, many economists say — but the devil is in the details. We hear one of the earliest objections.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95713031/npr_95713031.mp3?e=95713031&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Federal officials today announced they were using the $700 billion bailout to buy shares in banks. The idea is to get money into them quickly so they can start lending money again. It's a big idea — and a smart one, many economists say — but the devil is in the details. We hear one of the earliest objections. 
 
 ----
 # Transcribe

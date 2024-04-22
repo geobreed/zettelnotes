@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The U.S. government has thrown hundreds of billions of dollars at banks, but the banks say they're still in trouble. What will it take to save them? Simon Johnson, former chief economist of the International Monetary Fund, says about about $1.5 trillion, maybe — whatever it costs for Plan A plus Plan B. Plus: a bank lobbyist can't rule out nationalization, and a report on Treasury Secretary-designate Tim Geithner's confirmation hearing.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/99702267/npr_99702267.mp3?e=99702267&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The U.S. government has thrown hundreds of billions of dollars at banks, but the banks say they're still in trouble. What will it take to save them? Simon Johnson, former chief economist of the International Monetary Fund, says about about $1.5 trillion, maybe — whatever it costs for Plan A plus Plan B. Plus: a bank lobbyist can't rule out nationalization, and a report on Treasury Secretary-designate Tim Geithner's confirmation hearing. 
 
 https://www.npr.org/sections/money/2009/01/hear_banks_need_more.html
 

@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-New York investment manager Bernard Madoff stands accused in a $50 billion Ponzi scheme at his firm. As Felix Salmon of Portfolio explains, Madoff wasn't running a hedge fund. But in hindsight, things might have turned out better that way.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98314152/npr_98314152.mp3?e=98314152&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+New York investment manager Bernard Madoff stands accused in a $50 billion Ponzi scheme at his firm. As Felix Salmon of Portfolio explains, Madoff wasn't running a hedge fund. But in hindsight, things might have turned out better that way. 
 
 ----
 # Transcribe

@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-William Isaac calls himself the only person in America who has ever nationalized a bank. Isaac, who led the FDIC during the Savings and Loan crisis of the 1980s, doesn't recommend it. Plus: Economists reveal what they heard in Treasury Secretary Tim Geithner's interview with Planet Money, and an architect watches her business disappear.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/101280154/npr_101280154.mp3?e=101280154&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+William Isaac calls himself the only person in America who has ever nationalized a bank. Isaac, who led the FDIC during the Savings and Loan crisis of the 1980s, doesn't recommend it. Plus: Economists reveal what they heard in Treasury Secretary Tim Geithner's interview with Planet Money, and an architect watches her business disappear. 
 
 https://www.npr.org/sections/money/2009/02/hear_he_nationalized_a_bank.html
 

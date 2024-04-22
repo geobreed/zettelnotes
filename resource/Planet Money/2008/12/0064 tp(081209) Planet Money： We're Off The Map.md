@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The loss of jobs looks typical, says economist Ian Shepherdson, but the drop-off in consumer spending makes this recession unlike any he has ever seen — anywhere, anytime. Plus: What you learn from a Craigslist tour of Washington State.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98056491/npr_98056491.mp3?e=98056491&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The loss of jobs looks typical, says economist Ian Shepherdson, but the drop-off in consumer spending makes this recession unlike any he has ever seen — anywhere, anytime. Plus: What you learn from a Craigslist tour of Washington State. 
 
 ----
 # Transcribe

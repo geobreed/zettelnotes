@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-Twenty of the world's industrialized and emerging economies are gathering in Washington this weekend. One poverty expert tries to ensure that the little guys won't be left out.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96988493/npr_96988493.mp3?e=96988493&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Twenty of the world's industrialized and emerging economies are gathering in Washington this weekend. One poverty expert tries to ensure that the little guys won't be left out. 
 
 ----
 # Transcribe

@@ -13,7 +13,10 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 
 ----
 # Article
-With the insurance big AIG on the ropes today, questions from listeners poured in. Mike Pesca joins Adam Davidson and Laura Conaway for another round of answers to queries from inquiring minds on Planet Money.
+
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/94745093/npr_94745093.mp3?e=94745093&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+With the insurance big AIG on the ropes today, questions from listeners poured in. Mike Pesca joins Adam Davidson and Laura Conaway for another round of answers to queries from inquiring minds on Planet Money. 
 
 ----
 # Transcribe

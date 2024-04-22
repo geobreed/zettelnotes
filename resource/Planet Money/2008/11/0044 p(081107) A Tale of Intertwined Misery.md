@@ -14,11 +14,38 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The full version of our collaborative reporting project with the New York Times. David Kestenbaum has a story about schools, Adam has a story about an Irish bank, and Alex Blumberg has a story about municipal bonds.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/96769174/npr_96769174.mp3?e=96769174&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The full version of our collaborative reporting project with the New York Times. David Kestenbaum has a story about schools, Adam has a story about an Irish bank, and Alex Blumberg has a story about municipal bonds. 
+
+https://www.npr.org/sections/money/2008/11/hear_a_tale_of_intertwined_mis.html
+
+Hear: A Tale of Intertwined Misery
+November 7, 20086:37 PM ET
+
+Caitlin Kenney
+21-Minute Listen
+
+The Whitefish Bay High School, where nearly 900 students attend classes.
+Ashley Gilbertson/New York Times/NPR
+Hear: A Tale of Intertwined Misery
+
+Today on Planet Money:
+
+A tale of global economic disaster from Planet Money and the New York Times.
+
+-- David Kestenbaum starts it off with a story about school districts that bought some of the worst stuff on Wall Street.
+
+-- Adam Davidson picks it up with an Irish bank that has its own problems.
+
+-- Alex Blumberg wraps it up with the story of how troubles at that Irish bank and other banks are wreaking havoc all across America.
+
+(READ: New York Times reporter Charles Duhigg's story From Midwest to M.T.A., Pain From Global Gamble )
+
+Download the podcast; or subscribe. Intro music today: Thomas Newman's "The Bad Beginning" from "Lemony Snicket's A Series of Unfortunate Events." Follow our Twitter feed. Join our Facebook group.
 
 ----
 # Transcribe
-
 
 https://www.npr.org/transcripts/96767486
 

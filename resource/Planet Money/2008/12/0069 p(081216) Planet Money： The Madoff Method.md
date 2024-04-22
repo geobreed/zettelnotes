@@ -14,7 +14,9 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Article
 
-The Federal Reserve sliced its benchmark interest rate to the lowest on record. Housing starts notch a historic low. Consumer prices fall again. But Ian Shepherdson says we're still not in deflation yet. Nor are we near the bottom. Plus: A Barnard professor explains the kind of trade a Bernard Madoff might have been making. It's complicated, but you'll get it.
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/98359485/npr_98359485.mp3?e=98359485&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+The Federal Reserve sliced its benchmark interest rate to the lowest on record. Housing starts notch a historic low. Consumer prices fall again. But Ian Shepherdson says we're still not in deflation yet. Nor are we near the bottom. Plus: A Barnard professor explains the kind of trade a Bernard Madoff might have been making. It's complicated, but you'll get it. 
 
 https://www.npr.org/sections/money/2008/12/hear_madoffs_method.html
 

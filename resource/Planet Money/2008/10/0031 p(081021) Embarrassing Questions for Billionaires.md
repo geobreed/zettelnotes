@@ -5,9 +5,47 @@ tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
 
-Mark Cuban owns the Dallas Mavericks, a cable network and the brand-new BailoutSleuth.com. Plus: We answer a listener question about auctions and credit default swaps. Hang in there; we're all catching up.
 
 ----
+# Points
+
+- 
+
+----
+# Article
+
+https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/ondemand.npr.org/anon.npr-podcasts/podcast/510289/95959845/npr_95959845.mp3?e=95959845&t=podcast&p=510289&sc=siteplayer&aw_0_1st.playerid=siteplayer
+
+Mark Cuban owns the Dallas Mavericks, a cable network and the brand-new BailoutSleuth.com. Plus: We answer a listener question about auctions and credit default swaps. Hang in there; we're all catching up. 
+
+https://www.npr.org/sections/money/2008/10/hear_mark_cuban_checks_in.html
+
+Hear: Mark Cuban Checks In
+October 21, 20085:52 PM ET
+
+Laura Conaway
+27-Minute Listen
+
+He owns it.
+Stephen Dunn/Getty Images
+Hear: Mark Cuban Checks In
+
+Today on Planet Money:
+
+We get a little closer to the credit default swap mess, and a lot closer to a certain billionaire. Plus: The Federal Reserve takes another amazing step.
+
+-- Money trader John Chirico sees light at the end of the tunnel.
+
+-- Listener Eli Naduris-Weissman wants to know the deal with using auctions to settle claims on credit default swaps. (And don't we all.)
+
+-- Economist Hampton Finer of the New York State Insurance Department fields Mosier's question.
+
+-- Mark Cuban, the Mark Cuban, tells Adam Davidson and Mike Pesca about his new investigative site, BailoutSleuth.com. (Interview includes question Adam calls his most embarrassing ever.)
+
+Download the podcast; or subscribe. Music today: Camper Van Beethoven's "Change Your Mind." Follow our Twitter feed. Join our Facebook group.
+
+----
+# Transcribe
 
 https://www.npr.org/transcripts/95957321
 
