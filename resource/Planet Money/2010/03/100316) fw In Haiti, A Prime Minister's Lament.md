@@ -152,3 +152,405 @@ Copyright © 2010 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+Hello and welcome to NPR's Planet Money. I'm Adam Davidson and I'm Khana Jafiwal. Today
+is Tuesday, March 16th and this is a special Direct from Haiti podcast. Adam, you and I
+are right now in downtown Port-au-Prince in our second week of reporting here. And today
+on the podcast, we're bringing you our interview with Prime Minister Jean-Max Belarus.
+That's right, Khana. But first, the Planet Money Indicator. Even in Haiti, we have
+a Planet Money Indicator.
+It is $50 billion.
+Are you sure, Khana? I'm pretty sure it's $3.5 billion.
+Oh, actually, it might be $14 billion.
+The indicator is how much money Haiti needs as a result of this earthquake. And we don't
+know the answer because nobody knows the answer. We've actually heard every one of
+those estimates. We've heard lots of other estimates. But for now, anyway, there
+is no consensus number. But there are thousands of people trying to figure it
+out.
+That is the main reason we are here in Haiti. We've been trying to track how
+everyone involved comes up with this number, how basically the world and the
+Haitian government come together to do something that hasn't happened in a very
+long time to create a self-sustaining Haitian economy and one that doesn't
+depend on constant aid from the rest of the world.
+And we're very excited to bring you a conversation with a man at the very
+center of these decisions, the Prime Minister of Haiti.
+Right. You've probably heard a lot about René Proval. He's the president.
+He is, of course, the head of state. But Jean-Max Belarive runs the Haitian
+government day to day.
+He invited us to his house, the large official Prime Minister's residence.
+We sat with him next to a wall that looked like it was about to collapse
+because it was on us. It was very badly damaged in the earthquake.
+And he told us what every Haitian tells you these days, his earthquake
+story.
+And Prime Minister Belarive's office is up on a hill from the
+presidential palace. It's normally like a 15-minute drive to downtown, to
+the palace. But the night of the earthquake, the roads were filled with
+rubble and abandoned cars.
+So he got on the back of some stranger's motorcycle and rode down the
+hill. And it took him a while to realize how big a deal this was.
+You see all the little problems.
+You don't see the big perspective. At least I didn't see the big
+perspective. I was going down. I see a man, a group of people trying
+to save a man and their house. We were just giving hands.
+We get to other places. People needed to be evacuated to go to
+some hospital. You just give them the information.
+So it was a sequence of not little things, but it was big drama
+for those people. But it was just a sequence of reaction
+to personal small dramas.
+And when I get to the president's house at a time, a lot of people
+were arriving. And we were gathering the information.
+And at that time, we realized the scale of what happened.
+And we say, okay, at that time, the first reaction is, okay, we
+have to ask for some help. Because obviously, no communication.
+Everybody is, all the ministries are destroyed.
+We have to get some help. And we send people to French
+embassy, destroy. We send people to the minusta, destroy.
+So we say, wow, even the people that are supposed to
+help us are in a bad situation.
+Minusta, by the way, is the huge UN mission here.
+It's UN peacekeeping forces, police, hospitals, and the UN
+lost nearly 100 people, including its top two officials.
+It's hard to explain how big a deal the UN is in Haiti.
+I mean, it's almost like the UN is a shadow government.
+Haiti has no army. The UN is the Haitian army, effectively.
+Haiti has a very small and relatively new police force.
+So the UN is effectively in charge of the police.
+And even before the earthquake, the UN fed a lot of
+Haitians, brought water to a lot of Haitians,
+provide basic care to a lot of Haitians.
+Right. It's huge here.
+So it's not just that Haiti lost the people that would help
+the country respond to a major disaster.
+They lost the people who helped the country run every day.
+And at this moment, as Prime Minister Jean-Max Belarive is
+on the back of this motorcycle, you know,
+maybe the darkest moment in Haiti's really dark history,
+Belarive realizes he might have just been handed the
+chance, the break, the ability to completely alter
+Haiti's destiny.
+Chance, break, ability.
+Chana, I'm noticing that you are very studiously
+avoiding the word opportunity.
+You did not say that he was handed the opportunity
+to change Haiti's destiny.
+I was trying very hard to avoid that word.
+He doesn't like that word.
+Right.
+Jean-Max Belarive, the Prime Minister,
+told us that he thinks it's really tasteless
+to use the word opportunity.
+Although I have to say, Chana,
+it's probably the word we hear the most from
+Haitians these days, how this is an opportunity.
+Jean-Max Belarive, by the way,
+says that there are a lot of words he does not like
+to use these days.
+One of them is decentralization.
+That was really popular a few weeks ago.
+Everyone was saying, oh, we have to move people
+out of Port-au-Prince.
+It's this ridiculously overcrowded city.
+We have to get people to have a reason to stay
+in other parts of the country.
+But for a variety of reasons,
+a lot of Haitian government officials do not like
+the word decentralization.
+So Jean-Max Belarive uses the new official
+word de-concentration.
+Haiti's re-foundation must be based on de-concentration.
+That's another big one.
+That's actually maybe the biggest one.
+Re-foundation, as in we need to start writing
+the plan for Haiti's re-foundation,
+as opposed to reconstruction.
+People here don't like the word reconstruction
+because reconstruction means building what Haiti had
+before and nobody wants that.
+Normally you are rebuilding a country after a disaster.
+What we had before the disaster was a country
+where the wealth was not well distributed,
+where you had too much concentration
+of the population in the same place.
+And those, of course, are just some of the problems.
+Haiti famously has some of the worst roads in the world.
+We were on the national road, the national road,
+and it is in many parts just an unpaved gravel mess.
+And that's from before the earthquake.
+There's all sorts of problems here.
+And of course, Bélaïve knew all that
+the day he was appointed, long before the earthquake.
+He knew it 10 years ago when he was an advisor
+to the prime minister then.
+But suddenly on January 12th, right after the earthquake,
+he's standing there right outside
+the collapsed presidential palace
+and he has this new thought.
+Wow, if you have to rebuild that country
+that was so badly built without urbanism,
+without land management, with over-concentration
+of population in one place.
+So population, we have to sit back
+and see what are we going to do.
+Because obviously we will need a lot of money to do that.
+Obviously we will need a lot of efforts to do that.
+Let's make it right.
+And it was immediate.
+It was not a process to get there.
+Opportunity is a strong word under all those deaths.
+But we immediately see the opportunity
+to do what perhaps no government will have the guts to do.
+Move population, destroys house
+where they have to be destroyed
+because they were not safe.
+So we see at the same time all those opportunity
+that could give to the government more authority
+to decide we have to do that, we have to do that.
+Before people had not paid the price
+and perhaps would not have not understood
+what has to be done.
+For example, very rapidly, some people say
+you knew that you were in a seismic zone
+and you didn't do anything.
+What should have been done?
+Destroyed the National Palace and rebuilt it.
+Destroyed the Parliament and rebuilt it.
+Destroyed 250,000 homes and rebuilt it.
+It was not possible at that time.
+You have no money to do that.
+You would have get no support for the international community
+at that level of reconstruction that you needed.
+So you have no real choice.
+So now he has a choice,
+a choice that no Haitian leader has ever had.
+He gets to choose how to rebuild.
+How to refound, Adam, refound.
+Right, right, how to refound Haiti
+the way it should be.
+Deconcentrated, seismically sound, more equal,
+actually self-sustaining.
+But there's one more thing he needs to achieve that.
+He needs money.
+And unfortunately, asking the world for money
+after a disaster is something Haitian leaders
+have a lot of experience with.
+We know that solidarity when you have a disaster
+is a short wave.
+If you don't nurture it, it will fade.
+So we have to keep contact.
+We have to build agreements with them.
+We have to build conventions with them.
+So it will be more solid.
+It seems the world is going to respond
+more than it ever has before.
+Port-au-Prince is packed full
+with people planning the refounding of the country.
+I know, I can't even list all the people
+we personally have met in the last week and a half
+who are here in Haiti analyzing and planning
+the new refoundation of Haiti.
+There are a lot of them.
+I'm just thinking through some of the people.
+So on Monday, remember,
+we were with the deputy mayor of Newark, New Jersey,
+who's in town as a volunteer
+with the International Rescue Committee, a big NGO.
+They're trying to get small businesses up and running.
+On Wednesday, we were with the World Food Program.
+They're doing all this analysis of the local economy
+to try and support it so that Haiti can feed itself
+when the World Food Program no longer provides free rice.
+And we met this group of private sector people
+who are writing their own plan.
+We actually spent most of the week in this big room
+filled with hundreds of people
+from probably more than 20 different countries.
+Couldn't count how many international agencies
+all sitting around tables,
+figuring out exactly what needs to be done in Haiti
+in water, in housing, in roads, in health, in education.
+There's this whole table of guys
+we went up to them and said, what are you working on?
+And they said, oh,
+we're working on solid waste removal.
+They were the specialists in human waste.
+So this is called the PDNA,
+the post-disaster needs assessment.
+And it's a process that the UN and the World Bank
+and the European Commission have where they go,
+they fly hundreds of experts into countries
+that have faced a crisis.
+And the experts at the end of this process
+come out with a report that's used as a guide
+to what was damaged
+and how much it's gonna cost to fix things.
+So on March 31st, the end of this month,
+they'll present the final report in New York.
+The UN is holding a major donors conference
+and the world will come together then
+and decide how much to give Haiti,
+what to spend their money on.
+And we kept hearing
+from high level Haitian government officials
+from Big Shot Haitians in the private sector
+that they're actually really worried about this room.
+They are worried about the fact
+that there are all these international aid experts
+writing this international PDNA document
+that's gonna be used by the international community
+to decide what to fund and what not to fund.
+And basically how to refound Haiti.
+And they keep saying, you know,
+we want this process to be run by Haitians.
+Well, yeah, but the process is actually invited by Haiti.
+The Haitian Prime Minister,
+Bellerive invited the PDNA to happen in Haiti,
+but it's been, you know, it's been complicated.
+The UN set up a massive tent on their base
+to host all the people coming in for the PDNA.
+That was what happened first,
+but then the Haitian government said,
+no, they wanted it moved to something
+that was more, like more Haitian.
+So they rented a local hotel, the Caribe,
+to host the PDNA.
+And officially, there's an advisory group
+that oversees the PDNA process
+and it has several Haitian members appointed
+by Prime Minister Bellerive.
+But I gotta say, Hannah,
+I mean, we've spent a lot of time in this room
+and it's pretty clear.
+You see all these little work groups,
+the infrastructure group, the health group,
+the education group, and it seems pretty clear.
+Yes, there are some Haitians at each table,
+but the international experts are the ones really
+who seem to be calling the shots.
+I mean, after all, they are the ones
+who do this all the time.
+They fly around the world doing this kind of analysis.
+The Haitians, for the most part,
+have not had that experience.
+Right, well, you mentioned all that
+to Prime Minister Bellerive.
+We talked to a Spanish guy who's looking at roads
+and who's dealing with ports.
+We talked to a Colombian guy who's dealing with health.
+We talked to an Australian guy
+who's looking at macroeconomic conditions.
+And all of these people are reporting to a team
+that's Dutch and German and Salvadoran and Mexican.
+And it becomes confusing.
+Is it, in America, you know, we have the saying,
+he who pays the piper calls the tune.
+And with all the money coming from the World Bank,
+the US, are they, I guess I'm asking,
+like who gets to be in charge
+of the refoundation of Haiti?
+I am.
+Because basically, you go to the Caribbean place
+where you have all those experts
+coming from all over the world.
+But it's only the tip of the iceberg.
+You have the ministry working.
+I receive report of all the ministry
+and they are working in the ministry,
+giving them their program, their project, their plan.
+We have those meetings.
+After they close the Caribbean at six, seven,
+I have those meetings here sometimes
+until one, two o'clock in the morning.
+And we are building a national,
+a nation proposition from that.
+What we are going to present in New York
+is not the PDNA.
+The PDNA is the basis for us to propose something.
+But it will be a nation proposition
+based on the work of the expert of the PDNA
+when we feel it necessary to use it.
+But the main team that is working on the proposition
+on the programs, the project
+that are going to be proposed for funding
+are Haitians.
+But I don't, it's not for me something about sovereignty.
+It's not about nationalism.
+It's about efficiency.
+We strongly believe, the president, myself,
+and the government, that if you don't use Haitian,
+if you don't make a plan made by Haitian
+for the Haitian, it won't work.
+It didn't work the last 50 years.
+It's not going to work now.
+You have to put Haitians at the center
+of what the Haitian needs.
+I believe that we have some small comparative advantage
+to know what we need.
+You might have heard that noise as we were talking.
+That was a U.S. Army helicopter
+flying over the prime minister's house.
+Yes, they fly around a lot here.
+So, Adam, I mean, there is a reason
+why everyone is being so careful about words here
+and about protocol.
+This is a very delicate dance.
+The prime minister told us that he knows, he knows,
+the world thinks that the Haitian government
+is corrupt and ineffective.
+He thinks that's based on historical events
+and is no longer true, by the way.
+And actually, Hanna, you remember,
+when we finished the interview,
+he said that he was really surprised
+we didn't ask more about corruption,
+because usually foreign journalists that interview them
+just want to ask them all about corruption.
+Right, he said, aren't you going to ask me
+if I'm corrupt?
+But, you know, so clearly he knows
+much of the world doesn't trust the Haitian government.
+And at the same time, plenty of Haitian officials
+told us in our time here that, you know,
+they think the international community
+is a disorganized mess
+and is pursuing their own agendas.
+So here's what has to happen in the next two weeks.
+It is really daunting.
+The world has to figure out
+how to give billions of dollars to a country
+whose government they fundamentally don't trust.
+And the Haitian government has to figure out
+how to let this, you know what, Hanna,
+I'm just going to use the word.
+It's the right...
+Do it.
+Yeah, the Haitian government has to figure out
+how to let this opportunity
+for long-term economic growth...
+And frankly, for the government to gain more power
+over the country at the same time.
+Right, for the government to become stronger
+and the economy to become stronger.
+They have to figure out how to prevent
+that opportunity from being destroyed
+by international politics and mistrust.
+So we're going to keep a careful eye on this.
+This drama is playing out right now very intensely here,
+especially in Port-au-Prince.
+And over the next couple of weeks,
+it'll move to Santo Domingo, to New York.
+We're going to be following it all the way
+to the donor conference that happens
+at the end of this month in New York and beyond.
+But that's all for this installment
+of Planet Money Haiti.
+You can read more about our trip,
+including an update on Yves Lohs,
+the Haitian micro-entrepreneur
+we profiled a few weeks back.
+That's at npr.org slash money.
+And you can always send us your thoughts, feelings,
+suggestions to planetmoney at npr.org.
+I'm Adam Davidson.
+And I'm Khana Jaffee-Walt.
+Thanks for listening.

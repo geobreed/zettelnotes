@@ -278,3 +278,589 @@ Copyright © 2010 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+The good news is the more shovels are going to be going in the ground this spring and
+this summer than any time last year.
+Hello, and welcome to NPR's Plan Out Money.
+I'm Alex Bloomberg.
+And I'm Adam Davidson.
+Today is Tuesday, March 2nd, and that was Vice President Joe Biden at the top.
+He was talking about stimulus projects in Florida yesterday.
+Today on the show, well, Alex, I think if you tell us the Plan Out Money indicator, that'll
+get us right on path.
+Okay.
+The indicator is $8,851.
+All right.
+$8,851.
+Okay.
+I'm just going through all the economic data I have in my brain.
+I know what that must be.
+That must be the difference between the per capita GDP of Jamaica and the per capita
+GDP of Barbados.
+You are correct, $8,851,000 in GDP per capita.
+That is the difference between Jamaica and Barbados.
+And that GDP gap tells a huge story, a story we're going to be exploring on our podcast
+today.
+Of course, something that we see as central to the mission of Plan Out Money is to put
+a human face on abstract economic numbers.
+And Alex, you and I have said many times, there is no number more abstract but more
+important than GDP per capita.
+Right.
+When economists talk about GDP, it's like they're talking about love.
+And you're often like, what are you...
+What do you time about it?
+For them, it's so important.
+For the rest of us, it's a bunch of letters and words that we don't understand.
+But GDP per capita, basically, you divide the amount of money that is spent in a
+particular country in a year by the number of people in that country.
+And what that tells you, in rough terms, it's a way to compare how rich different
+countries are.
+Right.
+So Jamaica's GDP per capita is $5,571, Barbados' is $14,422.
+So that's a little over $5,000 versus $14,000.
+Barbados is almost three times richer in GDP per capita than Jamaica.
+Just by way of comparison, the U.S.'s GDP per capita is $45,230.
+So we're three times richer than Barbados, Barbados is three times richer than Jamaica.
+But we're not here to gloat.
+We're not here to gloat.
+No.
+And boy, Lichtenstein.
+We were looking at GDP per capita.
+Exactly.
+Everyone wishes they lived in Lichtenstein or Qatar.
+The Norwegians are laughing at us right now.
+Right.
+The reason we're looking at Jamaica and Barbados is that they're a really convenient way to
+compare two economies because they're two countries that are very similar in a lot
+of ways.
+They have similar populations, similar histories, similar governments.
+And by holding all of those things constant, effectively, it allows us to understand this
+thing, GDP per capita, and how it actually affects people.
+Right.
+When GDP grows, people get richer, obviously.
+They have more money to spend on things they want.
+But governments also have more money to spend on things that society values, which often
+means roads, police, and education.
+That's the sound of the Jamaican education system.
+So Adam, you know, I just got back from a trip to Jamaica and Barbados.
+I missed you, man.
+I missed you too.
+And I was looking at trying to put a human face on this gap, this GDP per capita gap.
+And one of the things that I did is I looked at the educational systems in both countries.
+And I went and visited a school in each country.
+And I tried to make them similar schools.
+So I visited elementary schools, both in poorer working class inner city neighborhoods.
+And first, we're going to go to Jamaica.
+So the woman ringing the bell, that's Candy Lee Crooks-Smith.
+She's the principal of Allmontown Elementary School in Kingston.
+And she took me on the tour of the school.
+It's a pretty small school.
+It's got a couple hundred students.
+And it's three sort of concrete cinder block buildings, maybe three stories tall.
+And they're surrounding this sort of concrete parking lot slash playground.
+You know, the buildings are pretty institutional, drab looking buildings.
+But they've been spruced up with bright colored paint.
+And the neighborhood where the school is located, Allmontown.
+It's an inner city, poor neighborhood inside Kingston.
+It's got these really narrow streets, low sort of concrete bungalows type of thing.
+The streets are almost more like alleyways, what you'd consider alleyways here.
+And you were telling me it's actually a sort of sketchy, scary neighborhood a little
+bit.
+It has a history of a lot of violence, especially gang violence.
+Yeah, it's a big problem in Jamaica generally.
+Yeah.
+And in Allmontown in particular.
+And you told me the thing that amazed me the most was that there was recently
+a Middle East summit of gang leaders where they actually called a truce.
+Right.
+Yeah.
+Candy Lee Crooks, the principal of the school told me about that.
+She actually grew up in this neighborhood.
+We're having a come.
+They have said that they have signed a peace treaty.
+So all is well.
+Once they have an outburst, there's a limitation in terms of access to the
+other roads and so on because war infractions might cause problems.
+So Candy Lee is basically, you know, she's got her school and she's trying to make it
+into a haven for kids in the neighborhood.
+But a lot of what she does, she has to find her own funding for because the government
+doesn't have enough money to provide for a lot of things in the school system.
+And so she just points these things out as we go on a tour of the school.
+Incomes and pay full joints can be caused by a lack of...
+So this class was a health class.
+They were solving multiple choice questions and I was standing next to this group of
+boys.
+They were maybe 10 or 11.
+And every time they got an answer right, they'd jump up and down and start celebrating.
+It was really cute.
+But Candy Lee pointed out that the new white boards that sat in the front of this
+classroom, they didn't come from the government.
+The white board was actually provided by the teacher himself because the school can't
+afford to change the chalkboards.
+And so you'll have teachers, as I said, the teachers have been working very hard.
+So there's a need.
+If we can't help, they actually go into their own pockets and they fill the need.
+I actually talked to the teacher who built the white board.
+I bought the formica and the plywood and I arranged and set it up myself.
+Did you just build it here?
+I built it here.
+This kind of thing happens all the time at Candy Lee's school at Allmontown Elementary.
+She's forced to scrounge for resources wherever she can because the government can't
+provide them.
+So, for example, we walked around the neighborhood with her a little bit.
+And literally, I'm not kidding, every person that she passed, she knew.
+And most of them, she'd somehow roped into doing some kind of work for the
+school.
+There's this guy who was a part-time laborer and he did maintenance work around
+the school.
+There's another guy who was helping out with music classes.
+And the music classes themselves were actually, they only existed because Candy Lee had
+convinced a Jamaican pop star to pay for a music teacher for the year.
+The government didn't provide a music teacher.
+And even the U.S.
+government, she was getting money from Allmontown as part of this USAID-funded
+program called Expanding Educational Horizons, which provides money for
+schools in Jamaica and through EEH, the Expanding Educational Horizons,
+Candy Lee was able to purchase some computers and a small computer lab.
+And the more I hear about Allmontown and this amazing principal, I think,
+God, what about the schools that don't have such an amazing principal?
+Exactly.
+None of this stuff would have existed in some of these other schools because
+it's sort of up to her.
+The government can't provide it.
+Right.
+It's just her hobbling together all these charitable donations.
+And even with all the help she's been able to wrangle out of every
+single person in her neighborhood, Candy Lee is up against such long odds.
+It was so shocking to learn how the Jamaican school system works.
+Every sixth grader takes this competency test.
+And this is probably the most important moment of your professional life.
+And you're only like 11.
+Yeah, basically.
+If you score well on the test, you get to go to one of Jamaica's good high
+schools, which they call traditional high schools.
+If you score poorly on the test, you're placed into a different type of
+school.
+And this is so confusing to me.
+For some reason, the really lousy schools are called upgraded high schools.
+Right, exactly.
+You really don't want to go to an upgraded.
+You don't want to go.
+Just keep that in mind.
+Traditional school equals good school.
+Upgraded school equals not so good school.
+And Candy Lee says if you land in one of the non-traditional,
+one of the upgraded schools.
+The bad schools.
+The bad schools.
+Then your options for the rest of your life, really, are pretty limited.
+The odds are more against them.
+And what does that mean when the odds are against?
+What does that mean?
+They graduate and?
+For most of them, in the non-traditional high schools,
+we have a lot of behavioral problems because these are the low achievers.
+And I think most of the students just basically give up.
+I know in times past, when I just started here, I taught the grade six level.
+And I had students who achieved 70s, 80s, and
+they were still placed in a non-traditional high school.
+But the students who got 10s and 20s, and they stopped working.
+Because there was no motivation there.
+I did my best and I'm still in a school with those who did nothing.
+Technically, what we have done is to ration life chances.
+This is Andrew Holness.
+He is the Jamaican Minister of Education.
+And he's well aware of the problems facing students like those at Almontown.
+If they don't make it to a traditional high school,
+their options are limited to low paying, non-skilled work.
+And a lot of students in this situation might drop out of the labor force
+entirely and find work in the so-called informal economy in Jamaica,
+which could mean drugs, which could mean gangs.
+Or it could simply mean under the table work,
+selling stuff on the side of the road, or that sort of thing.
+And here again, the amount of resources the government has at its
+disposal to spend on education is a big problem.
+It's a big problem for Andrew Holness.
+Because there aren't enough schools in Jamaica.
+He figures he needs around an extra billion dollars U.S.
+to build 150 new high schools.
+So that those kids that Kandy Lee was talking about, the decent but
+not spectacular students who score in the 70s or 80s on their tests,
+but still can't get into the good high schools.
+He needs to build schools so that those guys have a place to go.
+Instead of being consigned to a low performing,
+upgraded school where they know the odds are against them.
+And because there's not enough high schools for kids like this to go to,
+that all important test that Kandy Lee's sixth graders have to take,
+it's not really a skills assessment, he says.
+It's a rationing mechanism.
+We don't have enough secondary places.
+We can accommodate 67% of the secondary age population.
+So we have to ration.
+So we select the best grades and then we place them in schools
+that have a track record that match their grades.
+But there's a strong correlation with doing well in primary school
+at that level and your economic background.
+So technically what we have done is to guarantee persons who have
+a good economic background already, an even better economic background.
+So education instead of being the equalizer has contributed to
+the inequity and unevenness in the society.
+And so, Adam, of course, Kandy Lee, the principal at Allmontown,
+she knows all of this.
+She knows all these statistics.
+And basically, she knows that this test that they take in sixth grade
+is sort of determined for the rest of your life.
+And it weighs on her mind.
+And in fact, there's this one student in particular that she says
+she worries about all the time.
+He gives a lot of trouble in school, behavioral problems.
+But he's a brilliant boy,
+reading way above the grade two level.
+But he comes to school, he is unclean.
+He doesn't stay in the classroom.
+He fights a lot.
+And when I asked him, you know, what would you like to become?
+He said he wants to be a pilot.
+So I told him I'm going to find a pilot for him to speak with
+and to find out how that person became a pilot, you know.
+So off the top of my head, I think about that child all the time.
+He's just seven years old.
+And that's why I'm so worried, because at seven years old,
+he is like this.
+Then what's going to happen next year or two years from now,
+three years when he's 10?
+You know, I don't see a positive future for him
+if he continues how he is.
+The guidance counselor has been working with him.
+His classroom teacher loves him so much.
+I mean, you're doing so much with
+with the resources that you have.
+Do you think if I if I if I had more resources,
+there's all these things that I would do, what would you do?
+I'd purchase instruments for the students to use
+because it can't be teaching music and then there are no
+instruments for them to do the practice on.
+And also, I have pulled the students who are reading below
+grade level and I have hired a reading teacher,
+not paid by the ministry either.
+We're basically paying for that person.
+But I'm thinking if I could get just one extra person
+in every classroom to focus on the reading alone,
+I think we would achieve way more than what we're doing right now.
+All right, Adam.
+Yeah.
+You ready to go to Barbados?
+I would love to.
+Let's go.
+What does that bell mean?
+That means that we have to go back to our classes
+and start a new lesson.
+Oh, of course, I know that bell.
+That's the bell of the Lawrence T. Gay Primary School
+in Barbados' largest city, Bridgetown.
+That is right.
+I got a tour of this school with Beverly Paris,
+the principal there.
+And the neighborhood is very similar in makeup
+to Allmontown, the school in Jamaica.
+It's a working class, lower middle class neighborhood.
+Beverly Paris, the principal there,
+says there's plenty of kids that come from one parent
+homes, some of the parents are in prison,
+crime is a problem, although there's not
+anywhere near the gang warfare
+that there is in Kingston.
+But the school itself, it just has a lot more resources.
+Beverly walked me around from classroom to classroom.
+And you know, the classrooms looked similar in many ways.
+Both schools had lots of bright colors,
+lots of shapes cut from construction paper.
+But Beverly's classrooms, they just
+had a lot more technology.
+The television on the wall and so on, so.
+Television, there's like a little cubbies and everything.
+I'm just going to like nice little desks everywhere.
+And I see up there, there's a, it looks like a server closet.
+That's the, yeah, that's the network system there for you.
+There's a computer that you can get on the internet?
+Yes, yes, well, yes, anything you can get on the internet
+at any point in time of the year, yes.
+And of course, it's not just technology.
+You remember how hard Candie Lee Crook-Smith
+was working in Jamaica just to try
+to get some kind of music classes for her kids?
+In Beverly's school, extracurriculars
+are just part of the regular day.
+We have, we're at two o'clock.
+A bell goes, each of our students,
+every children in the school is involved
+in something that he or she likes.
+So you do things, you can do art,
+you can do football, you can play hockey,
+you can do traditional games,
+you can do table tennis, you can go to tennis,
+you can do IT, computer, you can do public speaking.
+Well, Alex, did you find out
+if Americans can send their kids to these Barbados schools?
+I mean, it sounds amazing.
+And I'm picturing just like the best version
+of like a suburban high school
+in some wealthy suburban America.
+It's not like that.
+Like you wanna get that image out of your mind.
+And in fact, the schools from the outside,
+they don't look that different.
+It's like sort of the cinder block concrete construction.
+And, but you know, that's been sort of painted
+to spruce it up, but it's still
+pretty institutional looking.
+It's just that, you know,
+the school in Barbados just has lots more space
+and the classrooms are just filled with more stuff,
+more equipment, more teachers,
+more specialists, that sort of thing.
+And in fact, I asked Beverly,
+the principal in Barbados,
+the same question I asked Candy Lee Crook Smith,
+the principal in Jamaica.
+I asked her what she wished she had,
+but didn't actually have.
+And she, like every hardworking principal
+everywhere around the world said, you know,
+she would love to have more stuff for her kids.
+And that she was often going fundraising
+to try to get more stuff for her classrooms,
+new beakers for the science lab or educational games
+that the younger kids could play with,
+like clocks with the hands that you turn
+and stuff like that.
+But she emphasized she got quite a bit
+from the Ministry of Education.
+Basically at this school,
+if we cannot, we shouldn't come play.
+Because we have most of what we want.
+We would probably want a few smaller numbers.
+We'd want things like child psychology,
+psychology at the schools and nursing and so on.
+But we have it more to this end.
+We have person that we can call on.
+Once you call, somebody comes.
+We are pretty okay.
+We don't have much to complain about,
+that's the honest truth.
+We don't have a lot to complain about.
+If things that we complain about,
+we can probably not complain all the time.
+I gotta say Alex,
+you and I have been to a lot of countries
+and outside of like totalitarian dictatorships,
+it is pretty rare to find someone saying,
+yeah, I have nothing to complain about.
+My government has given me everything I need.
+I mean Barbados was, it was really,
+I mean we did these things when we were there.
+I went around just to interview
+random people in the street
+and I went to this mall.
+I went to a mall in Jamaica
+and I went to a mall in Barbados
+and I went up to this one guy in this mall
+and it was just this random guy,
+totally randomly selected.
+And I said, just tell me about life in Barbados.
+And literally the first thing he said was,
+well, we've been blessed with 40 years
+of excellent, excellent governance.
+Do you think we can get that in the US?
+I couldn't imagine.
+Like I don't think you could find one person
+in the United States
+who would answer that question that way.
+Not one, I don't think.
+Which makes it kind of confusing
+because obviously the point we're making
+with the schools is in a country
+where there's $15,000 in GDP per person,
+there's just more stuff for kids.
+There's more opportunity.
+Like a poor kid has more of a realistic expectation
+that they could climb up the socioeconomic ladder
+because if they're willing to work hard
+and they're bright,
+they can get all the resources they need.
+Whereas in Jamaica with $5,000 per person GDP,
+the government just doesn't have the surplus.
+There's just not enough.
+So they're actually, it's tragic.
+They're dividing kids into basically at 11.
+Either you're gonna have a potentially high earning life
+or you're not.
+And that's that.
+Yeah, and the statistics basically back that up.
+Like Andrew Holness, the Minister of Education Jamaica
+estimates that about 75% of sixth graders
+can read and write.
+So that's versus about 95% in Barbados
+and 95% literacy rate.
+And I wanna stress like the Jamaicans,
+they know all this and they were actually,
+I found refreshingly forthcoming about
+what the problems are and how they're gonna try
+to solve them.
+And they're actually, it seems like they're doing
+some pretty exciting things.
+Andrew Holness says that he knows he's not gonna get
+any more money to spend for a while.
+Jamaica's economy is sort of contracting again
+and they're in trouble.
+But that doesn't mean he can't improve
+what he already has.
+And he's trying to figure out how to get more
+of his elementary schools to operate
+more like Candy Lee's school, to operate at a higher level.
+And he figures that if he can get more primary school kids
+reading well, that that would go a long way
+to solving sort of a lot of problems in Jamaica.
+Because GDP doesn't just affect education,
+it works the other way.
+Education affects GDP too.
+And Holness says he wants to change the way
+that Jamaican policymakers have been thinking
+about education.
+He says they have to start thinking of education
+as an investment that will actually help the economy grow.
+The development of the human resource
+is not usually included directly
+as part of that equation that would generate growth.
+And we're saying it can't be.
+And we have seen where such flawed policies have happened.
+We have brought an investment with hotels,
+with billing new backside plants.
+And the first shortfall is we don't have
+the people to staff it.
+Now once you don't have the people to staff it,
+then you cannot expect to benefit from the FDI,
+the foreign direct investment.
+The quarrel is we've gotten so much investment,
+but why isn't the country growing?
+Jamaica has done fairly well
+with bringing in investment.
+But why is it that our GDP only limps along?
+Why is it that there is no transfer
+to the surrounding communities in any significant way?
+Why is it that the standard of living
+in these areas where the investment is taking place
+is not jumping?
+Clearly it has to do with how well
+the population in those areas
+can participate meaningfully in the development.
+And the only way you're gonna get that
+is through education.
+So this year Planet Money is looking at
+our big, big question, why are poor countries poor?
+Why are rich countries rich?
+And can we, are there things that can be done
+to make poor countries less poor?
+And I feel like your trip to Jamaican Barbados
+and the things you've told me about it
+really helped me crystallize
+some of the questions we're asking.
+And I remember you told me that Andrew Holness,
+the Jamaican education minister,
+said that they're pretty good.
+If you're a really bright poor kid,
+you're probably gonna be discovered.
+If you can pass the test.
+If you can pass the test and you're brilliant.
+You're gonna get put into a good school
+and you will, yeah, exactly.
+So the question is a Jamaican B student,
+like an average person.
+Are they trapped in poverty because it's a poor country?
+Is there no way to get them out of poverty?
+Whereas Barbados is somehow on the other side
+of that problem where they can actually give
+the human capital resources to the B students
+so that they too can share and, you know,
+global prosperity and all of that.
+And Jamaica and Barbados are really good places
+to ask these questions, right?
+Because economists are always saying it's so hard
+for us to know anything for sure
+because we can't do experiments
+like natural scientists do.
+We can't hold everything constant
+and look at one variable.
+But Jamaica and Barbados maybe possibly
+are a naturally occurring perfect test lab.
+Exactly.
+And you know, we got the idea of looking
+at Jamaica and Barbados as a good comparison
+from this paper that you came across, right?
+Yeah, I was actually listening
+to Russ Roberts' podcast Econ Talk
+and he interviewed Peter Blair Henry,
+who's now the Dean of the Stern School of Business at NYU,
+who wrote this paper doing exactly this,
+saying Jamaica and Barbados,
+two great economies to compare
+because they're so similar,
+but their growth, their economic growth
+has been so different.
+So what is different?
+Right, and I actually was in Jamaica
+and Barbados with Peter Blair Henry.
+He's actually from Jamaica.
+He was born there.
+He moved to the States when he was nine.
+And he was in Jamaica for a conference when I went
+and we did a lot of these interviews together.
+And we're going to be doing a lot more
+on future podcasts comparing Jamaica and Barbados
+because there's a lot of really,
+really interesting things to look at
+and a lot of really interesting sort of,
+it sheds a lot of light on these questions
+that we're looking at.
+Why are poor countries poor?
+How can they try to make themselves richer?
+And we'll also be continuing to look at Haiti.
+Hannah and I are going back to Haiti
+at the end of this week.
+Right, it's all the Caribbean all the time.
+Exactly.
+Well, it does, we're also planning our big trip
+to Africa, but that's a few months away
+and it turns out that the Caribbean
+has such diverse economies that you actually
+can learn an awful lot about global economic issues
+by sort of island hopping in the Caribbean.
+Right, because Jamaica and Barbados are very different,
+but then Haiti is on a totally different scale
+from Jamaica and Barbados, right?
+Yeah, vastly poorer.
+I mean, their GDP per capita is like an eighth
+of Jamaica's and some tiny fraction of Barbados'.
+Right, so I think that wraps it up for now.
+Please send us your thoughts, questions, comments
+here at planetmoney at npr.org.
+And also you can check out the blog for pictures
+of Candie Lee Crook-Smith and her school.
+And also there's a cool chart comparing
+the Jamaican versus Barbadian economy.
+And I'm hoping that we will have a link up
+to the paper by Peter Blair-Henry
+comparing the two economies.
+You can find that all at npr.org slash money.
+I'm Alex Bloomberg.
+And I'm Adam Davidson.
+Thank you for listening.
+And we'll go low, rising.
+We've got to come up.
+We've got to come up.
+Low, rising.
+There's no further for us to fall.
+Low, rising.
+Because I feel we've had enough.
+Low, rising.

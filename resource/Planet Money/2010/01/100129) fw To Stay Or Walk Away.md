@@ -226,3 +226,405 @@ Copyright © 2010 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+We received a report that affirms our progress and the swift and aggressive actions that
+made it possible.
+Hello and welcome to NPR's Planet Money.
+I'm Alex Bloomberg.
+And I'm Khanna Jaffee-Walt.
+Today is Friday, January 29th.
+And that was, of course, President Barack Obama, you just heard at the top, talking
+about today's new GDP number, which we will get to in just a second.
+On the show today, homeowners who want to be foreclosed on and banks saying, hey,
+let's wait a minute.
+Weird.
+The foreclosure mess enters a topsy-turvy upside down new phase and we'll hear all
+about the fascinating details from a foreclosure attorney in Phoenix.
+But first, that GDP number.
+Whoops.
+I gave away our indicator.
+The indicator today is 5.7 percent.
+That's the yearly rate the U.S. economy grew last quarter.
+That's according to the Commerce Department, which is great news.
+We can finally have the party we've been waiting for.
+Well, kind of.
+This is one of those numbers that sounds like really good news at first, but is
+actually, you know, more of a mixed bag.
+Because...
+Like every indicator.
+That's our specialty.
+Yeah.
+You want some champagne?
+Not too fast.
+Take it away.
+So this number is a little funky because 3.4 percent of that 5.7 percent growth was
+due to businesses cutting back on their inventories less than they had been in the
+past.
+So basically, businesses have been slashing their inventories dramatically in recent
+months because of slow sales.
+And last quarter, they still cut their inventories, but just by a smaller amount
+than they had previously.
+So it sort of counts as good news.
+So they're not selling a lot more, but they're feeling more confident.
+Exactly.
+The amount of GDP growth excluding those inventory adjustments was just 2.2 percent.
+And that's an increase over what the figure was last month, but it's a pretty
+small increase.
+Less than 1 percent.
+All right.
+So it's good news, sort of.
+So this sort of leads into today's show.
+So we have all these numbers and we do indicators all the time with numbers
+of sort of big economic indicators.
+And then there are people out there, you out there, who sort of experience it in your
+own way.
+And there's a particular group of people who experience the story of what is happening
+to our economy through the phone.
+So Alex, you talked to a third-party debt collector the other day who, you know,
+gets all these calls and hears all about people's credit card problems.
+And then after that conversation, we got an email from another woman who experiences,
+you know, the economic story through the phone.
+Right.
+So we got an email from a woman named Mary Kinsley, and she's a lawyer.
+And since 2006, she's worked at this company which provides services for people who have
+legal insurance.
+So if you have legal insurance, you can call her with any sort of legal question and
+then she'll try to answer it.
+She works in the real estate unit, so she deals a lot with foreclosures.
+Now she has been there since 2006, so she's been at this company from the boom
+all the way through the bust.
+And when she first started working, of course, there was hardly any foreclosure
+calls.
+And then she started to notice a couple in the beginning of 2007.
+And then it just unleashed.
+It felt like you were standing in front of a fire hydrant or a fire hose.
+And every day you were just getting these call after call after call of people who
+were very emotional and very upset.
+The foreclosure calls back then were the adjustable rates were starting to adjust
+and people were starting to lose their jobs.
+And at that time, I was talking to people who were really desperate to try and save
+their houses.
+We had a lot of people crying on the phone.
+We had a lot of people who they didn't want to lose their home.
+They would do anything to save their home.
+This was the neighborhood where their children went to school.
+They would be homeless.
+These were some very heart-wrenching phone calls.
+And I could explain to them, this is the process.
+These are your options.
+If you're unemployed and you don't have the money to pay the mortgage, the lender is
+not going to be particularly understanding about that.
+Sometimes I would look at the numbers and I would say, you know, you can't really
+afford this house.
+Even if you can make the payment, you're barely making the minimum payment every
+month.
+And in a situation like that, sometimes in life you need a hard reset and walking away
+from that house, although it would impact their credit, it would be very disruptive
+to their family, it would be very disruptive to their life, there's a point where you
+just can't continue to make those monthly payments and not receive anything for it,
+not build some equity in the property.
+You find yourself saying things to people like, I know this seems like a catastrophe
+right now, but in the long run it may work out better for you.
+Okay, so that was 2007, 2008, it was like that.
+People calling emotionally, desperately trying to hang on to their houses and Mary suggesting
+somewhat delicately that maybe it would be better just to let go, it would actually
+make more financial sense if you just let the bank take back the house and then
+you won't have this huge burdensome mortgage payment every month.
+Now she says we're in a whole new stage of the foreclosure mess and the calls she's
+getting now are very different.
+Now it's almost a reverse.
+I'm speaking to people, for the most part, who are, who want to know how can I make
+the bank foreclose on this faster and I frequently speak to people who are doing
+defaults and a strategic default is where you decide that the property is not worth what
+you thought it would be worth and so you make the decision to walk away even if you
+can afford the monthly payments.
+Describe how those conversations go, obviously you can't name names or specific situations
+but can you just give me the overall tenor like somebody calls you up and they say
+what?
+Well, it's interesting in that they're far less emotional.
+I don't speak to people who are crying anymore for the most part.
+Someone will call and they will say here's my situation, I have a home, I have a $400,000
+first loan on it, it's all purchased money, I have very good credit score, I have
+$80,000 in the bank.
+My house is worth maybe $253,000 maybe.
+I'm seeing homes in my neighborhood that I could qualify for and get a mortgage on
+that are for far less than $400,000.
+I want to walk away, I want to buy a new house and walk away from this house.
+How do I do it without being sued by the bank and preserving of my credit score
+as much as I can?
+Wow.
+They want me to walk them through the strategy of it and explain to them what the consequences
+are and what the pitfalls are and what do they need to think about.
+Well so walk us through the strategy.
+I know we don't have legal insurance but is there a strategy involved and what are
+the consequences of doing that?
+Well, the consequences are your credit score is going to take a hit.
+How much of a hit is a closely guarded secret because how they score those credit scores
+is magic or something.
+But what I hear through the grapevine is you can expect about 200 points off your
+credit score.
+And then the trick of buying the house and then foreclosing later, that's pretty
+simple?
+If you have good credit and you can qualify for a mortgage, they've been through
+that process.
+They don't need me to tell them how to apply for a mortgage.
+So you do that and then once you have that property, you stop making payments on the
+first.
+Now strategic defaults work in Arizona for, there's a reason they work in Arizona and
+I don't know if they work in other states.
+The reason they work in Arizona is because Arizona has a peculiarity in its law called
+the anti-deficiency statute.
+And the anti-deficiency statute is a consumer protection statute that says that if you
+have a single family residence that's on two and a half acres or less, the money you
+used to acquire that property, which we call purchase money, if you default on that
+purchase money loan, the lender can foreclose on the property but they can't sue you.
+So they can take the house back, sell it in an auction and that's all they can do.
+They can't sue you and they can't garnish your wages, repo your car, do anything like
+that.
+So the consequences are you'll lose the house that you're living in and your credit
+score is going to take a hit and that's it.
+And I talked to quite a few people who say, hmm, perfect credit score versus $80,000
+in my pocket and not upside down on this house anymore.
+It's really not.
+It's a business decision.
+And I'm speaking now to people who are making business decisions and who are acting from
+sort of economic self-interest rather than emotional decisions.
+And these are people who could continue to pay their mortgage.
+Yes.
+Is that illegal to just to, I mean, is there a law on that of simply even
+if you can pay refusing not to pay?
+No.
+It's not illegal to breach a contract and that's essentially what it is.
+It's a breach of contract.
+And sort of the dirty little secret of the of real estate is businesses do it all the
+time.
+I do hear the banks were bailed out and they won't work with us.
+So why should we work with them?
+Right.
+I hear that quite frequently.
+I know it's not your place to judge.
+And I don't want to ask you to judge.
+But I do want to ask you, is this decision, is there a room for looking at this in an
+ethical way or not?
+Or is it simply a business decision, like people are saying, or can ethics play a
+role here at all?
+Is there a morality to the situation?
+That's a question that, you know, that I think about.
+And I think and I have discussions with other attorneys on my team about this question.
+And there's a variety of views.
+There are attorneys who think it is not ethical, who think that people should honor
+their debts and pay them if they're at all able to.
+There are others who say, why?
+It's a business decision.
+And I think it's I think it's a very interesting question.
+Do you come down on the side of whether this should be or I don't want to put you on the
+spot.
+But you are.
+I am.
+You know, in law school, when you take contracts, they tell you there are no punitive
+damages available for breach of contract because breaching a contract is an economic decision.
+And I think that we as a society have really sort of attached some some shame to defaulting
+on your mortgage, when in reality, it's an economic decision.
+There are a number of things in the law that were long considered shameful and had
+a stigma attached to them that over the years have become less so.
+I think about divorce.
+I mean, there was a time when divorce was unthinkable.
+It was shameful.
+Now, people say if it's not working, you should go your separate ways.
+Bankruptcy, I think, used to be much more shameful.
+Now, people doesn't have quite the same stigma attached to it.
+One of the blogs that I read a lot is this blog called Calculated Risk.
+My producer, Caitlin, is smiling because she knows it's my favorite blog.
+And early on, there was a big early on, like a year and a half ago, there was there
+was a big discussion on the blog about whether again, this was back.
+Another word for this type of default is called a ruthless default.
+Apparently, that's also a term of art.
+I like strategic better, actually, because I think it is a little bit more down the middle.
+But about whether it was going to happen or not.
+And there was anecdotal evidence that it was happening.
+But there was a lot of articles about people are, once they're underwater,
+they're just going to turn the keys back in.
+And it didn't seem to be happening.
+But this was back in this time period that you're talking about, 2007, 2008.
+But the thought was, but once it starts to happen,
+it's going to put us into uncharted territory.
+Because it's really never happened before in the residential housing sector.
+People have never thought of their house as a strictly economic decision.
+It's always been a place I want to live and a place I want to raise my family.
+And the feeling was, if it does start to happen, if strategic defaults become
+commonplace, then who knows where this whole thing is going to end.
+Do you share that feeling?
+Do you feel like this is the beginning of something?
+Or this is just the little tail end of the thing that we're going through.
+And this is not going to continue.
+I would say the former rather than the latter.
+It's the beginning.
+Yeah.
+I don't know where this is going to end.
+I'm unaware of strategic defaults in the residential sector happening
+on this scale in American history.
+There are neighborhoods here where half or more of the neighborhood,
+the properties have been foreclosed.
+And I know that there is social pressure.
+And some people still feel some shame about it.
+But there is a point, I think, where when half the properties on your block
+are bank owned or about to be bank owned, you look at the value
+of your property and you owe more than it's worth, I don't know how much shame.
+At that point, in whose eyes are you shamed?
+Or your whole neighborhood's gone into foreclosure.
+Maybe the bank could hire people to stand around in like 50s aprons
+and just sort of like tut-tut at you as you walk by.
+Like shun you with something.
+I know what you're thinking.
+Yeah.
+Somebody's going to catch on to that idea.
+It's such a weird, even after thinking about this idea of strategic defaults
+for a while, it still is a really strange idea to me that that is like divorce,
+which is something that we all think about as being pretty normal
+and not that horribly unethical of a thing to do.
+It's weird to me to think about walking away from your house as being similar.
+Well, I know.
+And I think part of it might have to do.
+I don't think it's direct cause and effect.
+But one of the things that Mary and I talked about was how it's happening
+on a larger level a lot, you know, with businesses.
+And a prime example of that is happening right now in New York.
+Mary and I talked about it was the Stuyvesant town,
+which is this huge, huge apartment complex on the east side of Manhattan.
+The owners bought it at the height of the bubble for $5.4 billion.
+I think it was the biggest real estate deal ever.
+I think so, yeah.
+And now they can't make their mortgage payments.
+They are not able to pay back their lenders.
+The people who lent them the money to buy this project.
+And the project has also decreased in value by over half.
+It's now worth less than $2 billion.
+So they are deeply underwater.
+And they've defaulted on their payment.
+And they have, in effect, said, fine, you guys can have it.
+It's yours.
+We're walking away.
+And they are literally just doing almost exactly the same thing
+that Mary's clients are doing.
+And that's happening all over, like, you know,
+big and small, you know, big commercial real estate projects
+to single-family houses out in the suburbs somewhere.
+And actually, what Mary said is that perhaps because of this,
+the tables have turned in a second way as well.
+So her clients, they say, all right,
+I want to turn the house over to the bank.
+But the bank's behavior, Mary says,
+has totally changed 180 degrees as well.
+Arizona actually does something called a trustee sale,
+which is a non-judicial foreclosure.
+Essentially, you miss payments.
+They start this process.
+90 days later, there's an auction.
+And it used to always be, you missed one payment.
+You got sort of the nice letter.
+You missed two payments.
+You got the nasty letter.
+You missed three payments.
+They started the trustee sale process.
+From the time they actually start the process
+to the day of the auction is 90 days under Arizona law.
+So you used to be out of there, like it was relatively short,
+90 days from start to finish.
+What I'm seeing the lenders do now
+is they don't start the process until you've
+missed six payments, nine payments.
+I've spoken to people who have stopped
+making payments a year ago.
+And they're just now starting the trustee sale process.
+And because the homeowner is responsible for the taxes,
+insurance, homeowner association dues
+if they have a homeowner association,
+until the day of the foreclosure,
+I speak to people who say, I'm tired of paying these dues.
+We already moved out of the property.
+Or we're planning on moving out of the property.
+I don't want to pay this anymore.
+How do I make the bank take this property back?
+And the answer is, you can't make
+them take it back any faster than they're going to.
+I mean, if you stop making your car payments
+and the lender doesn't repo it, how do you make them repo it?
+Well, you can't.
+It's the creditor's remedy.
+And if the creditor decides they
+don't want to exercise that remedy, guess what?
+You can't make them exercise the remedy.
+I have people who call me saying,
+the bank won't foreclose on this house.
+And I don't want to pay the taxes and insurance anymore.
+How do I make them take it?
+Wow.
+And the bank doesn't want to just because the bank's like,
+I got enough houses right now.
+The bank's got enough houses.
+It's just purely, it's in the bank's interest
+to try to stave it off as long as possible.
+Yes.
+Wow.
+But also, Alex, there must be someone in Mary's position
+on the other side, like working for a servicer, who
+is now taking calls from all these people who
+want the reverse of what they used to want
+and just sort of can't keep up.
+Like, whether or not they want to,
+they have so many people that they
+need to pay attention to at this point.
+That they need to foreclose on, basically.
+Yeah, I know.
+I wonder.
+I wonder if that's the situation.
+I wonder if it's like, I have no idea
+how it works on the other end.
+But clearly, I'm sure whoever is on the other end
+is also getting legal counsel.
+And maybe they're sending us an email right now
+to tell us they want to talk to us, too.
+That would be wonderful.
+We would love to hear that side as well.
+And finally, before we finish up today,
+we have an exciting announcement to make.
+Yes, we do.
+Hey, do you want to give me a drum roll?
+OK, here we go.
+We're announcing a new podcast schedule.
+Yay, that is right.
+We are going to be podcasting from now on,
+on Tuesdays and Fridays.
+And the best part is we are going to commit right here,
+right now, to post this podcast at the same exact time
+on both days.
+Something we have struggled with before now.
+We're going to change that.
+The podcast is now going to be posted at 4 PM Eastern
+time on the dot.
+We are hoping that that will give you all out there
+plenty of time to grab the podcast before you leave work
+so you can listen on the commute home,
+or while you're working out in the gym,
+or making dinner, or walking the dog,
+going to Pilates class, or browsing the records.
+Yes, yes.
+And I don't think anybody goes to Pilates except for you.
+So basically, we are promising not
+to make you wait until 7, or 8, or 9, or 10
+to get each day's show.
+So we're going to give this new schedule a try.
+Remember to listen Tuesdays and Fridays, 4 PM,
+and let us know what you think about our new schedule
+by dropping us a line at planetmoney at npr.org.
+Or by commenting on our blog, npr.org slash money.
+I'm Kana Jaffe-Walt.
+And I'm Alex Bloomberg.
+Thanks for listening.
+I sing the stars on a wrecking ball.
+Pilates to bring you down.
+If you want it, you want it, you want it.
+If you want it, you want it, you want it.
+Oh.
+Thank you.
