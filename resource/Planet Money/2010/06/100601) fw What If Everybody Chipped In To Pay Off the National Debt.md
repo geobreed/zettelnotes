@@ -214,3 +214,219 @@ Copyright © 2010 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+Hey, you're listening to Planet Money from National Public Radio.
+Hello, and yes, this is Planet Money.
+Today is Tuesday, June 1st.
+I'm David Kestinbaum.
+And I'm Jacob Goldstein.
+That was Dave Ramsey, the super popular financial self-help guru you heard introducing
+the show.
+We talked to him a while back.
+We brought him back today because A, we just love the way it sounds when he introduces
+the show.
+We're going to be talking today on the show about something he cares a lot about, debt.
+Which brings us to our indicator.
+Today it is $1.5 million.
+That's the size of a single gift to help pay down the debt of the United States of
+America.
+A gift, right.
+So it turns out you can voluntarily donate money to help pay off the U.S. debt.
+We came across this fact a while ago.
+We wanted to learn more.
+The Treasury Department was wary of giving us much information, so we filed a Freedom
+of Information Act request.
+And they couldn't give us people's names who gave money for privacy reasons, but they
+did give us the amounts and dates of individual donations over the last five years.
+And they also gave us someone to talk with.
+His name's Dan Tangerlini.
+His title's actually Chief Financial Officer of the U.S. Department of Treasury.
+Well, so the average gift is less than $1,000.
+And the current national debt is about $13 trillion.
+Sort of awesome, right?
+It's like talking about the molecule in the universe or something.
+Right.
+It's a distinctly small fraction of the overall amount.
+So when you look at the data, you see a real range.
+On the one end, there are 120 loyal Americans who gave one penny each, but other people
+gave more.
+Yeah.
+And it really adds up.
+I mean, not compared to the debt, but compared to I think most people's salaries.
+It's a sizable sum.
+Even if you look in 2008 when the economy was totally falling apart, people gave a total
+of something like $2 million.
+So who does this, right?
+I mean, it's like trying to drain the ocean with a thimble or something.
+We did find someone.
+Her name is Kay Fishburne, and she spent like 10 years of her life trying to help
+pay off the national debt.
+And as you'll hear, she got kind of famous for it.
+She told me she thinks she wrote her first check back in 1982.
+She can't remember exactly how much it was, but it felt like a lot of money
+at the time.
+Well, it is the hardest check you ever write.
+The first one was tough.
+You do get a nice thank you letter.
+From the government.
+Right.
+Yeah.
+The first one's tough.
+Because you basically feel like you're just paying more taxes.
+Is that what it feels like?
+No.
+We'll try it.
+Give it a shot.
+So David, I actually did try it out.
+You can go now and get my credit card online.
+So I gave 10 bucks.
+How did it feel?
+It felt very small.
+It made me feel sort of futile.
+Kay said that for her, it actually felt kind of good, and she wanted to share that
+good feeling.
+So back in 1983, she and some other people started a group called Citizens for Debt-Free
+America.
+And like any fundraising effort, they sent out letters asking people for money, but
+she didn't ask them to send the money to her.
+She said, send it right to the government.
+But the government didn't make it easy.
+There was a huge long address for sending in the contributions.
+If you wanted to mail the check in, the address you had to write down was really
+long?
+Yeah.
+Like six lines.
+It started out with Department X.
+Department X?
+Yeah.
+Yeah.
+So just as soon as we got some printing done with Department X on it, they changed
+it to Department G.
+So we had to go and hand change all of that.
+X sounded, I guess, a little weird.
+But G for gift I thought was very good.
+And Kay said she herself got some pretty moving letters from people who donated.
+There were World War II vets who wanted to help out the country they had protected.
+And there were people who gave money because someone had helped them out at some point,
+and they wanted to try and pay that back in some kind of global way.
+So just for context, back in 1983, the debt was a lot smaller.
+And Kay says she was sort of of two minds about this project.
+On the one hand, it was kind of insane.
+But on the other hand, she thought, you know, maybe not, because she did the math
+and she figured that if every person gave between two and a half and three percent
+of their income over 10 years, we could erase the entire debt.
+At the beginning when she was starting this, every year people were sending in more and
+more money, and it added up to real dollars.
+Started out $900,000, and I think the highest was nearly $3 million.
+How did it feel when that money was starting to flow?
+Oh, it was quite exhilarating.
+Did you feel like, did you feel at some point like, maybe this would work?
+Oh, yeah, yeah.
+I never thought of a takeoff like wildfire, that, I mean, Americans pride themselves
+in getting the job done and doing things.
+And so I just assumed that this was going to really take off.
+So look, we all know this didn't work.
+But it does raise this interesting question.
+What if it had worked?
+To try and answer that, I called up the Concord Coalition.
+The Concord Coalition is a group devoted to this very issue, responsible fiscal policy.
+Their founders include a couple of former senators.
+I talked with an actual economist there.
+Her name is Diane Lim Rogers.
+Have you ever given money to help reduce the debt?
+Have I personally?
+Yeah.
+No.
+Diane is no fan of debt, but that doesn't mean that she thinks it's a good idea
+for everybody to start rating their savings accounts and writing big checks to the government.
+So let's do the math here.
+If the debt is something like $13 trillion, if you divide that by the population of the
+everyone's share is $42,000.
+So I asked Diane, what would happen if everyone just took out their checkbooks right now and
+wrote a check for that amount?
+And she said that would be a disaster.
+Because if you suddenly had to part with $42,000, right, you'd start cutting back.
+Maybe you wouldn't buy that new television.
+You probably wouldn't go out to dinner so much.
+If you think about what this would do if all of a sudden everyone was devoted
+to paying down the federal debt, it's a massive anti-stimulus.
+It's a massive contractionary program.
+So it would immediately depress GDP in our country.
+It could depress it so much that the economy is ground to a halt.
+So I would think that that scenario is devastating for the economy.
+Diane Lim Rogers and Kay Fishburne are actually pretty much on the same page.
+Neither one of them thinks that debt should be zero.
+They think some debt is fine.
+It just needs to be at a manageable level.
+So speaking of Kay, let's actually finish her story.
+In the 1980s, she became a kind of celebrity.
+Remember, she's a nurse in the suburb mailing out letters where they've been handwriting
+the addresses on them to try and help pay off this gigantic thing, the national debt.
+So this is the kind of story that the media just loves.
+The group says its efforts have helped raise $10.5 million over the past five
+years.
+Kay Fishburne of New Berlin, Wisconsin is national coordinator.
+Yes, even the great Bob Edwards interviewed her on Morning Edition.
+The phone was ringing 24 hours a day, getting calls from around the world.
+Reporters were showing up, TV crews in the backyard.
+And Jacob, this is where things got a little tough for her because her kids, for instance,
+they were not really interested in helping address the envelopes.
+This is a hard time to be in high school with a mom involved in such a big project.
+You know, you have to be pretty thick skinned to do something like this.
+And they developed thick skins.
+Thick skins because people would tell them they thought it was silly.
+Oh, sure.
+Sure.
+I mean, it's outrageous.
+You've got to admit that.
+Did you feel that way at the time?
+Oh, sure.
+Yeah.
+I mean, it's so off the wall that that's what appealed to people.
+So then in 1992, something big happened that kind of dwarfed her efforts.
+Her issue landed in the center of the national debate.
+Let's play that tape and see if you can guess who this is.
+Just this year, we ran up three hundred and forty one billion dollars in new debt as
+we discussed the other night.
+That's our legislators and our president trying to buy our vote this year with
+what used to be our money.
+Yep.
+That was Ross Perot running for president in 1992.
+And one of his big issues was the debt.
+Now, as our older listeners will recall, Bill Clinton won that election.
+But national debt continued to be this big political issue.
+The economy started doing well and the U.S. government started taking in more money than
+it was spending.
+We actually started running a surplus.
+And it was around this time, Kay says, people stopped responding to her letters.
+The donations basically dried up.
+And today, what remains of the Coalition for a Debt-Free America sits in a box
+in her house somewhere.
+Kay says she made her last donation, she thinks, in 1993.
+Her plan was for everyone to pay a few percent of their salary over 10 years,
+and she finished paying off her share.
+At the end of 1993, we were paid up.
+Your family was paid up?
+Right.
+I don't owe anything on the debt.
+How did that feel when you sent in the last check?
+Exhausting.
+Did you feel like you'd paid off your credit card or something?
+Well, I thought like I'd set something right.
+But, of course, we know that it's still growing and in all likelihood will.
+So Kay says she has no interest in starting up the campaign again.
+But if somebody else wants to, that's great.
+And actually, even without Kay writing her letters and her friends writing those letters,
+people are still contributing money to help pay down the debt.
+The data is actually pretty interesting.
+We're going to post that on the blog along with the full interview Bob Edwards did
+with Kay Fishburne 20 years ago.
+It'll be at npr.org slash money.
+And as always, send us your questions, your comments, your concerns.
+We're at planetmoney at npr.org.
+We've gotten a lot of responses to our t-shirt podcast from Friday.
+Please keep those coming.
+I'm Jacob Goldstein.
+And I'm David Kestenbaum.
+Thank you for listening.

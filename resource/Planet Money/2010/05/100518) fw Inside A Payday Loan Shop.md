@@ -325,3 +325,513 @@ Copyright © 2010 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+Today, we're all struggling to manage our family finances.
+Luckily, we have local short-term lenders to help us make ends meet.
+They're already state-regulated and didn't take a dime of federal bailout money.
+So why is Congress treating local lenders like Wall Street crooks?
+We need Wall Street reform, not a Main Street government takeover.
+Call your senators and tell them you won't pay a dime for Wall Street crime.
+Sometimes I get my head in a dilly, feeling so lost, taking you all.
+Hello and welcome to NPR's Planet Money. I'm Alex Bloomberg.
+And I'm Caitlin Kenney. Today is Tuesday, May 18th.
+That was an ad from the Community Financial Services Association of America.
+You heard at the top, they're a group that represents payday lenders.
+Payday lending, that is the subject of today's podcast.
+We're going to be hearing from people who work in the payday lending industry
+and people who have written about and studied it.
+But first, of course, our Planet Money indicator.
+The indicator is brought to you today by the Planet Money money honey,
+our own Jacob Goldstein. Jacob, what have you got for us?
+Guys, today I have for you 672,000.
+That is my salary in rupees.
+Congratulations, Alex.
+Thank you.
+It's right. Well, it's also the case that construction workers broke ground
+on 672,000 houses and apartment buildings in April.
+That's more than they've broken ground on in any month since the fall of 2008.
+I'm sensing a but, though. Just go ahead and hit me.
+All right. I'll give it to you in a couple ways.
+First of all, since the fall of 2008, things got very bad.
+Last April, housing starts fell to the lowest number
+since the government began collecting the data way back in 1959.
+Starts are still way below they were before everything fell apart.
+And permits for new construction were actually down in April,
+suggesting that the number of housing starts may not continue to rise
+in the coming months.
+So again, cautious optimism, I guess, is the word of the day.
+Very cautious.
+All right. Thanks, Jacob.
+We'll see you back in the Planet Money money honey bear cave.
+All right. Thanks. Thanks, guys.
+I'll be over there extending that metaphor as far as it'll go.
+So, Caitlin, if I say to you predatory lending, what do you think?
+Predatory? That doesn't sound good.
+No, predatory sounds bad, right?
+Now, what if I say a short-term loan to get you through a medical emergency?
+Oh, well, that sounds like a good thing.
+Both descriptions would apply to a payday loan,
+which is basically a short-term, high-interest loan
+using a personal check as collateral.
+Basically, you post-date a check and you say,
+if I don't pay you back the money, you can just cash my check.
+And payday lenders range from small mom and pop stores
+to large national chains.
+Most of the national chains have check in the name,
+fast check, check and go, check city.
+In the mid-1990s, there were just a couple hundred of these stores,
+but that number has been growing fast.
+By 2009, there were over 20,000 payday lending stores in the United States.
+And there are a lot of groups that want this industry shut down or regulated.
+Places like the Center for Responsible Lending,
+the Consumers Union, various other consumer advocacy groups.
+They argue that these places take advantage of poor
+and financially unsophisticated people.
+They say most of the stores are set up in low-income
+or minority areas or next to military bases.
+But the industry itself doesn't agree with that.
+They say, no, we're filling a need.
+These people need credit and we're supplying it.
+We're giving them what the banks and the credit unions
+and more traditional financial institutions won't.
+So we recently got an inside look at this industry
+in the form of an email we got from one of our listeners.
+His name's Michael Berry, and here's a little of what he wrote.
+I work in a payday lender to get through school.
+I help in getting loans to people who probably shouldn't be given them.
+I see both sides of payday lending, the light and dark side.
+So here's a guy who embodies the entire debate within himself
+that we decided to give him a call
+and find out what it's like inside the payday lending industry.
+And we started by asking him what it's like inside the store where he works.
+It's actually, I think it used to be an old bank.
+It's a few hundred square feet at most.
+I work by myself.
+There's a little lobby area and there's a table that I sit behind.
+It's kind of like the bank-style teller desks, I guess.
+And you're in a strip mall or a storefront?
+It's kind of like a strip mall.
+I mean, there's three little buildings smack dab next to each other,
+an audiology clinic and a TV audio place, too.
+Michael says to get a payday loan, you need a few things, Alex.
+You need a driver's license, a bank account at a local bank,
+and most importantly, a pay stub.
+And this pay stub could be from a pension check,
+a social security check, a paycheck,
+any regular monthly or bimonthly income source.
+So you give all that to Michael, fill out a short application,
+and he gets to work giving you your money.
+Let's just make it simple.
+I want a loan for $100, and I need it right now,
+but I get paid in five days.
+What do you tell me?
+So I'll be able to pay you back in five days.
+What do you tell me?
+Our loan is $1.50 per hundred per day.
+So after five days, what is that?
+It would be $107.50 is what they would owe back.
+So it's pretty straightforward, though.
+It's like I get $100 right now,
+and then in five days I have to pay back $107.50.
+Exactly.
+And so that's a $7.50 interest rate over five days.
+What is that annually?
+I think the interest rate is somewhere like 545% annually.
+So Alex, I guess this is where people say the predatory comes in.
+540%, that is not cheap.
+It's not a cheap loan at all.
+But when you talk to people in the industry, they'll say,
+listen, that annual percentage rate, that is not a useful measure,
+because these loans aren't meant to be paid back in a year.
+It's supposed to be short-term.
+And the classic case is, so a single mother, she needs to get to work.
+She needs a quick loan to get her car fixed.
+She borrows the money, pays it off with her next paycheck,
+and everything's fine.
+In fact, the payday lending industry doesn't even use the words interest rate.
+They say fees, as in the fee to borrow $100 is $1.50 a day.
+But Michael says most of his customers, they don't use it this way as a short-term loan.
+Most of them are repeat borrowers.
+He said his typical clients range from everyone to people who are fairly poor
+to some surprisingly well-off people.
+There's professors who come in from the local college,
+and these are people who make like 80 grand a year.
+That was surprising when he said that.
+Yeah.
+And he says most of these people that we're talking about,
+that range from the poor to the fairly well-off,
+about 80% of them, he guesses, come in every month
+and just roll over their loans.
+They pay the interest or the fee, but they leave the balance the same.
+And this is sort of crazy.
+So let's just take this example.
+You borrow $100.
+So let's say you borrow $100 and then you wait a month to pay it back.
+By the time that month has come around,
+you owe $45 in fees and interest on the $100 that you borrowed,
+almost half the amount you owe.
+And then if you don't pay it back that month,
+if you roll it over another month,
+then you owe basically as much as you've already borrowed.
+So in three months, you can owe more than you originally borrowed.
+And yet 80% of Michael's customers, he says, do this.
+And we asked him why.
+He was a little confused himself.
+I would never do it.
+I am assuming that it's because their credit cards are maxed out.
+Every month, you know, they fail to budget properly.
+They can't get any more money any other way,
+so they just come to us every single month to help balance their checkbook
+when it would be easier not to.
+I hear about the reform and the legislation that they want to,
+you know, tighten the noose on payday lenders.
+And, you know, I can understand why they do it,
+because, I mean, I don't feel like I work for a bunch of loan sharks.
+You know, I assume that's out there.
+Maybe I'm just saying I'm not part of this.
+But I mean, are you a predatory lender?
+I would say yes.
+But at the same time, I do get a lot of people saying,
+oh, I'm so glad that you guys were able to help me out with that.
+I get that a couple times a week, so they're thankful for it.
+Well, I mean, I think thankful or not, I mean, to me, when I think victim,
+I guess the reason I asked it is because it doesn't seem like there's any,
+it doesn't seem like you're hiding anything from anybody.
+Like I'm looking at your, you know, I went to your website,
+and it says our fees, and you pull down this tab,
+and it says here's your fee schedule, four days.
+If you borrow $100, you'll owe $6.
+After five days, you'll owe $750.
+After 31 days, you'll owe $4850.
+You'll owe half that $100 if you take it out for a month.
+I mean, it's pretty clear.
+And in several places in this chart, it says the annual percentage rate
+in big, bold type, it's not small print, is 547.50%.
+I mean, it's pretty clear.
+I guess if you find predatory lending as high interest rates
+to people who probably shouldn't be getting them, then yes.
+But predatory lending in the sense where you just said,
+is there hidden fees?
+Am I trying to, like, cloak and dagger anybody? No.
+So, Kalen, one of the difficult things in discussing payday lending
+is the rules, they vary so much from state to state.
+For example, in Michael's state, Utah,
+there's a rule that you can't roll over your loan for more than 84 days.
+But in other states it's completely different,
+like Ohio, where a reporter named Gary Rivlin
+has been studying payday lending pretty closely.
+Yeah, Gary has this new book coming out, it's called Broke USA,
+and it's based on the two years he spent reporting on businesses
+that specialize in lending to the poor and working class.
+He talks to subprime lenders, pawn shop owners, and yes, payday lenders.
+And Alex, you and Gary talked to one of the employees
+at one of these payday lending places.
+Her name is Chris Browning, and she was a manager
+at a payday lending store called Check and Go in Mansfield, Ohio.
+And she was, you know, during her day,
+one of the most successful managers in Ohio.
+She made the company a lot of money.
+She'd worked there for over a decade before she got fired in 2007.
+And she and management disagree over the reasons for her dismissal.
+But today, one thing's for sure,
+she's a really outspoken critic of the payday lending industry.
+Yeah, she's testified twice in state hearings around Ohio
+about the payday lending industry.
+She's argued that a lot of what they do should be shut down.
+And Gary Rivlin and I talked to her.
+You'll hear his voice on the tape.
+And she says that a lot of her views have to do
+with what she's observed in her 10 and a half years in the business.
+I had customers, some of my very first customers in 1997,
+that were still customers of Check and Go
+when I left in July of 2007.
+Ten and a half years.
+Ten and a half years later.
+Like who'd been coming in every two weeks?
+Every two weeks.
+I had one gentleman that was a retiree of General Motors
+that started right out, became a customer of mine in June of 1997.
+He would borrow and pay off every 30 days.
+He was a customer of mine until the day I left.
+Wow. And how much would he borrow?
+He started borrowing the maximum of $300.
+When it went to $500, he borrowed the $500.
+When it went to $800, he borrowed the $800.
+I did the math on this particular example Chris had told me about it.
+$10,000. More. More than $10,000.
+More than $10,000 just in fees alone.
+And Caitlin, it's worth pointing out, this is $10,000 in interest on the same tiny loan.
+He's essentially paid $10,000 to borrow $800.
+Wow.
+I know. And this guy, his name's David,
+he got to know Chris pretty well during the decade that he was paying her all that money.
+I could count on the third of each month,
+because that's when his Social Security, his pension came in on the first,
+but that was the smaller of the two amounts.
+So on the third of each month, his money was due.
+And he would come in and pay me,
+be one of the first customers in the door in the morning when I unlocked the door.
+A lot of times he'd be sitting out there in his car waiting,
+had two cups of coffee from McDonald's right up the road.
+What did David say when you started to talk to him about how much he was paying?
+You know, this is a really expensive way to borrow money over the course of a year.
+Well, in his case, I actually turned my computer monitor screen around and showed him,
+because it gave a breakdown on the screen how much money went to the loan itself,
+how much money in fees.
+I pointed out the column in fees and just showed him just in one year's time
+how much money Check and Go had profited in one year's time from him.
+And he was astounded. He said, I never thought of it that way.
+He says, I just need to have the money.
+Because when I pay you, you know, then I still need that money.
+And what did he need it for?
+Just to support his gambling habit.
+And, you know, it was sad because his home was paid off.
+Chris Browning says that people like David were the rule, not the exception.
+Most of her customers, she estimates around 80 percent,
+pretty similar to what Michael told us, were regulars.
+These are people who are heavily indebted coming in month after month
+and just rolling their loans over.
+Now, hard data on this is hard to come by since it's not federally regulated.
+But the industry itself says the average customer takes out about nine payday loans a year.
+Critics say it's more.
+And Gary Rivlin, who's looked at a lot of the numbers that are out there state by state,
+estimates that 60 percent or more of the revenues made by payday lending places
+come from these customers who come in regularly, at least once a month.
+And this is sort of strange when you think about it.
+These regular customers are the most profitable part of payday lending,
+which means that these payday lending companies are making most of their money
+basically off of financial screw-ups, right?
+This guy, David, he wasn't poor.
+He had a good pension.
+He was just a gambling addict and really bad with his money.
+And Check and Go was profiting from that.
+And it wasn't just Check and Go.
+Chris says that when she first started managing her store in Mansfield,
+they were only about a handful of other payday lending shops in the city.
+But over time, that number grew tremendously.
+2001 seemed to be the breaking point.
+Everybody wanted a piece of the pie.
+Advance America opened.
+Let's see, Advance America, First American Cash Advance,
+Heartland, Sunset Cash Advance, Fast Cash, Cash Land, Check Smart.
+And I think the one part you're leaving out of this, Chris,
+is that other stores opened up right across the street or right next door.
+Oh, that's correct, yes.
+Oh, really?
+A store opened up right across the street?
+Directly across the street.
+If I was a good golfer, I could put a golf ball through the window
+of three other companies.
+Really?
+Yes.
+I saw it.
+I saw it.
+I walked it.
+They were that close.
+You could walk it in five minutes.
+Yep, absolutely.
+And what were you thinking as this expansion was taking place?
+What was going through your mind at the time?
+Well, that's when my customers that I had had were starting to go to
+other payday lenders as well as coming into my office.
+So they would borrow from...
+They would hit me on Monday, hit Advance America on Tuesday,
+Cash Land on Wednesday, and Fast Cash on Thursday.
+How do you know?
+How do you know what your customers were doing?
+I'm sure they're a little bit shy, right,
+about telling you they're going to a competitor.
+Well, by then, there was a company called TeleTrack.
+And you could enter the person's social security number
+and it would give you a printout of where all they had borrowed.
+Check and Go, Chris's employer, denies that it was policy to loan money
+to people who already owed rival stores.
+But they did acknowledge that customers sometimes did end up owing
+multiple payday lenders.
+And so, you know, it's the case that Chris's customers ended up
+borrowing $500 from her.
+Then they went down the street to Cash Advance or Cash City
+or whatever was there, borrowed another $500,
+and they could have gone to the next store down
+and borrowed another $500.
+And when you add that up and you think about the fees,
+that interest that they're paying,
+it could be almost half of certain people's paychecks,
+depending on how many stores they hit up in town.
+And, Caitlin, this growing number of payday lenders
+raises this interesting economic question.
+So you'd think the more stores there were in Mansfield,
+the more they would need to compete with each other for customers.
+And, in fact, Chris Browning says she did come under increased pressure
+from her management to step up the sales pressure.
+She had to deliver flyers to places where people might need money,
+doctor's offices, car repair shops, trailer parks.
+She had to cold call people who hadn't been in the store in a while
+and ask them if they needed a loan.
+If people came in and borrowed less than the maximum amount,
+she was supposed to remind them that they could borrow more,
+and she was actually supposed to do this a minimum of three times,
+although Check and Go says that this last thing
+wasn't official company policy.
+But here's what's weird.
+All these payday lenders, they didn't compete in this one very big way
+that economic theory would predict.
+They did not compete on price.
+None of the payday lenders tried to take market share from the others
+by saying, hey, we'll lend you this money
+but at a lower rate of interest than the store in the corner.
+And this was a mystery to us.
+You know, Alex, it sounds like it's that time in the podcast
+where we call an economist.
+It does indeed.
+So we talked to Bob DeYoung.
+He's a professor of finance at the University of Kansas.
+He's studied payday lending a lot,
+and he says the answer may lie with the law in Ohio.
+Currently, Ohio has a law which caps the fees that payday lenders can charge.
+The interesting thing in the regulation of payday lending
+is almost every state puts a price ceiling on how much a payday lender can charge.
+Now, that sounds like a way to keep prices low,
+or at least from getting too high,
+One thing about price ceilings is they often have acted over time as magnets for prices.
+DeYoung and his research partner, Ron Phillips,
+did a big study of payday lenders in Colorado.
+They looked at about six years of data
+during which Colorado passed a law
+capping the maximum interest that payday lenders could charge.
+We found in the data that over the first two or three years
+that the price ceiling was in place in Colorado.
+Payday loan prices went up,
+and after about three or four years,
+over 95% of the payday loans in Colorado were priced at the price ceiling.
+Wow. It's really fascinating.
+What's the dynamic at work there?
+Can you explain it?
+Well, the dynamic is that everything else equal,
+the suppliers of goods would rather collude with each other to set a high price.
+Sellers of goods and services aren't saints.
+They want to make profit.
+So once this regulation is in place,
+they have a focal point where they can set their price at that focal point
+and not have to worry about being sued for colluding with their competitors,
+because the government has handed them a tool for colluding.
+So are you saying that if Colorado got rid of its cap
+on the interest rates that payday loan suppliers could charge,
+that their interest rates would actually go down?
+Some of their interest rates would go down.
+What would happen is we would get a range of prices
+rather than a uniform pricing of a product.
+In other words, DeYoung's saying that some rates might go down.
+If someone who seems like they're a good risk,
+say an Alex Bloomberg comes in, got a nice pay stub,
+you may say, OK, I think you're going to pay me back.
+I'll give you a lower rate.
+But then for other people who seem like they might skip town,
+maybe they have a lot of loans outstanding, you would charge them more.
+Basically, you would just have room to adjust prices in this type of environment.
+And we should step back here because these price ceilings were put in place
+because people, activists, legislators, were worried about the effects of payday lending,
+and they were worried about it specifically on people like David,
+Chris Browning's repeat customer who brought her coffee every month for a decade.
+Now, just to remind people, he paid 10 grand to borrow $800,
+which he used to gamble.
+And surveys show that most people who use payday lending services
+are very satisfied with their payday lenders.
+And David probably would have been as well.
+After all, he bought his payday lender coffee every month for a decade.
+But we have laws that stop people from doing things that they want to do
+but that are bad for them.
+You know, people aren't allowed to do heroin,
+they're not allowed to smoke in restaurants,
+they have to wear their seatbelts even if they want to.
+And to Chris, payday lending falls into that category.
+She says this about her customers.
+Yeah, they had a choice.
+However, if the choice wasn't there,
+they would have gone back to the old way of the 1970s or 1980s or 1990s.
+You know, you need to come up with $100,
+maybe you have to go to two or three different people to do it,
+but you're going to do it.
+It's just too easy to get a payday loan.
+It's too easy to have more than one payday loan.
+Honestly, I would like to see the state of Ohio do
+what other states have done and get rid of payday lending.
+I think it's important to think about what the costs
+of not having the payday lender in place could be for households.
+And of course, here to complicate Chris's
+satisfyingly simple solution, just ban them,
+is our economist Bob DeYoung.
+He says, sure, there are those Davids out there,
+the repeat customers, but there are also real people,
+the people who do fit the classic case of they need a short-term loan
+to tide them through a rough patch until the next check comes in.
+And for them, a payday loan is a completely rational choice.
+Folks who have gotten behind financially
+and now they face the following choices.
+They can not pay their bills,
+which of course reduces their credit rating
+and can scotch their relationships
+with maybe their doctor or their grocer
+or someone they want to have an ongoing merchant relationship with.
+They can write checks to cover the bills and bounce those checks.
+That's a very expensive way to cover your debts.
+And in fact, if you were to calculate
+the dreaded annual percentage interest rate number
+for bank overdraft fees or for bank bounce check fees,
+they are just as large and many times larger
+than the APRs charged by payday lenders.
+A study, a very in-depth study that was done at the FDIC last year
+found that I think the median annual percentage rate
+on bank overdraft fees was nearing 900 or 1,000%.
+So faced with these choices,
+a very rational financial decision for many of these households
+is to take a payday loan.
+It turns out to be a lot less expensive.
+Now Alex, just to point out here,
+Bob DeYoung isn't saying we shouldn't have any regulations.
+In fact, he said he thinks we need regulations
+to deal with people like David, these repeat borrowers.
+He just wants to make sure they're the right type of regulations.
+I think there's a lot of room for regulations
+that would address this rolling over of payday loans
+in a non-rational basis.
+Perhaps after six months we set up a reduced payment plan
+and wean the borrower off of the product.
+This would be a way to address the sad state of folks
+that continue to roll over
+without removing the good part of this market,
+and that's the short-term credit product
+that a lot of folks have taken out, have liked,
+and has helped them solve their problems.
+Right now, actually, as we're sitting here talking about it,
+Congress is debating this very same issue.
+Right now?
+Yeah, maybe.
+Basically, they're trying to figure out
+how to deal with payday lenders
+in that big financial regulatory reform bill
+that's working its way through the Senate.
+And one idea that they have,
+cap the effective annual rate that payday lenders can charge.
+Another idea, an amendment put forth by Senator Kay Hagan,
+a Democrat from North Carolina,
+would essentially do what Bob DeYoung recommended,
+leave the right uncapped,
+but limit the amount of times people can roll over the loan.
+Right now, this is all hypothetical.
+There's a lot of stuff in that bill.
+It should be an interesting debate.
+I just wonder when it's going to actually happen.
+I can't wait.
+We'll be keeping an eye on that.
+But for right now, I think that wraps it up for us today.
+Be sure to check out our blog, npr.org slash money,
+to see links to Bob DeYoung's paper
+about payday lenders in Colorado
+and, of course, Gary Rivlin's book, Broke USA,
+that goes on sale June 8th.
+I'm Caitlin Kenney.
+And I'm Alex Bloomberg.
+Thank you for listening.
+See you next time.

@@ -228,3 +228,536 @@ Copyright © 2010 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+It's amazing.
+You're looking at the market full of 20-point increments, 30-point increments, and usually
+we trade in cents, half a cent, 20 cents, and you know something's up.
+You know it's more than Greece.
+Hello and welcome to NPR's Planet Money.
+I'm David Kestenbaum.
+That was Alan Valdez, Vice President of Cabrique Trading, you heard at the top.
+He was talking about the tremendous plunge the Dow took yesterday afternoon.
+And I'm Alex Bloomberg.
+Today is Friday, May 7th.
+On the show today, we go into a secret room at a credit rating agency where the fate
+of Greece is decided.
+That is not true.
+I couldn't actually get into that room.
+And actually what happens in that room doesn't decide the fate of Greece.
+But people in that room do give Greece a grade.
+Those letter grades you hear about, the AAA rating, the AA rating that the rating
+agencies give out, and those grades, they are very, very important.
+They are supposed to indicate how likely it is if you loan a country's government
+some money, you'll get paid back the full amount on time with interest.
+We'll have much more on that in the program coming up.
+But first, our Planet Money indicator, Alex Jacob Goldstein, our Planet Money
+blogger and I, we have been working on this all day.
+So we'll get back to you in a second.
+Jacob, thanks for coming in.
+Let's have it.
+My indicator for you, one cent.
+You couldn't do better than that?
+I could not do any better than that.
+That one cent is how much a share of the consulting company Accenture traded for
+yesterday.
+Now Accenture is a big consulting company.
+You've probably seen their ads with Tiger Woods in the airport maybe or in a
+magazine. But yesterday, Tiger Woods was not their problem.
+The stock started the day somewhere around $40 a share, briefly traded for a
+penny a share, and then snapped back up to $40.
+Right. So that was just one example.
+Yesterday was this really, really strange day for the stock market.
+The Dow suddenly plunged, oh, 600 points.
+You and I were walking around, looking at the screen going, wow, that's really
+strange. And then 60 minutes later, it bounced right back.
+Right. And today, we've been reading and trying to figure out what happened.
+And frankly, it's still not entirely clear what was going on yesterday.
+So we called up Robert Whitelaw.
+He is the chair of the finance department at NYU's Stern School of Business.
+And he said he was in his office when this happened.
+They also saw the stock market do this very strange thing.
+Pretty soon, all these academics are out wandering around the hallways trying to
+sort out what the heck was going on.
+He said it was just totally bizarre.
+Right. So Whitelaw told us his best understanding so far of what happened.
+Now, for some reason, a handful of stocks, Procter & Gamble, Accenture,
+3M, they lose value pretty sharply.
+Now, that piece, the why there is still unclear.
+It's not clear why there was this sharp decline in value.
+But what is clear is that when those stocks had that sharp decline in value,
+this kind of circuit breaker kicked in on the New York Stock Exchange.
+Now, when this happens, for about a minute,
+electronic trading is slowed down on the exchange to allow actual people
+to jump in and kind of sort things out.
+Right. So, but it turns out that when the New York Stock Exchange says, hey,
+let's take a breather, trading can actually just move somewhere else.
+Here's Robert Whitelaw.
+Suddenly, you can't trade on, you know, there are tons of people out
+there who want immediacy, so maybe it's computers.
+Computer-generated trade.
+And suddenly there is no, they have no ability to trade on the New York Stock
+Exchange.
+And these are NYSE listed stocks, so suddenly they jump to, say, NASDAQ.
+So we should make clear that there are, the stocks on the New York Stock
+Exchange are not just traded there, they're traded other places also.
+That's correct, although there are rules about when they can and
+cannot be traded, you know, off-exchange and on-exchange.
+But in this, under these circumstances,
+suddenly NASDAQ becomes the market in which these traded.
+And this may only be for 30 seconds, but you've got to understand that,
+you know, maybe two decades ago, immediacy meant, oh,
+I need to get my order processed in the next half hour.
+Now immediacy means I need to get my order processed in the next half second.
+So how does that explain what happened?
+So the New York Stock Exchange puts a pause, basically.
+A circuit breaker gets activated.
+You can no longer trade, say, Procter and Gamble at the New York Stock
+Exchange, but they're computers.
+They're still trying to sell it for whatever reason.
+So they switched to trying to sell it at NASDAQ or some other electronics.
+OK, right.
+So, so, but all the liquidity, or not all, but the vast majority of the
+liquidity, or the depth.
+The liquidity meaning the volume of buying and selling.
+Yeah, so in this case, what I mean is limit orders,
+which is people standing ready to buy the stock at just below current
+market prices.
+So, you know, the New York Stock Exchange will have what they call a
+limit order book, which is a bunch of orders from people saying,
+yes, I know the current stock price is 60, but if it drops to 59,
+I'm a buyer.
+If it drops to 58, I'm a buyer.
+I see. Usually there are a lot of those hanging around,
+which is why when you want to sell something, it gets snapped up right away.
+Exactly.
+But the problem is for these New York Stock Exchange stocks,
+the liquidity is heavily concentrated on the New York Stock Exchange.
+So suddenly that liquidity, we think, disappeared.
+Maybe only for 30 seconds, but it disappeared.
+So now imagine you have a market sell order, which is basically you're
+saying, I want to sell 1,000 shares of the stock or 10,000 shares of the
+stock at whatever price is available.
+Normally that would just pick off a few of the top limit orders on the
+limit order book, and instead of getting 60 books, you get 59 or 58 or
+whatever.
+But now that limit order book disappears because that's on the New
+York Stock Exchange.
+And so there are no other limit orders out there, or there are very
+few of them.
+And so the next limit order is at 50, and then there's one at 40,
+and then there's one at one cent.
+And it suddenly runs through all those orders, and you see the one cent
+transaction.
+So OK, David, so you see these big plunges in a few stocks, right?
+And so that has a few effects.
+For one thing, there's only 30 stocks in the Dow, right?
+So when you have Procter & Gamble and 3M, both of which are in the
+Dow, going way down super fast, that alone is enough to account for
+hundreds of points of the drop.
+So a big chunk of the drop was just these crazy huge drops in a few
+stocks.
+Now, this part is not entirely clear, frankly, but it appears that in
+addition to that, this drop would have triggered other kind of
+computerized orders to go through.
+And so you would have had a sort of feedback loop where the drop
+keeps going.
+But in any case, the market sort of came to its senses and pretty
+quickly snapped back up.
+Right, so my question to Robert Whitelaw was, does this thing
+matter?
+I mean, it looked like the patient died, then the patient was back
+alive, and up and walking, everything seemed fine.
+And he said, it's going to have zero effect on those companies,
+Accenture, Procter & Gamble, 3M.
+And sure, there are some people who lost money and some
+people who made money when those stocks were sold at very
+low prices.
+He says, the real problem here is just investor confidence.
+It doesn't feel good to watch the stock market do what it
+did that day.
+Does this damage investor confidence?
+Are people going to be reluctant to trust even the short or
+medium term prices that they see when they know that this kind
+of thing can happen?
+Right now, the world is rather uncertain.
+I mean, we have the Greek debt crisis.
+We have all these fiscal problems, not just in Europe,
+but also in the US.
+Goldman Sachs, financial regulation, whatever you
+want to call it, there's a tremendous amount of
+uncertainty.
+Adding to uncertainty is probably not a good thing.
+And it's clear, especially now that we're not exactly sure
+what happened, this is not going to inspire confidence in the market.
+So today was kind of a jittery day in the stock market.
+It's down as we're taping this.
+It's been bouncing around.
+But it doesn't seem, at least today, like everybody's pulling
+their money out of the market and sticking it under the mattress.
+Jacob, I thought you always put yours in the cookie jar.
+Who told you?
+All right, thanks, Jacob.
+Thanks.
+OK, Alex, back to our topic for today, the rating agencies and
+rating of countries.
+So just last week, Standard & Poor's downgraded Greece.
+And Greece's rating crossed this magical line to what the market
+calls junk status.
+Actually, it's a double B plus, is what Greece has right now.
+And those rating downgrades can be really devastating.
+For instance, Greece has a bunch of bonds coming due,
+totaling $11 billion, $11 billion due in just two weeks.
+And Greece doesn't have all that money.
+Usually what a country does is it just issues new bonds.
+It rolls over the debt.
+But this downgrade is going to make that a lot harder for
+Greece to do, because nobody wants to loan money, or not
+many people want to loan money to a country that's been
+rated junk, or they're only going to loan the money if
+they get a high interest rate in return.
+So these ratings are really important.
+And this has always been kind of a mystery to us here.
+How do they actually arrive at that judgment?
+How do the rating agencies say Greece is a double B
+plus, Botswana is a single A. How do you rate a country,
+an entire government?
+So we should probably back up a bit here.
+The rating agencies that have been around since the 1800s,
+Henry Varnum Poor, that is the poor of Standard and Poor's,
+was rating railroads back in the 1860s.
+And the idea was to help investors answer that one
+question, if I loan Bloomberg Railroad $1,000, what are
+the chances I'm going to get my money back?
+Excellent.
+The chances are 100% you will get your money back.
+That is exactly why we need an independent rating
+agency, because I don't trust you.
+So when I say loan you money, I really mean I'm going
+to buy a Bloomberg Railroad bond, because when you buy a
+bond, you're basically loaning money and you're hoping
+to get paid back in full with interest on time.
+So a triple A rating meant, yeah, don't worry, we think
+you're going to get your money back.
+The companies sound financially business is good.
+Down in the letter B grades though, you
+better be careful.
+And in the 1920s, rating agencies started sticking
+these letter grades on things much bigger than
+companies.
+They started to tackle entire governments.
+But rating a country, to me, seems a little harder
+than rating a railroad.
+So I went to see how they do it.
+I went to Standard and Poor's.
+They are in a huge building at the southern tip of
+Manhattan.
+They took me up to the 46th floor.
+You can see the New York skyline out the window.
+And I met with Joydeep Mukherjee, who is the
+director of one of their sovereign rating groups.
+That's what they call the groups that rate countries,
+sovereign rating groups.
+And I asked them to walk me through the process.
+OK, let's suppose that it's a new country.
+We know nothing about it.
+They approach us and say, OK, we want a rating.
+Why would they say that?
+Because most of the time, they want to issue debt in
+the market outside their home market.
+Meaning they want to borrow money by issuing bonds.
+They want to borrow money from abroad.
+So we can come in there and make an independent
+assessment of the ability to pay the
+debt fully and on time.
+What's the most recent new country to pop up and ask
+for a rating, do you know?
+Albania.
+Albania.
+So Joydeep says, Standard and Poor's will say to
+whatever this country is, OK, you've got to
+give us your data.
+We're going to need all this information about your
+budget, your imports, your exports, your gross
+domestic product.
+And of course, we need to know about your debt.
+And for Greece, those numbers look pretty bad,
+especially the debt part.
+Greece owes a lot of money.
+In fact, it owes more than the entire country
+produces in a year.
+The Greek debt is 120% of its GDP.
+So that on itself looks pretty bad.
+You think, oh, they're going to get a bad rating.
+But Joydeep says you can't always just go by
+numbers like that.
+For instance, the United States also has a lot of
+debt, something like 80% of our GDP.
+But we get the top rating, a triple A rating.
+This is the hard part, is that you can't just pick
+one ratio.
+There's no magic formula that says, you know, if
+debt exceeds X percent of whatever, then you've
+got to be in this rating or you're going to be
+here.
+Because what you find is rich countries with a
+high rating, like the United States or some of
+the European countries, have a lot of debt.
+Why?
+Because they have a rich economy.
+They have a good tax system that
+generates revenues.
+They're borrowing so they can grow.
+And they do grow, and then they can pay back the
+debt.
+Part of growing is often borrowing to finance the
+growth.
+Debt isn't necessarily a sign of weakness.
+It's a sign of expansion and things like that.
+If you go to the other end of the scale, you
+may have a little bit of debt and still default.
+I mean, it's saying you can drown in a glass
+of water.
+Or if you're a very good swimmer, you can swim
+across the Atlantic no matter how deep it is.
+So that's why you can't look at one indicator in
+isolation and say, this is going to explain
+everything.
+And, Dave, these guys also have to factor in other
+completely non-financial things into their
+thinking, like who's going to win the next
+election?
+And what's that person's domestic policy going
+to be?
+And I don't know.
+Is there going to be a military coup?
+Yeah, anything could happen.
+And that is why analysts at Standard & Poor's
+take an additional radical step.
+They leave their desks.
+Any country, we have two analysts who go to the
+country for that rating.
+Never send just one person because, you know,
+you need to have a second pair of eyes.
+I think there are people listening to this who
+would say, just two?
+Shouldn't you be sending 70 to rate a country's
+government?
+Well, we're not the IMF.
+We don't send a team of a lot of expert
+specialists.
+And, you know, to be fair, what we're looking
+at is fairly narrow.
+Can you pay your debt fully and on time?
+What's your ability and willingness to do so?
+So we're not necessarily going to be experts on
+the taxation system in Albania.
+You know, I think two people, this has been
+their practice.
+It's worked well.
+So they go over, how long do they spend there?
+If it's a new rating, first time, we could spend
+up to a week.
+Obviously, you're going to meet with the
+Ministry of Finance.
+You meet with the central bank because they have
+a key role in the economy with things like
+inflation and exchange rates.
+Then we go talk to the business people.
+We'll talk to that.
+We'll talk to anyone.
+Sometimes even talk to the media in the
+countries that...
+No.
+Yes, sometimes surreptitiously, we even
+talk to the media in various countries.
+I love that.
+So it's a private corporation having off-the-record
+conversation with the media.
+Usually it's the other way around.
+And it proves to me it's true.
+The media do control the world.
+All those conspiracies are right.
+So all this data, the random private off-the-record
+musings of journalists, the interviews with top
+government officials, all the numbers, all that
+goes into the head of an analyst.
+And that analyst types up a report, recommends a
+rating, and then there's the climactic end.
+There is a meeting in a conference room.
+And this happens on another floor at Standard
+& Poor's where they could not take me.
+But Joydeep did a kind of re-enactment with what
+he swears is an identical conference room.
+We walk down this hallway and we come to this
+room and we walk inside.
+And as you can see, if I open the door here,
+it looks like any conference room anywhere
+in America.
+And the key feature here is a telephone.
+And that's important because the rating
+committee is international.
+So a bunch of analysts sit around.
+Some of them are there on the phone.
+They're going to talk about this and then they're
+going to take a vote.
+There has to be at least, well, five is the
+usual number of voting members.
+We always want to have an odd number because you
+don't want to tie.
+You just, you know, and do the whole thing again.
+So you lock yourself in a conference room.
+And then the analyst can make a very brief
+introduction saying, I recommend this for the
+following reasons.
+OK.
+And then the chair of the committee who sits at
+the front of the table says, OK, now we're going
+to start the question and answer period.
+Let's start with this topic.
+Let's start with political risk.
+When you've exhausted that topic, the chair will say,
+OK, let's talk about the government budget or let's
+talk about inflation.
+End of the process.
+OK, fine.
+No more questions.
+Everyone's set.
+We know as much as we're going to know on this
+thing.
+How long does that take?
+So even if you're doing a sovereign, which is
+relatively boring, like a Canada, which is rated
+You still have to go through all the steps.
+So two hours is sort of average.
+And then you have the vote and say, OK, analyst A, how
+do you vote?
+Analyst B, you just go through the list, tally up
+the votes and say, OK, the majority voted for this.
+This is the rating.
+So, Dave, I don't know what I was expecting, but I
+always think of finance as being very quantitative,
+you know, spreadsheets, numbers, and formulas.
+And this strikes me as more of a messy democratic
+process, like literally a hand vote.
+Like you'd have, I don't know, a co-op board or a PTA
+meeting or something.
+Right.
+And this is a matter of opinion, right?
+This is a judgment call by a bunch of analysts.
+And that's why you get people out there with
+different opinions who often get angry at the
+rating agencies.
+People like Bill Gross, the managing director of a
+company called Pymco.
+Now Pymco is one of the largest buyers of government
+bonds out there.
+They have over a trillion dollars under management.
+And he has whole teams of people doing essentially what
+S&P does, evaluating government bonds.
+And Bill Gross, he took S&P to task this week.
+He has this online column and he went on a little bit
+of a rant.
+And the rant was about the rating that S&P gave to
+Spanish debt.
+He said the rating for Spain is way too high.
+And here is what he wrote.
+He wrote, S&P just this past week downgraded
+Spain one notch to double A from double A plus.
+Ooh.
+And he actually wrote this in his column.
+He wrote, ooh, so tough.
+And then he went on, here's a country with 20%
+unemployment, a recent current account deficit of 10%
+that has defaulted 13 times in the past two centuries.
+This is the strange thing about the rating agencies.
+On the one hand, they're just a bunch of analysts
+offering their opinion.
+But when they change their opinion, that can have
+massive consequences.
+And to explain what these massive consequences are, I
+have a piece of paper in front of me.
+It's a prospectus for the Fidelity Investment Grade Bond
+Fund.
+You might have money in here right now if you invest
+with Fidelity.
+And the investment grade bond fund prospectus
+says the following.
+It says it, quote, normally invests at least 80%
+of the fund's assets in investment grade debt
+securities.
+So in other words, before the downgrade of Greek debt,
+Fidelity could invest in Greek bonds without a problem.
+But after the downgrade, this fund might have to sell
+its Greek bonds.
+And this is not just Fidelity.
+There are lots and lots of investors
+who have these kinds of rules where they reference
+the ratings from these rating agencies.
+Where it matters whether something's investment grade
+or below investment grade.
+Pension funds, insurance companies, banks, lots of
+people who used to loan Greece money.
+Now it's harder for them because Greece has been
+lowered to junk status.
+So the allegation is a downgrade can help seal a
+country's fate.
+Joydeep, the analyst at S&P, he doesn't buy that.
+He says we are just holding up a mirror to the world.
+It's not the rating which caused the problem.
+The problem was there.
+The rating, as it changed, will bring the news out
+to more people.
+And we've had this in the world of sovereigns.
+We had the 1997 Asian crisis where we downgraded
+some sovereigns.
+People accused us of this very thing of
+creating the crisis.
+In fact, you find most countries that we downgraded
+went down a little and they stopped there and
+they recovered.
+Only one or two countries really went to the bottom
+and even defaulted.
+What does that mean?
+That means that the inherent strength of the entity is
+more important than what a rating agency says.
+Rating agency downgrades by themselves are not going
+to cause anyone to default.
+Is there a big deal when you cross from investment
+grade to non-investment grade because certain
+investors are constrained by laws?
+Yes, simple answer.
+Do you treat that boundary as sort of special in
+your meetings because of that?
+We think deeper and longer and harder about going
+across that line.
+So it is significant that Greece passed from
+investment grade to non-below investment grade.
+I think that's how the market has interpreted that.
+You know, Alex, for all the fuss about that
+downgrade, Standard & Poor's told me they don't
+expect Greece to default immediately at least.
+Greece is now in the double B category and
+historically if you look at double B rated
+countries, if you look at the next three years,
+something like just four and a half percent
+typically end up defaulting.
+So the big question, will Greece fall in that
+four and a half percent category or not?
+And that is the question on everybody's minds and
+we, like everybody else around the world, will
+be examining that question.
+Our very own Hannah Joffe-Walt is actually in
+Greece right now reporting on events over there.
+We will also be following these events on
+our blog, npr.org slash money.
+And our very own Adam Davidson is in California
+to interview the CEO of PIMCO.
+They have those big bond managers we're
+talking about.
+We will have that for you on a future
+podcast.
+I'm David Kestenbaum.
+And I'm Alex Bloomberg.
+Thank you for listening.
+Thank you.

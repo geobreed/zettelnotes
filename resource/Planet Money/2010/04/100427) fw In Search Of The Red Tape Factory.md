@@ -260,3 +260,455 @@ Copyright © 2010 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+Hello and welcome, you're listening to National Public Radio's Planet Money.
+Hi, that's right.
+This is Planet Money.
+I'm David Kestenbaum.
+That was Shivani Dogra introducing the show.
+She was my translator on my recent trip to India.
+You can hear somewhere in her voice, I think, the legacy, a little bit of British colonialism
+in her very precise British accent.
+I could kind of hear it.
+And I'm Kaitlin Kenney.
+Today on the podcast, we're going to tackle another thing the British left behind in India,
+a love of paperwork.
+First, though, we have our Planet Money indicator with our own Jacob Goldstein.
+Hey, Jacob, what have you got?
+Kaitlin, today's indicator is $2.1 billion.
+That's how much profit Ford said it made in the first quarter of this year.
+It's the latest sign that the U.S. automakers seem to be doing okay.
+Chrysler recently said it made an operating profit in the first quarter of this year.
+And there was this press release a few days ago with the Treasury saying that GM had paid
+back somewhere around $7 billion that it owed the U.S. Treasury.
+So I actually have the press release here.
+It says, the headline is, GM repays Treasury loan in full five years ahead of maturity
+date.
+They're very proud of that.
+And then there's this little teeny line at the bottom here.
+It says, after this repayment, the remaining Treasury stake in GM consists of $2.1 billion
+in preferred stock and 60.8 percent of the common equity.
+I feel like there's a page missing from that press release.
+Yeah, right.
+So this press release, it sort of trumpets this $7 billion repayment.
+But the truth is that U.S. taxpayers actually put somewhere around $50 billion into GM.
+So this repayment is, relatively speaking, small potatoes.
+Most of that money that we sunk into GM is now in the form of stock.
+And really, we, the taxpayers, won't get our money out of GM unless the company goes public
+again and gets really huge.
+Its market cap would have to be bigger than it ever was, according to one estimate that
+I saw.
+All right.
+Thank you, Jacob, for checking on that.
+Glad to do it, David.
+I've got to run back to the blog cave now.
+There are these Goldman hearings in the Senate today, and I don't want to miss
+anything big.
+All right.
+Before you go, though, could you just initial here to indicate that we did the
+indicator?
+All right.
+All right.
+Okay.
+Wait.
+Can you just initial there?
+There.
+Okay.
+Uh-huh.
+Sign there.
+I got to go.
+I got to go.
+I'm going to sign here.
+I got to go.
+Okay.
+Thanks, guys.
+Bye.
+Thank you.
+Thanks, Jacob.
+David, what's up with all those signatures and those initials?
+Well, that's one of the things I brought back for you from India.
+Ooh.
+Yeah.
+So this is one of the things you notice traveling to India, is that there's a
+lot of writing things down.
+People seem very fond of writing things down.
+When you check into a hotel, there's this big ledger that the person at the desk
+opens up and they write down in very neat handwriting your passport number, your phone
+number, the phone number of your friend in town.
+It takes forever.
+And when you go to an internet cafe, they want you to write down your passport number
+and your home address.
+And an internet cafe?
+Yeah.
+And when you go to an actual cafe, the waiters in this one place I went to had
+something I hadn't seen in ages, actual carbon paper.
+We were all paying separately and it required like a separate handwritten receipt and
+there was carbon in between the sheets.
+You worked as a waitress, right?
+Yeah.
+Did you ever use carbon paper?
+Well, no.
+We have these great computer systems, but there was actually a time when our credit
+card machines would crash and we'd have to take everyone's credit card and manually
+run it through this machine on the carbon paper and it would take forever.
+Right.
+And it's inefficient.
+And India is one of the fastest growing economies in the world.
+It's been growing for decades.
+And how did it grow?
+Well, recently it's been helping other countries get rid of their paperwork basically, right?
+India is synonymous with back office IT.
+You know, it's got programmers, call centers, electronic billing.
+Yeah, but David, I've seen your photos and there's oxen walking around in the street
+along with the cars and a lot of people live there, don't have electricity.
+They'll be computerized.
+Maybe you should just give them some time.
+I know.
+I mean, I feel that way too, right?
+But I'm telling you, there is something amazing and special about Indian paperwork
+and everybody in India has a story.
+Here's one from this guy I met who's actually quite well known in India.
+This is not an interview where I want to interrupt you.
+This is an interview where I want to share a perception with you.
+No, but I promise you I'll refer.
+His name is Karan Thapar and he is many things, a newspaper columnist, a TV interviewer.
+That's actually him on the phone trying to twist the arm of India's Minister of
+Information to get the person to consent to an interview.
+And he's famous for grilling politicians.
+There's actually a photo on his wall of this moment where he made a big, strong
+cricket player break down and cry.
+So anyway, I was talking to him about about other stuff about the Indian economy,
+but I mentioned the paperwork thing and he just jumps in.
+He says, I know, I know.
+You go to government buildings and you just find stacks of paper crawling up the walls.
+I remember going to the old income tax office way back in 76 when my father died.
+I was all of about 19 and I felt I ought to help out a little bit in sorting out
+some of daddy's papers.
+And so I walked into this room and I was mesmerized because they're sitting in
+this dank, dingy, dark room was this wee little mole of a creature buried in
+files. Right.
+And then there were these stacks that went up all the way to the roof with
+mildewed brown files decaying with age, brown with dust.
+And he said to me, I'm going to have to find your father's file.
+Come back tomorrow and I'll have got it.
+So Caitlin Kern goes home thinking no way, no way is this guy going to find
+that file. But then he comes back the next day and everything's fine.
+And there it was. The file was there.
+He dusted it. He blew dust off it.
+He found whatever he wanted.
+But yes, we are what I call Babu culture.
+We're obsessed with notes.
+What was the word? Babu culture.
+It's a sort of pejorative Hindi word for small time clerk.
+Small time clerk.
+They were the sort of petty officials who kept the British Raj ticking along.
+And you'd have an army of them sitting outside the offices of the British
+collector or the British Viceroy, right, furiously taking notes,
+devising petitions in pompous sort of officiaries to be delivered by the
+little Indian to the big white Raja who was ruling us as our Viceroy.
+But I mean, our culture is obsessed with writing on files,
+sending papers, making notes, petitioning people.
+We insist upon responses back.
+And then, of course, every file has to be signed upon on the left hand
+side by everyone who's read it.
+And they all write their comments.
+And so you have two parallel files within each file, the file that
+contains the actual documents and then the side issue where people are
+assigned to say they've read it and what they've read and what it amounts to.
+It's a nightmare, a complete nightmare.
+I mean, the great dream of a paperless office doesn't exist in India.
+It's only talked about.
+So there you go, David.
+It's not the people who live in India now who are responsible for all this
+paperwork. We should blame the Brits.
+It's their fault.
+That's actually not a bad explanation.
+And it's kind of the story you hear a lot about how the Brits ran their
+colonies, that they came in, they trained a generation of elite bureaucrats
+to run things, tried to employ a bunch of people, sometimes gave them
+meaningless jobs just to give them jobs.
+And then, you know, this version of the story goes that the Brits left,
+the paperwork stayed behind, and it took on a life of its own.
+Kiran says there's this feeling in India that if you can make a stack of
+paper high enough, it actually proves something.
+And I say, come on, the story you told me is from the 1970s.
+Hasn't it changed a bit?
+You know, I haven't been to a tax office for a very long time.
+But I believe if you go to Delhi Development Authority offices,
+they're almost identical.
+So, Kaitlin, I went inside a city government building in Delhi.
+And here, I'll just show you the photo here.
+Three photos, actually.
+Oh, my gosh.
+I'm looking at these pictures, and there's just, like, stacks and
+stacks of paper.
+Literally, the paper's so old, it still has those funny printer holes
+punched into the side of it, and everything sort of, like, crumpled up
+and leaning on each other.
+How do you even walk around an office with this much paperwork?
+I don't know.
+I feel like in our stories, we often say, and there are mountains
+of paperwork, it's not like this.
+It's like, it is actually, like, mildew.
+It is just, like, stacks and stacks and stacks and sets of books.
+And it doesn't look orderly at all, right?
+Yeah, so it's still that way.
+And when I left the building, I was walking around the street,
+and I talked to Prakash Chandasherma.
+He was a student who'd just come out of the building.
+And he said, oh, yeah, you should go to the courthouses.
+You should see the paper there.
+There are some drawers or something.
+There are so much papers.
+So you can say, in India, they use a lot of paper works for that,
+especially in government fields.
+Paper, paper, paper.
+How do you think they find anything?
+How do they find it?
+How do they find anything that's in those files?
+They know, sir.
+They are magical people.
+They're magical people?
+They are magical.
+Yeah, but even if they're magical people,
+I mean, that can't be very efficient.
+You still have to take the time to look for the file.
+And if you're in an office that looks anything
+like those pictures you just showed me,
+that could take forever.
+Yeah, so I spent a while just recreationally kind
+of asking people why they think there is so much paperwork.
+And one answer I got a lot is just that, hey, democracy
+is slow.
+Sure, the economy is growing really fast,
+but that's like private sector growth.
+Government always lags behind,
+and India's democratic government
+has a reputation for being particularly
+paralyzed by debate.
+But there's this other theory I like,
+which says that paperwork exists for the very reason
+of slowing things down, because there is someone or people
+in the system who actually want to slow things down.
+Why would they want to slow things down?
+That makes no sense.
+Yeah, well, someone would want to slow things down
+if they want maybe a bribe.
+So here's Reema Hanna, who you heard on the last podcast
+we did.
+She does work in India, and she's an economist at Harvard.
+I mean, that's one of the main theories people
+have about why there is so much red tape.
+In India.
+It's just introduced in effect so that bureaucrats
+can actually get a bribe.
+I've even experienced this myself
+in terms of getting data.
+There is a simple process.
+So for example, a couple of years ago,
+some colleagues of mine and I were
+trying to get housing data.
+And we had exactly the same issue.
+There was a simple process to follow
+in order to get the data.
+And then the bureaucrats at the office
+kept adding more and more stuff for us
+to do, more people for us to go to, more people for us
+to petition, harassing the staff a bit,
+because they basically wanted a bribe.
+And so they were introducing barriers
+to getting a public service because they want a bribe.
+Oh, I see.
+So basically, you'd think that you'd
+want to reduce the paperwork,
+get things done more efficiently.
+But if you're someone who controls the paperwork,
+you actually want there to be more of it
+so that you can convince people, hey,
+if you give me a little extra money,
+I'll cut down the number of things you have to do.
+So they actually benefit from increased paperwork.
+Right.
+And also, obviously, the people who sell the paperwork,
+who sell the paper, they benefit.
+And at some point, I had this idea,
+I'm going to go to the source.
+I'm going to find the red tape factory.
+Yeah, when you show me those pictures
+and talk to me about it, I just
+picture in my head this huge room.
+And there's a guy in front.
+And he's like, do you want government book G57 or G58?
+And do you want the one that contains clause
+FB for workers of section 18?
+And I just imagine it would be so hard
+to actually find what you needed.
+In my head, that place exists somewhere.
+I did not find it, but I got close.
+So Shivani, my translator, and I ventured
+into the very, very old part of Delhi.
+And I mean old.
+The streets are so narrow.
+You take a cab to the outside,
+but then you have to get on a little guy
+in a bicycle rickshaw that takes you around.
+This web of power lines overhead
+is a total and complete maze.
+You keep having to ask for directions.
+You don't know if you're ever going to find your way out.
+And eventually, we did find the section
+where it's all paper supply wholesalers.
+And somewhere in there, we found this one guy
+who had a store that was selling those big, big ledgers,
+those huge books I'd seen in the government offices.
+How long has your store been around?
+Our store is since 1922.
+1922, right here?
+Yeah, right here, right this place.
+This building is about 300 years old.
+300 years old, this building.
+And how long have you been making these
+for the government?
+About since 60 years.
+60 years.
+He took out the hugest ledger I've ever seen in my life.
+The government servants to use.
+And what do they do in this?
+They register.
+They register.
+So this is a ledger.
+That says PBR in big letters across the front.
+Stands for pay bill register.
+This is where you write down
+or you list all your expenses for the month
+if you were a government employee
+or for government employees.
+And so you have columns in the ledger
+that say license fee,
+your motor conveyance advance,
+your other cycle conveyance advance,
+your festival advance, your computer advance,
+other advances, your life insurance.
+So this is just a salary sort of sheet
+for a government employee.
+So wait.
+Mark 17 and 18.
+So the class of employees,
+mark 17 and 18 are listed here.
+David, I love the fact that you have to go out
+and buy a big book
+to write down your computer expenses.
+I mean, that seems so backwards
+when you think about it.
+I know there's this column
+that says computer deductions.
+So I bought the book,
+but I didn't feel quite complete
+because I thought I might need to make some copies.
+So we went looking for a place
+that sells carbon paper
+and everyone says you need to go to Bajaj Stationery,
+and finally found it.
+And the owner of the store is Kumuljit Singh Bajaj,
+and he asks me, why do you need it?
+And I thought, uh-oh, am I in trouble?
+Maybe this is like special carbon paper
+he's only allowed to sell to the government.
+But that's not why he was asking.
+What for do you need it, please?
+What do I need it for?
+Well, I'm a journalist
+and I'm interested in all the,
+everything's still done on paper here.
+I just wanted to buy some to take home.
+So I bought a big government ledger
+and I need carbon paper to go with it.
+I'm still going to start my own government.
+But is it okay?
+This is not very good quality.
+These are better.
+Premier carbon paper is not the fanciest?
+It says it's premier, though.
+It's not the fanciest.
+There are other brands which are better.
+So where is all the carbon paper made in this country?
+See, there are about four or five industrial hubs
+in and around Delhi.
+Okhla is one, Noida is one,
+Gurgaon, Manesar, then Kundali, Sonipat,
+and Vazirpur industrial area.
+There are about six, seven places
+where, you know, factories are located.
+Is there a big market for it?
+Big market for what?
+Carbon or what?
+Carbon paper, yeah.
+Carbon, actually, it's a dying industry,
+as you know.
+You know, people are going for computer
+and computerized billing.
+So over the last 30 years,
+I've seen a downfall by more than 75%.
+Really?
+There was a time when carbon
+was such a hot selling item.
+But now, you see, not so much.
+What's happened with the,
+so how much did you used to sell to government
+and how much now?
+What's happened over 30 years?
+Government still accounts, I think,
+about 25, 30% of the consumption.
+The rest is private sector.
+And has the amount the government has bought gone down?
+Definitely.
+So, David, things are getting better.
+The government's buying less carbon paper.
+Maybe they're cutting down on paperwork?
+Yeah, yeah, maybe they have it.
+A bit of good news.
+In case paperwork does go away,
+I brought us home these mementos.
+Here's the carbon paper.
+Yes.
+You can have a sheet.
+Oh, thanks for sharing.
+And this is the huge government ledger book here.
+Oh my god, this thing is ginormous.
+It's like two feet long.
+Wow.
+It's huge.
+Oh my god.
+And it has so many columns inside.
+Remarks, total deductions, checkers, initials.
+So I brought that into the office
+and Brian here looked at that and he said,
+I have two words.
+Spreadsheet.
+It's basically a spreadsheet in a book form, yeah.
+Wow, it really is.
+You'd have to be pretty good at math, too,
+to keep up a book like this, I would think.
+You know what amazes me about it?
+It's like, at one level,
+it's this incredibly sophisticated accounting, right?
+You know, all these very elaborate ideas
+about what you need to keep track of.
+Yeah, they're keeping track of all the details.
+And yet it's still all on paper.
+There you go.
+All right, I think that does it for us today.
+You can always mail us your comments, Planet Money.
+You can send them care of NPR to 11 West 42nd Street,
+the 19th floor, New York, New York 10036,
+or fax us at 212-880-3429.
+And make sure to save a copy for your records.
+We're gonna post photos of Indian paperwork
+on the blog, npr.org slash money,
+and Jacob's also gonna be blogging
+about the Goldman hearings in the Senate.
+I'm David Kestenbaum.
+And I'm Caitlin Kenney, thanks for listening.
+["Bhaiyaa Bhaiyaa Bhaiyaa Bhaiyaa Bhaiyaa Bhaiyaa"]
+["Bhaiyaa Bhaiyaa Bhaiyaa Bhaiyaa Bhaiyaa"]

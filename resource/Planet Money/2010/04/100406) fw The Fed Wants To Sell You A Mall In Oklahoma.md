@@ -272,3 +272,430 @@ Copyright © 2010 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+There's just been a tremendous increase in the labor force for the last three months
+or over the last three months.
+We've added more than a million people to the labor force and that's actually, that's
+a great sign.
+That's a sign that people that might have been discouraged, dropped out because of
+the terrible recession have started to have some hope again and are looking for work
+again.
+Hello and welcome to NPR's Planet Money.
+I'm Khanna Jaffee-Walt.
+And I'm Alex Bloomberg.
+Today is Tuesday, April 6th and that was White House Chief Economic Advisor Christina
+Romer, you heard at the top, talking about jobs on NBC's Meet the Press this weekend.
+Today on the show, the U.S. Central Bank gone rogue.
+It's been hitting shopping malls and tropical vacation destinations all over the world.
+But first, get your papers ready, Alex, our indicator.
+It is a big one, $29,816,000,000, but let's just round it up to $30,000,000,000.
+$30,000,000,000 is good.
+And $30,000,000,000 is the value of Maiden Lane number one.
+That is the name that the Federal Reserve gave to a bunch of mortgages and loans and
+other weird financial instruments that it grudgingly agreed to take on to its books
+in 2008.
+So 2008, especially the spring, was a very dramatic time in the financial world.
+Bear Stearns, big New York investment bank, was on the brink of failure and the government
+really didn't want that to happen.
+So JPMorgan, under pressure from the U.S. government, took over Bear Stearns.
+But part of that agreement between JPMorgan and the U.S. government was that JPMorgan
+was saying, hey, we don't want a lot of these assets that Bear has, the bad stuff.
+You take that.
+And so the Fed did.
+It gave JPMorgan about $30 billion, and in exchange, the Fed got a bunch of unhealthy
+assets, assets nobody wanted, and it stuffed them all into a portfolio that it named
+Maiden Lane One.
+There's actually three Maiden Lanes.
+Maiden Lane apparently is a street near the New York Fed, and Maiden Lane One
+that we've been talking about, that was the Bear Stearns assets.
+The other two were assets the Fed got from AIG.
+So altogether, almost $75 billion worth of what, exactly?
+Well last week, we got a chance to find out because after a lawsuit by Bloomberg News,
+the Fed finally released that information.
+What are the assets that it's holding in Maiden Lanes One, Two, and Three?
+And that, Hana, is what we'll be discussing today on the show.
+We'll be digging into those assets and finally revealing the answer to this two-year-old
+mystery.
+Yes, it's been something we've all been very eager to know.
+It turns out that getting a look inside these portfolios actually tells a really powerful
+story about a central bank that has transformed dramatically in the last two years.
+So we're going to start with Vincent Reinhardt.
+He's a resident scholar at the American Enterprise Institute, and he's been pouring
+over Maiden Lane.
+We talked a lot about Maiden Lane One, the Bear Stearns assets, and he says it's
+been really interesting.
+It's actually even been sort of fun.
+It's a grab bag.
+We've got a lot of Hilton properties, a lot of things I've never heard of or never stayed
+at.
+The Hilton Hawaiian Village, the Hilton of Puerto Rico.
+Yeah.
+The Maldives, by the way.
+The Maldives are on here, yeah.
+We've got the Hilton of Malaysia.
+We've got the Hilton in Trinidad.
+Yeah.
+So we've got Houston, Danbury, Moorpark, Nashville, Brownsville, Irving.
+There are mortgages and hotels in Boston, Colorado Springs, Jacksonville, Florida.
+Just like you might have a mortgage on your house, the bank who holds the mortgage has
+this claim on you.
+The Fed has a claim on a hotel in Jacksonville, Florida.
+The Fed is the bank.
+Right.
+Why are there so many hotels?
+It just so happens that Bear Stearns is holding a number of them in the process
+of securitization.
+So basically what happened was somewhere along the line, a bank made an initial mortgage.
+It sold that mortgage to somebody else.
+Somebody else sold that mortgage to somebody else.
+Ultimately, Bear Stearns acquired it.
+And at that moment in time, that was when Bear Stearns ran into trouble and the
+Fed lent money to Bear Stearns and took that mortgage as collateral.
+And why did Bear Stearns have that mortgage in the first place?
+Simply because it was going to securitize it.
+You pool those mortgages together and then you issue a security that uses them as backing.
+So Bear Stearns was at the second step.
+They acquired some mortgages.
+They were about to issue them as a security.
+It hadn't gotten that far though.
+So these hotels were all being bought up.
+The Hilton in, you know, the Maldives and the hotel in Jacksonville and Colorado
+They were buying them all up.
+And this is like frozen in time.
+Bear Stearns was about to slice them all up and put them into a bunch of different
+securities into complex financial products and sell them.
+But they collapsed before they could do that.
+And the Fed has ended up with them.
+Right. Exactly.
+So it's a game of musical chairs.
+The music stopped.
+And there were, you know, Bear Stearns was left standing with some of these things.
+So the music stops and the music stopping is a big reason why J.P.
+Morgan does not want these assets.
+It was at this moment where the U.S.
+is negotiating with J.P.
+Morgan to take on Bear Stearns and they're thinking about it.
+But they don't want the Miami airport and the Hilton's and all these assets that Bear
+was planning to securitize because securitizing real estate products at this point is not
+going so well.
+So the government wanted the J.P.
+Morgan thing to work out.
+So the Fed took on all those products.
+Right.
+And that is a big, huge step for the Fed because the Federal Reserve up until this point, it
+has been one of the most boring investors out there.
+It traditionally bought one type of investment.
+Treasuries from the U.S.
+government.
+And in this moment, it went from being a boring central bank to being more like a
+regular bank taking on risk.
+Does that mean that the Hilton in Chicago and San Francisco and the Miami airport and
+the Jacksonville hotel, every month they're writing mortgage checks and they're sending
+them to some sort of in-between person and the in-between person is putting them in
+an envelope and sending them to the Federal Reserve?
+Yeah.
+They're doing the electronic equivalent.
+Now that's a strange position for the Fed to be in.
+You know what gets even stranger?
+What would happen if one of those entities, don't want to name anyone in particular
+since this is a hypothetical, but what would happen if one of them actually failed?
+That has stopped making payments and it was time for the servicer to foreclose.
+The Federal Reserve could wind up owning a hotel in an airport or a hotel overlooking
+a golf course because that's what happens after foreclosure.
+First you're delinquent, then you go into default, then the bank forecloses on you.
+The bank owns the property.
+Similarly, if one of those hotels stops paying its regular mortgage payment, ultimately it
+could go into foreclosure and the Federal Reserve will own it or a piece of it.
+So there is a mall in this portfolio that I believe has gone into bankruptcy.
+Where is it in the, this is Main Lane 1, right?
+Yeah, it's in Main Lane 1.
+What's the name of it?
+Crossroads.
+Okay.
+Crossroads?
+Mm-hmm.
+Crossroads Mall in Oklahoma, actually, isn't it?
+Oh, real estate, yeah, it owns it, right?
+REO means real estate owned.
+So the Fed owns that mall?
+Yeah.
+So that is now in the commercial shopping business?
+Yeah.
+So a modest proposal would be for the Fed to support the businesses it owns.
+It could have its employees shop at the Crossroads Mall or take vacations in Colorado
+Springs or the Maldives.
+But they should actually give us all discounts at the Crossroads Mall.
+Yeah, that would be great.
+So if you pay in cash, in bank notes, which happen to have the Federal Reserve name on
+the front, then you should get a discount.
+Exactly.
+Because that works, that helps both sides of the Federal Reserve's balance sheet.
+Currency is a liability of the Federal Reserve, and if you're going to use it
+more, the Federal Reserve generates more seniorage.
+And if you use it by supporting some of the assets it holds.
+It's good for them on both sides.
+All the more better.
+So if you're driving down a strange city and you say, pay by cash at this hotel, you'll
+know it's not a short stay hotel, it's something perhaps owned by the Federal Reserve.
+So when he says currency is a liability to the Fed, that's sort of a strange
+idea.
+So let's just explain that.
+Basically, every dollar that you have in your wallet, that's basically an IOU
+from the Fed.
+So what that means is that to the Fed, you could show up at any time, present your
+dollar, and they would have to give you a dollar's worth of something in return,
+a dollar's worth of some asset that they have on their balance sheet.
+Right.
+So you can think about it used to be gold, used to be able to show up and
+get gold until very recently it was treasury bonds.
+And now I guess it's a piece of a mall in Oklahoma.
+Or it could be something else, because aside from this jaunt into retail and
+tropical vacation destinations, the Fed is now involved in insurance, although not
+regular insurance, but this special kind of insurance called credit default swaps.
+That's your favorite, Alex.
+We always come back to credit default swaps.
+CDS, you may remember, is a strange form of insurance contract that became
+quite popular in the last several years.
+And the fact that the Fed now owns them is sort of crazy.
+Basically, here's how this would have worked.
+So, for example, listed in Maiden Lane 1, there's California State, a credit
+default swap on California State and school districts in Florida.
+Some school district in Florida, let's say Dade County, Dade County decides it
+wants to build a new school.
+It sells bonds to do that.
+Someone buys those bonds.
+And then the buyer of those bonds maybe gets worried, thinking like, I don't
+know, Dade County is in trouble.
+Maybe they're not going to be able to pay my bond back.
+So this buyer would then buy protection, a credit default swap, insurance in case
+that the school district, Dade County, defaults.
+Someone else would have to pay them the value.
+So in our hypothetical scenario, the person that they got that protection from,
+that was Bear Stearns.
+But of course, 2008, Bear Stearns is gone.
+So the person who assumed all their obligations, the US Fed, which means
+that if Florida schools go down and they can't repay that bond, the Fed takes a loss.
+But not to worry, Hannah, because it gets even stranger.
+The Fed is actually on the other side of this kind of contract, too.
+It has CDS listed here for California, where if the California bond defaults,
+the Fed would receive a payment.
+So your central bank is writing insurance and collecting insurance premiums.
+And what?
+Mind-bending, isn't it?
+It is a little mind-bending.
+I mean, this is unique for the Fed, but it's not unique for an investment bank.
+This mimics what Bear Stearns would have had.
+This was a slice of the poorer portion of Bear Stearns' portfolio on March 15th,
+I guess it would be, 2008.
+So actually, you should have the image of Chairman Ben Bernanke flying
+to a speaking engagement.
+And he can look out the window and look down and say,
+boy, I own a piece of that, I own a piece of that, I own a piece of that.
+And that's the way the Fed's balance sheet is right now.
+It's really crazy.
+Hotels, malls, credit default swaps on Florida schools.
+And Hannah, actually, there's one other thing in here,
+one other asset that the Fed now owns that jumped out at us.
+Yes, that would be the HVMLT06 listed on page 76.
+HVMLT has a special place in our hearts here at Planet Money
+because HVMLT is the real name for our own little Toxy.
+That's right, our toxic asset.
+So regular listeners here know we recently became toxic asset investors,
+apparently like the Fed.
+Planet Money bought a nice, messy little residential mortgage-backed
+security, and you all named her Toxy.
+But Toxy's formal name is HVMLT05.
+It stands for the Harborview Mortgage Loan Trust, HVMLT.
+And that was the original name of the Wall Street security
+that Toxy is a part of.
+And this thing that always strikes me as odd,
+these Wall Street banks would actually name these complicated financial
+securities that they were producing.
+And you can almost think of it like the way a car company names a line
+of car.
+So for example, as you know, I drive a 2005 Cadillac Escalade,
+but I could also get a 2006 Cadillac Escalade.
+That's funny, I didn't know you drove an 05.
+I drive an 06.
+Right, right, exactly.
+So the same thing would happen with the Wall Street banks.
+Right, so the Fed actually got the 06 vintage of our Harborview
+Mortgage Loan Trust.
+Toxy is from 2005.
+So it's not the same exact houses that are in our toxic asset,
+but it's very similar kinds of homes.
+And it was put together by the exact same players.
+We actually called Witt Solberg, our man at Mission Peak Capital,
+who helped us buy Toxy.
+And we asked him, how similar is what the Fed has to our Toxy?
+And he said, think of what the Fed owns as Toxy's younger sister.
+It's very similar.
+What they tried to do was be equally
+discriminant in the terribleness of the loans.
+So the Fed did basically buy what we bought.
+That's right, just a year later.
+It's just like, so we have a Toyota, they have a Toyota,
+but they have the 2006 model, and we have the 2005 model.
+Yeah, interesting metaphor with Toyota.
+You have an accelerator problem,
+and you have a steering wheel problem.
+The interesting comparison that I
+was able to distinguish between the two,
+100% of the loans in the Fed's transaction
+were originated in 2006.
+100% of yours were in 2005.
+And in 2006, the housing market and the loans within those bonds
+pinnacled.
+The performance of the loans in 2006,
+and the younger sister of this brand, was a lot worse.
+Toxera.
+Toxy Junior.
+So are we better off than the Fed,
+or does the Fed have it worse off than us?
+Looks like it's neck and neck right now.
+So Witt told us that, yes, Toxy has a younger
+sister in what the Fed owns, but Toxy actually, it turns out,
+has lots of family in Maiden Lane.
+Not immediate family, but aunts, uncles, cousins.
+If you compare the other positions
+that are held by the Fed, a lot of them
+are very similar to Toxy.
+In its makeup.
+Meaning monster coming, elimination in the near horizon.
+And there's one other crucial difference between us
+and the Fed.
+We paid a penny on the dollar for Toxy.
+The Fed didn't get anywhere near that kind of deal,
+right?
+Well, I'm not really quite sure how
+the Fed constructed its deal.
+I wasn't at the table on that day.
+But there was a negotiation at that time
+when Bear Stearns was becoming JP Morgan.
+And I'm sure Jamie Dimon took a look at this particular bond
+and said, no, thank you.
+Who won't buy this at really any price?
+I'm going to leave these two reporters at NPR to purchase.
+And as far as us taking the rest of Bear Stearns,
+you can have these in the positions like them.
+And that's largely what you see in some of these
+made-in-lane portfolios.
+Cousins of Toxy and so forth are in them.
+Now, my question for you is, if you
+were going to buy the whole thing now,
+how much would you offer?
+Well, with my own national sovereign reserve account.
+Yes, exactly.
+OK, so here are the facts that I
+know with 150 pieces of paper that have different bond
+names on them.
+And the Fed said that they were worth $30 billion
+in March of 2008.
+Is that right?
+Yeah.
+All right, so then I know some of the bonds
+have gone away because they've paid down quickly.
+I believe in the Federal Reserve,
+I think that they would never give me
+a value that's too high.
+But I would discount them by 50% just in case,
+because performance since then has been pretty bad.
+If I had to take a guess, I'd pay a third.
+I love how it says, I believe in them,
+but I'd discount them by 50%.
+I believe in them 50%.
+So what it's essentially saying
+is not only does the Fed own a bunch of toxic assets,
+it probably overpaid for those toxic assets as well,
+which of course is exactly what it wanted to be doing.
+It was trying to save the financial system,
+not drive a hard bargain and make money for itself.
+But in the meantime, our central bank
+has gone from being a boring, safe investor
+to investing in some of the wildest creations Wall
+Street ever made up.
+Credit default swaps, mortgage-backed securities,
+crazy land deals in Florida, and of course, Oklahoma.
+Thank you for calling the Crossroads Mall shopping line.
+To expedite your call, we have seven choices
+on the main menu.
+Which brings us to the next step in this saga.
+Some of those assets, like our very own taxi,
+are going to go bad.
+They will not be able to pay back what they owe.
+And one already has that mall in Oklahoma
+that we discussed.
+That's what you're hearing right now,
+the outgoing message to that mall.
+And the Fed is now trying to sell that mall.
+How does the Fed sell a mall, hire someone?
+And this is really strange.
+So last year, we talked to Jim Perrick.
+He's the senior vice president at Price Edwards & Company.
+It's a commercial real estate company in Oklahoma.
+And when we talked to Jim, he
+was having trouble filling retail space for the people
+that he was working for.
+His job this month, sell a mall
+for the Federal Reserve of the United States.
+Man, that must be a weird turn of events for him.
+I guess the final question that we should address here,
+what are we supposed to think about the fact
+that the Fed now owns a bunch of stuff
+that will probably go bad,
+or some portion of it will go bad?
+Is that a problem for us, the taxpayer?
+And the answer is a little bit complicated.
+To buy all these assets,
+the Fed essentially had to create a bunch of new money.
+And in normal times,
+when the Fed creates that much more money,
+it causes inflation.
+Inflation is bad for you and me.
+So far, though, that is not happening.
+So that's not a problem so far.
+But there's another problem.
+So the Fed, as we said,
+it used to be the most boring bank in the world.
+It would borrow our dollars,
+invest them in treasuries,
+and make a small, steady profit each year.
+And that profit, profit that goes to us,
+the taxpayers, via the U.S. Treasury.
+And if that doesn't happen,
+we essentially lose money.
+And that is the danger.
+It's not only on maiden lane
+that the Fed is gambling right now.
+The Fed has created over a trillion new dollars,
+which it is using to buy all sorts of stuff
+it never has in the past.
+Meaning, essentially,
+the Federal Reserve is very different today
+than it was before.
+It has a lot more risk,
+and there's a lot more possibility
+that it won't make money back.
+Okay, we tend to end on cheery notes here.
+I think we're good.
+That's it for us today.
+You can see a flyer advertising the Fed's mall
+on our website, npr.org slash money.
+You can write to us at planetmoney at npr.org.
+I'm Khanna Jafri-Walt.
+And I'm Alex Bloomberg.
+Thanks for listening.
+From Riverside, California
+To Staten Island
+Well down to Lester, Georgia
+Don't forget to say Philadelphia
+We move down to Mississippi
+Houston, Texas or LA
+We move down to Mississippi
+Houston, Texas or LA
+We move down to Mississippi
+Houston, Texas or LA
+We move down to Mississippi
+Houston, Texas or LA
+We move down to Mississippi

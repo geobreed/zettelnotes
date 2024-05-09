@@ -358,3 +358,443 @@ Copyright © 2010 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+Wall Street firms are willing to engage in significant conflicts of interest, selling
+to their customers and to their clients financial instruments that they themselves don't believe
+in and they bet against and make money actually betting against the very financial instrument
+that they're out there peddling.
+Hello and welcome to NPR's Planet Money.
+I'm Alex Bloomberg.
+And I'm Klanna Jaffe-Walt.
+Today is Friday, April 30th and that was Democratic Senator Carl Levin.
+You heard at the top of the podcast he was of course talking about Goldman Sachs.
+Goldman Sachs.
+You might have heard of them, a little investment bank.
+They've been in the news a lot lately.
+They were testifying in front of Carl Levin's committee in the Senate, the awkwardly titled
+Permanent Subcommittee on Investigations on Wednesday.
+Right, that one.
+Exactly.
+Our very own blogger, Jacob Goldstein, has been covering the Goldman hearings,
+what I like to call Goldstein on Goldman, on our blog npr.org slash money.
+You can go there and check it out.
+Today on the podcast though, we're going to be talking about one young businesswoman's
+quest to get people like her to pay their taxes.
+Okay, but first we need to do our Planet Money Indicator, Alex.
+Of course we do, but Hannah, we'll get to the indicator in one second.
+First I just want to take you on a little trip, is that alright?
+Alright.
+Alright.
+Come with me, won't you, to Jamaica.
+One, two, three, one, two, three.
+So Alex, where are we?
+Okay, we're at the edge of a little strip mall in a pretty typical neighborhood
+in Kingston, the capital of Jamaica.
+And you're about to tell us why we're here.
+We are here because of the indicator.
+See, I told you we'd get to it.
+The indicator is 94%.
+And I happen to have that indicator right here.
+Apparently it is the number of self-employed people in Jamaica who do not pay taxes.
+94% of people don't pay taxes?
+94% of the self-employed people in Jamaica do not pay taxes.
+And the self-employed, you know, that means lawyers, doctors, plumbers, contractors,
+anybody who's in business for themselves, they don't have a boss.
+The vast majority of them, let's just say practically all of them, are tax cheats.
+Like these ladies.
+You know, Alex, normally when reporters go abroad they hire translators.
+Right, well she's speaking Jamaican Patois, but she also speaks a little English.
+And so here's the scene.
+This woman, I never got her name, she's one of three women and they're all selling
+fruit out of boxes on the side of the road right outside this mall.
+So you're selling these things right here?
+Tell me what you're selling.
+Plantains, gungo peas.
+So how long have you been out here selling this?
+20 years?
+Yes.
+So this is your business, right? All of you?
+Sure, sure, sure, they're business.
+So this is like on the side of the road somewhere, three women sitting on the side of the road
+with fruit?
+Right, and just in cardboard boxes, they don't even have chairs for themselves.
+There's no stand or anything, but they're just like, they've got these boxes, they're
+selling this fruit.
+But it is their workplace.
+I mean, you heard she's been doing this for 20 years, the three of them.
+Every day they go to this big market in the center of town, they buy their produce,
+then they set up here and they sell it.
+So here's the thing though.
+Even though they do this every single day and they've been doing it for 20 years,
+it is totally informal.
+Their business does not have a name, they have never filed any paperwork with the government,
+and they definitely do not pay taxes.
+The government isn't collecting tax from you?
+No, but we pay the taxes on the food that we buy in the supermarket.
+Right, right.
+Yeah?
+You hear what she's saying.
+This is something that people say a lot in Jamaica.
+She's saying, I don't pay taxes on the income I get from my business, but you
+know, I do pay taxes when I buy the stuff that I'm selling in my business.
+Everything I have here, I pay taxes.
+That would not be a very persuasive argument here with the IRS.
+No, it would not.
+Okay.
+Ready?
+Let's go somewhere else.
+How many?
+One.
+One?
+I sell grapes, apple, orange, banana, etc.
+To where are we now, Alex?
+Now we're in New York.
+We're right outside our office, actually.
+This, you know, that guy who sells fruit right down the street on 40th Street?
+Oh, right downstairs.
+Yeah, I buy fruit from that guy.
+Right.
+He's originally from Bangladesh, and he's been here in this country for just six months.
+But he's working at this fruit stand, which has been there for a long time.
+And this fruit stand, you'll be happy to know, totally legal.
+Do you have to have a permit to sell here?
+Oh, yeah.
+I have a permit.
+Oh, do you have the permit?
+Yeah.
+Oh, can I see it?
+Oh, yeah.
+And you're showing it to me right now.
+This is my permit.
+This is the owner permit.
+And this is the pushcart permit.
+And the pushcart permit.
+Yeah.
+Yeah.
+So there's all these permits that you have here.
+Yeah, yeah.
+And the guy who owns the business, he pays taxes on his business, right?
+Yeah, yeah, yeah.
+So he has three permits?
+Right, he has three permits to sell fruit on the side of the road in New York versus
+zero permits to sell fruit on the side of the road in Kingston.
+And this tale of two sidewalk fruit vendors is the tale of two very different economies.
+In the United States, most people are like this fruit seller that you just heard from.
+They work in the formal sector.
+The businesses have been registered, they have a legal status, and the owners pay taxes.
+In the Jamaican economy, it's largely informal.
+And we do, in the U.S., we have people who work in the informal sector.
+We have an informal sector, but generally, like I think of babysitters.
+When I was a babysitter, I happened to be in the informal sector or a gardener's.
+Wait, are you telling me you didn't pay taxes on your babies anyway?
+No, I'm not.
+There are some babysitters out there who perhaps don't get taxes collected on them.
+And maybe, you know, like a gardener here.
+But in Jamaica, it would be like a gardener and a babysitter and lawyers and doctors.
+They're also in the informal sector.
+Right.
+And the informal sector, you might be surprised to learn, is very hard to measure.
+But I read one statistic that four out of every ten workers in Jamaica are part of the informal economy.
+And Jamaica isn't really that unusual in this respect.
+They're not great. They're not horrible.
+They are slightly better than the average in the Caribbean, slightly worse than Mexico, for example.
+But they're nowhere near Thailand, where the informal sector is over half of the gross national product.
+In a large informal economy, we should say it can cause a lot of problems for a country.
+Like, you know, you have a government.
+Government collects money from taxes.
+You did a story, Alex, when you went to Kingston about this school that didn't have enough money to buy basic stuff and pay their teachers.
+That all comes from tax money.
+So if a government isn't collecting money from that informal sector, none of that activity is showing up in the government's coffers.
+So I would expect the government's probably trying to crack down on this, right?
+Of course.
+But, you know, I talked to one woman who we're going to be hearing from for the rest of this podcast, who is an ally of the government in this effort to crack down and try to get people to pay their taxes.
+But she's not with the government.
+She's in the private sector.
+Her name is Kamala Bennett.
+She's a businesswoman and she has this plan for how to help the government collect tax money from people.
+This is the mock up of the book.
+So it's starting a business in Jamaica and the manual includes step by step guide on checklists, completed sample forms, business company registration.
+All right.
+So you get the idea.
+This is this book.
+She's basically written a how to manual, how to start a business in Jamaica.
+And it looks sort of like you'd imagine.
+It has lots of charts, bullet points, you know, checklists, that sort of thing.
+But the story of how this woman, Kamala Bennett, came to write this book is really interesting.
+And it sort of says a lot about the economy of Jamaica.
+All right.
+So I think it's safe to say Kamala Bennett, she comes from a pretty well-to-do family in Jamaica.
+She went to school at Mount Holyoke College, a private liberal arts college in the States.
+And after school, she got this internship pursuing her dream.
+She wanted to be a music video director.
+She'd want to be this for a long time.
+Her brother's a musician.
+Her dad's a producer.
+And she had this sort of Sophia Coppola vision of directing, you know, directing music videos.
+Like many Mount Holyoke graduates, perhaps?
+Possibly.
+And so she got an internship at one of the biggest commercial and music video production companies in the United States.
+It's this company in L.A. called HSI.
+But when she was there, she found herself getting interested in something a little different.
+So I got the chance to intern at HSI, but then I realized because I was an intern, you don't get to do the fun stuff.
+You get to do, you know, you get to see how a business runs.
+You know, the account, you have to go to accounts.
+You have to bring in invoices.
+You have to see the budgets.
+So I really got a chance to see the formalized business and what the business aspect of it was.
+And what they were concerned about was the bottom line.
+They weren't concerned about the directors and their creative vision.
+It was about making money.
+All right.
+So that's a little bit of like an awakening for her.
+And then she comes back to Jamaica and she starts doing her own music video and film production stuff.
+And like most people in Jamaica, she's doing it informally at first.
+She's getting paid for jobs under the table.
+She's hiring sound people and camera people under the table.
+But after a couple of years of this small time stuff, she decides to make the jump and to get formal.
+To be honest with you, I wanted to be HSI.
+I really, really honestly wanted to be the best production company, not only in Jamaica, but in the Caribbean.
+I wanted to be recognized.
+I wanted to stand proud.
+I want to be able to say, listen, this is my company.
+I own this.
+This is my company.
+This is not an idea anymore.
+It's an entity.
+It's a company.
+And to me, the only way to do that, I mean, in addition to my capabilities, was to be legitimized.
+All right, girl with a head full of big dreams, welcome to the post-colonial bureaucracy where dreams go to die.
+I'm going to give you an example of what you have to do to register a business in Jamaica.
+You have to go to the company's office and then you have to go to the NIS office.
+And then from the NIS office, you have to go to the TRN office and then you have to go to the NHT office.
+And then you have to file GCT and then you have to file income tax.
+And these offices are all over the place.
+There is no one place that you can go and get this done and that you have to go to these different things.
+And then what you find is that when you go to a number of the agencies, they will say, hey, you need this form.
+But they forgot to tell you that you needed to bring something else.
+So when you go there, you don't have that form.
+So they have to go back there and whatever.
+So by that time, the average person is just like, I can't bother with that.
+I did that part already.
+I can't bother with that.
+The second part.
+And that's really what happens, I think.
+If you don't have a linear path, if you don't have a roadmap, it can seem very, very intimidating.
+So this is reminding me a lot of David just came back from India and he talked so much about the cost of doing business.
+We talked about this on the podcast that the relationship of how hard it is to set up a business to a country's GDP,
+that the harder it is, the more impact that has on the country's GDP.
+And Alex, you gave me this list.
+They do these surveys of countries that show how hard it is to set up a business.
+And Jamaica isn't the worst, but it's actually way, way ahead of India.
+It's 75th out of 183 countries.
+It's ahead of India, better than Italy and Nigeria, but it's worse than Poland and Rwanda.
+But if you look at this one measure, which I found sort of interesting, this one measure of paying taxes,
+and that is just where they measure, you know, how difficult is it for a business to register and pay its tax payments?
+Like, so how many tax payments do you need to make?
+How long does it take you to prepare and file returns?
+How easy is it to actually get the money to the tax collector, that sort of stuff?
+Jamaica ranks almost exactly at the bottom, 174th out of 183 countries.
+So they don't pay taxes because it's hard.
+It's really hard.
+It's harder to do it in Jamaica than almost anyplace else in the world, according to the World Bank.
+And of course, Kamala Bennett, the whole time she's going through this process of registering her business,
+she is finding this out.
+She's running back and forth to different offices thinking this is ridiculous.
+And then she remembered the words of one of her heroes, Danny Deutsch, the American television host on CNBC.
+He has this show called The Big Idea, and it's a U.S.-based show.
+And he interviews all these people that had these great ideas and, you know, they made a lot of money from them.
+And one of the biggest things he says is that if something is annoying you or frustrating you or there's a need that you have,
+chances are there are like millions of people just like you that are complaining about it.
+I started complaining about the registration process.
+And I'm like, listen, it's only because I'm a stickler for structure and I'm a coward.
+I don't want no taxman coming to me and telling me that I owe them no money while I am going through this process.
+If I was not, I would not have gone through it because it is too tedious.
+And I complained and I complained and I complained.
+And I was like, why can't we just have a book that just shows where to go, tell us what to do?
+Talk to me like I'm a regular person and I'm not an economist.
+Sorry, I'm a business writer doing business in school.
+I just want to know how to do it, where to do it and how long it's going to take,
+how much it's going to cost, all the regular things in one book.
+So that's how the book came about.
+So I created this book.
+I was like, at first it started out, I thought it was going to be like a little document.
+And it was so hard.
+I've been working on the book for a year.
+It has been so hard to get some of the information and get information verified by these different agencies.
+And the frustration that comes from it reinforces every day the relevance of the product.
+Where all good business ideas are born on American TV.
+Exactly.
+So Hannah, talking to Kamala Bennett was really cool because her story was something that actually doesn't happen that often.
+Her story was exactly what economic theory predicted her story would be.
+We all know how reliable economic predictions can be.
+Exactly. So here's the theory in her case.
+One of the problems with an informal sector is that informality itself is a barrier to growth.
+So first of all, if you're an informal business, you actually don't want to get that big because the bigger you are,
+the more likely you are to attract the attention of the authorities who might ask you about taxes and stuff, right?
+But also it's hard to grow big because it's harder to get investment.
+Let's say you need a loan to buy a bunch of equipment for your business, to grow your business.
+You can't get a loan if you're not formal and you can't point and say, here is my business.
+This is what I made last year. Here are my contracts for this year, stuff like that.
+If you have all that stuff, it's easier to grow.
+And so just as theory would predict, when Kamala Bennett went formal, registered her business and started paying taxes, it actually took off.
+Her main client is one of the biggest companies in the Caribbean right now.
+It's a company called Digicel, which you've heard of.
+They're everywhere. Big, huge red signs like in every billboard everywhere in Haiti.
+Right. And they are also all over Jamaica.
+It seems like they are the telecom provider for the entire Caribbean.
+You see Digicel billboards everywhere. It's like AT&T and Sprint and Verizon all rolled into one.
+And Kamala Bennett is one of their main providers of commercials.
+Last year we did probably 60 commercials for Digicel.
+So we've been doing pretty well.
+And I think one of the reasons why we've been able to do so well is because we were ready when Digicel came.
+We were not like a little, you know, we do a little hustle thing.
+It was a business. They saw the invoices coming in.
+They saw that they were, you know, we're charging DCT.
+So, you know, they knew that they were working with, you know, a company.
+And when we work with banks, they sometimes ask for a TCC, which is a tax compliance certificate,
+which proves that you are compliant, you know, with all your taxes and stuff.
+So since you went formal, you've, sounds like you've grown quite a bit.
+Yeah, we have. Like, I mean, we are, there's been, there's a company that has been around for 25 years.
+And we are bidding against that company.
+We're in the same league as that company as it relates to production.
+And it has a lot to do with the fact that we are a recognized company.
+We're not thinking small then.
+So Alex, I mean, I think it makes sense that for somebody like Kamala,
+who wants to have a big and growing business and she's well-educated,
+that it would be good for her to go formal.
+But if you think about like those three ladies selling fruit on the side of the street,
+I'm not sure that it really makes sense for them.
+Right. I mean, we're joking that they're tax cheats, but their lives are really hard.
+They're just barely scraping by as it is right now.
+And how would paying taxes help them?
+And, you know, well, obviously, first of all, they're probably not making enough money to actually pay taxes in the first place.
+But the second thing is just because you're in the informal sector does not mean that you're not paying taxes.
+You're just not paying taxes to the government.
+You are paying taxes to criminals like these ladies do.
+They corrupt cops come by. They call them the Metro men.
+They come around and steal their fruit and lock them up.
+And they told me about it. And just so our listeners know, one of the women has an unusually deep voice.
+Sometimes when the Metro men come, we have to run with the things.
+They take away our stuff and lock us up.
+Yes, they carry it down to jail and we have to go to court and pay.
+Wait, the police come and take away your stuff?
+Yes. We pay taxes. They charge it. They come one of we and collect money for themselves.
+So you pay taxes. You pay taxes.
+They call it.
+Yeah. A protection racket.
+Yeah.
+And when did that happen?
+Up to last month.
+Last month?
+Yeah.
+Last month the police came, they beat you, took your food.
+Yeah. They bring the van. Two van.
+And then you had to go back and buy your food back from them?
+We have to pay them and go back and buy.
+When they pay you don't get it back.
+They carry it to children homes and take it for themselves.
+Sometimes we cry.
+Yeah.
+Hungry, you know?
+Yeah.
+God, that's horrible.
+So there's like police walking around that they're afraid are going to come and steal their fruit and beat them up while they're selling?
+Yeah. Or sometimes it's somebody else.
+I mean, I got the sense that it happened fairly regularly and from various different people.
+Like they're sort of defenseless, you know, on the side of the road there.
+So we're talking about taxes. Like that is a barrier to economic growth.
+Yeah, absolutely. And that's a big problem in Jamaica.
+I mean, there's like, you know, those criminal gangs that, you know, extort protection money from people.
+So you're in the informal sector, you're still paying taxes.
+And that's not a problem that Kamala Bennett is going to solve with her book.
+But it is all connected, right?
+Like if people pay more taxes, it could be good.
+It just sort of depends what the government, you know, chooses to spend that money on.
+If they choose to spend the money on paying corrupt cops more money to stay corrupt, then that's not a good thing.
+But if they, you know, use the money to build a better police force and get crime down, that's going to be really good for everyone.
+And it would help those ladies keep more of their money.
+Right. And if it pays for health care for their kids and for schools, so they don't have to pay so much money to get their kids in school, all that stuff could be useful.
+And Kamala Bennett has become something of an evangelist for making the transition from the informal sector to the formal sector.
+She wants to target two groups in particular, musicians and hairdressers.
+These are two professions with a large number of informal practitioners.
+And she says there's a bunch of reasons why they don't go formal.
+Part of it is they just don't know how to register themselves that her book will help with that.
+Part of it is they don't want to pay taxes.
+But there's also a larger cultural thing going on.
+Jamaica, Kamala Bennett says, is an unbelievably business savvy and entrepreneurial culture.
+The problem is most of Jamaica's entrepreneurs don't call themselves entrepreneurs.
+They call themselves hustlers and they call doing business.
+They call it a hustle.
+Hustling, hustling.
+Like, I don't know if you've ever been, well, no, you obviously have never been,
+but one of the coolest things that I saw once was applying for your visa.
+Now, when you apply for your visa, you have to stand in a long line, you know, on the streets,
+which is a bit demeaning to me sometimes,
+but it just seems like, you know, you see this long stretch of line of people outside and the time is hot, right?
+And the other flip side of it is that when you go there, you cannot go in with anything.
+You can't have the bag, you can't have the umbrella, you can't have anything.
+So you have people there that rent umbrellas.
+And you have people there who will keep your cell phones because you can't keep your cell phone.
+But remember, chances are if you're driving and you can't travel with your key, then you need to call somebody.
+So you have people there that will keep your stuff.
+So they give you a number, and when you come back, you collect your stuff.
+You have people there that rent umbrellas.
+You have people there that take pictures.
+So if you go there and you realize that you don't have your passport pictures,
+you have a little man with a cloth, and you just stand up in front of a cloth,
+and then take the thing, and then have him computer, and put him computer, and then print it, and then cut it.
+And to me, if that is not entrepreneurship or an entrepreneurial spirit, then I don't know what it is.
+But what happens in a case like that is that they really honestly just see it as a hustle.
+It's a means to survive.
+But it is what it is. It's business.
+They're just probably not calling it what you've been taught in the principles of business.
+I mean, they don't know about profit and loss and all of that.
+But I'm sure that they are making a profit because the amount of umbrellas that they bought, it's a structured business.
+So we have people here who call themselves entrepreneurs who make fart apps for the iPhone.
+And then you have people who are thinking of this really smart idea, but just don't call themselves an entrepreneur.
+Right. And that's a big cultural shift that Kamala Billionette thinks should happen and is happening.
+And she thinks there's another one that needs to happen,
+which is that Jamaicans need to stop thinking of taxes as something to be avoided
+and start thinking of taxes as something to be embraced.
+Well, maybe not embraced.
+But she thinks soon basically people won't have much choice.
+The Jamaican government is pretty broke.
+They've just borrowed a bunch of money from the IMF to cover their debts.
+And they're going to have to start cracking down on people who aren't paying their taxes to collect some of that money that they owe.
+And Kamala says that whether you consider yourself a small business person or a small time hustler, it won't matter.
+The government will be after you for your money.
+Just like the IRS is here.
+Exactly. And Kamala would argue, fearing the IRS, that's a good thing.
+One of the reasons why the U.S., in my estimation, is able to get taxes from people is because they fear the tax.
+And that's just really what it boils down to.
+There is the fear of IRS or someone coming and saying, hey, you owe this money.
+We don't fear the tax system in Jamaica.
+And it sounds crazy, but there is no sense of like, it's all this, but how am I going to evade this?
+How am I going to get around this?
+How am I going to not get to pay this?
+I think it shouldn't be even an option.
+If you're running a business, you should do it the right way.
+So there you go, Alex.
+The barrier to economic growth in Jamaica.
+Too little IRS-style taxation.
+Well, it is better to fear the IRS than it is the metro man, a corrupt cop coming for you.
+I mean, it might be worth thinking about the next time you're filling your taxes.
+At least the taxman is just an abstract man in a suit.
+He's not some scary thug stealing your stuff and locking you up.
+Yeah.
+Okay.
+I think that does it for us today.
+If you are listening to us in Jamaica right now and you have an informal business that you want to make formal,
+we are going to post information about Kamala Bennett's book.
+It's not out yet.
+We will put it up as soon as it is on our blog, npr.org slash money.
+The rest of you would like to see a picture of Kamala Bennett.
+You can see that there.
+You can read Goldstein on Goldman.
+Many other interesting articles all at npr.org slash money.
+And you can always write to us with questions, comments, or email address is planetmoney at npr.org.
+I'm Kamala Jaffa-Walk.
+And I'm Alex Bloomberg.
+Thanks for listening.
+Thanks for listening.

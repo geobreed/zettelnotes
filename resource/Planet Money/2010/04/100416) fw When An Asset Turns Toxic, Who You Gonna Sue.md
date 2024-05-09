@@ -338,3 +338,777 @@ Copyright © 2010 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+Investors in the CDO lost approximately $1 billion, and Paulson's CDS positions yielded
+a profit in approximately the same amount.
+Hello and welcome to MPR's Planet Money.
+I'm Khanna Jaffee-Walt.
+And I'm Adam Davidson.
+Today is Friday, April 16th, and that was Robert Kusami, Enforcement Director for
+the Securities and Exchange Commission.
+You heard at the top talking about today's indicator, which we'll get to in one minute.
+And then later on the show, why do boilermakers and carpenters in New Jersey hate TOXI, our
+sweet little Planet Money TOXIC asset?
+We're going to find out, but Jacob Goldstein is sitting right next to me with our indicator.
+Hi, guys.
+Hey.
+So today's indicator is $1 billion.
+That's how much investors lost after they bought a CDO from Goldman Sachs back before
+the housing market crashed.
+A billion is also the number of times we've talked on Planet Money about CDOs.
+I know every time I see CDO in a radio script, I like take a breath.
+I'm like, all right, do we explain it and then take 30 minutes?
+Or do we just assume that people maybe have heard of it before?
+Just assume a CDO.
+That is the most TOXIC of TOXIC assets.
+It's the most TOXIC of TOXIC assets.
+It's tied to mortgages in some way we don't need to get into.
+They fell apart when the mortgage market fell apart.
+So there's one other key piece of $1 billion today.
+$1 billion is also the amount of money that a hedge fund called Paulson & Company
+made by betting against this very same CDO sold by Goldman Sachs.
+And today the SEC filed a lawsuit against Goldman Sachs alleging that Paulson actually
+had a big influence in choosing what went into this CDO.
+And then Paulson went and bet against the CDO.
+And this is really the key part of the lawsuit.
+Paulson didn't tell people who bought the CDO that Paulson had a lot of influence over
+what went into it.
+And we should say Paulson is John Paulson, no relation to former Treasury Secretary
+Henry Paulson.
+And I have to say when I heard this story, a hedge fund convincing an investment bank
+to create a particularly lousy CDO just so the hedge fund could bet against it
+and the investment bank not telling the other investors that this whole CDO was set
+up to fail.
+This sounds exactly like the story Alex did last weekend on This American Life with our
+good friends at ProPublica about Magnetar, the hedge fund that had investment banks
+create CDOs and then bet against them.
+It does ring a lot of bells.
+I mean, this is a different hedge fund.
+And it's also worth pointing out that the SEC here is suing Goldman Sachs which
+sold the CDO and it's not suing the hedge fund that was involved.
+I got to say it was when I first saw this story when it first came like the
+Wall Street Journal story didn't mention the hedge fund for a few paragraphs.
+And I was like, oh, my goodness, they're going after the very thing that Alex
+called on them to do.
+Alex said in his story, if you heard it, hey, SEC, you might want to investigate
+Magnetar.
+So they didn't go after Magnetar.
+They haven't yet.
+But, you know, I'm sure the guys over at ProPublica will be keeping a close
+eye on that.
+All right.
+Thank you, Mr. Jacob.
+All right. Thanks, guys.
+Back to the blog cave with you.
+All right, Hannah, let's stick on this topic of toxic assets and investigations
+because we recently got some big news about our own personal toxic asset, our
+favorite toxic monster, Toxy.
+We bought her, actually, you and David bought her in Kansas City a few weeks
+back, and she's like our own personal tour guide of the financial crisis.
+And we've been trying desperately to understand more about her past.
+Yeah. And when we bought her, I mean, we basically had a very few pieces of
+information.
+We knew she's made up of more than 2000 mortgages given out by Countrywide,
+that big subprime lender.
+All the mortgages were given out in 2005.
+We knew that.
+And then basically we knew she was really, really cheap.
+You guys got an amazing bargain, I have to say, when we sent you off to
+Kansas City with our money in your pocket.
+I personally have never gotten such a good bargain.
+And I've been all over the Middle East.
+She was basically 98 percent off.
+She is called a toxic asset.
+Yeah. So David and I went toxic asset shopping in Kansas City with a guy
+named Witt Solberg at Mission Peak Capital.
+And we were looking for mortgage related bonds born in 2005, 2006, the
+height of the bubble, which by 2010, when we were looking, almost nobody
+wanted. And they're piled up in sort of a virtual discount bin of Wall
+Street. So there are investors out there who spend time rifling through
+that discount bin, hoping to find a lovely bargain.
+And after a lot of time, you guys found one.
+It took two days. And I'm actually just going to play a short piece of
+tape from the most exciting moment of those two days.
+The moment we met Toxy.
+Here's our colleague David Kestenbaum talking to Witt Solberg.
+Finally, we find her a beautiful, totally toxic asset at what Witt
+thinks is a good price.
+Thirty six thousand dollars.
+The original sticker price was a lot more.
+Two point seven million dollars.
+Meaning that's how much money, in theory, is supposed to be coming in
+from all the mortgages.
+Yeah, wow.
+So someone originally was someone was holding and expecting it to be
+worth a lot more money.
+Yeah, somebody asked a human being or an institution paid two point
+seven, two million dollars for this within very recent history.
+And you bought it for thirty six thousand dollars.
+That's right. We should say we did not pay thirty six thousand
+dollars. The Planet Money team pooled our resources and came up
+with one thousand dollars.
+So one thirty sixth of that thirty six thousand dollar price.
+And ever since that human or institution, whoever paid that original
+much larger price has really remained abstract.
+It's just some vague investor out there in the ether.
+Until now. This week, Adam, in a lawyer's office in Midtown
+Manhattan, I met that person.
+When we bought our slice of this bond, we were told that there
+were people originally who bought this slice for two point seven
+million dollars. We bought it for thirty six thousand dollars.
+We bought it for a tiny fraction of what it was originally bought
+for one and a half cents on the dollar.
+You you're the one who bought it for a hundred cents on the
+dollar.
+Yes, that's correct. We bought it for a hundred cents on the
+dollar.
+Planet Money, meet George Laufenberg.
+He is the administrative manager of the New Jersey Carpenters
+Fund. And George and the Carpenters, you know, they
+bought a much larger piece than we did.
+They spent a hundred thousand dollars.
+It was for the Carpenter Union's Vacation Fund.
+Sounds nice. George manages that and also manages their
+pension fund, their health benefits.
+Yeah, he's this big tan white haired guy.
+I'm sorry to say this, because probably a carpenter
+stereotype, but he has very large hands.
+That's a very noticeable thing about him.
+And he basically works on behalf of the unionized
+Carpenters of New Jersey.
+A union carpenter builds high rises, does concrete form work,
+does metal stud and sheetrock work, does ceiling work,
+furniture work.
+They build cabinets.
+Are you a carpenter?
+Yes, I am.
+I'm actually a carpenter out of local 623 Atlantic City.
+And I've been a member of the Carpenters Union since
+1972, which puts me in about 38 years.
+Now, George sounds like a nice guy, Adam, but he hates
+our taxi.
+Our sweet little taxi?
+I know.
+Actually, he hates her whole family because George
+manages the carpenter's pension funds, which before
+they met the likes of taxi, was doing pretty well.
+Cumulative, we had a return since 1978 of approximately
+9%.
+In 2008, we had a loss of approximately a quarter of
+the assets in the pension fund.
+Basically meant we lost a third of our assets in 2008.
+So, Hanna, right when Toxy made her debut on the podcast,
+we got an email from a listener with this subject
+line.
+Did you know your toxic asset is being sued?
+Yes.
+And I have to say we were a little freaked out when
+we first saw that email.
+Actually, Hanna, you were telling me you had a
+moment of panic with the carpenter's lawyer where
+you were trying to figure out, are they suing me?
+Are they suing Planet Money?
+It has been a little confusing.
+Yeah, it was hard to figure out if Toxy's being
+sued, what does that mean?
+And it turns out it's actually Toxy's creators that
+are being sued, her parents, and George and the
+carpenters are the ones doing the suing.
+So they've filed a class action lawsuit.
+It's also named the Boilermakers Pension Fund.
+The National Boilermakers have a pension fund and
+they're also named as plaintiffs in the case.
+And we learned that they don't all own the
+exact same toxic asset as us.
+It's more like Toxy's younger sibling, their
+asset was put together by the exact same players,
+same structure, but it was created one year later.
+So very similar homes, homeowners that are
+really struggling just as much as ours, but it's
+not the exact same homes.
+Wait, just last week you did that story about
+how the Fed owns Toxy's younger sibling.
+So does this mean that the carpenters and
+the Boilermakers and the Federal Reserve Bank
+of New York all own the same younger sibling
+of Toxy?
+Basically what it means is we are learning that
+Toxy has a very large family of toxic
+siblings, like a lot of us.
+So the Fed, the carpenters, us, we all own a
+very similar but not identical toxic assets.
+Although, Hannah, there is one major difference
+between the carpenters and the Fed and us.
+Their lawyers made sure to point that out.
+This is Chris Lamedi sitting with you and
+George.
+You bought a junk bond, but these pension
+funds, they were buying AAA rated cream of
+the crop investment grade bonds.
+Right.
+I went seeking a toxic asset.
+You knew what the risks were.
+And you didn't go seeking a toxic asset?
+No, we did not.
+The whole idea with these mortgage backed or
+mortgage related assets, these securities, is
+that you invest a whole lot of money up
+front and then every month the homeowners pay
+their mortgages.
+And it's kind of complicated.
+It goes through all sorts of Wall Street
+accounting.
+But basically you get a payment every month.
+And what you're hoping if you own one of
+these mortgage related securities is that
+the payments will keep coming in and
+eventually they'll add up to more than you
+invested.
+But with these toxic assets, obviously that
+isn't happening.
+And last month we got some bad news.
+Our monthly payment fell by quite a bit.
+And that's scary.
+I mean, that's obviously sad when you see
+that happening means we might not get our
+$1,000 investment back, let alone make
+money.
+But to be honest, I mean, we weren't too
+surprised.
+She is after all named Toxie and we
+bought her to watch her die.
+But the carpenters, they didn't happen to
+be part of an educational business news
+team like us.
+And they thought they were making a
+fairly safe investment.
+So their $100,000 is now worth $5,000
+came as a huge surprise to them and
+they are pissed.
+Now, Hannah, you were freaking out.
+Like we said, you were wondering, are
+we getting sued?
+And you didn't know what to make of all
+this.
+And I remember I said to you, wait,
+they're not trying to sue us.
+George and his lawyers are actually doing
+our job for us.
+This is fabulous.
+We have been desperate to know more
+about Toxie's past and how this toxic
+asset got so screwed up, who was at
+fault.
+And here is this group of carpenters
+and boilermakers who want an answer
+to that very question.
+And it's not just them.
+They've hired these fancy lawyers to
+try and figure it out.
+Now, we don't care about litigation.
+We're not trying to sue someone, but
+we did want to understand and fancy
+lawyers are very helpful in
+understanding.
+And Adam, actually, when I was
+talking to George, I sort of
+realized, oh, yes, you know, not
+only are we not being sued, but
+we're on the same side here.
+We're both investors.
+He's an investor.
+We're an investor.
+Just two toxic asset investors
+trying to make sense of this big
+old messed up world.
+How do you make sense of, like,
+who who screwed up?
+I don't know if you really make
+sense on who screwed up.
+You make sense.
+I mean, I mean, personally, I
+get I get a little angry over it
+because the system basically let
+everybody down is really what the
+frustration that what you thought
+was in place really was not in
+place.
+That's that's why we're involved
+in all this litigation and, you
+know, help help us attain
+whatever we need to be able to
+provide those pensions for
+everybody.
+Did you?
+I think that's enough, really.
+OK, we can't talk anymore.
+Can we go off the record?
+Yeah.
+So, Hannah, just just between us,
+what did he say off the record?
+So boring.
+I mean, they kept this is a
+really hard conversation to have
+because we're sitting in this
+conference room in this law
+office and I'm trying to talk
+to George, but he has these
+two lawyers kind of sitting
+over us and they are constantly
+interrupting us and telling him to
+stop talking when a lot of
+times when it seems like we're
+having the most benign
+conversation.
+At one point, they actually take
+George out of the room
+and talk to him for a while and
+they come back and then he won't
+say anything.
+It's something about attorney
+client privilege.
+Blah, blah, blah.
+Can I just say, this is what
+drives me absolutely crazy.
+We at Planet Money, like
+thousands of journalists around
+the country, have been trying
+for two years to make sense
+of what caused this whole
+financial crisis.
+And it feels like nobody
+wants to help us. Everyone
+wants to get in our way.
+You know, Wall Street bankers
+refuse to talk to us or only
+say the most lawyered up
+nonsense.
+Congress is only just now
+beginning to look at the causes
+and we haven't really seen much
+evidence of help from them
+in understanding this crisis.
+Finally, today, the SEC takes
+some sort of action.
+Where's the FBI?
+They said a year ago that they
+were going to do all sorts of
+investigations. Haven't heard
+much about that.
+So finally, here we have a guy
+just like us trying to find
+the truth and we can't
+even get from him anything
+real.
+Well, yeah, I mean, that was
+that's the end of George.
+The lawyers took over at
+this point in the conversation.
+Joel Lattman kind of becomes
+the main guy that's talking.
+But I mean, I realized when
+Joel is talking, it is the
+lawyers that are doing the
+real detective work here,
+which is great because
+Lattman doesn't just
+represent the Carpenters, but
+lots of pension funds.
+It happened across many
+different mortgage-backed
+securities that the Carpenters
+Fund bought and that we
+represent the Boilermakers
+that they bought.
+So in other words, bonds that
+were issued by Credit
+Swiss, by Royal Bank of
+Scotland, there was
+significant money being
+invested by these very
+conservative pension funds
+that all of a sudden
+were showing signs of
+dramatic collapse.
+The collapse was due to
+something amiss at the
+beginning.
+And that's what we started
+to investigate.
+All right. Now I'm getting
+excited. He's talking about
+investigations.
+He sounds like a detective.
+He's going to figure this
+out. He's going to identify
+the villains and make them
+pay.
+Whoa, whoa, whoa, Adam.
+OK, the thing is, before
+you go to any of that,
+you just you have to
+actually figure out who the
+villains are.
+There is a chain of
+events that happened in
+every one of these cases.
+It's a more complex chain
+of people involved.
+So is it hard sometimes to
+figure out who to sue?
+You just have to read the
+offering documents very
+carefully.
+Just like five thousand
+pages, right?
+Yeah, just read them and
+read them again.
+So, Adam, in this
+conference room with the
+lawyers, we're sitting at
+this table and in front
+of Jolie has a stack of
+papers that that's almost
+up to my collarbone,
+has all these colored
+tabs and big blocked out
+highlighted sections.
+Basically, just for him
+to figure out what, you
+know, we at Planet Money
+have been spending a lot
+of time trying to figure
+out, too, is just, you
+know, who put together
+Toxie? Where does she
+come from?
+All right. So let's just
+list what we know so
+far. A little biography
+of Toxie and the life of
+her siblings and cousins
+that...
+Yeah, you hear the Oprah
+music, right?
+Right. You know, what
+the Carpenters bought,
+the Fed bought. So it
+starts with the huge
+subprime mortgage
+lender Countrywide.
+Countrywide gave out
+all the bad home loans
+and I think most people
+would agree that
+Countrywide probably
+counts as a bit of a
+villain in this story.
+But Countrywide collapsed,
+so they're not around
+anymore. Plus, they
+weren't the ones who
+sold this security
+directly to the Carpenters.
+OK, so we thought, you
+know, maybe in trying
+to find who to blame,
+maybe it's the seller
+of the toxic asset.
+And the seller of the
+toxic asset was the
+Royal Bank of Scotland.
+RBS bought mortgages
+from Countrywide,
+packaged them into
+complex securities,
+and they were the guys
+who sold them as
+super safe investments
+to people like George,
+the carpenter in his
+pension fund.
+But Joel, the lawyer
+tells me, whoa, it's
+not that simple.
+You can't prove RBS
+knew these investments
+were going to go toxic.
+After all, they were
+just looking at the
+ratings like all of us
+and the rating agencies
+were looking at these
+assets, soon to be known
+as toxic assets,
+but at the time
+calling them AAA,
+perfectly good securities.
+So maybe you would think,
+hey, the rating agencies
+are to blame.
+It's their lousy ratings.
+Well, the lawyers
+did try that theory,
+but the judge dismissed it.
+This has actually happened
+a lot lately.
+And in most of these cases,
+what happens is
+the rating agencies say,
+hey, we're just like
+a movie critic
+or a restaurant reviewer.
+We're just expressing
+our opinion.
+You can't hold us to it.
+We're protected
+by the First Amendment.
+So basically, the lawyers
+are not going to find
+some big, clear villain.
+Instead, they get set
+on this quest
+for what is the smoking gun
+of securities?
+Lawyerdom, a misstatement.
+Oh, really?
+That's what it comes down to.
+That's right.
+They're reading all of this
+and trying to find
+some weird niggling
+technicalities,
+some tiny little
+misusing of a word here or there.
+I was hoping that
+at the end of this journey,
+there'd be some dramatic speech
+by Clarence Darrow
+or something about justice.
+And, oh, man.
+No, we're talking
+about finding a phrase
+of maybe a couple of words
+buried deep in all
+those documents
+that came with the toxic asset
+that the lawyers can prove
+would mislead an investor.
+Even though the lawyers
+know, like we all know
+that that investor
+almost certainly did not read
+the entire 5,000 page.
+That doesn't matter.
+Now the lawyers do read
+all of that over and over again.
+Boxes of documents.
+To find a misstatement
+or omission,
+that's the hard thing.
+That's you have to read
+the whole thing many times.
+But do you actually have that?
+Yeah, sure.
+So here we're on page 81.
+Starts at 80.
+This is mortgage loan
+origination is the section
+countrywide.
+All of this.
+And you're underlining over here.
+Yeah, very exciting.
+It actually was exciting.
+Page 81 of the
+offering document put out
+by the Royal Bank of Scotland
+when they sold the toxic asset.
+Joel Leitman found what he thinks
+is his misstatement.
+Three lines stating
+that the underlying
+collateral in the mortgage
+backed securities
+had underwriting guidelines
+that required a credit check,
+a credit check that does not seem
+to have been performed
+on all of these loans.
+Ladies and gentlemen,
+we have a case.
+A case that probably by accident,
+Royal Bank of Scotland
+mentioned one thing anyway.
+So this suit is working
+its way through court right now.
+The lawyers are optimistic
+they'll get a settlement,
+meaning George and the Carpenters
+and the Boilermakers
+would get paid something
+by somebody.
+If you win, who pays you?
+It'll be the defendants
+who are in the case.
+So we're talking about.
+RBS.
+RBS.
+It's not like,
+it's not like there's a ton of
+money around and everyone
+has a ton of money like
+RBS doesn't have,
+RBS actually,
+you know, almost failed
+and was bailed out
+in a huge way by
+the British government.
+So who actually ends up paying?
+Well, we're not there yet,
+but it'll come from
+those defendants.
+RBS made
+significant money
+churning out these
+AAA mortgage-backed securities
+and our view is that they're,
+that these are very serious
+claims against them
+and they should be made to pay.
+What pub is this?
+The Marquis of Westminster.
+The Marquis of Westminster
+in London.
+That's right.
+15 Warwick Way, London, UK.
+You're the manager?
+I'm the owner.
+Are you a British taxpayer?
+I am.
+And what do you know about
+the bailout of British banks?
+What do I know?
+I know that the banks lost money
+and we paid,
+I think the Royal Bank of Scotland,
+74% we bought them out,
+bought their equity.
+So you, in some senses,
+you own RBS?
+We do, yeah, the taxpayer does.
+You and the guys in your pub?
+Yeah.
+How did you feel about it?
+Yeah, I think it's outrageous
+because at the end of the day,
+these guys
+risk ahead of a lot
+and then,
+and if that risk pays off,
+they get paid a hell of a lot of money.
+I think it's disgusting,
+personally.
+Did you feel like it was necessary, though?
+Well, that we bailed them out?
+No, let them go under.
+That's what I say.
+Couldn't you have worked a little harder
+trying to get what he really feels?
+It was very hard to get to the bottom
+of how he really felt.
+Chris Hayes, the owner of the Marquis of Westminster,
+he went on for a very long time
+about how upset he was by the bailout of RBS.
+And it's actually, it's worse than Chris thought.
+British taxpayers now have an 84% stake in the bank.
+But then we talked for a while
+and I told Chris about the carpenters
+and how they were suing RBS,
+which, as a British citizen, he partially owns,
+and he had a little more thoughtful.
+When you buy something,
+I suppose you take the responsibility
+of what the company's done.
+So, I suppose it's inevitable, really,
+to a certain degree.
+We're buying into their mistakes, I suppose.
+Right, that's...
+On one level, it doesn't seem to be fair,
+but if it's a bunch of average men on the street
+trying to get their money back,
+I suppose I wouldn't mind so much.
+If American Express or BP
+or somebody were filing the suit,
+then I'd be a little bit more reticent
+in giving the money.
+But, you know, if it's a bunch of carpenters,
+then good luck to them.
+You don't mind if your money goes to them?
+No, I don't mind.
+I mean, it's far removed from me, isn't it?
+You know, if I was asked to actually physically
+put my hand in my pocket and the hand of money over,
+it'd be different, wouldn't it?
+Right.
+So, we were hoping that this whole lawsuit
+would help us figure out who is to blame,
+because lawsuits do one great thing.
+They figure out who's at fault
+and make that person pay.
+So we could get to the bottom
+of this whole financial crisis.
+Whoever loses this lawsuit,
+that's gotta be the bad guy.
+That's gotta be the person to blame.
+Well, what have we learned?
+Countrywide handed out a bunch of crappy home loans,
+but they're not gonna end up paying the carpenters.
+The rating agencies gave those toxic assets great scores,
+but they're not gonna have to pay the carpenters either.
+RBS may pay them something,
+but in the end that probably will mean
+Chris the pub owner pays.
+So I guess we've figured it out.
+Chris Hayes, owner of the Marquis of Westminster Pub
+is to blame for the financial crisis.
+That's so weird.
+But on the other hand, George the carpenter,
+as an American taxpayer,
+he's bailed out a fair share of his own bank.
+So, I mean, right as we were packing up to leave
+when we were in the lawyer's offices in Manhattan
+and we're getting ready to leave,
+George actually gets past his lawyers
+to say one more thing.
+And Adam, it was this.
+If the taxpayers of Britain wanna help us out of this,
+we welcome it.
+Thank you.
+And thank you to the listeners
+of Planet Money for listening.
+We know that you'll be there for us
+when we need an inevitable bailout
+and we'd be there for you too.
+Yeah, if you need $80 billion, Adam Davidson.
+I'm good for it.
+I wanted to give a special thanks today
+to Kevin LeCroy of the DNO blog.
+He writes a great blog
+about all of these subprime related cases,
+including, he's written several posts about our taxi,
+which was the reason one listener sent me an email
+saying, you are being sued in the subject line.
+So thank you to Kevin.
+And right now, as we were talking,
+Jacob Goldstein is in the blog cave
+writing about that Goldman Sachs SEC lawsuit
+on the blog, npr.org slash money.
+Go check it out.
+I'm Adam Davidson.
+And I'm Khanna Jaffee-Walt.
+Thanks for listening.
+And that's a call.
+Not so broken heart.
+I'm a man.
+I'm a man, I'm a man, I'm a man.
