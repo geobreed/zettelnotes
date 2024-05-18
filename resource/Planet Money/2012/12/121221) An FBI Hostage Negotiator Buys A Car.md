@@ -260,3 +260,459 @@ Copyright © 2012 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+When you want something, when you really, really want something, and someone else wants
+something different, what is the best strategy to get what you want?
+I've been thinking about this because of all the fiscal cliff negotiations going on
+in Washington.
+You're forgiven if you've zoned out.
+They've been going on for months and months now.
+Democrats and Republicans trying to reach some big agreement by the end of the year
+that would avert the automatic spending cuts and tax increases, all that.
+When I'm watching this, I keep thinking about strategy.
+There's so many possible strategies you could use to get what you want.
+You could hold out for your absolute best offer.
+Go down with the ship, my way or the highway.
+Or you could pretend to hold out, but knowing that you're going to compromise in the
+last seconds.
+Or maybe you attack the other side.
+You try and prove that they're wrong and you're right.
+Or maybe you just try to be as reasonable as possible.
+Oh, that never works.
+Reasonable as possible.
+The fiscal cliff for all its grand theater, for all it's written about, it really
+comes down to a bunch of people in a room.
+They're trying to come to an agreement.
+They're trying to cajole.
+They're trying to charm, bluff, weasel, compromise, whatever it takes to get what
+they want.
+And these are not mysterious techniques that only congressmen know.
+We all use them.
+We negotiate every day.
+We just don't realize that we're doing it.
+And so today we called up three experts on negotiations, three of the best.
+And we asked them, tell us about a great deal that you made in your everyday
+life. How did you get what you wanted?
+Hello and welcome to Planet Money.
+I'm Robert Smith.
+I'm David Kestenbaum.
+If you've ever wondered what happens when a hostage negotiator buys a car,
+wonder no more.
+Our first awesome negotiating technique is called the nibble.
+Adam Glinsky teaches negotiation at Columbia.
+And his story takes place just after Thanksgiving.
+He's at an airport in North Carolina waiting to fly home.
+And a woman makes this announcement over the PA system.
+We are overbooked.
+We are looking for volunteers who can fly home tomorrow instead of today.
+If you think about it, this is a negotiation.
+I mean, on one side of the table, you've got the airline that needs some people
+to give up their seats.
+On the other side are the passengers who will be willing to give up their
+seats if there's a good offer on the table.
+In negotiations, one side has to go first.
+In this case, it's the airline.
+The woman over the PA system says we're looking for people willing to be
+bumped. And Adam says she offers a voucher toward a future flight.
+It was way overbooked.
+And so they started out at about $300.
+And I didn't really want to do it because you have to go the next day and
+stuff like that.
+Over the PA system, the amount keeps going up, $500.
+Adam does not have a lot of money.
+So that's tempting, but not tempting enough.
+Then goes up again, $700.
+And eventually they're offering a thousand dollar voucher for a flight
+that I paid $180 for.
+This, Adam thinks, this I can do.
+And most people in his shoes, they would say, OK, they probably wouldn't
+even see this as a negotiation.
+But Adam does.
+He goes up to the airline desk.
+He has a counter offer.
+So I went up there and I said, so if I get bumped off this flight, will
+you put me in first class tomorrow?
+Yeah, we can do that.
+Now he's got a thousand dollar voucher and he's going to fly first
+class.
+Then he says something else.
+I need to stay somewhere tonight since it's tomorrow.
+Will you put me in a hotel?
+I didn't want my parents to drive back and pick me up and stuff.
+And they said, yeah, we can do that.
+Voucher, first class seat the next day, hotel.
+The boys got to eat, so will you pay for my dinner tonight?
+And they said, yeah, we can do that.
+And I said, now someone's supposed to pick me up in a car tonight.
+Can you get a car service to take me home tomorrow?
+And they said, yes, we can do that.
+This, this is the nibble.
+That's the technical term.
+You reach a general agreement, $1,000 is good for me.
+And then you say, oh, one more thing, one more thing.
+Ask in the other side to throw in something small.
+In this case, these were things the airline probably did not
+care that much about.
+Probably had meal vouchers, probably had deals with the hotel,
+and probably had a first class seat that was just
+going to be given as a free upgrade to some frequent flyer.
+And no one else got this.
+They all got the $1,000 voucher.
+It was about 10 of us who got bumped.
+But I was the only one to get first class,
+the only one to get the hotel,
+the only one to get the dinner,
+and the only one to get the car service.
+If you don't ask for something, you can't get it.
+The moral here, always be negotiating.
+Even if it looks like you have a deal,
+you can often get more.
+Politicians know this very well.
+The nibble is a time-honored technique in Washington, D.C.
+And with the fiscal cliff, we're already hearing
+about little nibbles back and forth.
+And when this deal gets made,
+and probably will be made before the end of the year,
+we're going to hear a lot about all the little extras
+that got thrown around at the last minute.
+Loopholes get written into the tax code,
+deductions get saved,
+maybe a congressman even gets a meal voucher.
+Or a new highway.
+Always be negotiating.
+Okay, technique number two, expanding the pie.
+Cathy Tinsley teaches negotiation
+at Georgetown University.
+And her story takes place in Africa.
+Before she knew anything about negotiating,
+she was in the Central African Republic,
+working with the Peace Corps in a small village.
+I'd gotten there in June and it was November.
+So I'd been in my village for about five or six months
+and I decided that I wanted to have everybody
+in my village over for pumpkin pie,
+for Thanksgiving dinner
+and I was gonna make some pumpkin pies.
+So I went to the marketplace to try to buy pumpkins.
+And there was only one woman that had pumpkins
+and she had four of them.
+And I thought about how many people were coming to dinner
+and so I asked how much were her pumpkins
+and she said 25 francs, Central African francs.
+And I said, okay, great, I'll take all four of them.
+And she said, no, no, no,
+I'm only gonna sell two to you.
+Any negotiations expert will tell you
+before you go into a negotiation,
+when you're negotiating over anything, even pumpkins,
+you need to think about this key concept
+to evaluate whether to accept an offer or walk away.
+It's an acronym called BATNA,
+Best Alternative to Negotiated Agreement.
+In other words, if you can't reach an agreement,
+how bad is that really?
+Do you have any other options?
+Could you say buy pumpkins from someone else?
+Looking around the marketplace,
+there was nobody else who was selling pumpkins.
+So I had in negotiation terms, no BATNA,
+I had no alternative,
+I had no way of just leaving her,
+I was stuck with her.
+You're in like the worst possible
+negotiating position there.
+Exactly, exactly.
+You've already revealed that you need four pumpkins,
+it's clear, she's the only person with pumpkins
+and you're relatively wealthy by local standards.
+Exactly, exactly.
+Cathy figures the woman just wants more money.
+After all, she has a monopoly
+and Cathy doesn't mind paying more,
+so she ups her offer.
+She says, I will pay you double what you asked for,
+for all four pumpkins.
+Again, the woman says, no, I'll only sell you two.
+Finally, I think out of desperation,
+I really was about to just quit
+and I just said to her, why?
+Why will you only sell me two?
+And she said, well, it's the end of the harvest
+and if I sell you all four pumpkins
+and I don't have any seeds to plant for next year.
+I looked at her and I said,
+you know, we got a really easy deal here.
+I said, because I only want the outside part
+of the pumpkins and you want the inside part.
+And you can guess the end to this happy little story,
+they cut up the pumpkins,
+woman gets her seeds, Cathy got her pies.
+This is actually a really important idea in negotiations.
+It's easy to get caught up thinking you're negotiating
+and fighting over one thing.
+A classic example is you're negotiating a salary
+for a new job.
+You want more money, the employer says no.
+But maybe there's something else you can negotiate
+where there's more flexibility,
+like vacation or benefits or use of the company car.
+Negotiation experts have a term for this,
+it is called expanding the pie.
+This is another big component
+of the fiscal cliff negotiations in DC.
+Both parties have very little wiggle room
+on taxes, for instance.
+The Democrats have said that the rates must go up,
+at least for the wealthy.
+And many Republicans, they have actually signed pledges,
+promising themselves and their voters
+that they would do the opposite,
+they would never raise taxes.
+But in something as complicated as the federal budget,
+there are thousands of obscure ways to get money
+without being so obvious about it.
+For instance, you can futz around
+with the way you calculate inflation.
+And they're really talking about this
+because by adjusting the formula for inflation,
+you raise more money.
+The tax brackets are set to adjust
+with inflation.
+So maybe that's not a tax increase.
+Maybe this is just correcting the inflation formula.
+Adding stuff to negotiate, expanding the pie,
+that can make a big difference.
+Which brings us to our last story,
+our last technique, disarming empathy,
+also known as the thing I laughed at
+at the beginning, being nice.
+This story comes from a hostage negotiator
+who wanted to buy a car, not just any car.
+An SUV that I fell in love with,
+this gorgeous color.
+What color was it?
+The manufacturer calls it salsa red pearl.
+That has to be the best name for a color
+I've ever heard of.
+It's sort of this sexy burgundy,
+great deep burgundy color.
+And just a great color.
+Chris Voss was a hostage negotiator with the FBI.
+Now he teaches at Georgetown.
+And here's the story of how he bought
+that salsa red pearl SUV.
+He goes into the dealer on a Friday afternoon
+when he figures the salespeople
+will be kind of worn down.
+He meets the sales guy,
+and then he asked to make an offer.
+The trick here, he says,
+is that you want to start with a low offer.
+Low, but not so low that they get up and walk away.
+If you're going to play the bargaining game,
+your first offer really needs to just start
+to make the other side mad.
+You don't want to offend them,
+but you want them to get a little annoyed.
+You want where they're still talking to you,
+but you know they're clearly that they're angry,
+they're a little upset.
+And then you know you've come in with a good price.
+Voss says his number,
+which is significantly below the sticker price.
+I threw out the price,
+and the guy looked at me really, really hard.
+And he got up and walked away from the table.
+So then I started to get worried
+because at that point I thought,
+this is probably near their bottom line.
+But the guy comes back with a counter offer.
+The counter offer is more than Chris Voss wants to pay.
+And the normal way things play out in these situations
+is that you end up meeting at a price
+somewhere in the middle between your price
+and the other guy's price.
+Chris does not want to do that.
+So he needs to neutralize the other guy's argument,
+which is, hey, look, we came down from the sticker price.
+You know the real trick to bargaining
+is get the other side to bargaining against themselves.
+You just lay back and let them do all the work.
+But you have to be nice about it.
+You know, you can't make them feel
+like you're beating them up.
+So he came back to me and he said,
+you know, we're gonna counter,
+this is the amount he was trying
+to be really positive and upbeat.
+So I said, you know, I'm really sorry
+because I shouldn't have even offered you a low price
+and this counter offer you came back to me with,
+that's phenomenal price.
+The truck is worth that.
+It's worth more than that.
+It's worth everything that you're asking for.
+It's a gorgeous truck.
+It's beautiful.
+And I'm embarrassed to say this,
+but I just can't pay your price.
+And that leaves them nowhere to go,
+especially if you're being really nice about it.
+Is this all stuff that's straight out
+of the FBI hostage negotiation handbook?
+It's kidnap bargaining.
+I wouldn't say 101,
+but I would say it says,
+it's kind of master's level kidnap bargaining.
+The people at the car dealership,
+they never went back in their office
+and Googled your name
+and found out you were a hostage negotiator.
+No, thank God they didn't do that, no.
+They just thought I was another poor guy
+coming in off the street trying to buy a truck.
+After Chris's little performance of kindness,
+the sales guy says,
+all right, let me go talk to my boss.
+He leaves the room, time passes,
+and then he comes back.
+Came back with another offer
+and this time he had smiley faces
+written all over the offer sheet
+and you win, underlined, three, four times.
+You know, and if he'd had balloons,
+he'd have brought balloons out to me, I think.
+And I said, I just, I'm sorry, I can't do it.
+I just, I can't do it.
+I was being his, what we call disarming empathy.
+The smiley faces on the page are looking up at Chris.
+The eager salesman is patting him on the back,
+but again, Chris does not change his offer.
+He got up and walked away from the table
+about four times,
+came back with a lower offer every time
+until he came back with my price.
+He came back to the original price that you'd asked for?
+Yeah, I beat him all the way down.
+How did you feel at the end of that?
+Well, even at that point in time,
+I said, look, you know,
+I gotta make sure that I can do this
+and so you have to give me till Monday.
+It's always good, he says,
+to sleep on a decision like that.
+So he goes around to other dealers,
+no one can beat the price,
+so he comes back and writes the check.
+He still has the car.
+I do, I drove it here this morning, I love it.
+It makes me very happy.
+And every time do you get in,
+do you think I paid a good price for that?
+I do, I suppose,
+besides the fact that I love the color,
+I feel like I paid a really good price for it.
+That's amazing.
+You know, David, I covered the debt ceiling standoff
+last summer between the Democrats and the Republicans
+and I felt, at the time even,
+that the Speaker of the House, John Boehner,
+he totally did this hostage negotiating technique.
+He would not budge, if you remember the news.
+He just kept saying to the President,
+or so we heard afterwards in these meetings,
+I'm sorry, I can't do it.
+My Republican colleagues will not agree to this.
+And many say that Boehner won those negotiations.
+He was the one that managed to hold his line.
+Then of course there was the election.
+And now it seems like President Obama
+has a little bit of the upper hand
+in the fiscal cliff negotiations.
+Actually, the first expert that we talked to,
+Adam Glinsky, he pointed out that
+Obama has a better batna than the other side.
+His best alternative to a negotiated agreement,
+Obama's batna is that if no deal is reached,
+the Bush tax cuts will automatically expire.
+Which does a little bit of what Obama wants.
+It raises taxes on the wealthiest.
+Does raise taxes on everyone else too,
+but you know, you could always propose
+another bill to fix that part.
+Yeah, now Obama's the one who can use
+this disarming empathy and say the Republicans,
+you know, I'm sorry, I just can't do
+what you're asking.
+And if you've followed the news of the last few weeks,
+the Republicans are the ones who are coming back.
+They're like the car dealer going,
+well, what about this?
+What about this?
+And to be fair, we should point out
+that every negotiation in Washington D.C.,
+though the techniques used there
+are same as the ones we talked about today,
+those negotiations are much more difficult
+than just buying a car or making a pie.
+I mean, for starters, it's not just
+two people trying to reach a deal.
+There are 538 people sitting at the table.
+538 members of Congress.
+And the President, so that makes 539.
+Also, these negotiations are not taking place
+in a back room at a car dealership
+where no one else has to know what goes down in the end.
+These are happening in the public eye.
+In every negotiation, as you heard,
+there is a moment where each person
+has to push a little harder than they might like.
+They have to look like a jerk.
+And then there's usually a moment
+where each side caves a little bit.
+And it's hard to do that in front of TV cameras.
+And it's hard to do that when newspaper reporters
+are putting you on the front page of the paper.
+And finally, it's hard to make a deal
+when nobody really knows what their own bottom line is.
+I mean, all the car dealer needs to do
+is make money, right?
+But with the Fiscal Cliff,
+there are so many questions about the economy.
+No one really knows for sure
+what the effect of a tax hike would be
+or how a budget cut would ripple out through the economy
+or how voters are gonna react to whatever you do.
+And when you think about all that stuff,
+the surprising thing is not that it's taking so long
+to reach a Fiscal Cliff deal.
+The surprising thing is that they ever make deals at all.
+["Stay Ahead, Stay Ahead"]
+["Stay Ahead, Stay Ahead"]
+As always, we would love to hear
+what you think of the show.
+You can find all sorts of ways to respond on our blog,
+npr.org slash money.
+If you have an awesome negotiating technique
+or a story of your own, we'd love to hear them.
+You can send us email, planetmoney at npr.org.
+Okay, you say your name and I'll do,
+I'll do the thanks for listening.
+I wanna do thanks for listening.
+No, you always get to do thanks for listening.
+I wanna do the thanks for listening.
+I'm better at it.
+David, you are better at it.
+I completely agree with you.
+If this were a just world,
+you would always say thanks for listening.
+But I am just not gonna let you do it.
+I have to do it this time.
+I'm just gonna do it.
+No, no, no, no, no.
+I'm Robert Smith, thanks for listening.
+I'm David Kestenbaum, thanks for listening.
+No, thank you for listening.
+Thanks for listening.
+Thanks for listening.
