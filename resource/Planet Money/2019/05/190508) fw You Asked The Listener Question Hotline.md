@@ -384,3 +384,411 @@ Copyright © 2019 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+Hello and welcome to Planet Money Listener Service.
+For questions about cartels, press 1.
+For unintended economic consequences, press 2.
+For mysteriously priced commodities in everyday life, press 3.
+Your question will be answered in the order in which it was received.
+Your call may be recorded for training or podcasting purposes.
+Thanks for calling Planet Money.
+This is Karen.
+How can I help you?
+I was booking a flight and one of the cheapest flights was through British Airways and I
+clicked on it and the entire flight cost $516 and they said that $514 were for taxes
+and fees and that the fare itself cost $2.
+And I immediately thought that this doesn't make any economic sense.
+Okay, so the question we got from our listener is basically how can you have an airline
+flight that is $516 and only two of it be for the flight and the rest $514 be for
+taxes and fees, which is why we have called in Julia Furlan.
+I believe that you looked into this for us.
+Yep.
+I took this question and I called a guy named Bob Mann.
+He's an airline industry expert.
+He knows a lot.
+He's been in the industry for like 40 years.
+The history of it is actually that it comes from a fuel surcharge.
+In 2008, fuel prices were really high so airlines put this like taxes and fees thing into their
+fare breakdowns so there was a fuel surcharge.
+But then, fuel prices went down and guess what the airlines didn't do?
+They didn't take away the taxes and fees.
+That is not cool.
+I know, right?
+And this isn't specific to British Airways either.
+Any airline can break down their fare kind of however they want and there's some
+amount of monitoring from the Department of Transportation but it's kind of random.
+It's not consistent.
+Alright, that's one question down but there are a lot to go so let's dive in.
+Hello and welcome to Planet Money.
+I'm Karen Duffin.
+And I'm Julia Furlan.
+We get tons of questions from listeners every day and some of them turn into full
+episodes but every once in a while we tackle a whole bunch of them all at once.
+Your calls are very important to us so today on the show, Julia and I are staffing
+the Planet Money listener help desk.
+Stay on the line.
+We'll be back with you shortly with some answers.
+And the following message come from Luminary, the only place where you can
+listen to Trevor Noah's new podcast.
+With his new show, the Daily Show host challenges himself and his listeners to
+explore unfamiliar angles and embrace differing viewpoints.
+Listen to Trevor Noah's new podcast along with other original shows only
+on Luminary.
+Visit luminary.link slash money for your first two months of Luminary's
+premium content for free.
+Cancel any time.
+Terms apply.
+Give us about 10 minutes and Up First gives you the biggest stories from NPR
+News.
+No need to stay glued to your phone or your TV.
+Up First has you covered as soon as you start your day.
+And all it takes is 10 minutes.
+Listen to Up First every morning from NPR News.
+Your question is important to us.
+Please stay on the line for the next listener service representative.
+Thank you for calling the Planet Money help desk.
+This is Julia Furlan speaking.
+Hi, my name is Shalee Sparrow and my question is why vanilla prices have gone up so
+dramatically over the last little while.
+I went to Costco and it's been over a year, but I paid $5.99 for 16 ounces of
+vanilla and then I went back and it was $9.99 and I decided not to buy it
+because I thought I'd go down and then went up to $15.99.
+Then I went to $32 for the same thing over the course of a year.
+Why is this happening?
+OK, so we sent this question over to our sweet tooth producer, Alexi Horowitz-Ghazi.
+Alexi, why did the price of vanilla rise over the past couple of years?
+OK, first I'll say that vanilla gets kind of a bad rap for being really boring.
+But after a little bit of research, I've kind of fallen for vanilla.
+It turns out it's a little bit magical.
+What did you find out?
+The first thing I found out, somehow I never knew this.
+Vanilla actually comes from a beautiful orchid native to Mexico.
+Oh, I didn't know that.
+Yeah, and in the 19th century, the French transplanted vanilla to several of its
+colonies in East Africa, including Madagascar, which turns out has a great
+climate for growing vanilla.
+The only problem, the insects that pollinate vanilla orchids in their
+native habitat do not live in Madagascar.
+So they have to be hand pollinated one by one with like a little
+toothpick stick thing.
+It's super time consuming and labor intensive.
+And vanilla flowers only bloom one day a year.
+What?
+Yeah, so the timetable can get pretty crunched.
+It's a delicate process.
+That is so wild.
+I can't decide if this is extremely dark or extremely miraculous.
+And because Madagascar has become the main source of the world's natural
+vanilla, up to 80%, the rest of us can often feel the fluctuations in
+their crop at the ice cream store or when we buy baking supplies.
+Right, that makes sense.
+For decades, that wasn't really that big of a problem because vanilla
+buyers could just supplement that supply with synthetic vanillin, a much
+cheaper lab produced version of the plant's essential ingredient.
+But what happened recently that made the prices go up?
+Well, a couple of things.
+First, public taste began to shift.
+People started getting more and more into natural ingredients instead of
+artificial flavors.
+In 2015, Nestle and Hershey's and other companies announced that
+they're going to switch from synthetic back to all natural vanilla,
+which, of course, contributes to this huge spike in demand and the prices
+go way up.
+And wasn't there also like a hurricane in Madagascar recently that,
+like, wiped out a lot of crops and whatnot?
+That's right.
+A tropical cyclone hit Madagascar in 2017, damaged one of the main
+vanilla producing regions of the country, and that made prices go even
+higher.
+And that's why Chalice is paying more at the register at Costco for
+the past couple years.
+Yes, along with all of the ice cream junkies and candy freaks of the
+world.
+Thanks, Alexi.
+Thank you.
+Planet Money listener service.
+This is Karen.
+How can I help you?
+Hi, Planet Money.
+This is Justin Lee.
+And I want to know what's the economics of those We Buy Houses
+signs.
+I want to know who wins and who loses.
+Thanks so much.
+We turned this one over to Jacob Goldstein, and he disappeared for a
+couple of days and came back with this special report.
+Jacob.
+I am delighted to take this question because in just the past few years,
+the We Buy Houses business has been completely transformed in a really
+interesting way.
+It used to be largely local businesses posting their phone numbers
+on telephone poles, buying a few fixer uppers from people who were in
+a pinch.
+Today, it is billion dollar tech companies buying thousands of homes
+that are in perfectly good shape from people who are doing fine.
+I talked about this shift with Glenn Kellman.
+He's the CEO of Redfin, this big sort of hybrid tech company, real
+estate brokerage.
+And he told me about the first time somebody suggested that his company,
+Redfin, should get into the We Buy Houses business.
+And then you know what I said?
+I'm too chicken.
+I won't do it.
+Of course he's chicken.
+He would have to put, you know, hundreds of millions of dollars on
+the line, betting that Redfin could buy houses, turn around and
+quickly sell them for a small profit.
+This is legitimately terrifying.
+But Glenn told me that legitimate terror, notwithstanding, there were
+these three big changes that finally persuaded him and a bunch of other
+companies to get into this business.
+The first is that people who sell houses through Redfin are having a
+time getting the money fast enough to buy their next place.
+In other words, you're selling your house.
+You want to buy a new house.
+But after the financial crisis, it's a lot harder to get a mortgage for
+the new house before you sold your old house.
+So there is this new group of people who can afford to make a move, but
+they just can't make the timing work.
+That is change number one.
+Change number two is computers, algorithms, technology.
+Companies like Redfin are building these algorithms that are really
+good at estimating home prices.
+And then change number three is investors all around the world start
+throwing gobs of money at tech companies.
+It was so much money, in fact, and it seemed so easy to get that it
+even surprised Glenn Kelman, the CEO of a tech company.
+Redfin got a call from somebody representing Saudi Arabian money or
+Kuwaiti money.
+And then he said, I've got a problem.
+I have all this money and I need to deploy it.
+And he just wanted to give it to us.
+And that's when I felt like something really deep and fundamental was
+changing in the global economy.
+So tech companies that have built algorithms to estimate home prices are
+now flush with money and can use that money to start buying houses from
+home sellers who need money.
+Finally, Glenn tells his employees, it is time to do this.
+I think the subject line of the email was something like strap on
+the Viking helmet, go forth and conquer.
+They're mostly buying moderately priced homes in subdivisions with
+lots of identical houses because that makes them easier to price.
+So if you live in a house like that, you can go online, enter some
+details about your house and in a few hours or a day, get a cash offer
+from Redfin or one of its competitors.
+It's fast and easy, but there is a trade off.
+You probably will wind up getting a few percent less than if you
+sold your house the old fashioned way.
+Several other companies are getting into this business as well.
+Zillow, Keller Williams, the one buying the most houses is called
+Open Door.
+They have raised billions of dollars in debt and equity and bought around
+10,000 houses last year.
+Glenn says he can imagine that something like 10% of people might
+someday sell their homes this way.
+And that is enough to be a little bit scary.
+I think it's a new thing in the economy.
+And if I had to pick people to make prudent bets at the casino
+tables, tech people wouldn't be that.
+And so that's what I remind myself, would not.
+And I just remind myself every night, if you look at the history of sub
+prime, you see people making a ton of money in that space and other
+players getting drawn into it one by one.
+And it proved to be their demise because, you know, you chase profits.
+You follow the customer over a cliff.
+And, you know, we're trying to be the ones who beat those odds.
+Please hold for the next procrastinating reporter, Planet Money.
+This is Julia Planet Money.
+Hi.
+Hey, I was wondering why a barrel of oil is 42 gallons and not a
+round number, like 40 or 50.
+Kenny Malone.
+Is that you?
+No, Kenny, I recognize your voice.
+Come on, let's get in the studio.
+All right, fine.
+I learned an interesting thing that I wanted to share.
+I baked a phone call.
+Okay.
+It's not a crime.
+Okay.
+I mean, reporter Kenny Malone, what is the thing that you absolutely
+must share with us?
+All right.
+A barrel of oil is 42 gallons.
+And that is a weird number.
+It's not 40 and it's not 50.
+And I learned why it is 42 on a reporting trip earlier this year.
+Reporter Julia Simon and I went to Titusville, Pennsylvania.
+It was the middle of the winter.
+This is the sound of a snowball at the birthplace of the modern oil industry.
+Ooh, that was a nice one.
+Titusville is where America's first commercial oil well was drilled.
+And that was back in the 1800s.
+Now there is an oil museum, which is where we met a curator named
+Sue Bates, who Julia noticed was wearing earrings shaped like oil wells.
+Oh my goodness.
+They're like little silver oil directs.
+We're all about oil here.
+So Sue did explain to us that in the 1800s, oil people did in fact want
+to send and receive like a nice round 40 gallons of oil.
+The problem was that these barrels were going to have to be pulled by
+horses on crappy, like rocky roads.
+And so it was decided that they would build in an extra two
+gallons to this barrel.
+And that ensured that 40 gallons would arrive at the refinery.
+It allowed two gallons for leakage.
+Whoa.
+Right?
+Yeah.
+And apparently there's oil all over the roads in this era.
+Splash and spilling out pretty gross.
+It is also worth noting that barrel makers apparently were used
+to this 42 gallon size.
+They had been making booze in barrels this size for a long time,
+maybe also for leakage.
+But to answer the question, a modern barrel of oil is 42 gallons
+because the 1800s Titusville sized barrel became the industry standard.
+Whether we need the leakage room now or not.
+Thank you so much, Kenny.
+You are welcome.
+One of our reporters will be with you shortly.
+Please stand by while we make a few ad dollars.
+This message comes from NPR sponsor Microsoft at the Carlsberg Research Laboratory.
+Scientists are using Microsoft AI to reinvent the way they produce beer.
+See how AI is empowering business innovators at microsoft.com slash AI.
+What would you do if you found out a story that it shaped your identity was a lie?
+NPR's new podcast, White Lies, investigates a murder in Selma,
+Alabama from 1965 and exposes the conspiracy that kept it unsolved until now.
+White Lies. Start listening Tuesday.
+Thank you for calling Planet Money listener service.
+Please remember, no shirt, no shoes, no problem.
+Planet Money, Julia speaking.
+Hey, Planet Money, this is Jacob.
+And I'm curious, as a 6'8 human in a 5'10 world, what's the cost of being tall?
+So what are the costs of being tall?
+To answer this question, we turned to Greg Groszalski, who is 5'11, for the record.
+Greg pours over all kinds of studies constantly to put our newsletter together.
+Hi, Greg. Hey, Julia.
+What you got for us?
+So I talked to Jacob and he told me all about the costs of being tall.
+First, clothes cost more.
+Everything I own, shoes, socks, pants, shirts, ties.
+Everything is special ordered.
+There's costs like food.
+I would naturally assume I eat more than an average human.
+And then there are costs that have nothing to do with money.
+I'm at a concert and I always have a bunch of really ticked off people behind me.
+Oh, my God, I am one of those people.
+This annoys me so much.
+I'm 5'1 and I feel like every time I go to a concert,
+there's somebody who's like 11 feet tall with a big head in front of me.
+That guy. I know.
+So it turns out there's actually a lot of studies about height,
+but they're not about the cost of being tall.
+They're all about the benefits.
+So study after study has found that like tall people on average,
+they are better educated, they're happier and they earn more.
+In fact, an influential study a few years back found a four inch increase
+in height was associated with an average earnings boost of about nine percent.
+Nine percent. Nine percent.
+Why is that?
+Well, there's kind of a debate about like why there's this earnings
+premium for tall people, but there's this influential study
+and they explain it basically by breaking down how tall people get tall.
+There's the science like, you know, your genes, they basically say,
+I, Greg, have the potential to become a certain height, say 5'11.
+OK, OK.
+But then nurture kicks in.
+If you get good nutrition and vaccinations and good medical care
+growing up, you'll probably hit that potential.
+Your total height grows.
+And here is the important part.
+Your brain also grows.
+So people who reach their height potential
+also tend to reach their brain potential.
+Right. That's basically like the takeaway from this study.
+And we should say these people who grow up in these nurturing environments
+and get all these benefits, they also tend to be more affluent.
+It's just like a super advantage cycle.
+They get better schools. They get better food.
+They get better height. They get better money. Exactly.
+OK. But as somebody who grew up with good food and good schools,
+but is five one, are you telling me that I am not operating
+at peak performance here? No, no, no, no.
+That is not the message of this study.
+You can't just like take Jacob, who's six, eight and say,
+therefore, he's smarter than you.
+These are just averages.
+Like if you take all the tall people's earnings and average that,
+they earn more.
+And besides, you're clearly brilliant.
+So you obviously reached your genetic potential.
+Thank you so much, Greg. Sure.
+All of our reporters are assisting other listeners.
+Please leave your question after the tone and it will be Googled.
+I mean, answered in the order it was received.
+Yeah. Hi, my name is Hallel Wisner.
+I'm from Albany, New York, and I've been having problems
+focusing at work.
+And I was wondering if seasons affect workplace productivity.
+So for our very last question, Julia and I enlisted
+the help of our fantastic intern, Rachel Cohn.
+She is amazing hero of the field.
+I think so. Oh, my God.
+This is like too much pressure.
+So the question is like,
+do you work better in the summer or the winter?
+Yeah, I think that's right.
+I think they're wondering, like, especially now that it's spring.
+Am I being less productive?
+And there isn't a lot of research on seasons and productivity.
+But I did find this one study from researchers who are at Harvard
+and UNC Chapel Hill.
+And what they did is they looked at how weather affects productivity.
+Specifically, they were studying the productivity of people
+who were doing like data entry tasks.
+So this might be different for people who are in more creative fields.
+What they did is they collected two years worth of data
+from a bank in Japan.
+And they looked at, you know, how long it took workers there
+day after day to enter information into a computer system.
+And what they found was that for every one inch of rain,
+people were one point three percent faster at completing their tasks.
+So basically, bad weather was good for productivity.
+Wait, that's crazy. That's bananas.
+I know. Right.
+And, you know, one point three percent might not sound
+like a lot on an individual level, but across the whole bank,
+that can make a big difference.
+And think about what that could mean when it's sunny outside.
+Businesses might be losing one point three percent
+of the productivity of all of their workers.
+The researchers in this study estimated that that one point three
+percent loss in productivity would translate to a loss in revenue
+of nine hundred thirty seven thousand five hundred dollars a year.
+Yo, a million bucks.
+That's not nothing. Almost a million dollars.
+OK, so but what do you do?
+Like we can't I can't personally control the weather.
+Well, I did speak to one of the researchers involved with the study
+and she suggested that businesses could just let people go home
+early on sunny days, you know, in acknowledgement of the fact
+that we're less productive and we'll make up for it when it's rainy.
+I love this. I love this.
+I think this is a great study.
+And I think that on behalf of NPR and our listeners,
+we should probably just go home.
+And I mean, science told us to. Right. Right.
+It's not our fault. Research approved. OK.
+Walk around Planet Money has a new weekly email newsletter.
+Subscribe at NPR dot org slash Planet Money newsletter.
+That's NPR dot org slash Planet Money newsletter.
+Today's show was produced by Alexi Horowitz Gazi.
+Our editor is Brian Durstead.
+Alex Goldmark is our supervising producer.
+Thank you for listening.
+Oh, I almost forgot our pretend listener service hotline is now closed.
+If you still have burning questions about the global economy,
+please send us an email. PlanetMoney at NPR dot org.

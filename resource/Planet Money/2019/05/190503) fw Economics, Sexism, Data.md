@@ -253,3 +253,324 @@ Copyright © 2019 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+Just a quick warning. There is some bad language in today's show a
+Couple years ago Alice Wu was an undergraduate at UC Berkeley
+Studying economics and one day some of her friends told her hey, you should check out this thing
+We just found it's called the economics job market rumors forum
+They knew like I wanted to do a PhD economics and they told me they were half joking like oh
+This would be like your future colleagues and stuff. So Alice was like sure fine
+She went to the website clicked through a few threads
+I was just surprised or like really in shock when I saw those comments just kind of
+Pointed directly to a very hostile environment
+This forum had originally started as a place for PhD students to swap information about the job market
+Who got an interview who got hired?
+Then people started using it to like argue about nerdy econ research things, you know
+Like Coase's theorem is highly overrated that kind of thing, but it's an anonymous online forum
+Meaning that soon it became pretty much the worst place you can imagine at least parts of it did and
+Alice stumbled into some of that stuff locker room talk of something
+Or like a boys club or something like that
+Could get very
+disgusting very quickly
+now numbers wise
+Economics is kind of a boys club
+There's this stark gender gap in the profession
+For example in the US in 2018 just 17% of full professors in economics were women at the undergrad level
+Only about a third of all econ majors were women even though more than half of undergraduates overall were women
+So for Alice all that is kind of just part of the scenery and this nasty stuff
+She's reading on the forum. She doesn't really dwell on it. She gets out of the forum pretty fast
+So I was like maybe this is one of the dark secret in the profession
+But I didn't really think too much about it until a couple months later
+She was in a meeting with her advisor
+Alice was in my office to chat a little bit about ideas for senior theses. This is David card
+He's a big shot labor economist first met Alice when she was a student in his advanced econometrics class
+So they were sitting there in his office batting around ideas for her thesis when the phone rang David picked up
+It was an old friend of mine who was actually the chairman at the Princeton economics department Janet Curry and
+Janet was quite upset to tell you the honest truth upset because she had been reading that same forum
+she was familiar with the place and she was fed up with it because
+There seemed to be a very persistent pattern that basically there was a lot of negative stuff being said about female economists
+He hung up the phone and after I got off the phone
+I kind of mentioned this to Alice and I said this is you know
+This is what we were just talking about because she'd been sitting there and then he asked me like oh
+Do you know about the econ job market rumors for him?
+I say I heard about it. I wouldn't have thought she would know about it. It turns out
+I guess people know more stuff than you think you they know
+Alice told me she thinks pretty much everyone in economics has been on this forum at one point or another
+So she and David start talking about it
+This looks like a you know pretty terrible situation
+And I I'm not exactly sure how we got to this point
+I think you say maybe you could just write a small report or like a 10-page report of what's going was a forum is like
+See just exactly. What was the pattern was there any really?
+Difference in how people were talking about female versus male economists
+This is the place where I think economists diverge from normal people for most people. Here's how this story goes
+You'll log on to an anonymous online forum see a bunch of sexist garbage and say well
+It looks like people on this forum are being sexist case closed
+But a lot of economists don't see the world this way
+They have in the words of one economist. I talked to a bias against bias
+This deep-seated belief that often things that look a lot like discrimination can be explained in other ways
+So what Alice Wu set out to do was to use the tools of economics to test for bias on econ drop rumors calm
+because as an economist
+She couldn't be sure it was there until she wrote a rigorous replicable statistically sound quantitative economics thesis about it
+She and David card their data people it would be probably important just to establish the facts
+It did turn out to be important
+Alice Wu ended up writing her undergraduate senior thesis about this forum and the paper
+Which proved something so obvious that Alice herself almost blew it off
+That paper became one of the most talked about economics papers of the year
+The New York Times wrote about it one economist called Alice the most important economist of 2017 and
+Some of the most famous people in the profession women who have been economists for decades
+Say Alice's work is helping them to finally talk about big problems in economics
+Hello and welcome to Planet Money. I'm Sally Helm
+Today on the show a young economist holds a mirror up to the field and her colleagues don't like what they see
+Support for this podcast comes from the John S and James L. Knight foundation
+Helping in PR advanced journalistic excellence in the digital age
+If you listen to Planet Money, you probably love learning new things NPR has another podcast series you might like it's called life kit
+It's a collection of guides on how to get your life together from getting better sleep to saving more money
+Just search life kit to subscribe
+We'll get back to Alice Wu in a minute
+But first this idea in economics that things that look like discrimination might not actually be discrimination
+Where does that come from? Can you can you hear me? Yeah, can you hear me?
+Yes, I called up Beatrice Cherrier. She's a historian of economics and
+She told me that there was this one theory of discrimination that emerged in the 1950s
+In later decades it became a dominant theory and a lot of people are still into it today
+it was applied to racial discrimination and sexism and
+Economists who believe this model think about discrimination in the labor market basically this way in a perfectly competitive world
+Discrimination is terrible for business
+Say you're a sexist manager. You just don't like women some economists would call this animus. You have animus towards women
+So you'll hire a less competent man rather than a more competent woman
+Then you'll fall behind your competitors if you're a business you'll make less money if you're an economics department your reputation will suffer
+Discrimination is inefficient. So because it's inefficient a market dynamics are going to push these people who have a taste for
+For discrimination out of the market. Hmm. So basically it's gonna get competitioned away. Yeah, exactly
+So you don't need to do anything about discrimination
+Because it's gonna disappear and if say gender disparities don't disappear maybe that's okay
+Maybe women don't want to enter the workforce women stay at home because it's a rational calculus. It's
+specialization within the household
+So it derives from from their preference, you know, it's their choice back in the 1970s
+A group of female economists said look our preference is to be
+Economists and we think we're not getting the opportunities
+We should econ departments should actively encourage women grad students like whether or not they're married or have kids
+But some economists didn't want to do that
+Beatrice told me there are letters from this time where Milton Friedman
+One of the most famous economists in America was arguing against it is
+explicitly applying is
+Thinking about the labor market how the labor market worked to the problem of women in economics
+But around the same time the 1970s
+Economists are developing a new theory of discrimination and this new theory is sort of about information
+These economists are like maybe it's not animus
+Maybe discrimination happens because employers are making bad assumptions based on imperfect information
+So they look at the world
+See that men are publishing more economics papers than women say and then when they're hiring an economics professor
+They look at their job candidates and are like I guess I should hire a man because on average men publish more
+It's called
+statistical discrimination
+Discrimination based not on animus but on statistics
+So economists can spend hours on the philosophy of how those two things are different
+I personally don't get it, but you know, I'm almost ready to retire and everybody's talked about that forever
+So this is David card again, the big-shot labor economist who was Alice Wu's advisor
+He told me that both these models have a lot of clout today and he says to be fair one reason
+Economists care about the difference is because it might affect what you do about discrimination
+Like in this statistical discrimination model
+Maybe you can solve the problem by giving employers more information about how women are actually great economists
+And if they don't have animus in their hearts that information might convince them not to discriminate
+So maybe we can do something about this
+and yet
+I was just surprised or like really in shock when I saw those comments
+There are also places like econ drop rumors calm
+In fact, anyone who's ever been on the internet might think animus seems to be out there
+Now David card is part of a big group of labor economists who say basically
+We don't need to keep endlessly arguing about why discrimination is happening
+Let's just go out into the world and get data
+document the facts and
+That's what his student Alice Wu set out to try
+Remember she wanted to know if there was a difference in the way men and women were being talked about on this forum a difference
+She could prove and her first step was basically to write a computer program that would download the posts from the forum
+all two million two hundred seventeen thousand and forty six of them
+So after you scrape the data is kind of just in very messy form. So it's all like
+post after a post
+Now she has to figure out how to sort these posts into buckets
+One bucket is posts about men one bucket is posts about women
+And to sort them her first step is to pick out words that clearly refer to gender
+Most straightforward ones are pronouns like she or he him or her
+Um, there are also other general ones like female male women men
+I think I remember from your paper that there was also bro and broette. Is that right?
+Yes, she also picks out names classifies those as male or female and once she has this initial list of words
+Some of the posts are super easy to classify like if the word he appears 20 times in a post and the word
+She doesn't appear at all
+It's probably a post talking about men it goes in the mail bucket
+And she takes those posts the ones that are obviously talking about men or obviously talking about women
+And she analyzes them using machine learning tools and gets a list of other words
+Words that come up disproportionately in posts about women or posts about men
+Alice read through that list. My first impression was obviously they were bad
+Um, but if you are familiar with a forum and look at those posts, it wouldn't be something surprising
+She went to an advising meeting with david card and at some point she offhandedly showed him the list
+I just showed him like oh, hey, this is a list of words and he was like, why didn't you show it to me earlier?
+David card immediately knew that this list it wasn't just like preliminary data. It was a finding in itself
+Because when alice showed him this list he didn't even want to read the words out loud while alice
+A student was sitting there in his office
+You could imagine a situation where a male older male professor is
+showing a list of words like that to a younger female student and
+I could lose my job. I wasn't that worried about it, but
+uh, I was aware that you know
+We're not going to say those words out loud in my office
+I pulled up the latest version of alice's paper while we were talking. Can we look at the words? Oh, yeah
+Let's pull them up
+Wow, okay. Um
+Would you mind reading them to me?
+You don't have to if you if you don't want to that's okay, but will you
+Actually wouldn't want to
+So I read some of them. Yeah, pretty terrible. Let me see
+blonde
+unattractive
+gorgeous
+Assaulted there's also naked
+whore
+plow
+raped
+vagina
+ugly
+Some less offensive but still not great ones like pregnant and marry
+now
+To be fair, there are some disturbing words on the mail list, too
+The top word most disproportionately associated with posts about men is homo
+The second is testosterone
+And along the way there were also some words that were just confusing. Why is salmon one of the most male words?
+I think they're talking about food. Why is mountains on there? I have no idea
+To alice the main distinction has to do with which of the words are professional and which words are personal
+Notably none of the words that were disproportionately associated with women have to do with economics
+but words disproportionately associated with men included things like
+macroeconomics canesian
+advisor nobel
+This list ends up becoming a big part of alice's senior thesis
+And it's a part that people in the economics profession have really grabbed onto
+Now I should say that this study is narrow. It has limitations
+For one thing the posters are anonymous
+So we don't know who is saying all this nasty stuff or how many people are saying it
+And remember this is about how disproportionately these words come up in posts about men and posts about women
+Not how frequently they come up
+So for example out of 400 000 posts that alice analyzed the word ugly comes up
+1046 times in posts about women and 404 times in posts about men
+David card has studied discrimination for years
+And he says one reason why alice's paper is important is because it identifies animus animus
+So not people just need a little more information and then they'll do the right thing
+But animus hostility meanness this
+Demonstration on econ job rumors says that there's really something too animus
+It's not that everybody has a pure mind and is just saying oh, I really wish I could hire women
+But you know, they're just not that good
+This is like oh my god
+These guys are going out of their way to trash women now
+Of course alice's paper does not prove that there's hiring discrimination happening in economics
+These posters could just be a tiny slice of trolley phd bros who don't have any real clout
+And it might have become just a really good senior thesis that helped alice wu get into grad school
+But that's not what happened
+after the break
+alice's paper blows up
+This message comes from npr sponsor microsoft today
+Innovators are using artificial intelligence to transform how we work from the way we grow our food to the way we brew our beer
+See how ai is empowering business innovators at microsoft.com
+ai
+This week on rough translation. I found out this crazy thing
+the word in french for ghost writer
+is
+france's version
+of the n-word
+Oh, I was like what
+That story this week on rough translation take a listen
+So alice finishes her senior year of college second semester her thesis is done
+She's gotten into harvard for grad school. She can relax a little. Um, I
+actually
+Discover my interest in beer
+Her thesis wins a prize
+And over the summer she gets an email
+Economist justin wolfers wants to write about her paper in the new york times
+Alice ultimately says okay, even though she's nervous. It was like a lot of pressure for sure. I was like this is
+first economics paper I ever wrote like
+uh
+I don't know
+But she agreed to do it
+When the new york times piece came out the reaction was
+Huge economists spoke out online at conferences. They sent emails to alice
+They were sharing personal experiences with sexism in the field
+People start talking about those, you know more openly
+So I think that the forum is definitely problematic, but it reflects something much
+Larger than the forum itself. It just basically reflect
+The gender issues in the profession one place where alice's paper was big news was at this annual meeting
+Of economists the meeting of the american economic association the aea
+The aea is a big deal
+For one thing this conference is where grad students interview for faculty jobs. It's where fancy new papers get presented
+Alice spoke on a panel at the aea conference in 2018
+And around that time she did something that made her a little anxious
+She searched her own name on the forum once they knew like I'll be presenting at this session
+There were just some really like weird comments they were like, oh we are going to stalk her or something
+That was really scary
+And it didn't turn out to be that way at all
+Alice presented her paper alongside several other female economists who have studied women in the field
+Erin Hengel Betsey Stevenson and Tatiana Avilova when the new york times wrote about this panel their headline began
+wielding data women force a reckoning over bias
+And it seems like data has really convinced a lot of economists that they have a problem
+The aea actually did a big survey this past year to get more and more comprehensive data about the culture in economics
+Not just about sexism. They also asked about racism and about sexual harassment
+and
+The survey showed that racism and sexism and harassment are a problem in the field
+Predictably it also showed that not all economists see the problem in the same way
+For example 52 percent of men who took the survey agreed that women are respected in the field only 16 percent of women agreed
+I wanted to talk to someone from the forum who had read Alice's paper and see if it changed their mind
+So I made an account on econ job rumors.com
+I searched Alice Wu and I posted on one of the threads about the paper. Hey
+I'm a reporter
+I told people to get in touch if they were willing to talk i'm gonna hit this button
+It's a send post. I didn't specify my gender by the way because I was nervous
+Oh my god
+We'll see what happens pretty soon. I got the first response. It starts lol. Yeah, right
+The person didn't believe I was a real journalist
+They went on to say
+Let's face it lies sell better than the truth and even if by some miracle this person aka me
+Was concerned about the truth
+We all know that this person lacks the technical knowledge to understand any of our explanations of why the paper is wrong
+There were a few other responses to some of them nicer, but basically alice's paper didn't convince everyone
+After all this idea that competition should help get rid of animus of discrimination. So maybe we don't have to worry about it
+That idea has been around a long time
+Lots of economists still believe it
+At the big annual meeting of the aea this past year people were confronting this head-on
+Okay, welcome everyone. Thank you for coming out at 8 a.m
+This is betsy stevenson an economist at the university of michigan
+She's sitting on stage with a bunch of famous economists all women
+Economists sort of come to the field with a prior that there's no
+Discrimination and they're only going to move their prior when confronted with some sort of compelling evidence
+My question to the panel is how can we best address those who are the most skeptical that there's any kind of
+Problem with discrimination in the field one of the economists on stage is susan afee stanford professor
+People have this habit of making these statements that to me seem somewhat ridiculous like oh, you know
+This can't be an issue that gets competed away, etc
+And you know, I don't really want to get in that argument. I might I might get emotional
+I might lose my temper. I might never think about that person the same way and so it's it's really very risky
+I feel still to start these conversations
+And and so I want to make sure that when I answer i'm going to be answering in the economic way with the evidence
+With the data so thank you everyone who's giving me data
+You know because it's it's very hard to talk also on stage janet yellen
+The only woman ever to chair the federal reserve
+Which is arguably the most powerful economic policy job in the world, you know
+You asked betsy why it's so difficult to convince men
+I think they regard themselves as rational in the field as being highly meritocratic
+And it does require some evidence. You know what evidence yellen was particularly impressed by
+I think we got that evidence in the alice woo paper. I think that was a
+remarkably convincing
+Um appalling finding I haven't heard any man say oh, that's all fine and it shows our field
+Is functioning well and properly janet yellen will take over as head of the aea next year
+And the aea has definitely been making some changes among other things. They adopted a professional code of conduct
+It's the first time they've done that
+They plan to start new programs aimed at getting more women and people of color into economics
+They've also started an alternative to econ job rumors.com their own forum. It's called econ spark
+Alice told me that not that many people seem to be using it
+Planet money has a great new newsletter
+It's a way to keep up with what's happening on the show also get a dose of economics in your inbox
+topics include things like will a plastic bag ban actually end up hurting the environment and
+Is buying a house overrated?
+Subscribe at npr.org
+Planet money newsletter
+You can also get in touch with us at planet money at npr.org and we're on twitter facebook and instagram
+Today's show was produced by lisa yeager. It was edited by brian erstat and jacob goldstein
+Special thanks to judy chevalier
+Heather sarsens shulamit khan and donna ginther donna ginther was the economist who used that phrase bias against bias
+Thanks, also to samaya canes of the economist magazine her reporting on gender in economics has been excellent
+You should check it out
+It includes lots of great information about papers covering bias in economics
+We'll link to some of it on our website and pr.org slash money. I'm sally helm. Thanks for listening

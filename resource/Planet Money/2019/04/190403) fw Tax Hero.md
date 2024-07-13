@@ -383,3 +383,419 @@ NPR transcripts are created on a rush deadline by an NPR contractor. This text m
 
 
 ----
+
+**faster whisper:**
+Hey, Stacey here. Thank you for listening to Planet Money. If you like the show and want
+to help us out, I have an easy way that you can do that. We want to better understand
+who is listening to the show and how you are using podcasts. So we're asking you
+to complete a short anonymous survey, if you've got time, at npr.org slash podcast
+survey. One word. It takes less than 10 minutes and it really helps support the
+show. That is npr.org slash podcast survey. One word.
+Now onto today's show. Today's show was originally reported in 2017, but you know, it is
+about taxes and what is more timeless than taxes. Also, we've got an update for
+you at the end. One of our producers here at Planet Money, Elizabeth Kulas, had
+recently moved to the U.S. from Australia and she got this kind of
+interesting initiation into American life. She did her taxes. At first, she
+and her husband, Matthew Harding, tried to do it on their own, but then the
+taxes kind of took over their apartment. On our dining room table, we have a pile
+of W2s, five 1099s, and then there's some other forms like a 1095C.
+Elizabeth and Matthew realized they were going to need some help, so they
+hired an accountant. It could easily be $500 that we're going to spend at
+the accountant. What did you say to me the other day? You would be
+happy if it was less than $1,000 that she charges us. And this is all kind of blowing
+their minds because there is nothing like this in Australia. In Australia,
+paying taxes is really fast and easy. In fact, Elizabeth and Matthew
+couldn't even tell me when Australian Tax Day was. So is there an
+equivalent of April 15th in Australia? Not really. No, there is, yeah.
+I don't remember it being such a thing. I think it's like February or March.
+It's October 31st, actually. But in most of the rest of the world, they don't know
+when Tax Day is either. All of the crazy stress around taxes, the 24-hour
+hotlines, the software, the accordion folders full of receipts, the lines
+down the street at H&R Block, that is pretty much just a U.S. thing. So we
+have it the worst. Our taxes are the worst taxes. Our filing system is the
+worst. Like objectively? Yeah, objectively. Joseph Bankman is a
+professor of tax law at Stanford, and he says collectively we spend billions
+of dollars and billions of hours every year filing our taxes, not to
+mention the emotional angst. And Joe says it does not have to be this way.
+In most of the world, it's not. And Joe knows exactly how to fix this.
+Hello and welcome to Planet Money. I'm Stacey Vanek-Smith, and with me today is
+Alex Mayassi. Hey Stacey. And Alex, you brought us this great story of Joe
+versus the tax system. That's right. It's a story of this lovable professor
+who believes that paying taxes does not need to be so difficult. He goes
+on a year-long quest to make filing taxes easier for everyone. And you
+might be wondering, but who would want to keep taxes complicated? Well, I
+will tell you who. A multi-billion dollar corporation and one of the
+most important power brokers in Washington.
+Support for this NPR podcast and the following message come from First
+Republic Bank. Grad school is hard. Landing a great job is hard.
+Refinancing your student loan debt doesn't have to be. First Republic
+makes it simple. They offer some of the lowest fixed rates in the
+country, and you can combine your loans into one simple monthly payment.
+First Republic's dedicated bankers are available to you whenever you need
+them, offering exceptional service throughout the loan process and
+beyond. Visit first republic dot com slash SLR today.
+Hey, it's Ophira Eisenberg, host of NPR's Ask Me Another. For the entire
+month of April, we're celebrating women in comedy and we're kicking
+things off with Russian doll actor Greta Lee and co-creator Leslie
+Hedlund. And later in the month, we'll be joined by Greta from NBC's
+Parks and Recreation and Good Girls and many more. Start listening
+this Friday.
+So Alex, Joe Bankman does not look like your typical warrior hero.
+What's the best way to describe him?
+When Steven Spielberg inevitably directs a blockbuster movie about
+taxes, Joe Bankman will be played by Tom Hanks. Mind you, it's a
+Tom Hanks who's been teaching tax law at Stanford for 30 years.
+Also a very dressed down Tom Hanks because Alex, when we talked to Joe
+Bankman at Stanford, you remarked that nobody was very dressed up.
+Joe and I are both pretty casual.
+Alex is being very sweet, but as I look at these pair of slacks, I
+notice there's a stain on one of them and the cuffs are frayed.
+So most of us really hate taxes, but Joe Bankman loves taxes.
+Joe loves taxes so much that he thinks about them in his spare time.
+In fact, he spent time when he's not in class or on campus helping
+the state of California work on tax policy.
+Back in 2003, Joe was part of this little team that was working
+with the state to help take down tax shelters.
+We had just done a bill to penalize a form of tax shelter and
+it raised a lot of money for the state.
+And we're all out to lunch at a mediocre restaurant in Sacramento.
+Oh, you were like celebrating.
+Yeah, we were celebrating.
+Joe and his California tax team are eating lunch and talking shop.
+And they tell Joe they have this idea, an idea they think would
+save California a bunch of money and time and help taxpayers.
+They say most people in California have really simple taxes.
+They get all of their income from a regular paycheck and taxes
+are already withheld from those paychecks.
+So their idea was, why don't we start off giving them a tax return
+that's already filled out with the income we know they have, and
+then they can make corrections on it.
+That was their idea.
+Basically, the government would send you a tax return that
+was already filled out.
+It would include all the income that the state knew about, all
+the taxes that had already been withheld from your paychecks.
+And you would look it over and mail it in.
+Joe knew this was how taxes worked in most countries.
+That's how it works in Europe, parts of Asia, Scandinavia, Australia.
+And so he thought, why not here?
+The way I think of it is imagine if the credit card companies
+acted like the IRS.
+Each month, you'd get a visa bill and be a blank piece of paper.
+And you'd have to write down all of your purchases and add it up.
+And if you did it wrong, you'd face a penalty.
+So the IRS could act like Visa.
+And paying taxes would be like paying a credit card bill.
+And we could be like Elizabeth and Matthew, our first time
+taxpayers, and not know when our tax day is either.
+So now Joe and his team had this idea, but they still needed to make it real.
+They had to figure out what this form would be and what it would look like.
+And so, Alex, we have it right here in front of us.
+It does not look like a tax form I've ever seen.
+Yeah, you know, it's just one page.
+It looks pretty friendly.
+It's not a bunch of legalese.
+You know, it says easy as one, two, three.
+Step one, review your return.
+Step two, make any changes.
+And step three, send it back.
+That's it.
+I know there's something so friendly about it.
+At the top, it says filing your taxes just got easier.
+And then it has the name that Joe and his team gave to this
+form and to this whole project.
+We called it a ready return.
+Oh, I like ready return.
+It's snappy.
+It's snappier, isn't it?
+Now, Joe and his California tax team have this form ready, this very friendly form.
+But they still have to see if ready return is actually going to work, if
+taxpayers would use it, if they would like it.
+So they did a pilot program in California.
+In the 2004 tax season, they sent ready returns out to about 11,000
+taxpayers, along with this little survey.
+So we asked people, do you think you'd like to use this again next year?
+And 99% of the people said yes.
+99% of the people don't say yes to anything.
+99% is sort of amazing.
+I talked to someone else who was involved in ready return.
+And what he told me is when you work in government, nothing gets reviews like that.
+He said, you don't get 99% satisfaction rates with the polio vaccine.
+It's just unheard of.
+Probably true.
+And it wasn't just the survey either.
+The thing Joe was actually the proudest of were the comments that people had
+written in on their surveys.
+And he actually brought a stack of these printed out
+comments in to talk with us.
+What I do is I rifle through some of the pages and then I ask people to
+tell me when to stop because I don't want anybody think I'm cherry picking.
+So tell me here, Alex can see me.
+Tell me when to stop.
+Flip it through the pages and I will tell him to stop right now.
+Okay.
+He's on a random page.
+I'm on some random.
+And the first one, thank you for allowing me to participate.
+Second, this was very easy and convenient.
+Third, no problems.
+I loved it.
+Someone said, I loved it.
+I loved it.
+Here's one that says PS is the same service available for federal tax returns.
+This is all capped.
+Someone used all caps positively.
+Yes.
+And there was one comment that really stuck with Joe.
+Finally, government's doing something to make my life better for a change.
+What did you think when you read that?
+I was really touched.
+I mean, I was really moved.
+I'm even moved as I think about it now.
+Cause for someone like me, that's your, your dream, right?
+You know, if you think about filing taxes each year, it's one of the
+most important interactions you've got with your government.
+And how does it make you feel?
+It makes you pissed.
+You can't understand it.
+You're anxious.
+You're worried about screwing up.
+And we make 160 million people go through this each year.
+That's, that's really bad.
+Did you think that if we improved that, did you think it would like help
+improve people's relationship with the government?
+Absolutely.
+Joe thought his little ready return form could make a big
+difference in the country.
+Of course, first ready return had to pass the California state
+legislature in Sacramento, but Joe wasn't that worried.
+I mean, everyone who had tried ready return had loved it.
+And California governor Arnold Schwarzenegger was also on board.
+So Joe started making the two hour car trip from Stanford to
+Sacramento every week to talk with legislators.
+Well, I thought that if I just talk to people, they'd understand.
+I was kind of naive.
+I thought, well, I get it that people are conservative or a liberal,
+but since this is a nonpartisan issue, I'll just talk to all of our
+representatives in Sacramento and explain things to them.
+I'm a talker.
+I thought I could do that.
+Joe's a talker.
+He is a talker and he, he made a list of all the
+legislators who would be voting on ready return.
+And he just started calling up their offices and asking for meetings.
+I wasn't getting enough meetings.
+People would put me off or they'd say, we'll get back to you.
+And even when Joe did get a meeting, it didn't always go so well.
+Well, one meeting, somebody said, I've been warned about you.
+That was how it started with.
+What did they mean?
+They meant that the Intuit lobbyist had already been in.
+Intuit is the company that owns TurboTax.
+TurboTax is of course the very popular tax preparation software.
+It is a multi-billion dollar business, a multi-billion dollar
+business that was now staring down the barrel of Joe's ready return plan.
+And if you look at this from TurboTax's point of view, this is not good.
+I mean, ready return is all about making taxes easier.
+And if your taxes are easier, you're a whole lot less likely to spend
+a hundred bucks on tax preparation software.
+So Joe started hearing that Intuit was asking around about his plan.
+He would give these little talks, you know, for legislators about
+ready return, or he'd give an academic talk for students and professors.
+And he started noticing something odd.
+Whenever he gave a talk, he would always notice someone
+from Intuit in the crowd.
+They would show up at talks I would give.
+How would you know it was them?
+I give a lot of talks and I'm only going to get like 10, 30 people.
+I'm, and everybody looks like an academic, but one woman comes in
+and she's kind of looking a little corporate at, she's like dressed
+better than the rest of us, right?
+And so that's a tip off right away.
+Tax, tax academics are not the best dressed people in the world.
+Intuit didn't want to talk to us for this piece, but they sent us a statement.
+It said that they have long advocated for tax simplification, but that
+ready return, quote, minimizes taxpayer engagement.
+They think that's a bad thing.
+Joe discovered that Intuit had been very busy in Sacramento meeting
+with politicians, giving money.
+Intuit gave a million dollars to a PAC that supported one of the
+key politicians on the ready return issue.
+And this kind of thing happens all the time when you have a little
+group that is very invested in an issue that affects a lot of people.
+I mean, the little group, in this case, TurboTax, is willing to
+spend tons of time and tons of money making something happen.
+And the large group of people that might benefit a little bit are not
+willing to spend that time and money.
+For instance, I would love it if filing my taxes were easier,
+but I haven't called my congressman.
+I'm not really willing to spend a whole bunch of money to make that happen.
+Then again, I am not Joe.
+So that's the point where I decided to hire my own lobbyist.
+I've never even heard of someone hiring their own lobbyist.
+It was really fun.
+I really enjoyed hiring a lobbyist.
+I hired a guy named Mike Robeson, who, uh, smart as a whip, really
+likable, uh, kind of looks like a Morsevelte, uh, James Gandolfini.
+But that lobbyist, he didn't come cheap.
+How much did that cost?
+Uh, they gave me a deal because they thought it would be kind of fun
+to work for this crazed professor.
+They were working for you, just you.
+Yeah, they're working for me.
+And so the normal price I think would have been $140,000 to get Mike's
+services, but he gave it to me for only 35, so I paid 35,000, I believe.
+Like of your own money?
+Of my own money.
+Like your savings?
+Yeah.
+Why did you spend that money that way?
+Well, I felt lucky again to be able to do is a great cause and everybody
+I think has some causes they think are good causes and this was a cause
+that was really good and nobody else was going to do it but me.
+And making that investment, hiring Mike, it paid off.
+With Mike Robeson, everybody would talk to me.
+Why?
+Well, they had relationships with him.
+Legislators kind of liked that I was with Mike because they also
+kind of legitimated me.
+They figure if you're with Mike, you're probably sensible.
+You probably are going to get good information.
+If I have a question, I can call your lobbyist if I can't get hold of you.
+The meetings start to go a little better.
+Legislators started listening to Joe, telling him, you've got my vote.
+But Joe says he noticed it was hard to get Republicans to back ready return.
+It wasn't just into it or campaign money.
+It had to do with the pledge.
+And privately, I should say a lot of the Republicans told me, well, this
+just sounds like a no brainer.
+I just can't do it because Grover Norquist is opposed it.
+Hello, my name is Grover Norquist.
+I am the president of Americans for tax reform.
+We fight for taxpayers trying to keep taxes low.
+Grover Norquist is a famous anti-tax crusader.
+He heard about ready return and sprang into action.
+So it is a way to raise taxes, a way to send people a bill for more taxes than
+they owe. And they're unlikely to contest it.
+People don't fight the IRS.
+Norquist thought ready return is tantamount to a tax hike because once the
+government has taxpayers on autopilot, just sort of signing and sending,
+they'll start sneaking things in like how cell phone companies sneak in little
+charges and you look at them and sort of wonder about them.
+But in the end, you just pay because it's easier.
+And Norquist has this famous pledge.
+Republicans all across the country take it.
+And the pledge basically says, I will not support any plan that raises
+taxes. And that was a problem.
+What happens if people break the pledge?
+When somebody breaks the pledge, their opponents in the next election tend
+to remind voters that they lied their way into office and the press
+tends to focus on it.
+Norquist put out the word to California Republicans.
+If you back ready return, you have broken the pledge.
+So Joe Bankman, this tax law professor and his lone lobbyist, are now
+battling not only a multibillion dollar software company, but also one of the
+biggest names in U.S.
+politics. Joe kept telling everyone this won't raise taxes.
+It will just make it easier to pay them.
+It'll save everyone time and money.
+But Joe says he talked to a lot of small government types and actually they
+wanted paying taxes to be difficult.
+Their logic was, if paying taxes is difficult, people will hate taxes and
+vote against them. But Joe and Mike kept going and they started gaining
+ground little by little with Democrats and Republicans locking down votes.
+And a couple of weeks out, they needed just one more vote, one more vote
+to make ready return happen in the entire state of California.
+And then I found a Republican that was going to support it.
+Joe convinced a Republican legislator to back the plan.
+Ignore the pledge. Ignore the campaign money.
+After a year of taking on corporate lobbyists, political power brokers and
+so many talks, after spending thirty five thousand dollars of his own money.
+This was it. Ready return looked like it was going to happen.
+Just before the vote, Joe had to drive back down to Stanford.
+But he asked some of the politicians who supported ready return to keep him
+updated. The day of the vote, Joe remembers getting a call.
+I could tell by the tone of his voice what the answer was before he
+said anything. And he said so and so I've even forgotten the
+legislator's name is not with us.
+Looks like we're going to be one vote short.
+One vote short.
+The Republican had changed his mind and Joe had lost.
+And all of the other states that have been calling Joe asking how
+they could implement a plan like this, they kind of dropped away.
+It was it was a little bit crushing to lose like that.
+How much time had you invested in this?
+You know, in a way, it was a year of my life.
+It was a pretty big blow.
+So Joe, Joe went back to teaching full time, but he kept pushing
+ready return. A version of it did survive in California.
+It's buried in the state's tax site, but it's there.
+A few hundred thousand people use it every year.
+And ready return has had a pretty interesting legacy.
+In 2016, Elizabeth Warren and Bernie Sanders introduced a bill that
+looked a lot like ready return that even referenced Joe's pilot
+program. It did not end up happening.
+But Joe says we keep getting close.
+Eventually, he thinks it's going to happen.
+My fantasy is that at some point it just makes so much sense.
+We'll join the rest of the world and we'll do it.
+And I don't know how that's going to happen with our current political
+climate. Maybe some mid-level bureaucrat will just make the
+change herself and it'll go through.
+It'll kind of fly under the radar.
+That's what I think will happen sooner or later somehow.
+In the meantime, people like Elizabeth and Matthew, our first
+time U.S. taxpayers, not to mention all the rest of us, are
+stuck spending hundreds of dollars and many, many hours filing
+our taxes. But it is not without its upsides.
+And there's a little bit of a sense of, like, accomplishment when we get through it.
+Yeah, it's like, I think I was saying to Ali, like, if we can do this,
+like, we can do anything.
+This is probably the most daunting task that we've come across.
+Filing a tax return.
+Stacey, some couples go to Ikea to put their relationship to the test.
+We file a tax return.
+Welcome to America.
+We've got an update after the break.
+Support for this podcast comes from the John S.
+and James L.
+Knight Foundation, helping NPR advance journalistic excellence in the digital age.
+Auditioning for the Netflix reboot of Queer Eye was kind of like
+trying out for a boy band.
+Oh, it was an audition for a boy band.
+Like they brought 200 gays in a room and we're like, fight.
+Pramo Brown on the Fab Five this week on It's Been a Minute from NPR.
+Stacey here.
+It is now 2019 and I've got an update about the tax story.
+Our very own tax hero, Joe Bankman, is still teaching at Stanford.
+He has not given up on trying to simplify our tax system.
+He is seeing some changes, he says, but not exactly in the way he wanted.
+My talks are now less well attended
+because Intuit doesn't send its representatives anymore.
+OK, so Joe is not striking fear into the hearts of the tax lobby
+as much as he used to.
+But he says he is still making progress, little by little.
+Maybe one step forward and two steps back.
+The IRS is moving ahead with the plan to modernize data collection
+and make more of that data available in a timely manner to your tax preparer.
+So it would be easier for your accountant, at least.
+But for regular people who would like to get their tax forms
+just all filled out automatically.
+Well, that is not going to happen
+because of this one line that keeps getting added to the appropriations bill.
+The industry has put a rider on a bill that would make it illegal
+for the federal government to do the kind of return pre-population
+that is the basis for ready return and that California is doing.
+Still, Joe remains optimistic, and he says he is waiting to see
+if a new Congress or the next presidential election
+might shake that rider off of the appropriations bill.
+Special thanks to Larry Zelenak and to Alex Maiasi,
+who originally brought us this story.
+Today's rerun was produced by our intern, Rachel Cohn.
+And we always love to hear what you think of the show.
+We are on Twitter and Facebook and Instagram at Planet Money.
+Or you can always send us an email planetmoneyatnpr.org.
+If you like this episode, like Planet Money in general,
+please leave us a rating or review in your favorite podcast app.
+I'm Stacey Vanek Smith, and this is NPR.
+Thanks for listening.

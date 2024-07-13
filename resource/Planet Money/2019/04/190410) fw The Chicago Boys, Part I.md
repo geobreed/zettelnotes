@@ -452,3 +452,412 @@ Copyright © 2019 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+So last month I was in South America. I was in Santiago, Chile, which is a beautiful city.
+There are parts that actually reminded me of Beverly Hills, you know, glass towers and palm trees and a ton of shopping malls.
+Oh, I know. I'm from Argentina and the shopping malls in Chile are like legendary.
+So I was driving around Santiago with Carola Fuentes.
+She's a journalist and a filmmaker who's done some amazing reporting on Chile's economy.
+Okay, so now we are arriving to the Parque Arauco, which is a very, very big mall, and we are going to the McDonald's.
+So you went to a foreign country and you went straight to McDonald's.
+Yes, I know, I know. It's pathetic.
+But I wanted to test out something that I had heard about Chile that I found really hard to believe.
+What I've heard about McDonald's in Chile is that we can buy food here and then we can pay for it in installments.
+Right. You can pay in three installments, no interest though, or you can pay in nine installments with interest.
+I could buy a hamburger and pay for it in nine installments.
+Right.
+So we pull up to the window to order.
+And my credit card did not work, so we used Carola's.
+I will be paying for this interview for nine months, but still it worked.
+I paid her back. But this is the reason I was in Chile.
+It has some quirks that are just really interesting to an economics reporter.
+I mean, come on, they financialized the hamburger.
+It's like this wonderland of free market capitalism, a rich, developed country that is the envy of its neighbors like Argentina and Venezuela.
+But all this came at a real cost.
+And that story is one of the strangest and most dramatic stories in economic history.
+Hello and welcome to Planet Money.
+I'm Noelle King.
+And I'm Jasmine Garst.
+Today on the show, we go to Chile, a country that was one of the battlegrounds of the Cold War.
+The war between Marxism and capitalism, between dictatorship and freedom.
+And in Chile, there were economists on the front lines of this war.
+Most of them had trained at the University of Chicago.
+They called them the Chicago Boys.
+This message comes from NPR sponsor CFP.
+When Morgan McGovern of CFP board earned her certified financial planner certification, her
+favorite part of the process was completing the experience requirements where she got to build relationships with clients.
+The background that a CFP professional has allows them to take a comprehensive approach to creating a financial plan,
+which establishes a relationship with each client, helping these clients create a roadmap for their financial future.
+Discover how a CFP professional can help you create a financial roadmap at Let's Make a Plan dot org.
+Hey, it's Kenny Malone from Planet Money.
+The podcast you're listening to right now with your ears because we are a podcast.
+However, we are also occasionally a video series and we have a brand new season of Planet Money Shorts out right now that covers everything from the tooth fairy and tooth inflation to the man who invented expensive vodka and convinced us all it was worth paying for.
+I am in that vodka episode.
+I grew a beard for it and I shaved my beard for it.
+If you'd like to see that, it is at NPR dot org slash Planet Money Shorts.
+That's NPR dot org slash Planet Money Shorts.
+Jasmine, you were the person who first told me about the Chicago boys.
+To be honest, I was a little surprised you'd never heard of them.
+These guys are super famous in economic circles in South America.
+So I started reading about them and right away I thought two things.
+I thought this might be the craziest story about economists that I've ever heard.
+And I thought I have got to meet these guys.
+So I spent a couple of months calling around.
+The Chicago boys are old now.
+They're in their 80s and most of them didn't want to talk to me.
+They have their reasons.
+But then finally, one of them said, OK.
+Entravista elevator.
+This is a very nice building.
+OK. And that is how I ended up in Santiago.
+301.
+Oh, oh, oh, oh, my goodness.
+Hello.
+Your elevator opens onto your apartment.
+That's very nice.
+Thank you. I'm so sorry.
+These are not my clothes.
+The airline lost my pack.
+The worst. Anyway, why don't go ahead and tell me your name and tell me what you do.
+Yes, my name is Ralph Luthers and I am a professor of economics at the
+Castle University of Chile.
+OK, so you are you're a Chicago boy.
+I'm a Chicago boy.
+Yes.
+Here's the story of how he came to be a Chicago boy in 1958.
+He's 22 years old and he's just graduated from college and he gets this really
+exciting invitation to study at the University of Chicago in the United States.
+Chicago has this scholarship program going.
+It's funded by the U.S.
+government. Here's how it works.
+Luthers gets flown up to Chicago to the University of Chicago.
+He gets to get an advanced degree in economics or business for free.
+In return, he has to come back to Chile and teach what he's learned to college
+kids. Luthers is from an upper middle class household.
+His dad owns an electronics store like like like Best Buy and he's never been
+out of Chile. So when he's offered a place at Chicago, he accepts.
+He gets on a plane with four other young, smart Chilean guys.
+They land in Miami, they rent a car, they take a road trip, and they are
+marveling at how developed the United States is.
+Tremendous, the buildings, the stores, a different world.
+This plants a seed in Luthers head.
+He sees that the United States has a lot of material wealth and also a lot of
+freedom. They get to Chicago and they're given about 90 dollars a month and
+they're told, listen, this isn't Chilean university.
+This is going to be really intense.
+Usually we took off Saturdays.
+We would go out or whatever.
+But on Sundays we would be back at the library studying, which for me initially
+was absolutely crazy, but later on you get accustomed to it and so on.
+You're like economic monks.
+Yes, yes.
+So Ralph Luthers is deep in his studies at Chicago.
+And while he's there, he meets a man who's going to change his life and
+the future of his country of Chile, Milton Friedman.
+Luthers remembers him as brilliant, articulate, physically very, very small.
+One meter 60 or something like this.
+That's five foot two.
+Very small.
+He was also very busy.
+Friedman was on his way to becoming really well known for his world view.
+This firm belief that economic freedom and personal and political freedom go
+together. Free markets, Friedman thought, lead to political freedom.
+So bottom line, the government should stay out of the economy.
+So he'd argue that even like public schools are a sign of government being
+too big.
+National parks should be run by private companies.
+The operation of the free market is so essential, not only to promote
+productive efficiency, but even more to foster harmony and peace among the
+peoples of the world.
+Now Luthers says his relationship with Friedman was not about ideology.
+Luthers is interested in inflation.
+So is Friedman.
+They hit it off and Luthers asks Friedman to be his thesis advisor.
+Friedman says, OK.
+So Luthers writes his thesis, A Monetary History of Chile, and he
+turns it in and he waits a while, then a while longer.
+And finally, he asks Friedman, have you read past the first chapter?
+And he said, you know, Rolf, there are two kinds of economists, those who
+write and those who read.
+And I'm one of those who write.
+So he hadn't read the rest of the thing.
+He was your thesis advisor and he hadn't read your thesis.
+Well, that's the way he was, you see.
+Luthers gets a degree and he makes good on the pledge.
+In 1960, he goes back to Chile to teach.
+And it's not just Rolf Luthers.
+At this point, there's now a whole group of Chilean men who've studied
+Chicago and then come back to Chile to teach all of this economic knowledge.
+I asked Luthers, aside from all the technical stuff you were learning,
+what was like the big idea that you took away from Chicago?
+The system does make a big difference in the well-being of the people, you
+see, and so that it is very important to have the right system.
+When he gets back, Chile is in upheaval.
+His country is fighting over this precise thing.
+What kind of economic system are they going to have?
+Here's what's happening.
+Chile is run by a tiny elite group of people.
+If you're poor, you're going to stay poor.
+There's no such thing as upward mobility.
+People are fighting just to eat.
+But here's the thing.
+Chile is a democracy.
+If people are fed up, they're going to vote to change this.
+And that's what they do.
+So in the mid sixties, the government is responding.
+The first thing they do is a policy that is now known as agrarian reform.
+The government will go to wealthy landowners and say, we're going to buy
+your land for a low price, we're going to put it into a cooperative, and then
+we're going to redistribute it among the poor people.
+This expropriation causes very deep divides.
+Juan Gabriel Valdez wrote an important book about the Chicago boys and about
+what Chile was like back then.
+This agrarian reform produced an enormous division in society because you
+had very extraordinary cases in which the son, for instance, working for the
+government, had to decide the expropriation of the land of his parents.
+And this happened in fact.
+This happened in fact, that a man would go knock on his father's door and say,
+hey, pop, we're giving the land to the peasants.
+Not exactly like that, because that would be in a movie.
+It was one of those situations where everybody knew someone or knew someone
+who knew someone.
+Rolf Luters had a friend from the University of Chicago, a fellow Chicago
+boy. This guy's dad dropped dead of a heart attack when the government came
+to take his land.
+Of course they felt that this was very unjust.
+This is a very heavy time.
+The fight over land reform is pushing people further to the left and the
+right. And this environment provides an opening for a leftist politician.
+Salvador Allende.
+Salvador Allende is a complicated man.
+He's a Marxist who also loves the good life.
+Wine, art, nice clothes.
+Allende is also appalled at the conditions that poor Chileans are living
+in. And he's been running for president for like the last 18 years,
+talking about his socialist vision for Chile.
+And he keeps losing.
+Like any good politician, he's got an issue.
+The copper industry.
+Chile's got tons of valuable copper, but the U.S.
+owns huge stakes in the mines.
+The profits are mostly going to Americans.
+And he says that isn't right.
+If I'm elected, I will make those profits go back to Chileans.
+And it resonates. People get riled up.
+Allende even gets his own bard, a folk singer named Victor Jara, who's
+this handsome guy from a poor peasant family who writes these beautiful
+tunes.
+My guitar is not for the rich.
+No, nothing like that.
+My song is of the ladder that we're building to reach the stars.
+He's like Chile's Bob Dylan.
+Like, oh, Woody Guthrie.
+Fair enough. Now, all of this is going down during the Cold War.
+In the United States, Marxism is seen as the most sinister force in
+the world. Capitalism is what we like.
+Capitalism is the thing that keeps us free.
+So President Richard Nixon, who hates communism, tells the CIA,
+whatever you've been doing in Chile, do more of it.
+And it's classic CIA.
+Allende is running for president and the CIA funnels money to his
+opponents, pays for a massive propaganda blitz, leaflets,
+pamphlets, radio shows.
+One of the big moves is fear-mongering.
+They compare Allende to Fidel Castro.
+And Castro and the Cuban revolution really are on everyone's mind.
+Rolf Luters, the Chicago boy, is still in academia in Santiago.
+He's a dean now, and he is starting to worry that Chile is on the
+verge of a revolution like Cuba's.
+Then one day, with the big presidential election coming up, one of his grad
+students comes to him and says, listen, man, I need to talk to you.
+This kid is a leftist.
+He said, Rolf, we're going to get into power.
+And when we get into power, you and all your friends are going to be in
+trouble. And I suggest you leave the country.
+Did he say what would happen to you if you didn't?
+No, he didn't. But at least I wouldn't have a good time.
+Luters gets out.
+He takes a job in Washington, D.C.
+And the kid was right. Allende overcomes all of the meddling and
+wins the election.
+Marxists are euphoric.
+This is their revolution.
+But if you are middle or upper class, this feels like the end of
+the world. And Allende makes good on his promise.
+He starts nationalizing right away.
+He nationalizes banks, textile plants, cement plants, a big brewery.
+The government nationalized a large number, about 500 large
+Chilean corporations.
+Five hundred?
+About five hundred, yes.
+So most large companies fell into government hands.
+Including American companies.
+Allende goes ahead and nationalizes the copper industry like he
+promised. Hundreds of millions of dollars of U.S.
+investment gone.
+This is bad for business.
+It is straight bad business.
+There's confusion.
+There are strikes, output plummets.
+And he also makes good on his promise to help the poor.
+He gives free milk to all young Chilean kids.
+He orders pay raises for blue collar workers and he creates a ton of
+government jobs. But he has to pay for all this.
+Allende is printing money.
+Right. Chile has been dealing with inflation for years, but now
+inflation is staggering.
+It hits 700 percent.
+Chile's economy shudders.
+This whole time, President Nixon is doing whatever he can to
+undermine Allende.
+There's this recording of him in the Oval Office talking about
+Chile. And he says, and this is a quote, all's fair on
+Chile. Kick him in the ass.
+OK. It's very Nixonian.
+Anyway, he cuts off loans and foreign aid grants and credit to
+Chile. And then so does the World Bank.
+Chile's economy is gasping.
+And then come the shortages.
+Allende's government fixes prices.
+It tells food producers, you can only charge so much for things
+like rice and wheat and noodles.
+Well, they can't earn a profit, so they stop producing food.
+Ralph Luters is living in Washington during this period, so he
+didn't see much of this go down.
+So while I was in Santiago, I went to see Patricia Arencivia
+Clavel. Tell me a story.
+She's a historian who has written a lot about the Chicago
+boys and is friends with some of them.
+I asked her to tell me what it was like back then.
+Did she ever have trouble buying anything during this
+period? Oh, yeah.
+That other voice is Jonas Romero, a young local journalist who
+is interpreting. His editor said that he could work with me
+for a day to learn something about Chilean history.
+Anyway, in 1972, Patricia is a teenager and she's getting
+up at 6 a.m. to stand in lines.
+Yes, food, cigarette, wine,
+paper, toilet paper, everything.
+There was nothing.
+There's no sugar, so people start putting candy in their
+coffee if they can get coffee and they hoard food, and that
+leads to even more shortages.
+There was a point in about 1972 where the only food
+that you could buy was a Chinese pig meat.
+Chanchochino, big pig.
+Oh, canned pork.
+Canned pork is similar to spam.
+Yes, spam from China.
+Chanchochino.
+Patricia's family is right wing.
+She comes from a military family and she joins a
+militant, radical right wing group called Patria y Libertad,
+Fatherland and Liberty.
+And she goes out into the streets.
+Era una marcha, otra marcha, otra marcha.
+Todas. Yo no iba a clases.
+I don't go to the class.
+You went into the street?
+In the street.
+Todo el mundo estaba en las calles.
+In the year 71, there was a very important and big
+protest called the protest of the empty pots.
+Because there was nothing in the pot.
+Because there was nothing to put in the pot.
+Did she bang the pot?
+Oh, yes.
+A few months later, things get worse.
+In October of 72, truckers organized strikes across the country.
+We now know that the CIA was paying people to support that strike.
+It's huge. Everything in Chile moves on land.
+The country is paralyzed.
+Work shuts down.
+And again, people go out into the streets.
+Patricia is out there, too, of course, and she comes across a group of
+leftist men beating up a right wing guy.
+So she starts talking smack to them and they come after her.
+And suddenly, some of these attackers said, it's a woman.
+Call a woman.
+This woman went to Patricia, grabbed her hair, started to pull it around
+her and giving her scratches.
+She still to this day had a scar.
+Oh, my God, I see that.
+That's a real scar.
+What did that? What did she...
+A razor?
+It was a woman.
+She says that that was nothing.
+It was so natural, so normalized that...
+You leave your house in the morning, but you didn't know if you're going to get back.
+The right and the left are both radicalized now.
+Allende gets on the radio and he warns of a civil war.
+He declares a state of emergency in Santiago and he puts an army officer in
+charge of keeping things calm, a general named Augusto Pinochet.
+After the break, the Chicago boys come up with a plan.
+Support for this podcast and the following message come from the new Capital One
+Saver card. Now, when you go out, you cash in, earn four percent cash back
+on dining and entertainment, two percent at grocery stores and one percent on
+all other purchases. What's in your wallet?
+What does it take to turn an idea into reality?
+Even when no one else believes you can.
+I'm Guy Raz. Every week on How I Built This, I speak with innovators about
+their influential brands and the stories behind them, the failures, triumphs
+and everything in between.
+One afternoon, Rolf Luters and I got in a taxi and we drove to Providencia,
+which is this rich old neighborhood draped in trees.
+Yes, yeah, that's it.
+We loitered outside of a pretty white brick house and he pointed to a window
+up on the second floor.
+That's where the brick was. That's where the brick was.
+The brick. With the economy in free fall, some of the Chicago boys,
+some of this small group of economists who know each other from the
+University of Chicago, they start meeting in a room in this house.
+They sit around a table and they hash out an economic plan for their
+collapsing country.
+They're like doctors writing a prescription for a sick patient.
+Drink more water. Eat more fiber.
+Unfix the prices. Stop printing money.
+Cut tariffs. Let inefficient industries die.
+The manuscript gets so big, someone starts calling it el ladrillo,
+the brick. The idea is they're going to offer it to whatever government
+comes next.
+They would offer that program to any government who succeeded.
+While we're sitting outside of that white house, looters tells me this.
+The economists were up in one room, but in another room,
+there are the offices of a magazine that has links to a conservative
+newspaper called El Mercurio.
+The CIA is paying that newspaper to churn out editorials about how
+Allende is making a mess out of the country.
+So of course you wonder, did the CIA pay for the brick?
+There are these old declassified CIA files from the time.
+They mentioned collaborators working on an economic plan,
+but they don't name any names. So we might never know.
+That said, the world of Chicago educated economists and spies
+and journalists being paid by spies is a small world.
+Someone in Chile's military knows that these guys are working on a plan to
+fix the economy. Looters says when the military hears that,
+they decide it's time to move.
+The military probably would have not taken over government if they didn't
+have a program.
+Had the military seen the brick in advance?
+No, they haven't.
+They hadn't.
+But they'd heard.
+But yes.
+Oh my God.
+So there is a relationship between the brick and the military coup in
+the sense that the military coup would not have taken place that day,
+let's say, or at that time, if it wouldn't have been for the brick.
+On September 11th, 1973, Chile's military launches a coup.
+And one of these men who slides in between the world of military and
+propaganda takes the brick, fires up a mimeograph machine and starts
+cranking out copies.
+By the next day, the military will have the brick in their hands.
+On the next episode, the Chicago boys get their shot at fixing Chile's
+economy. There's a coup, a capitalist revolution, and the end for a
+time of democracy in Chile.
+That's next time on Planet Money.
+I'm Noelle King.
+I'm Jasmine Garz.
+Thanks for listening.

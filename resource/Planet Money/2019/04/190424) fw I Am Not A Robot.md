@@ -302,3 +302,633 @@ Copyright © 2019 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+In the year 2000, everybody was signing up for Yahoo email addresses.
+This was back before Gmail, and Yahoo mail was great.
+It was free.
+You could check your email anywhere.
+But there was this one problem.
+And a computer science grad student at Carnegie Mellon University became fixated on this
+problem.
+His name is Luis Von Ahn.
+The problem was that there were people who, in order to send spam from Yahoo accounts,
+they would obtain millions of email accounts.
+Literally millions, not hundreds or thousands, but millions of fake email accounts.
+Literally millions of fake email accounts.
+The spammers who were signing up for millions of spam accounts weren't going to the Yahoo
+mail page and just signing up for these accounts one at a time.
+It wasn't like they were like the real Jacob Goldstein at Yahoo.com, JacobGoldstein99
+at Yahoo.com, JacobTheBearfootDancer at Yahoo.com.
+No, spammers were writing simple computer programs, little bots, that just kept filling
+out the Yahoo email signup form again and again and again, day and night.
+And that would generate an army of email accounts that could be used to sell fake
+Viagra or steal your bank account information, whatever.
+Yahoo didn't know what to do about this.
+But Luis Von Ahn had an idea.
+So the idea was, can we make a test that can distinguish between humans and computers?
+But also a test that is graded by the computer.
+If you've basically ever signed up for anything on the internet, you probably
+know the idea that Luis Von Ahn came up with.
+A picture of distorted letters and numbers.
+And then a little field below that picture where you type in the characters that you see.
+And we actually showed it to the guy who was the chief scientist at Yahoo.
+He loved it.
+And within a few weeks, it was actually in the registration flow of email accounts
+at Yahoo.
+It was being used there.
+And we were super happy that they were just using it.
+Luis gave his little test a name.
+It was a long, ridiculous name that made a short, genius acronym.
+The long name was
+Completely Automated Public Turing Test to Tell Computers and Humans Apart.
+A Turing test is a famous old idea in computer science.
+It's a test where you try to tell if you're chatting with a computer
+or with a human being.
+If a computer can consistently make you think it's a human being,
+that is artificial intelligence.
+And this sort of Turing test that Luis came up with, it became huge.
+You may even know the acronym for this test.
+CAPTCHA.
+CAPTCHA.
+CAPTCHA is very compelling.
+CAPTCHA is a good name.
+Yeah, because it's like CAPTCHA them or gotcha or something like that.
+Yeah, it was a good name.
+You know CAPTCHA.
+Maybe you do not like CAPTCHA.
+And yet, the 20-year history of CAPTCHA is this window into a lot.
+Into artificial intelligence, into digitizing millions of books,
+also into a little cybercrime.
+Hello, and welcome to Planet Money.
+I'm Jacob Goldstein.
+And I'm Noelle King.
+And I am not a robot.
+I am not, not, not a robot.
+But if you were.
+That's exactly what I would say.
+Today on the show, a global, decades-long war.
+An internet that people actually use versus a spammy wasteland.
+It is computer versus computer.
+And in the end, the computers are only
+going to need us, the humans, to do a little light data entry.
+Support for this podcast and the following message come from Quip.
+Quip was designed to make brushing your teeth simple,
+affordable, and even enjoyable.
+One of the first electric toothbrushes accepted
+by the American Dental Association,
+Quip has a built-in two-minute timer
+that pulses every 30 seconds to remind you to switch sides,
+sensitive sonic vibrations for healthier gums,
+and a multi-use cover for brushing on the go.
+Get your first refill pack for free at g-e-t-q-u-i-p.com
+slash Planet Money.
+If you're in debt, don't beat yourself up.
+Life happens, forgive yourself.
+LifeKit is ready with a shovel to help
+you dig out of crushing debt.
+When you know better, you do better.
+Check out LifeKit on Apple Podcasts
+or at npr.org slash LifeKit.
+I should say that Luis Von Ahn was
+one of several people working on capture-like tests
+around the same time.
+So he's not the only person who came up with the idea.
+Other people developed their own captures.
+But Luis and his colleagues are the ones who came up
+with the name, and their version
+was the one that really took off.
+When you bought tickets online, when you signed up
+for your MySpace account, pretty soon people
+were taking Luis's little test 200 million times a day.
+It was protecting the world from scalpers and spammers
+and bots, and the world, of course,
+responded with gratitude.
+Every time that I talk to somebody about captures,
+the first thing they would tell me
+is how annoying they are.
+So I started feeling, you know.
+Fair, fair.
+I started feeling partly responsible
+for these, you know, 200 million times a day.
+And each time you type one of these,
+you waste about 10 seconds of your time.
+So, you know, I started just thinking,
+is there any way in which we can make good use
+of these 10 seconds?
+This was in the mid-2000s.
+And at this moment, there is this push going on
+to digitize old books and old documents.
+And at the time, it was easy enough to scan old pages,
+old pieces of paper, and put them online.
+But computers were still bad
+at turning those scanned pages into useful online documents.
+It's not searchable.
+You cannot change the font size.
+You cannot, I mean, it's just a bunch
+of kind of somewhat crappy pictures.
+Yeah.
+So it occurred to me that you could take all
+of the words that the computer could not recognize,
+and we could get people to read them for us
+while they were typing captures on the internet.
+Up to this point,
+Luis has been giving capture away for free.
+But now he thinks people might pay
+to have their print archives digitized one capture
+at a time.
+And he is sitting on over half a million hours
+of free human labor a day.
+So he starts a company called ReCAPTCHA,
+and he goes out looking for customers.
+And what happened was,
+I was actually giving a talk somewhere,
+and I was fortunate that at the time,
+the guy who was the chief information officer
+for the New York Times was sitting in the audience.
+And he said, oh, you know what?
+We have this huge 130-year-old archive
+of old editions of the New York Times.
+So maybe you can help us.
+The New York Times ended up being ReCAPTCHA's first client.
+Now, when you solved a capture
+next to a few random letters and numbers,
+there was also a picture of a word
+from an old issue of the Times
+that computers couldn't read.
+When you typed in that word,
+you weren't just protecting the internet from spam.
+You were also helping to turn 100 years
+of old newspapers into a searchable digital archive.
+And I have to say, I just love this sort of,
+while you're doing one thing,
+you're also doing something else,
+like efficiency of this.
+Like it just, it delights me.
+You know, it's like the old dream
+of riding your exercise bike
+to power the lights in your house or something.
+Which by the way,
+Luis told me when he was like 11,
+he had that dream.
+And then he like looked into it and realized,
+oh, actually, like a person riding an exercise bike
+is a terrible way to generate power.
+As Luis was getting reCAPTCHA going,
+Google came out and announced
+that they were starting to digitize every book,
+like every single book in the world or something.
+They saw what Luis was doing for the Times.
+And in 2009, Google bought reCAPTCHA
+and started using it to help digitize books.
+And then a few years later,
+Google started using capture tests
+that showed pictures of addresses on the sides of buildings.
+When we solved those captures,
+we were making Google Maps work better,
+doing a little more work for Google.
+Unpaid.
+So that is the end of Luis's capture story,
+but a little digression.
+He started a language company
+where people did online translation
+while they were learning the language.
+Same like doing one thing,
+actually doing other thing idea.
+This company became super popular.
+It's called Duolingo.
+In fact, it got so popular
+that they got rid of the translation part.
+Now it's just this app
+that millions of people use to learn languages.
+Okay, end of Luis, end of digression.
+So now it is the aughts.
+And for a while, CAPTCHA is working.
+The spammers are held at bay,
+and then someone figures out a workaround.
+Shady businesses started showing up online
+and offering to break CAPTCHA for anybody willing to pay.
+Chris Canish is a computer scientist
+who started looking into these businesses around 2008.
+And it's one of those things like,
+until you actually think,
+oh, actually let's go seek this out,
+see how hard it is to find.
+You might think,
+this is some shady cyber criminal underground thing,
+but nope, you can just Google for it.
+You can find a dozen of these services
+very competitively priced within all that stuff.
+Chris wanted to know like,
+what's even going on here?
+Like, is it for real?
+Do these services work?
+So he and his colleagues decided to act like spammers.
+I mean, they didn't do the spam part,
+but they did more or less everything else.
+They built a bot,
+and this bot went around the web bumping into CAPTCHAs,
+and automatically,
+every time the bot hit a CAPTCHA test,
+it would send it off to one of these services
+that offers to solve CAPTCHAs for money.
+And what do those services do exactly?
+They pay human beings to sit in front of computers
+all day long and solve one CAPTCHA after another.
+So some person sitting in front of a computer
+gets a CAPTCHA from Chris's bot,
+solves the test in a couple seconds,
+sends it back to Chris's bot,
+which enters the solution into a webpage,
+and boom.
+Yes, that is the plain vanilla version,
+just to see like, does this work?
+How long does it take?
+But Chris and his colleagues
+also had some other questions they wanted to answer.
+So they did something else.
+They made up their own CAPTCHA tests
+to send out to the solvers.
+Some of those tests just said, what time is it?
+And the answer to those tests told them
+what time zone the people solving the test lived in.
+They also wanted to know
+what languages the solvers spoke.
+So they made CAPTCHAs with weird instructions
+in lots of different languages.
+Chinese, Spanish, Italian, Tagalog,
+Portuguese, Russian, Tamil, Dutch,
+Hindi, German, Melee, Vietnamese,
+Korean, Greek, Arabic, Bengali,
+Kannada, Klingon, and Farsi.
+I'm sorry, what was the one before Farsi?
+Klingon.
+Klingon, the made up language from Star Trek.
+I mean, of course.
+No, but they did it
+because they wanted to just like,
+sort of push these services,
+like how far will these CAPTCHA solvers go?
+There's no way they're gonna be able to answer this,
+but the answers we saw showed us,
+I think we got something like a 1% accuracy rate,
+but it was on something that was so incredibly long
+of a question that it couldn't have been right by chance.
+So presumably one of these CAPTCHA solvers
+recognized that this was Klingon,
+either knew Klingon,
+just because that's the thing people know,
+or looked it up online
+and was actually able to successfully solve this CAPTCHA
+that was written in Klingon.
+You found the greatest CAPTCHA solver on earth.
+Yes.
+Based on this part of the study,
+not the Klingon part,
+but the languages and the time zones,
+they figure out that a lot of people
+seem to be doing this work in Russia, China, and India.
+And they realize this is a huge industry.
+People have started calling it CAPTCHA farming.
+And it is basically human beings
+opening the CAPTCHA gates for an army of bots.
+And CAPTCHA farms work.
+Usually they were right.
+Usually they were very fast.
+So the services were legit.
+I mean, they were potentially illegal,
+but they did the thing that they said they were doing.
+Correct.
+Yeah, one of the most interesting things
+about cyber crime as a marketplace
+is that it works like any other,
+like business to business type marketplace.
+Your reputation is really important there.
+You're not going to keep your CAPTCHA
+solving business in business
+unless you're actually solving those CAPTCHAs.
+And how much did it cost?
+One US dollar per thousand CAPTCHAs solved.
+So incredibly, incredibly inexpensive,
+but this is a task that takes a typical human
+about 15, 20 seconds.
+Yes, but God, I mean,
+you really feel for the people doing the work.
+Yes.
+So if you are a spammer,
+these workers will solve CAPTCHAs for you
+around the clock for a 10th of a penny per thousand.
+That price is obviously mind-breakingly low,
+but it is still not zero.
+And it is still enough to weed out a lot of people.
+It weeds out people who are just trolls
+making spam accounts for fun
+and people who are just posting garbage comments
+on a million garbage websites,
+hoping to sell a few extra dollars
+worth of garbage products.
+So even with the CAPTCHA farms,
+CAPTCHAs still are working to block a lot of people.
+But what would happen if you could teach a computer
+to solve the CAPTCHAs?
+Then you wouldn't need the farms
+and the farmers anymore.
+The price would go to zero
+and the spammers could go wild.
+Support for this podcast and the following message
+come from the Capital One Saver Card.
+Earn 4% cash back on dining and entertainment,
+2% at grocery stores and 1% on all other purchases.
+Now, when you go out, you cash in.
+Capital One, what's in your wallet?
+Terms apply.
+Hey there, I'm Joshua Johnson, the host of 1A.
+There are lots of places to debate today's issues
+if you don't mind getting attacked
+for speaking your mind or asking a simple question,
+but 1A is different.
+You'll find the 1A podcast on the NPR One app
+or wherever you listen to podcasts.
+So this thing kept happening for a long time
+where some spammer would program a computer
+to solve CAPTCHAs.
+Then the people making CAPTCHAs
+would make the test harder.
+And eventually the test got too hard
+for human beings to pass.
+So in 2014, Google said, all right, enough.
+We are gonna completely change the way CAPTCHAs work.
+They called it ReCAPTCHA version two.
+And there are two big changes here.
+First of all, they introduce the,
+I am not a robot checkbox.
+Which I have always been kind of mystified by
+because I always figured like,
+couldn't a robot just check a checkbox?
+But what I learned when I was working on this show is
+when you click on that checkbox,
+the site sends back a bunch of information to Google.
+We'll talk more about what that information is
+a little later in the show.
+But Google takes that information
+and decides whether it thinks you're a person or a robot.
+If it's pretty confident that you're a person,
+you just get to keep going on about your business.
+But if it thinks you might be a machine,
+then you have to take a test.
+And the test is the second thing
+that's really different in this new ReCAPTCHA.
+This is when they start using those tests
+that said click on the picture of a cat
+or click on all of the pictures of a car.
+And the reason they made this is
+it is much, much harder for a computer to beat
+than just distorted pictures of numbers and letters.
+I talked about this with Jason Polakis.
+He's a computer science professor who has studied CAPTCHA.
+So an example is that you want a system
+where you give it a picture of a car
+and it's gonna tell you this is a car.
+But the problem is that you can have
+a hundred different types of cars,
+different angles, different colors,
+different shapes, different models.
+So expand from cars to trucks, to boats,
+to planes, to trees, to dogs, to animals, to humans,
+everything you can imagine.
+Just even, you know, if we just go back
+to the beginning of CAPTCHA, right, in around 2000-ish,
+was there any system in the world
+that could have looked at a picture of a glass of wine
+or a picture of a dog and said,
+that's a glass of wine or that's a dog?
+No, not even close.
+In order to get a machine to solve this kind of problem,
+you would need millions of labeled digital photos
+of different things and incredibly powerful computers
+and very, very clever software
+that could take all the photos
+and learn to recognize cats and wine and dogs.
+As it happened, all of those things happened
+to come together in the years
+right before reCAPTCHA version two came out.
+You know, the web provided millions of labeled images
+and then computer scientists started using this technique
+called deep learning or machine learning
+that essentially trained powerful computers to see.
+Deep learning or machine learning.
+This is maybe the biggest
+behind-the-scenes technological innovation
+of the last 20 years.
+In fact, today, a lot of the time
+when people talk about AI, artificial intelligence,
+this is what they're talking about.
+It's essential to the progress of a lot of things.
+Take autonomous cars.
+This is how a car can see a kid running into the street
+and hit the brakes.
+And it's not just images.
+Researchers have used other data sets
+to teach computers to recognize fraud,
+to translate languages, to understand human speech
+and like a million other things.
+So when this new reCAPTCHA version two came out,
+Polakis immediately thought,
+I wanna see if I can use these new machine learning systems
+to break this new reCAPTCHA.
+And Polakis is not a machine learning expert.
+And that is actually sort of the point here
+because by this time,
+machine learning had progressed so much
+that you didn't have to be an expert to use it.
+There were these basically off-the-shelf
+machine learning systems that anybody
+with like a medium amount of technical knowledge
+could use.
+So Polakis and his colleagues took these systems
+and sort of threw them up against reCAPTCHA,
+tried to break reCAPTCHA with these systems.
+And it worked.
+I'm not a machine learning person.
+So the fact that machines have reached that point
+and are that good at tasks to me, it's mind blowing.
+Polakis publishes a paper about his project in 2016
+and other researchers are doing the same thing.
+We beat reCAPTCHA, we beat reCAPTCHA.
+And of course, Google knows this is happening.
+In fact, Google itself is doing all this work
+in machine learning.
+They know better than anybody in the world maybe
+that machine learning is just gonna keep getting better
+and better at solving reCAPTCHAs.
+Aaron Malenfant runs the reCAPTCHA engineering team
+at Google.
+So if this is anyone's problem, it is his problem.
+One day, a couple of years ago,
+he was telling his boss about all the things
+that his team was trying to do to stay ahead
+of the bots, but eventually he had to break it to her.
+Pretty soon, the bots are gonna be able to solve
+any kind of CAPTCHA challenges, any tests.
+I mentioned to her that in the next three
+to five years, the current challenges
+are no longer gonna be working.
+We need to move to a new system.
+And so she turned to me and just asked me,
+why aren't you doing that?
+So he did.
+Aaron and his team started building a new kind
+of reCAPTCHA where there is no test at all.
+No letters, no pictures, no street signs.
+Apart from a little notice at the bottom of a webpage,
+you don't even know reCAPTCHA is there.
+Google just released it last year,
+so websites are still in the process of switching over.
+It's called reCAPTCHA v3 version three, reasonably enough.
+The way it works is you go to a website
+and Google analyzes your behavior
+and then sends a score to the website.
+And that score is the probability
+that you are a human being.
+And then it's up to the website what to do.
+Maybe they make you log in again.
+If you're submitting a comment or a review,
+maybe they send it to moderation.
+So that's like the steps of what happens.
+But there is this black box, right,
+which is what's going on in the background?
+How is Google deciding whether or not I'm a robot?
+And we know a little bit about how this worked
+in version two when you click the checkbox.
+In that case, Google looked at
+whether you had visited Google sites,
+whether you were logged into a Google account.
+And also, and this part was almost entirely secret,
+Google did some kind of analysis
+based on what you did on that page.
+Maybe it had to do with how you move the mouse or something.
+So this black box is, of course,
+the most interesting thing to me.
+So when I was talking to Aaron
+about this new recapture about version three,
+I just said, what can you tell me
+about what you're doing to decide whether I'm a human?
+So what's public about the way
+in which you're making that risk assessment?
+Yeah, so the reason we don't say too much
+is that we do have adversaries
+trying to beat us at all times.
+We do say publicly that we adapt to a particular site
+and behavior for that site.
+And when I say we, I don't mean people,
+I mean the machine looks at it and decides,
+is this request expected for this website?
+Does it look like other good requests to this website?
+In other words, for every site
+that installs recapture version three,
+Google's computers using machine learning
+analyze specific behavior for that website.
+And then every time a user comes to that website,
+they say, is this user doing
+what a person normally does on this site?
+Or are they acting weird?
+And this is a big change
+because in the sort of recapture world
+that we're used to,
+there's like a few different kinds of tests.
+And if you could build a bot that could pass those tests,
+then you could get through any recapture on any website.
+It was like you had the keys to all the locks.
+Now with version three,
+it's like Google is making a different lock
+for every single website.
+This means that if,
+just because you can get a good score on one website,
+if you're an attacker,
+doesn't mean that you can get a good score
+on all the websites.
+Okay, I get that.
+That makes sense.
+I mean, if that's all true,
+does it matter at all in V3,
+whether I am logged into Google
+or have a Gmail account or any of that?
+Is that even relevant for how you analyze the risk?
+I would say it matters a lot less.
+A lot less than what?
+Than it used to.
+Okay.
+Okay.
+Our goal is that it doesn't matter.
+That's your end game.
+Right.
+We're not there yet.
+You're not there yet, but you're getting there.
+Well, I don't know if I even want to,
+I probably already said too much.
+A few days after I talked to Aaron,
+a Google spokesman got in touch with me
+and was able to tell me a little bit more about this.
+What he said was whether or not a user
+has an active Google account,
+that matters to Google's risk analysis.
+But ReCAPTCHA does not use any information
+about what the user does on his or her account.
+So they're not looking at like
+how often you send emails or browse YouTube.
+It's just, do you have an account?
+Yes or no.
+For all of the secrecy and the cleverness
+in this new kind of CAPTCHA,
+it's still a computer deciding who is a human.
+But now the CAPTCHA test isn't just in a little box
+at the bottom of the page.
+The test is everything you do on the page.
+So when the spammers computers
+figure out how to break this reCAPTCHA,
+and if there's one thing we learned
+is that somebody somewhere will break it sometime,
+the computers won't just be solving a little test.
+The spammers computers
+will be imitating everything we do.
+End of file.
+Planet Money has a new newsletter.
+Every week it dives into economic questions
+like why did a bunch of countries in Europe
+have a wealth tax and then get rid of it?
+And do plastic bag bans really help the environment?
+Sign up for the newsletter
+at npr.org slash Planet Money newsletter.
+Again, npr.org slash Planet Money newsletter.
+Today's show was produced by Alexi Horowitz-Gazi
+and Liza Yeager.
+It was edited by Brian Erstadt.
+Planet Money's senior producer is Alex Goldmark.
+I'm Jacob Goldstein.
+And I'm Noelle King.
+Thanks for listening.
+I have failed many, many CAPTCHA tests in my life.
+And so I was, I think I'm gonna say comforted
+when our producer Alexi found these videos on YouTube
+of people losing their minds over CAPTCHA tests.
+Okay, so apparently I am incapable
+of identifying street signs in CAPTCHAs.
+No, that's not a street, is that a street sign?
+It's on the street and it's a sign.
+Is that a bus?
+I think it's a truck, but it could be a bus.
+Bus, bus, bus.
+Are there any more cars here?
+There aren't, right?
+Right?
+Wrong.
+And now Google throws a foe at you
+that you've never seen before, roads.
+Is that a storefront?
+These are incredibly low resolution.
+Did someone drunk make this CAPTCHA?
+Is this part of the traffic light?
+And if this is, is that?
+Apparently I'm just wrong.
+I'm not a robot.
+I'm not.
