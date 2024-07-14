@@ -376,3 +376,596 @@ Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+This is Planet Money from NPR.
+If you have made it out of the house in the last week,
+and no disrespect if you haven't, that's probably good,
+you know that this is a brutal time for small businesses.
+Nick, you and I got to see this up close
+as we drove out to Flushing Queens
+here in the great city of New York.
+Drove in separate cars.
+Of course.
+The streets we found are pretty empty.
+Nail salons shut down, gyms closed.
+Restaurants are either closed
+or they have those handmade signs that say,
+no, no, no, we're doing takeout.
+There is one place that is trying to pretend
+that everything is normal.
+Your friendly neighborhood car repair shop.
+My name is Audra Forden.
+I am the fourth generation and first female
+to take ownership of my family's auto repair shop
+here in Flushing Queens, New York.
+It's called Great Bear.
+Audra has run this shop on a prime corner of real estate
+off Northern Boulevard since 1997.
+It is a very loud intersection.
+There's a lot of grease stains in the parking lot
+and the shop itself is very brightly colored.
+Just to describe it, what do we call this color?
+Is it pink?
+It's not pink, it's salmon.
+How would you call this color?
+We're orange and blue.
+This is Queens, New York.
+So that's the Mets.
+That's right.
+All right.
+Audra's great grandfather started a Great Bear in 1933.
+The shop has made it through the Great Depression,
+World War II, booms and busts.
+And through each and every crisis,
+Great Bear's mechanics have kept on changing oil
+and rotating tires.
+And for this crisis, Audra was hoping
+that the few people who are still on the roads,
+healthcare workers, cops, delivery drivers,
+would still need auto service, except COVID-19 style.
+We're disinfecting, we're not sterilizing,
+we're, everything gets sprayed with Lysol.
+Everything, I mean, I don't know how else to say it,
+like whatever you want to call it.
+How many cans of Lysol you got?
+Cases. Cases.
+We had to buy them, you know, like everybody else.
+We were gouged.
+But otherwise we couldn't get it.
+We needed Clorox.
+We needed these things.
+But when you look around,
+it looks like they might not need
+that many cases of Lysol.
+There are no cars waiting for service
+and only two are up on the lifts right now.
+Normally on a day like this,
+Cedric Kang, the lead mechanic, is so busy,
+he says he barely has time to go to the bathroom.
+How many cars would come in and out of here normally?
+Look, I can't even count them.
+I can't even count them.
+10, 100?
+Well, well, somewhere around 15, 20 cars,
+I can take care of them by myself.
+One mechanic. One mechanic.
+How many did you yesterday?
+Yesterday, I believe.
+No, not believe.
+Only one cars.
+15 to one.
+Yes.
+Oof.
+Audra's been running the numbers.
+You got rent, you got to pay Cedric,
+plus four other mechanics,
+the oil, the lug nuts, the Lysol.
+How much money did you make on a typical week
+before this?
+Seventy-five percent more than I'm making right now.
+Seventy-five percent.
+Seventy-five percent.
+It's where it is. Seventy-five percent drop.
+Yeah.
+That's incredible.
+It's tremendous.
+But there may be one last hope for the shop.
+Last week, Audra got an email
+from the New York Women's Chamber of Commerce
+that said, hey, there is this new federal program
+for small businesses during this crisis.
+I read between the lines that if there was going to be
+relief funds or support funding,
+then I would be able to stay working.
+Federal funding for her to keep fixing cars.
+Stay open and have a full staff.
+I called my accountant and said,
+what do we need to start getting in place
+so that we can make a move?
+Hello and welcome to Planet Money.
+I'm Robert Smith.
+And I'm Nick Fountain.
+Over this past week, millions of business owners
+have been grabbing at a life preserver,
+a brand new government program
+with nearly $350 billion to rescue small businesses.
+The problem is this program,
+meant to save the American economy,
+was thrown together in a week.
+It is untested and so far its launch has been a mess.
+Congress has decided apparently
+that it is better to be fast than to make it perfect.
+And everyone is trying to grab their share
+of this free pot of money at the exact same time.
+Today on the show,
+can the government come up with a system
+to get massive amounts of money
+to the right people before businesses close
+and before Audra lays off her workers?
+We haven't reduced hours.
+We haven't done any layoffs yet.
+So would you mind if we keep checking in with you
+during this process?
+Let's check in.
+We're not going down on a pandemic.
+We're gonna get through it.
+Planet Money has a newsletter straight to your inbox.
+It's just the right amount of economics weekly.
+Go to npr.org slash Planet Money newsletter.
+Over the last two weeks,
+more than 13 million people have filed for unemployment.
+That's almost a million workers a day losing their jobs.
+Every single day, a million workers.
+We've never seen anything like this.
+And the government pretty quickly realized
+that the old set of tools
+they used during recessions past were next to useless.
+Too small, too slow.
+And so they came up with something that is remarkable,
+even in these remarkable times.
+Something that may forever change the way
+we handle economic crises.
+The government decided essentially to pay businesses
+to keep their workers employed.
+No matter how few customers you have,
+no matter how bleak the future looks right now,
+the U.S. government is saying we will pay you
+to pay your workers to stick around.
+Because someday we hope you'll reopen
+and we don't want you to have to go through
+all that hiring and training of a bunch of people.
+We want you to be ready to go on day one.
+This new support for business is one small part
+of the $2 trillion rescue package
+passed by Congress exactly two weeks ago today.
+And it was weirdly eclipsed at the time
+by the bigger news in the bill,
+the individual checks for most Americans
+and the supercharged unemployment insurance.
+Even we at Planet Money and our big explainer piece
+about the stimulus rescue bill,
+we pretty much skipped over it.
+You know who didn't?
+This guy.
+The first thing I did was to go
+and start reading the bill from front to back,
+as I do oftentimes with these type of things.
+You said you read through the bill line by line?
+Yeah, doesn't everybody?
+No!
+Yeah, that's kind of like my thing.
+Jeffrey Levine is a CPA and financial advisor
+at Buckingham Wealth Partners.
+So he's reading each line
+and he gets to section 1106 of the bill,
+support for small businesses.
+And he is floored.
+Am I reading this correctly?
+Like, are they really giving,
+you know, is that right?
+Is it that much money?
+It is $350 billion.
+The government was essentially going to be backing up
+a large dump truck, you know,
+worth of dollars for small businesses.
+The government's dump truck plan
+goes by an unfortunate name
+for those of us who speak into microphones.
+The Paycheck Protection Program.
+You gotta back off the mic a little bit,
+just off to the side.
+Paycheck Protection Program, the PPP.
+And here is a short rundown of how it's gonna work.
+PPP was designed for businesses
+that employ under 500 people, small businesses.
+Every business can ask for enough money
+to cover two and a half months worth of paychecks.
+It's the Paycheck Protection Program, get it?
+The maximum amount any business can get is $10 million.
+And here is the most amazing thing.
+You don't even have to be on the verge of bankruptcy
+to get this money.
+All you have to do is claim
+that you're feeling economic uncertainty.
+And are we all?
+I understand why they're doing it,
+but it's still staggering nonetheless
+to imagine so much money being paid out
+basically on what amounts to the honor system.
+So that's the concept.
+It's big, it's easy.
+If it works, it can save the economy.
+But like all government programs,
+whether it works depends on execution.
+Because the US government does not have a dump truck
+big enough to get $350 billion anywhere.
+This is one of the strange things
+we're learning about the US government
+in this whole COVID era.
+Money is apparently no longer the issue.
+The government can allocate hundreds of billions of dollars
+by just writing a few lines of a new law.
+But creating the system to get that money quickly
+to the right people,
+that, that is a massive undertaking.
+So the government threw up
+their collective institutional hands and said,
+we can't transfer money that fast.
+We don't have the systems,
+we don't have the employees.
+But we are best buddies with somebody who does.
+The US banking system.
+Private banks they decided would be the ones
+to give out the money.
+Because think about it,
+a bank's entire job is to be the middle man
+between people who have money and people who need money.
+Now the mechanics are a little tricky
+because banks don't just have some magical button
+to give free money to people,
+but they do have a button for giving loans.
+So the plan for the PPP
+is that small businesses will apply
+for a low interest loan from the bank.
+But the businesses won't have to pay it back
+if they keep their employees around.
+This is a key point.
+If they keep most of their staff
+or even hire back some of the folks
+they've already laid off,
+the government pays off the loan.
+It is confusing,
+but at the end of the day,
+it is free money for small businesses
+as long as they don't fire their workers.
+Oh yeah, one other thing.
+This complicated system of loans, not loans,
+banks and businesses,
+Congress decided this whole thing
+should be up and running in seven days.
+When was the first moment when you realized
+that this was not gonna go as smoothly
+as the government wanted it to go?
+When they said how quickly,
+I think that's probably the moment when I said,
+wow, this is going to be a potential train wreck.
+Audra.
+Hey Audra.
+Good to see you.
+Same.
+So last Friday, seven days after the rescue package
+was passed into law,
+the PPP was supposed to be open for business.
+Audra the mechanic had assembled
+all her financial information.
+Her plan was to ask for $35,000
+to pay Cedric and the crew.
+So what time did you start this morning?
+I mean, did you get up early for this?
+As a matter of fact, yes.
+That's funny that you said that.
+What time did you get up?
+I was up at 5.30.
+Maybe I turned my computer on,
+it was about eight o'clock.
+The way it was supposed to work was
+that banks would open some sort of online application.
+So Audra went to chase.com, her bank,
+and she tried to apply.
+Well, I guess if you could call it that.
+I've been pressing the button on my laptop
+and I didn't get very far,
+but my attempt is there.
+I've got all of my numbers
+and everything is prepared.
+I'm ready to submit.
+What does it actually look like?
+Can you see something that's not moving on the screen?
+It just doesn't, you know, it doesn't take you anywhere.
+Safari says, sorry, this page is not available.
+Ready to hit the go button,
+but the go button's not ready.
+Across the country,
+everyone was running into these kinds of problems.
+We talked to dozens of Planet Money listeners
+who run businesses and they were also stuck,
+regardless of which bank they use.
+Some business owners had managed to submit something,
+but they hadn't been approved yet.
+Others couldn't even find the right link.
+And it wasn't just website problems.
+Apparently, there were different rules for borrowers
+and for lenders and no one knew which one was right.
+And some banks were only taking applications
+from people who already had loans from the bank
+and everyone was getting frantic.
+Because 350 billion may sound like a lot of money,
+but think about this.
+There are 30 million small businesses in America.
+I did the long division by hand.
+Good for you.
+Thank you very much, Nick.
+And that is only around $12,000
+for each owner to give out to their employees.
+Yeah, and it's not like the money
+is getting distributed equally.
+Businesses can request up to $10 million.
+And a lot of those businesses have fancy lawyers
+and accountants and financial advisors,
+all who know how to work the system.
+Also, guess what?
+The program is first come first serve,
+which means it could run out of money
+before everyone gets what they need.
+Do you feel a sense of competition
+to like get in there first?
+Well, I didn't until just now.
+Sorry, I'm so sorry.
+And I've been up all day at this
+and now I feel much different about it.
+I was under the impression
+that it isn't going to be too late.
+You know something I don't know?
+No, no, no, no, no.
+No, we do not.
+We have no idea what is going on.
+So we called someone who did after the break.
+Support for NPR and the following message
+come from TD Ameritrade.
+TD Ameritrade's learning experience
+is curated from their vast library of exclusive content
+and customizes to fit your investing goals and interests.
+More at tdameritrade.com slash education.
+Remember S-I-P-C.
+The economy is changing so fast right now
+and sometimes it seems like there's something new
+to worry about every day.
+On the indicator from Planet Money,
+we bring you human stories
+and easy to understand explanations
+to help you make sense of these crazy times.
+All in just 10 minutes a day.
+That's the indicator from Planet Money.
+Day one of PPP.
+Audra and the small business owners of America
+are not the only ones panicking.
+Banks, those calm, rational masters of money,
+they also have no idea what's going on.
+The government had put up the rules
+for the Paycheck Protection Program late Thursday night,
+mere hours before Audra and everyone else
+started to try and log in on Friday.
+And as everyone's hitting refresh, refresh, refresh,
+bankers were still trying to read
+the fine print of the regulations
+and Paul Davis was hearing from them.
+You know, everybody was just trying
+to get their heads wrapped around the guidance.
+Maybe they should have done a test run beforehand.
+Paul is an editor at American Banker Magazine.
+You know, American Banker,
+this is the magazine that bankers
+would normally have been reading out
+on their sunny decks all weekend.
+Instead, bankers were at their offices,
+frantically trying to set up small business portals.
+I can tell you, I know of one banker in Oklahoma
+who didn't get everything clear
+till 3 a.m. Saturday night, Sunday morning.
+I know several of them who spent hours
+in the office on Saturday
+because they finally were able to start,
+you know, putting loans in.
+Now, you would think that bankers would be jumping
+at the chance to be middlemen for $350 billion.
+The government certainly thought so.
+In the design of the program,
+banks were just supposed to transfer
+the big buckets of money
+and take a wee cut for themselves.
+It was guaranteed profit.
+But banks were leery of this whole idea
+of being the government's dump truck.
+For one thing, there was the risk.
+Bankers are risk averse.
+They are, as the saying goes,
+belt and suspenders people.
+Lenders are, they approach risk management
+and they approach regulation,
+kind of like I approach a board game.
+I kind of like to know all the rules
+before I sit down at the table
+and they're the same way.
+Remember, these loans pretty much take
+small businesses at their word.
+People have to just sign a form that says,
+oh yeah, that's right,
+I'm concerned that COVID might affect my business.
+Bankers were worried there might be fraud,
+money laundering.
+Someday Elizabeth Warren will call them
+before a Senate hearing
+and they would be made to cry on C-SPAN.
+So that is the first problem, risk.
+The second problem the banks were worried about,
+Yeah, specifically, how much should they be compensated
+for the risk of having to be grilled
+by Elizabeth Warren on C-SPAN?
+Originally, the government was gonna pay
+half a percent of interest
+and banks were like, eh.
+Then suddenly, the government doubled that
+to 1% as an incentive.
+The third problem is what really slowed things down
+and it was a technical one
+because once banks got the applications
+from small businesses,
+they were supposed to clear that with the SBA,
+the Small Business Administration.
+But banks' computer systems,
+they were having trouble talking to the government systems
+and Paul Davis says banks felt stuck.
+On one hand, they are facing financial risk
+if they move ahead and loan the money out
+without a government guarantee in hand.
+On the other side, they run the risk
+of having their reputations harmed
+the longer they hold out giving borrowers the money.
+So it's a tough tug of war right now
+trying to manage financial risk
+but also the expectations of borrowers
+who really need the assistance sooner rather than later.
+Banks spend millions of dollars
+advertising themselves as good community members.
+Now the message they were sending was.
+Sorry, this page is not available.
+It is not a good look.
+And to be fair, it is really hard
+to set up a system this quickly.
+Small business loans in the best of times take weeks.
+Actual humans need to read applications
+and call people back for more documents.
+And this week there has been some progress.
+The government says banks have managed to approve
+$141 billion in loans so far.
+So somebody is getting through this system.
+But I gotta say for me, it is still not fast enough.
+The number one thing banks can be doing
+for the economy right now is getting this money
+into business owners' hands
+so that they can get it into their workers' hands
+so that the economy doesn't just collapse.
+Everyone in the world right now is moving fast
+and improvising and ripping up the playbook.
+And banks, they're still reading the fine print.
+There is a psychological component to this whole thing.
+A business owner who is about to lay off her workers
+may not need the money today.
+But she needs to feel like the money
+will be there eventually.
+It doesn't help anyone to see confusion and panic.
+In order for this rescue program to work,
+everyone has to believe it will work.
+Which is why this week you've probably seen
+elected officials on TV falling all over themselves
+to say, hey, don't worry, there will be money.
+We're gonna get it to you
+and we're gonna get it to you fast.
+And if it runs out, we're gonna find more of it.
+Do not worry.
+If you need $35,000 to keep your auto shop
+open in Queens, the message from the government is,
+the money will eventually get to you.
+Hey, Audra.
+Oh, it's party. Audra, hey, good to see you.
+Good to see you.
+When we last left you,
+you had barely even started.
+You couldn't even get through to a page
+to fill out an application for this loan.
+So what progress have you made?
+So, yeah, I've been trying every single day.
+I thought that I was on a waiting list.
+I wasn't on a waiting list,
+or at least I never got a response
+to even say if I was on a waiting list or not.
+And continuously checking daily
+to see if there were any links that were working.
+I did have access to make an appointment,
+a virtual appointment, right?
+It was a virtual appointment and virtually useless
+is how I felt when I got off that call.
+They did provide me with information in an email.
+The link that I found in the email
+led me to an application
+that I was able to successfully fill out.
+And about 45 minutes ago,
+I just finished my application.
+It has been submitted.
+Okay. Wow.
+That's awesome.
+It only took a week.
+There you go.
+So to make this clear,
+you have not gotten a formal approval
+and you have not gotten any money.
+I have not gotten an approval.
+I have not gotten any money,
+but I did successfully fill out
+and submit an application to Chase today.
+This is a little bit of a sensitive question,
+but do you know when do you need the money by?
+When are you gonna start to have to cut back
+on people's hours and maybe lay people off?
+We just had a meeting on Saturday
+and I guess the overall conversation
+was that we're going to reduce the hours of the staff.
+The whole point of getting the money right now
+is so that I can not lay anybody off.
+Sure.
+And that we can be here to be of service.
+The people who are coming in are our first responders
+and this is our way of being able to be of service.
+So just in case there might be a banker at Chase
+who's listening to this program right now
+and going through these stacks of applications,
+what would you say to that person?
+You're working hard right now, my friend.
+And we get it.
+We appreciate that you're putting in all that extra time
+and extra effort right now.
+We're all in it.
+We're just, yeah.
+Just trying to get through it.
+Listen, Audra, it was so good to catch up with you.
+Please keep us posted on what happens next, all right?
+Sounds good.
+If there's another part of the rescue bill
+that you want us to dig into,
+or if you're a business going through
+this whole situation, let us know.
+Our email is planetmoney.npr.org
+and we're on the socials at Planet Money.
+Today's show was produced by Liza Yeager,
+Darian Woods, Autumn Barnes and James Snead
+and it was edited by Brian Erstadt.
+Planet Money's mask maker and supervising producer
+is Alex Goldmark.
+And if you're interested in how other countries
+around the world are getting money out
+to their small businesses,
+you should subscribe to the Planet Money newsletter.
+There's a great one this week
+about Germany's version of the PPP.
+You can subscribe at npr.org slash Planet Money newsletter.
+Special thanks to Rebecca Romero-Raney
+and some of the small business owners that we talked to,
+specifically Yolanda Owens, Erin Neely
+and John Paul Brown.
+We hope you guys make it through this
+and thank you for talking to us in your closets.
+I'm Nick Fountain.
+And I'm Robert Smith.
+This is NPR.
+Thanks for listening.

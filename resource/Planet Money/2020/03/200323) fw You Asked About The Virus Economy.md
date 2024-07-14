@@ -388,3 +388,747 @@ Copyright © 2020 NPR. All rights reserved. Visit our website terms of use and p
 NPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.
 
 ----
+
+**faster whisper:**
+This is Planet Money from NPR.
+Last week, I called up a listener named Ian Linder-Sheldon,
+and when I got him on the phone, he was socially distanced.
+Yeah, actually I'm at a public park
+doing my online college classes,
+so my parents are at risk,
+so I gotta make sure everyone's okay.
+This is what's become of Ian's freshman year
+at Florida International University,
+and he's got a lot of time now
+to think about meaningful places
+he can no longer go physically.
+So the pizza spot he hung out at in high school,
+the burger joint he walks to from his house
+called Burger Bob's, not to be confused, he says,
+with the popular cartoon.
+It's not Bob's Burger, it's Burger Bob's.
+Okay, Burger Bob's.
+It's so old, my grandfather used to go there.
+If that place disappears, that's my whole childhood.
+Are you on their website now?
+Yeah, I am putting in my billing address.
+Ian has set aside about $100
+to try and help these restaurants survive.
+And while we talked, he bought a $25 gift card
+to that high school pizza place.
+It's kind of sad I'm sending it to myself,
+so it's to Ian from Ian.
+There's something that really encapsulates the moment
+there, the isolation of sending yourself a gift card.
+Yeah.
+But here's a question,
+and this question was submitted by you, the listeners.
+Is doing this gift card buying thing
+even really gonna make a dent in the problem?
+Hello, and welcome to Planet Money.
+I'm Kenny Malone, and today on the show, your questions
+on everything from stock market shutdowns
+to toilet paper shortages.
+How would the government actually send us all money?
+Why don't businesses get scolded,
+like we do when it comes to emergency savings?
+And of course, gift cards.
+Planet Money has a newsletter straight to your inbox.
+It's just the right amount of economics weekly.
+Go to npr.org slash Planet Money newsletter.
+All right, our first question today comes from a listener
+named Lauren Shindo.
+How can I help the local businesses
+that I would normally be going to
+if I didn't have to stay at home?
+Can I buy gift cards?
+Are there any other ideas or things that I can do
+to help out those people who are not gonna be making
+the same income?
+Yeah, this is a big one.
+And there's sort of two approaches here.
+There's the donation approach.
+You can find a reputable charity
+doing good work right now.
+There are also emergency funds being set up
+for laid off workers.
+And then there's the consumer approach.
+You can still get takeout or delivery
+or place an online order from your favorite shop
+or restaurant to show support.
+But Lauren mentions this gift card idea in specific.
+And in normal times, gift cards are a huge pet peeve
+of economists and financial types.
+Sure, my name is John Paul Koning
+and I write about finance and money and gift cards.
+John Paul writes the Moneyness blog.
+And back in August, he was looking through
+the financial filings of Starbucks
+and mixed in with the traditional kinds of loans
+that Starbucks had taken out was this huge number.
+$1.6 billion of this jargony sounding kind of debt.
+There's stored value card liability.
+And you were like, what is that?
+Yeah, I was quite curious.
+Stored value card liability is gift cards.
+Technically, every gift card is like a teeny loan
+and we are giving Starbucks $1.6 billion in teeny loans.
+And how good are the terms on those loans?
+Well, first of all, it's a 0% loan from your customer.
+And secondly, a lot of these loans
+never actually get paid off.
+So like, I lend Starbucks money
+and then never actually sort of call that entire loan in.
+Or your friend didn't
+because you might've given it to a friend
+and there's a good chance your friend would've lost it
+or your mother or whoever you gave it to.
+When you start to think about a gift card
+as a mini loan from you to a company,
+they are a terrible deal for you
+and an amazing deal for the company in normal times.
+Yeah, sure.
+Got some boxes and some products going on here.
+Sophie Madison is in Boston
+frantically packing up some online orders
+at her shop, Olives and Grace,
+where she sells everything from Boston-made candy
+to Tom Brady football candles.
+And before she shut her physical store down,
+one customer came in looking worried
+and said to her, I wanna buy a gift card.
+And then I said, okay, how much would you like that for?
+And she just paused for a minute
+and she said, $1,000.
+$1,000. $1,000.
+Like she is very worried about you.
+Yeah, yeah. Right.
+It didn't feel like the warm, fuzzy $1,000 in-store purchase.
+It felt like, you know, here's a hug.
+Let's hunker down.
+Here's some seed money.
+It was a real love and support gesture.
+Small businesses are waiting for emergency loans
+from the state and federal government.
+But in the meantime, customers have realized
+that there is already a way to hand out a loan,
+buying a gift card.
+Those gift cards are a very generous 0% loan
+and in normal times, that is the worst thing
+about gift cards, but right now,
+that is what makes them particularly useful
+until much, much bigger help can arrive.
+Which brings us to our next question
+about one of the biggest, most expensive ideas
+being debated by our lawmakers right now.
+Literally cutting checks to Americans
+to help them through this.
+People have got a lot of questions about this
+and so we've brought in Greg Rozalski.
+He writes Planet Money's newsletter.
+Hello, Greg.
+So Greg, we know that the details of direct payments
+are getting hammered out.
+Will money go to everybody?
+What will the exact amount be?
+We don't know those details yet,
+but you were able to track down the economist
+who is generally credited for getting this idea
+moving in the first place.
+Yeah, so his name is Jason Furman.
+He's an economist at Harvard.
+He's also the former head of the Council
+of Economic Advisors under President Obama
+and his story is really the story
+of how dramatically everything has changed
+in Washington over the last few weeks.
+I was sitting at home one morning.
+My two older children had gone off to school
+with my wife and I was sitting with my four-year-old.
+Kids running off to school
+feels like a different universe ago.
+It's unbelievable.
+Yeah, this was only a few weeks ago.
+This was early March.
+At the time, Jason was first seeing coronavirus cases
+popping up in the United States.
+He's seeing what's happening in Italy
+and he's worried not just about the public health crisis
+but what it'll do to the economy.
+I sat down in about one hour,
+wrote the op-ed for the Wall Street Journal
+and then got my four-year-old to school
+about half an hour late.
+You know, I read this op-ed
+and I feel like this was the moment that I realized,
+like, uh-oh, maybe this is gonna be bigger
+than I thought.
+He proposed what?
+Like some $350 billion stimulus package
+or something like that.
+Yeah, there were a lot of ideas in his plan,
+but the part of the op-ed
+that really caught everybody's attention
+was this one thing.
+Jason called for a one-time payment
+to basically every American and their kids.
+Yeah, I proposed $1,000 for adult, $500 for child.
+I thought that something around a percent and a half
+of GDP made the most sense
+and those were round numbers
+and they happened to get you to about the total
+that I wanted to get to.
+Jason admits this wasn't an exact science.
+Also, that he didn't invent the idea
+of the government sending people stimulus checks,
+but it is a policy that is pretty rare
+for the government to do.
+He says part of the reason why he suggested it
+was to open people's eyes to the fact
+that we were about to get into a serious economic crisis,
+but it didn't seem like a lot of people
+in government were taking his ideas seriously.
+The president's economic advisor, Larry Kudlow,
+got asked on television what he thought of my idea.
+He said something to the effect of,
+Jason Furman is my friend, but,
+and followed it with the idea
+that something much more limited needed to happen.
+But then public events started to cancel,
+schools closed, restaurants and bars shut down.
+It became clear that something big needed to get done
+and sort of surprisingly,
+Senator Mitt Romney kind of comes out
+basically endorsing Furman's idea
+that we need to send checks to everyone.
+He even used Jason's amount, $1,000.
+Within days, President Donald Trump himself says,
+yep, we're gonna need to send people checks.
+I was at home in Cambridge.
+This time, all three of my children were there
+because none of them were going to school
+and I think I saw it come in over Twitter.
+And how did that feel?
+I was excited that he was embracing it.
+So Greg, we know at this point
+that lawmakers are talking about a potentially
+$2 trillion federal aid and stimulus package,
+including some version of Jason's idea
+of direct payments to Americans.
+And one of the questions we've gotten
+is how would this work logistically?
+Like, how does the government get you that money?
+How do they even find you?
+Yeah, so we can look at the last time
+we did a version of this, which was back in 2008.
+The IRS has people's information from income taxes.
+Right.
+They can cut you a check or put money in your bank account.
+For those who haven't paid federal income taxes,
+they'll probably have to fill out a form to get a check.
+In 2008, it took three months
+for the first round to go out.
+I've been speaking to a lot of people.
+I'm confident we can do it a lot more quickly this time.
+It's very hard, but it's probably administratively easier
+than just about anything else that we're gonna do
+in the economic response to coronavirus.
+On Friday, President Trump said at a press conference
+that he supports sending Americans
+much more than $1,000
+and that we might need to send checks multiple times.
+Jason's on board with this too.
+The most important thing we can do
+is to do a lot and to do it fast.
+Cash to people, help to state governments,
+and whatever we need to do
+to cushion the blow for businesses
+and most importantly, their employees.
+Second, this shouldn't be all that we do.
+We should expand unemployment insurance.
+We should expand nutritional assistance.
+We should increase aid to states
+that are bearing the brunt of this.
+There's a lot of different facets of the response.
+All right, so that is now where Jason Furman stands,
+the guy arguably behind sending everybody checks
+for this particular crisis.
+Greg, thank you for tracking him down.
+Thanks for having me, Kenny.
+All right, next up we've got Planet Money's Robert Smith.
+Hello, Robert.
+Get him alone.
+All right, so Robert, we brought you in
+to answer a question from listener Andrew Fujiyoshi.
+I was wondering why the markets can't halt trading
+for a longer period of time during the COVID-19 pandemic.
+What would the consequences be?
+Listen, I'm with this person emotionally.
+I watch the stock market all day long.
+The stock markets are plunging.
+It's creating all this anxiety.
+Why don't we just shut them down?
+And that is what I yell back at my screen all day long.
+Just close it down, just stop it, make it stop.
+And it's clear that there are some kinds
+of circuit breakers for it to temporarily stop.
+So it does seem reasonable that there could be
+something in place to make it stop
+for longer periods of time.
+Yeah, they developed the circuit breakers
+after Black Monday in 1987.
+They're like, oh, like once the market
+really starts to sell off,
+there's all these psychological factors
+and people are selling first and thinking later, right?
+So they developed this system whereby
+if the market goes down a certain percentage,
+they'd give everybody a timeout,
+just like take a breather,
+why don't you stop, meditate, think.
+Stop with the itchy trigger finger.
+This is the idea.
+And the first time they used this in 1997
+was the Asian financial crisis
+and they tried it the first time
+and the traders spent the 15 minutes
+filling out sell orders.
+They're like, oh, good, I can sell even more.
+Then when trading started again,
+it plunged even more and they stopped it for the day.
+And so it had sort of a mixed effect.
+I will say there was a time
+where stopping the stock market made absolute sense
+and this was after 9-11 in 2001.
+The stock market people couldn't go to
+because it was in lower Manhattan.
+And frankly, a lot of the trading firms
+had people who had died in that terrorist attack
+and it was such a horrible situation.
+They closed it for a week
+but there was a real question at the time.
+I remember this, like what's gonna happen
+when they open it?
+Are they gonna open it in all this pent up fear
+and anger and dread?
+Is this just gonna flood the market?
+Well, there was a large sell off, but you know what?
+They had a fairly normal day
+and everyone said like, oh, thank goodness.
+And from then on, they kept the stock market open.
+So let me ask you point blank then,
+why would we not shut the market down now?
+Is it something anyone's thinking about?
+Yeah, I mean, it's certainly been brought up
+and people have asked the president
+and the treasury secretary Mnuchin about this.
+But there's a couple of different reasons.
+I mean, one of them is sort of technical,
+which is, it's not just stocks trading
+in the United States of America.
+Stocks trade all around the world,
+in London, in Europe, in Australia, in Japan,
+in China, in Hong Kong.
+And so they're trading 24 hours a day.
+So if you could close the market here,
+but if you really wanna sell things,
+you can sell things all night long, you know?
+You can take out your fear and anxiety
+around the world.
+So that's sort of the technical reason
+why we probably should not shut down the markets.
+But there's this other bigger idea,
+which is, think for a moment
+what a stock transaction is.
+When we talk about the stock markets,
+what we're talking about are hundreds of thousands,
+maybe millions of individual deals.
+There's somebody who doesn't want a stock,
+who is afraid of the risk of a company
+that they own a part of.
+And they're selling it to someone who wants that risk,
+who has an optimistic view of the future,
+who thinks that, oh, I'll take that stock of Boeing.
+I will take that stock of GE
+because I have a different point of view.
+I'm willing to take the risk.
+And that's kind of like, that's a good thing to happen,
+even in times where people are afraid.
+And I will say one more thing,
+which is we're at a moment here where there is,
+I feel like there's not enough information
+about what's happening in the world.
+And the stock market, the price of a stock
+is pure information.
+That is the consensus number
+of hundreds of thousands of people
+on what a company is worth right now.
+And these are people, professionals, very smart people
+who spend all day long thinking,
+well, how crippled is Boeing during this time?
+How strong is Amazon gonna come out of this?
+And through consensus, through the market,
+they come up with a price.
+Now, I don't like the price because it's low
+and it causes me pain, but that is information.
+And I think more information is better.
+Okay, Robert Smith, not going to shut down
+the stock market tomorrow if you had the magic gavel.
+Is that right?
+Oh, I would sleep better if they did,
+but it's probably not the best thing.
+All right, thanks, Robert.
+You're welcome.
+After the break, breakdowns in the markets
+for toilet paper and commercial paper.
+Are you sometimes confused by the economy,
+befuddled by the financial system,
+troubled by the trade war?
+We are here to help.
+With the daily 10-minute briefing
+on economic news of the day,
+NPR's The Indicator from Planet Money.
+Listen now.
+All right, for this next question,
+we have brought in producer extraordinaire,
+Alexi Horowitz-Ghazi.
+Hello, Kenny. Hello.
+Tell me what you've been looking into.
+This question comes from listener, Carol Lucking.
+She lives in the town of Spearfish, South Dakota.
+Okay.
+I called Carol up and she told me
+that out there the coronavirus pandemic
+doesn't quite feel as present yet
+as it might for those of us
+in more urban parts of the country.
+It feels like we're a little bit insulated.
+A lot of restaurants are doing mostly takeout,
+but things aren't shut down.
+Like I know the local Irish pub
+had a huge blowout on St. Patrick's Day.
+Uh-oh.
+Which was a little horrifying.
+So yeah, I think some people are taking it seriously
+and other people aren't,
+but there's no toilet paper.
+For sure, there's no toilet paper.
+So she's saying that even in not taking it
+seriously enough, Spearfish, South Dakota,
+the run on toilet paper has happened.
+It has reached even Spearfish.
+My question is what is the deal with toilet paper?
+Who started this toilet paper hoarding
+or where did it start?
+And then part two of Carol's question,
+is it possible that this whole national toilet paper run
+will actually affect our toilet paper supply?
+That's, yeah, that is a big one.
+We've been getting a version of that
+from lots and lots of people.
+So what have you found here?
+Okay, so the first part of this question,
+where did this whole toilet paper hoarding thing start?
+Yes.
+Some of the earliest reports
+of this kind of shopping behavior came from Hong Kong
+a little bit over a month ago.
+That makes sense.
+That's close to where the virus started.
+That's right.
+And there were a bunch of headlines from there.
+There was even one story about a group of armed robbers
+who pulled off a toilet paper heist there.
+An armed toilet paper heist.
+Yeah, so there were all sorts of headlines
+on toilet paper hoarding there,
+but then it just started to growl a bit.
+I see.
+And so I'm guessing as the virus spreads to Japan
+and then Singapore and Australia
+and then eventually the US,
+like all of these countries have seen headlines
+about coronavirus and toilet paper shortages.
+And so it is just now common prepping behavior
+to include toilet paper on your hoarding list.
+Yeah, that seems to be part of it.
+And that kind of makes sense to some degree.
+You wanna minimize the number of times
+you're gonna have to leave your house
+and go be in a crowded grocery store.
+Yeah, yeah.
+But the problem is people are buying
+several years worth of toilet paper,
+way more than they need.
+Yes, this brings us to part two of Carol's question,
+which is will all of this erratic behavior,
+semi-erratic behavior affect the actual supply
+of toilet paper in the long run?
+Yes, that's right.
+And so to answer that question,
+you basically need to look
+at the normal toilet paper market.
+Sure.
+I spoke to Willie Shee about this.
+He teaches supply chains and manufacturing
+at Harvard Business School.
+If you think about toilet paper,
+the demand is very stable.
+It's not like the holiday season you use more toilet paper
+or for birthday celebrations, you use more toilet paper.
+Toilet paper demand is proportional
+to how many people are in the population.
+Willie says that the problem that we're seeing basically
+is that we are seeing people panic buying
+from a supply chain that's designed
+for just a really slow, steady demand.
+Sure, you can run your plants a little harder.
+Maybe you run them a little faster.
+But you have all these bottlenecks,
+like I need trucking capacity to move it
+from my factories to the distribution centers
+and from distribution centers into stores.
+And this is why people are still finding empty shelves
+every once in a while at the grocery store.
+Okay, that makes sense to me, sure.
+That's the bad news.
+Okay.
+The good news is that toilet paper
+has a relatively short and localized supply chain.
+So that means it's made pretty close
+to where it's bought and consumed.
+For instance, one economist told me
+that around 90% of our toilet paper
+is made here in the United States.
+Which means the supply chain may have hiccups
+here and there, but all these worldwide border closings
+are not going to affect the toilet paper supply
+for most of us.
+Okay.
+Now, one interesting thing Willie Shee
+wanted to talk about was that all these people
+who are hoarding toilet paper right now
+or stockpiling, they're not actually gonna be using
+any more toilet paper going forward.
+There's gonna come a time when this passes,
+and if you bought a five-year supply,
+you're not gonna buy toilet paper again for a long time.
+So inevitably, this kind of hoarding and stockpiling
+will be followed by a period of lower demand.
+Willie Shee says toilet paper manufacturers
+just need to keep in mind
+that if they ramp up production today,
+there's a lull coming tomorrow,
+or whenever the pandemic is over anyway.
+Alexi Horwitz-Ghazi, thank you very much.
+Thank you, Kenny.
+All right, for our final question, we have Mary Childs.
+Hello, Mary.
+Hi.
+You're here to answer a question that I,
+like this is the thing I've been thinking about a lot
+in these last couple of weeks,
+and it is that like we are told this advice
+from financial types that we as individuals
+need to be responsible.
+We need to have like three months worth of cash
+on hand to cover our expenses for three months.
+But like businesses are not being told this.
+They are not really being told this.
+Businesses are not being told this.
+They are not required to have three months of stuff on hand.
+That seems unfair and unsafe or something.
+So we actually got a few questions like this.
+And to be fair,
+many companies do have a lot of cash sitting around
+kind of just for times like this.
+But the short answer is companies basically always
+have access to vast amounts of money,
+and we generally don't.
+Yes, that must be nice.
+And actually that access,
+that whole system nearly broke down last week.
+It froze up and it nearly imploded,
+which would have taken down like entire corporations,
+thousands of people would have gone without paychecks.
+It was a real near miss.
+Yeah, this was this near catastrophe
+that didn't make quite enough headlines.
+Totally, I think that's because it happened
+in this like one little corner of the financial market.
+So to understand all of this,
+I'm gonna introduce you to this guy, John McCully.
+He works at this money manager
+called Columbia Threadneedle.
+And he works in that little corner
+in what's called the commercial paper market,
+a phrase you will understand very shortly.
+I've been doing this now for 35 years.
+You know, I remember the stock market crash in 87.
+I remember the 9-11 events
+and then obviously the 2008 financial crisis.
+So John's job,
+he gets to the office every morning
+and sits down at his desk
+with his million computer screens in front of him.
+And he buys and sells
+little teeny weeny loans to companies.
+Three month loans, maybe six months,
+maybe nine months, maybe usually not.
+So like I run, let's say Kenny Malone Mattress Incorporated
+and I don't have any cash on hand,
+but that's fine.
+I'll pay my employees by like going to these lenders
+and saying, give me a 30 day tiny loan
+and then I'll pay my employees.
+Exactly, you basically don't have to fret.
+John is always there for you.
+And there are actually thousands of people like John
+fighting each other to try to give
+Kenny Mattress Company those loans
+because they want that interest payment.
+And I know that you might be thinking like,
+this sounds kind of scary.
+That sounds like a lot of lending money
+flying back and forth,
+like people yelling on the phone.
+Yes.
+But this is not that.
+This is actually the most stable,
+most boring part of financial markets.
+It moves by like teeny weeny little fractions
+of a percentage point at a time.
+Like it is sleepy.
+So much so that John says
+he gets made fun of for his job.
+They always tease me that I'm the,
+to use a football analogy
+that I'm the long snapper
+of the fixed income trading desk.
+I have no idea what that means.
+The long snapper is the guy.
+He only comes in to snap the ball back to the punter
+so the punter can punt the ball down the field.
+So the guy comes in maybe six times a game.
+Yes, okay.
+So all very boring, very stable.
+And I guess what that means
+for like Kenny Malone Mattresses Incorporated
+is that why would I have a well of money
+when there is this boring, stable,
+reliable river of money that I can always dip into?
+That is the commercial paper market.
+Exactly.
+So the whole premise of this market
+is that three months is not a very long time
+in the loan market.
+That is the blink of an eye.
+So if you think that Kenny Malone Mattress Company
+is a good company today,
+in three months,
+it's probably going to be still a good company.
+But in the past few weeks,
+the speed of the coronavirus outbreak
+and the economic shutdown that followed,
+all of that has been so fast and so drastic
+that people like John all of a sudden
+could not in good faith buy these loans anymore.
+Kenny Mattress Company may be a great company,
+but we just don't know what's going to happen.
+Right, you don't know
+if I'm going to have to send everyone home tomorrow,
+let alone where the company will be in three months.
+Exactly.
+Three months suddenly becomes a really long time.
+So last Monday,
+John walked into his basically empty office
+and he sat down at his desk
+with his million computer screens
+and the entire market was in total disarray.
+Prices were moving so fast
+that nobody could keep up.
+There were emails stacking up
+and there were all sorts of chats buzzing
+and phone calls.
+Everybody's kind of coming to that
+oh my God moment at the same time.
+It's kind of an alone feeling to begin with.
+And then when I was sitting in the office
+with two or three other people,
+it really kind of made you feel like you were all alone.
+John looks at all this and he's like,
+no, I am not touching this.
+This is insane.
+I can't even be sure these companies
+will be around in three months to pay back these loans.
+But the day after John's scary moment in the office,
+the Fed makes this big announcement.
+They are reopening this thing from the financial crisis
+called the Commercial Paper Funding Facility.
+And basically it just says,
+John, don't worry.
+We are buying alongside you.
+We are right here.
+There's always going to be a buyer.
+You don't need to sweat
+if Kenny Malone Mattress Company starts going south
+and you want to sell that paper, we're right here.
+We're going to buy up some of this paper
+just the same as you.
+And suddenly that means John doesn't need to be scared.
+He's not alone anymore.
+And in essence what?
+Like that, I guess that river of money
+starts flowing again.
+Businesses can start dipping into it again, hopefully.
+Exactly.
+And this was a big sigh of relief.
+This was this big moment.
+And the reason the Federal Reserve
+is getting involved here is,
+well one, they plan to get their money back
+with interest.
+Once the market is stabilized,
+it should just go back to being pretty easy peasy,
+stable money.
+And in the financial crisis,
+when the Fed did similar things,
+they made a ton of money.
+So that's all kind of one reason
+why a corporate bailout is different
+from bailing out regular people,
+which was the question we started with.
+It's true, right?
+Like in the US,
+corporations just have better protections than people do.
+We make sure that companies can function.
+And there is of course a rationale for that, right?
+Like companies employ thousands of people.
+And so if they suddenly run into trouble
+and can't pay those employees,
+that has huge ramifications.
+It still feels kind of unfair,
+but that's what we got.
+So, sorry.
+Mary Childs, thank you so much.
+Thank you.
+Listen, things are happening so fast
+and it helps us tremendously
+to know what you want to know.
+What are you hearing that you need explained?
+Who is the person you want to hear from on our show?
+Please keep sending your questions
+to planetmoney at npr.org
+or you can find us on Twitter and Instagram and Facebook.
+We are generally at Planet Money.
+We got so many questions, so many incredible stories.
+We read every single one of them
+and we will keep doing these segments.
+Today's show was produced by Alexi Horowitz-Ghazi,
+Liza Yeager, and Darian Woods
+with help from James Snead.
+Alex Goldmark is our supervising producer.
+Bryant Erstadt edits the show.
+I'm Kenny Malone.
+This is NPR.
+Thanks for listening.
