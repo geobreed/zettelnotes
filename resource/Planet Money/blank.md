@@ -14,7 +14,13 @@ citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/
 ----
 # Article
 
+
+
 # Transcribe
+
+
+
+----
 
 **(Adam Davidson):**
 
@@ -22,8 +28,3 @@ citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/
 
 
 **faster whisper:**
-
-10 paragraf
-7 period
-5 comma
-3 sentence
