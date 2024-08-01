@@ -1,7 +1,8 @@
 ---
 title: Enrich Existing Ideas
 date: 20240317
-tags: 
+tags:
+  - self
 citation:
 ---
 Improvement of existing ideas with our own ideas is a form of [[Adding Others Value]] if the existing ideas is other's idea.

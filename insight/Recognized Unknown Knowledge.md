@@ -1,7 +1,8 @@
 ---
 title: Recognized Unknown Knowledge
 date: 20240322
-tags: 
+tags:
+  - self
 citation:
 ---
 Knowledge that we are aware of our lack of knowledge. An area to gain new perspective and information about these knowledges.

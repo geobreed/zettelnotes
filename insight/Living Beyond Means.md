@@ -1,8 +1,9 @@
 ---
 title: Living Beyond Means
 date: 20230712
-tags: 
-citation: 
+tags:
+  - self
+citation:
 ---
 The way of life that is beyond self control.
 

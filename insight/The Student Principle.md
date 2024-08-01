@@ -1,8 +1,9 @@
 ---
 title: The Student Principle
 date: 20221022
-tags: 
-citation: 
+tags:
+  - self
+citation:
 ---
 A principle of a student to living life with a perspective to learn. A constant curiosity as a form of [[Adding Self Value]].
 

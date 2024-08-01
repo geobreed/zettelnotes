@@ -1,8 +1,9 @@
 ---
 title: Satisfy Unconscious Perceptions
 date: "20240413"
-tags: 
-citation:
+tags:
+  - book
+citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 The purpose of [[Your Marketing Strategy]] from [[Marketing Two Pillars]].
 

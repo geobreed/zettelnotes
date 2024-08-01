@@ -1,7 +1,8 @@
 ---
 title: Leave Everything Better
 date: 20220829
-tags: 
+tags:
+  - self
 citation:
 ---
 Leave everything and everyone better than you found them.

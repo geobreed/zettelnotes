@@ -1,7 +1,8 @@
 ---
 title: Unrecognized Unknown Knowledge
 date: 20240322
-tags: 
+tags:
+  - self
 citation:
 ---
 Knowledge that we don't aware of our lack of knowledge. A complete lack of perspective and information of these knowledges.

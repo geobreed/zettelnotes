@@ -1,8 +1,9 @@
 ---
 title: Adding Self Value
 date: 20221017
-tags: 
-citation: 
+tags:
+  - self
+citation:
 ---
 Value from the perspective of others.
 

@@ -1,7 +1,8 @@
 ---
 title: Living Within Means
 date: 20240730
-tags: 
+tags:
+  - self
 citation:
 ---
 The way of live that constantly assume future assets is not guaranteed and understands that emergencies happens. 

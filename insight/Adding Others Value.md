@@ -1,8 +1,9 @@
 ---
 title: Adding Others Value
 date: 20220829
-tags: 
-citation: 
+tags:
+  - self
+citation:
 ---
 The main focus of [[Leave Everything Better]]. That my transformative effect is an added value to others.
 

@@ -1,7 +1,8 @@
 ---
 title: To Know Oneself
 date: 20240317
-tags: 
+tags:
+  - self
 citation:
 ---
 Identifying each and every [[Basic Belief System]] that is the basis of their own every action and recognize it as a belief system. To recognize it as a belief system, they have to accept that it is not the "truth" or "the way the world work".

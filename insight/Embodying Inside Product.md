@@ -1,8 +1,9 @@
 ---
 title: Embodying Inside Product
 date: 20220829
-tags: #Entrepreneur
-citation: 
+tags:
+  - self
+citation:
 ---
 The perfect form of business development 
 When Ideas need specific application 

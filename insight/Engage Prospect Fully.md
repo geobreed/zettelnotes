@@ -1,7 +1,8 @@
 ---
 title: Engage Prospect Fully
 date: 20221023
-tags: #E-Myth
+tags:
+  - book
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 The sixth step on [[Selling System Steps]]

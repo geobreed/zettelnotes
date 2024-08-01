@@ -1,7 +1,9 @@
 ---
 title: Knowledge Recognition Quadrant
 date: 20240322
-tags: 
+tags:
+  - self
+  - draft
 citation:
 ---
 A four quadrant made from known or unknown and recognized or unrecognized knowledge. Those four quadrant is:

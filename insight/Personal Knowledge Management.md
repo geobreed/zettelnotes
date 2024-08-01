@@ -1,8 +1,9 @@
 ---
 title: Personal Knowledge Management
 date: 20221023
-tags: 
-citation: 
+tags:
+  - self
+citation:
 ---
 I want this to be my second brain. Where I can upload my thoughts for easy access. So it has to be able to:
 - quick input, maybe cross platform or cross app with custom formatting for obsidian. 

@@ -1,8 +1,9 @@
 ---
 title: Promise Fulfilling Step
 date: "20240413"
-tags: 
-citation:
+tags:
+  - book
+citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 How to run business from Marketing perspective, step to fulfill [[Your Marketing Strategy]].
 

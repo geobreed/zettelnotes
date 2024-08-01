@@ -1,8 +1,9 @@
 ---
 title: Entrepreneur Self Expression
 date: 20230726
-tags: 
-citation: 
+tags:
+  - self
+citation:
 ---
 As an Entrepreneur, the ultimate Self Expression is when Ideas can be nurtured into a self sustaining process that always [[Leave Everything Better]].
 

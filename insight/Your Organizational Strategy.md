@@ -1,7 +1,8 @@
 ---
 title: Your Organizational Strategy
 date: 20221022
-tags: #E-Myth
+tags:
+  - book
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 The third step of [[Business Development Program]], this is for structuring strategy. If not structured its a mob, mob don't make things, mob destroy things.

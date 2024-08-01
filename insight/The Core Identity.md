@@ -1,7 +1,8 @@
 ---
 title: The Core Identity
 date: 20240316
-tags: 
+tags:
+  - self
 citation:
 ---
 Every sentient being has a sense of self that is formed from various [[Basic Belief System]] that is accumulated from their experience in life.

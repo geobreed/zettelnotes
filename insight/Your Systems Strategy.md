@@ -1,7 +1,8 @@
 ---
 title: Your Systems Strategy
 date: 20221022
-tags: #E-Myth
+tags:
+  - b
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 The seventh and last step of [[Business Development Program]], about the strategy for your system.

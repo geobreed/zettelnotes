@@ -1,8 +1,10 @@
 ---
 title: Self Expression Project
 date: 20221018
-tags: 
-citation: 
+tags:
+  - self
+  - draft
+citation:
 ---
 List of my own project:
 - [[KMS Based Agent]]

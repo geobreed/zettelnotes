@@ -1,7 +1,8 @@
 ---
 title: Symbolize Owner Ideas
 date: "20240413"
-tags: 
+tags:
+  - book
 citation: "M. E. Gerber, The E-Myth Revisited: Why Most Small Businesses Don’t Work and What to Do About It. Harper Collins, 2009."
 ---
 As [[Your Primary Aim]] is a foundation for a business. Everything inside a business is manifestation of you.
