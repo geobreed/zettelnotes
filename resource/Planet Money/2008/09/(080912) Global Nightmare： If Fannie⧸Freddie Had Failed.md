@@ -1,8 +1,8 @@
 ---
-title: 0002 (080912) Global Nightmare： If Fannie/Freddie Had Failed
+title: (080912) Global Nightmare： If Fannie/Freddie Had Failed
 date: 20080912
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
 A brief explanation of Fannie Mae and Freddie Mac. About how their conception process contributing to [[Moral Hazard Situation]]. Then about the final consequence of that situation where the risk has been increasingly encompassing global financial market.
 
