@@ -4,7 +4,7 @@ date: 20080916
 tags: 
 citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
-The [[Underestimating Risk Hubris]] lead Lehman Brothers to collapse. 
+The [[Underestimating Risk Hubris]] lead Lehman Brothers to collapse. For investment bank, trust is the assets. Furthermore other's level of trust also influencing that trust especially if the basis of that trust, the foundation of a full industry is shaken.
 
 
 ----
@@ -21,15 +21,15 @@ The [[Underestimating Risk Hubris]] lead Lehman Brothers to collapse.
 	- if you have stock you are owner
 	- maybe lose access a bit
 	- but the value maybe low especially FMFM
-- What's wrong with the Lehmans?
-	- lehman brother have a lot of part, trading desks for stocks and bonds, mortgage wholesale packaging to bond. 
+- What's wrong with the Lehman's?
+	- Lehman brother have a lot of part, trading desks for stocks and bonds, mortgage wholesale packaging to bond. 
 	- further reading in "This American Life" story with Alex Blumberg
-	- they also are investment bank, match lender to lendee as middleman
-	- but lehman held on to riskier asset, normally sell to those that want but they held 
+	- they also are investment bank, match lender to borrower as middleman
+	- but Lehman held on to riskier asset, normally sell to those that want but they held 
 	- they're supposed to stay away from risky investment but they don't
 - Why did Merrill Lynch need to sell?
-	- Like a domino of the most sketchy. When Bear Stearns collapse, the topic is Lehman Brotherrs, next on the list is merrill lynch 
-	- so if lehman bankrupt Merrill might too 
+	- Like a domino of the most sketchy. When Bear Stearns collapse, the topic is Lehman Brothers, next on the list is Merrill Lynch 
+	- so if Lehman bankrupt Merrill might too 
 	- on Sunday the government let Lehman bankrupt and Merrill's position look worse because of it
 - Why AIG panicking?
 	- next in line
@@ -41,16 +41,16 @@ The [[Underestimating Risk Hubris]] lead Lehman Brothers to collapse.
 	- quantity of regulation not important, 
 	- effective, smarter regulation does 
 	- they also need to work with congress too
-- Will people get theirr death benefits?
+- Will people get their death benefits?
 	- possibly yes
 	- maybe a bit of disruption
-- Who and when last great bailout occured?
+- Who and when last great bailout occurred?
 	- S&L Saving and Loan
 	- In 10 years ago, there's Long-Term Capital Management
 	- some hedge fund get together, create complex system, financial expert spreading risk and thought have conquered risk, 
 	- they created incredibly complex that was leveraged
 	- for every dollar, they borrow like $100 and spread all over the world in complex trades.
-	- completely collapse, and need to be bailout by all major banks together with one of the exception is Bear Stearns
+	- completely collapse, and need to be bailout by all major banks together with one of the exceptions is Bear Stearns
 	- they have finger on too many pie in the world 
 - Is there a possibility of run on bank and what is shadow banking system?
 	- there is a less possibility of a run on bank 
