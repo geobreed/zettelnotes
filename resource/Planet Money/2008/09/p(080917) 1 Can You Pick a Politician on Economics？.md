@@ -8,7 +8,7 @@ Government has a lot of move power. By action or inaction, they can hammer a mes
 
 About regulation too, the focus on the amount does not alleviate the problem. [[Financial Policy Independence]] has to be maintained to make financial policy free from political use.
 
-[[Economic Bubble Period]] also will always exist as long as capitalism exist.
+[[Economic Bubble Period]] also will always exist as long as capitalism exist. an [[Irrational Exuberance Behavior]] that is held by a lot of people
 
 ----
 # Points
