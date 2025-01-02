@@ -4,11 +4,13 @@ date: 20080917
 tags: 
 citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
+In a time of crisis there is always actions that come from panic, [[Clouded Judgment Behavior]] like panic sell when market is down
+
 Government has a lot of move power. By action or inaction, they can hammer a message. But not all received the same, or even being understood correctly. 
 
 About regulation too, the focus on the amount does not alleviate the problem. [[Financial Policy Independence]] has to be maintained to make financial policy free from political use.
 
-[[Economic Bubble Period]] also will always exist as long as capitalism exist. an [[Irrational Exuberance Behavior]] that is held by a lot of people
+[[Economic Bubble Period]] also will always exist as long as capitalism exist. 
 
 ----
 # Points
