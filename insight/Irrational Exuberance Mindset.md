@@ -2,7 +2,7 @@
 title: Irrational Exuberance Behavior
 date: 20250102
 tags: 
-citation:
+citation: https://en.wikipedia.org/w/index.php?title=Irrational_exuberance&oldid=1262010713
 ---
 The phrase Irrational Exuberance came from Alan Greenspan speeches about the dot-com bubble in Desember 5, 1996 when he's Federal Reserve Chairman. The phrase meant to obscure true opinion in long complex words and mute any strong market response. But market still showing strong market response.
 

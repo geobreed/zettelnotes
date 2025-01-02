@@ -11,4 +11,6 @@ Unconscious Mind is where all the action is, it say yes to any compatible with i
 
 Therefore no rational calculation. 
 
+When there is external factors that can be too much affecting the decision making, like FOMO marketing or hype advert, there maybe [[Clouded Judgment Behavior]].
+
 One of the example is 2008's [[Irrational Exuberance Mindset]] when the mind is overwhelmingly expect that a fundamental economic axiom has been broken by a new technology.
