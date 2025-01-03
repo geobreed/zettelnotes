@@ -43,10 +43,10 @@ https://www.npr.org/transcripts/94738209
 (SOUNDBITE OF MUSIC)
 
 LAURA CONAWAY, HOST:
-
 Hi. This is Laura Conaway with PLANET MONEY. Today is Wednesday, Sept. 17. There's an awful lot of news that's been happening. Let's see, Lehman Brothers is not going to be saved. AIG is going to be saved to the tune of $85 billion in loans. We're going to take a step back from all of that. We're going to take a step way back. We're going to look at something called naked short selling, which is a piece Alex Blumberg did on a very arcane, odd and maybe sensical, maybe not sensical part of the financial system. He did it for This American Life. He's a contributing editor with us, and we think he's just great.
 
-ALEX BLUMBERG, BYLINE: The chairman of the SEC, the Securities and Exchange Commission, is often referred to as Wall Street's top cop. And this past year, a year in which the global financial system seemed perpetually on the verge of collapse - a collapse due in large part to complex, unprecedented and, as we now know, extremely risky financial products created and sold on Wall Street - you might expect to be hearing a lot from Wall Street's main enforcer. But Christopher Cox, the current chairman of the SEC, has been noticeably absent from any public housecleaning. Instead, it's been two other government officials who've done the heavy lifting - the chairman of the Fed, Ben Bernanke, and of course, the secretary of the treasury, Henry Paulson, who's been all over television this past week, talking about the most recent crisis, the bailout of Fannie Mae and Freddie Mac. These three men have made regular and frequent appearances before various House and Senate banking and finance committees, the three horsemen of the financial apocalypse. But Christopher Cox can sometimes seem like less a third horseman and more a third wheel.
+ALEX BLUMBERG, BYLINE: 
+The chairman of the SEC, the Securities and Exchange Commission, is often referred to as Wall Street's top cop. And this past year, a year in which the global financial system seemed perpetually on the verge of collapse - a collapse due in large part to complex, unprecedented and, as we now know, extremely risky financial products created and sold on Wall Street - you might expect to be hearing a lot from Wall Street's main enforcer. But Christopher Cox, the current chairman of the SEC, has been noticeably absent from any public housecleaning. Instead, it's been two other government officials who've done the heavy lifting - the chairman of the Fed, Ben Bernanke, and of course, the secretary of the treasury, Henry Paulson, who's been all over television this past week, talking about the most recent crisis, the bailout of Fannie Mae and Freddie Mac. These three men have made regular and frequent appearances before various House and Senate banking and finance committees, the three horsemen of the financial apocalypse. But Christopher Cox can sometimes seem like less a third horseman and more a third wheel.
 
 Witness a June 23 article on the front page of The Wall Street Journal titled "SEC Chief Under Fire As Fed Seeks Bigger Wall Street Role." The article starts off by describing a 5 a.m. conference call that took place in March between the country's top financial regulators. The topic of the phone call was what to do about the investment bank Bear Stearns, which was about to collapse and possibly set in motion a global financial meltdown. The article describes the events after the phone call this way, quote, "when they were done, the treasury secretary informed the president, the head of the Federal Reserve Bank of New York called Bear Stearns. Christopher Cox, chairman of the Securities and Exchange Commission, didn't call anyone." Though the SEC was Bear Stearns regulator, he didn't take part in the meeting. In an interview, Mr. Cox said the time of the call changed overnight, and no one told him. The article goes on to describe how the next night, Cox missed the negotiations over what to do with Bear Stearns because he was at a birthday party and how the day after that, he missed another conference call announcing the sale of Bear Stearns. The following weekend, he left town on a family vacation.
 
@@ -54,47 +54,66 @@ So this was the backdrop in July when the various crises gripping Wall Street an
 
 (SOUNDBITE OF ARCHIVED RECORDING)
 
-UNIDENTIFIED PERSON: Chairman Cox.
+UNIDENTIFIED PERSON: 
+Chairman Cox.
 
-CHRISTOPHER COX: Thank you very much, Mr. Chairman, Senator Shelby and members of the committee, for this opportunity to describe the SEC's actions to deal with the recent developments in our financial markets.
+CHRISTOPHER COX: 
+Thank you very much, Mr. Chairman, Senator Shelby and members of the committee, for this opportunity to describe the SEC's actions to deal with the recent developments in our financial markets.
 
-BLUMBERG: This is Chairman Cox testifying before the Senate Committee on Banking, Housing and Urban Affairs. And at this meeting, he's announcing his very first emergency action of this entire economic crisis. In fact, it's the only emergency action he's taken as SEC chairman. It's his first and boldest step onto the national stage as an enforcer. On this day, he's announcing an order aimed at stopping a particular Wall Street practice, a practice with a provocative name.
+BLUMBERG: 
+This is Chairman Cox testifying before the Senate Committee on Banking, Housing and Urban Affairs. And at this meeting, he's announcing his very first emergency action of this entire economic crisis. In fact, it's the only emergency action he's taken as SEC chairman. It's his first and boldest step onto the national stage as an enforcer. On this day, he's announcing an order aimed at stopping a particular Wall Street practice, a practice with a provocative name.
 
 (SOUNDBITE OF ARCHIVED RECORDING)
 
-COX: Today, the commission will issue an order designed to enhance protections against naked short selling in the securities of Fannie Mae and Freddie Mac.
+COX: 
+Today, the commission will issue an order designed to enhance protections against naked short selling in the securities of Fannie Mae and Freddie Mac.
 
-BLUMBERG: You probably don't know what naked short selling is. I certainly didn't. And to understand it, you have to understand its upstanding cousin, regular short selling. Now, regular short selling is perfectly legal and incredibly common, and it's just a way of making money if you think a stock price is about to go down in value. Here's how it works. Say, I think IBM is headed for a fall. I find someone who owns a whole bunch of IBM stock, and I say to that person, can I borrow a thousand shares? The person says, fine, and lends me the shares, which I immediately sell on the market.
+BLUMBERG: 
+You probably don't know what naked short selling is. I certainly didn't. And to understand it, you have to understand its upstanding cousin, regular short selling. Now, regular short selling is perfectly legal and incredibly common, and it's just a way of making money if you think a stock price is about to go down in value. Here's how it works. Say, I think IBM is headed for a fall. I find someone who owns a whole bunch of IBM stock, and I say to that person, can I borrow a thousand shares? The person says, fine, and lends me the shares, which I immediately sell on the market.
 
 Later, maybe a couple of hours or days or weeks, I go back on the market, buy back the thousand shares of IBM and return them to my lender. If I'm right and the stock has gone down, then I've made money. I sold for, say, $10 a share but bought back at $5 a share. I pay the lender a small fee, and I get to keep the difference. It's pretty straightforward and happens millions of times a day on Wall Street. It gets confusing, as things so often do when you get to the naked part. Everyone I talked to initially about this story explained it to me this way. Naked short selling, they said, is the same as regular short selling, except that you don't actually borrow the stock first. But that doesn't make any sense. How can I sell something that I haven't borrowed?
 
-JIM COFFMAN: My name is Jim Coffman. I'm retired from the Securities and Exchange Commission. I used to run investigations in the enforcement division there.
+JIM COFFMAN: 
+My name is Jim Coffman. I'm retired from the Securities and Exchange Commission. I used to run investigations in the enforcement division there.
 
-BLUMBERG: And how long did you work there?
+BLUMBERG: 
+And how long did you work there?
 
-COFFMAN: Twenty-six, almost 27 years.
+COFFMAN: 
+Twenty-six, almost 27 years.
 
-BLUMBERG: OK. This is the thing that I think that's hard for civilians to understand - is when you short sell, you borrow the stock from somebody. You sell it at the current price. You wait for the price to go down. You buy it back, and then you give the stock back to who you borrowed it from. When you naked short sell, you haven't borrowed the stock yet.
+BLUMBERG: 
+OK. This is the thing that I think that's hard for civilians to understand - is when you short sell, you borrow the stock from somebody. You sell it at the current price. You wait for the price to go down. You buy it back, and then you give the stock back to who you borrowed it from. When you naked short sell, you haven't borrowed the stock yet.
 
-COFFMAN: That's right.
+COFFMAN: 
+That's right.
 
-BLUMBERG: What are you selling?
+BLUMBERG: 
+What are you selling?
 
-COFFMAN: You're selling the stock.
+COFFMAN: 
+You're selling the stock.
 
-BLUMBERG: But you don't have the stock.
+BLUMBERG: 
+But you don't have the stock.
 
-COFFMAN: It doesn't matter. It would be no different in many respects than selling a car that you don't own. You get the money. You put it in your pocket, and you don't deliver the car.
+COFFMAN: 
+It doesn't matter. It would be no different in many respects than selling a car that you don't own. You get the money. You put it in your pocket, and you don't deliver the car.
 
-BLUMBERG: Right.
+BLUMBERG: 
+Right.
 
-COFFMAN: In some circumstances, that would be considered - that is selling an item you don't own - would be considered a criminal activity. That's not true in the stock market.
+COFFMAN: 
+In some circumstances, that would be considered - that is selling an item you don't own - would be considered a criminal activity. That's not true in the stock market.
 
-BLUMBERG: (Laughter) And why is that not true in the stock market?
+BLUMBERG: 
+(Laughter) And why is that not true in the stock market?
 
-COFFMAN: To paraphrase a presidential candidate, that's not in my pay grade.
+COFFMAN: 
+To paraphrase a presidential candidate, that's not in my pay grade.
 
-BLUMBERG: (Laughter).
+BLUMBERG: 
+(Laughter).
 
 It turns out that naked short selling is one of those crazy corners of the financial system that when you come upon it for the first time, you can't believe it actually works that way. The whole thing started back when stocks were actual paper slips that stock boys ran back and forth across Wall Street in wheelbarrows. In those days, if I called my broker and I said I wanted to short a stock, my broker would pour himself a scotch and say, I see, old man. Have you borrowed it yet? And I'd say, no, not yet, but when I do, I'll have my boy run it over in a wheelbarrow. And then my broker would say, well, fine then, old chap, I'll go ahead and sell it. Despite the fact that everything is done on computer today, that old system is still more or less in place, meaning it's still possible to call my broker and have him sell shares that I don't own and haven't borrowed and have the money still show up in my account. And whoever bought the phantom shares I sold has those shares credited to their account. Then something called the clearing and settlement system gets stuck with the headache of following up on it all. If the shares that I sold continue not to show up for three days, the settlement and clearing system declares what's called a fail to deliver. The buyer still owns the stock that never really existed, and I still keep the money from the sale of the stock that never really existed. The only one who's harangued is my broker.
 
@@ -212,6 +231,7 @@ We're gonna take a step back from all of that. We're gonna take a step way back.
 We're gonna look at something called Necked Short Selling, which is a piece Alex Bloomberg did on a very arcane, odd, and
 maybe sensical, maybe not sensical part of the financial system. He did it for This American Life.
 He's a contributing editor with us, and we think he's just great.
+
 The chairman of the SEC, the Securities and Exchange Commission, is often referred to as Wall Street's top cop.
 And this past year, a year in which the global financial system seemed perpetually on the verge of collapse, a collapse due in large part
 to complex, unprecedented, and as we now know, extremely risky financial products created and sold on Wall Street,
@@ -247,14 +267,20 @@ which is why, rather than let that happen, the government took them over last we
 But back in July, when this story takes place, the failure of Fannie and Freddie had just started to seem like a possibility.
 Their stock price was tanking, had lost over 60% of its value in just one week,
 and so the government was trying to figure out what to do.
-Chairman Cox. Thank you very much, Mr. Chairman,
+
+Chairman Cox. 
+
+Thank you very much, Mr. Chairman,
 Senator Shelby, members of the committee, for this opportunity to describe the SEC's actions to deal with the recent developments in our financial markets.
+
 This is Chairman Cox testifying before the Senate Committee on Banking, Housing and Urban Affairs.
 At this meeting, he's announcing his very first emergency action of this entire economic crisis.
 In fact, it's the only emergency action he's taken as SEC Chairman.
 It's his first and boldest step onto the national stage as an enforcer.
 On this day, he's announcing an order aimed at stopping a particular Wall Street practice, a practice with a provocative name.
+
 Today, the Commission will issue an order designed to enhance protections against naked short selling in the securities of Fannie Mae and Freddie Mac.
+
 You probably don't know what naked short selling is.
 I certainly didn't.
 And to understand it, you have to understand its upstanding cousin, regular short selling.
@@ -274,27 +300,41 @@ Everyone I talked to initially about this story explained it to me this way.
 Naked short selling, I said, is the same as regular short selling, except that you don't actually borrow the stock first.
 But that doesn't make any sense.
 How can I sell something that I haven't borrowed?
+
 My name is Jim Kaufman.
 I'm retired from the Securities and Exchange Commission.
 I used to run investigations in the Enforcement Division there.
+
 And how long did you work there?
+
 26, almost 27 years.
+
 Okay.
 This is the thing that I think that's hard for civilians to understand, is when you short sell, you borrow the stock from somebody, you sell it at the current price, you wait for the price to go
 down, you buy it back, and then you give the stock back to who you borrowed it from.
 When you naked short sell, you haven't borrowed the stock yet.
+
 That's right.
+
 What are you selling?
+
 You're selling the stock.
+
 But you don't have the stock.
+
 It doesn't matter.
 It would be no different in many respects than selling a car that you don't own.
 You get the money, you put it in your pocket, and you don't deliver the car.
+
 Right.
+
 In some circumstances, that would be considered, that is, selling an item you don't own would be considered a criminal activity.
 That's not true in the stock market.
+
 And why is that not true in the stock market?
+
 To paraphrase a presidential candidate, that's not my pay grade.
+
 It turns out that naked short selling is one of those crazy corners of the financial system, that when you come upon it for the first time, you can't believe it actually works that way.
 The whole thing started back when stocks were actual paper slips that stock boys ran back and forth across Wall Street in wheelbarrows.
 In those days, if I called my broker and I said I wanted to short a stock, my broker would pour himself a scotch and say, I see old man, have you borrowed it yet?
