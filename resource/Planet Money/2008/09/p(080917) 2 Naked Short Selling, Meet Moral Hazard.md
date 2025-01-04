@@ -29,6 +29,7 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 			- a bit different than regular short selling, profiting from downward movement of stock
 			- first borrow stock, sell those borrowed stock, after downward movement, buying again at lower price, and then return the stock.
 			- naked short sell is the same except skipping the borrowing part.
+			- like selling a car without having one.
 
 ----
 # Article
