@@ -27,9 +27,21 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- Chairman Cox testifying at the Senate Committee on Banking, Housing and Urban Affairs announcing his first and only emergency action as SEC chairman.
 		- order to enhance protection against naked short selling
 			- a bit different than regular short selling, profiting from downward movement of stock
-			- first borrow stock, sell those borrowed stock, after downward movement, buying again at lower price, and then return the stock.
-			- naked short sell is the same except skipping the borrowing part.
-			- like selling a car without having one.
+			- regular short selling
+				- 1 borrow stock, 
+				- 2 sell those borrowed stock, 
+				- after downward movement, 
+				- 4 buying again at lower price, 
+				- 5 and then return the stock.
+			- naked short sell is the same except skipping the borrowing part,
+				- 1 not borrowing stock, 
+				- 2 selling none existing stock, 
+				- after downward movement, 
+				- 4 buying other stock at lower price, 
+				- 5 and then deliver the stock to the recipient in no 2.
+			- like selling an item you don't own
+			- it's a relic of the past of stock characteristic
+			- about the difficulty to transfer rights that making 'not providing product at the time of sale' more permissible
 
 ----
 # Article
