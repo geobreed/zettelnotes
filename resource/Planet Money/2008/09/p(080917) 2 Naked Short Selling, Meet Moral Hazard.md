@@ -42,6 +42,7 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 			- like selling an item you don't own
 			- it's a relic of the past of stock characteristic
 			- about the difficulty to transfer rights that making 'not providing product at the time of sale' more permissible
+			- there is still a limit to delay providing the stock sold 
 
 ----
 # Article
