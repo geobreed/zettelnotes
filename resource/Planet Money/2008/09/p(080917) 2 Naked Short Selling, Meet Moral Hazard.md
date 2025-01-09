@@ -42,7 +42,19 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 			- like selling an item you don't own
 			- it's a relic of the past of stock characteristic
 			- about the difficulty to transfer rights that making 'not providing product at the time of sale' more permissible
-			- there is still a limit to delay providing the stock sold 
+			- there is still a limit to delay providing the stock sold, about 13 days.
+			- if broker still doesn't provide, they'll get nasty calls
+			- but most fail, the majority of that, do eventually clear
+			- the one that don't are a tiny fraction of the total market
+			- in 20+ years of Jim Coffman in SEC, those cases are a fringe activity and doesn't make sense by itself responsible for the collapse of multibillion dollar companies like FMFM.
+			- there's still exist in FMFM stock but not the primary cause.
+		- the protection through emergency order is unusual because the ban is not across the board but only for 19 companies.
+		- it was only a temporary ban, less than a month
+	- Lynn Turner, a 25+ years SEC chief accountant compare it to a sideshow of naked short selling because there were other, bigger issue out there.
+		- the naked short selling is already illegal from regulation in 2004 that broker need to have commitment to borrow shares before selling
+		- SEC can investigate all those fails to deliver cases
+		- there are other ways to tighten the regulations, maybe the same day delivery
+		- if naked short selling is bad why protect only 19 companies
 
 ----
 # Article
