@@ -50,11 +50,30 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 			- there's still exist in FMFM stock but not the primary cause.
 		- the protection through emergency order is unusual because the ban is not across the board but only for 19 companies.
 		- it was only a temporary ban, less than a month
-	- Lynn Turner, a 25+ years SEC chief accountant compare it to a sideshow of naked short selling because there were other, bigger issue out there.
-		- the naked short selling is already illegal from regulation in 2004 that broker need to have commitment to borrow shares before selling
-		- SEC can investigate all those fails to deliver cases
-		- there are other ways to tighten the regulations, maybe the same day delivery
-		- if naked short selling is bad why protect only 19 companies
+		- Lynn Turner, a 25+ years SEC chief accountant compare it to a sideshow of naked short selling because there were other, bigger issue out there.
+			- the naked short selling is already illegal from regulation in 2004 that broker need to have commitment to borrow shares before selling
+			- SEC can investigate all those fails to deliver cases
+			- there are other ways to tighten the regulations, maybe the same day delivery
+			- if naked short selling is bad why protect only 19 companies
+			- when asked for reasons, redirected to op-ed:
+				- "the emergency order is not a response to unbridled naked short selling, which so far has not occurred. Rather, it is intended as a preventative step to help restore market confidence at a time when that is sorely needed."
+				- singling out 19 companies from already illegal practice that hasn't occurred yet.
+			- feels like not so much protecting the free market, but to protect specific companies and therefore not protecting free market.
+		- another way to look is that these 19 is so central to the global financial system that needs special treatment.
+			- but it's inconsistent with the treatment in last couple of years so making this too little too late to divert from free market
+				- can make the stock market have the current and real information. no hiding damaging info from the balance sheet.
+				- at the time SEC didn't require them to disclose that information.
+			- other problem is the credit rating agencies, the one who rates those securities (specifically for our case, CDO)
+				- Wall Street want high rating for their CDO to mark them as safe for investor.
+				- those CDO is not safe, and they can switch to other agency. meaning a huge incentives to give a high rating.
+	- in springtime, Chairman Cox being questioned by the senator Shelby (alabama) and Jack Reed (rhode island)
+		- they asked if Cox would like to have more power to regulate credit rating agency
+		- and Cox declined
+		- Reed also asked if Cox need more money for enforcement
+		- again Cox declined
+	- Shelby usually pro business but talking about stronger regulation and enforcement and arguing with the chief regulator
+	- Cox's view is that the market will correct itself and credit rating agencies will go out of business and more trusting the market than the government, except for one time. the protection for 19 companies
+	- And the end after the temporary protection, those companies actually lower than before and FMFM collapse
 
 ----
 # Article
