@@ -4,6 +4,9 @@ date: 20080917
 tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
+Naked Short Selling is [[Promise Delivery Delay]]
+
+[[Moral Hazard Situation]] goes from econ 101 to public consciousness because of FMFM bailout and Lehman Brothers collapse. Apparently AIG also. AIG is going to be saved because they became too big too fail from Credit Default Swap
 
 ----
 # Points
@@ -74,6 +77,20 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 	- Shelby usually pro business but talking about stronger regulation and enforcement and arguing with the chief regulator
 	- Cox's view is that the market will correct itself and credit rating agencies will go out of business and more trusting the market than the government, except for one time. the protection for 19 companies
 	- And the end after the temporary protection, those companies actually lower than before and FMFM collapse
+- moral hazard
+	- federal government might save AIG (market up), but FED chairman said that concept would violate the moral hazard concept (market down)
+	- a concept more suitable to bank and financial institution
+	- that a bank should take risks and the burden also the benefit of those risks
+	- moral hazard is when a bank get the benefit of the risks but not the burden
+	- incentivize taking on bigger risks, reckless risks, or even dumber risks
+	- the bailout makes like the government can be forced to take risk
+	- in FMFM case, they implicitly make the creation by the government as their basis for moral hazard.
+	- a private company that gets the benefit of any risks
+	- even if the government doesn't guarantee to take FMFM risk's burden. FMFM mindset and beliefs making them take too much dumb risk, that eventually they became too big to fail and taking the global financial system hostage.
+	- FMFM bailout bring forth moral hazard, but Lehman brothers collapse bring it down once more. but up again on AIG
+	- AIG is an insurance company, not auto or life but big on bonds and financial instruments
+	- AIG issued insurance, but don't actually have the money.
+	- the name is Credit Default Swap, not actually insurance but acts like insurance.
 
 ----
 # Article
