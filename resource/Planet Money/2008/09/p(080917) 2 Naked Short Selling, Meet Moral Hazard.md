@@ -4,7 +4,10 @@ date: 20080917
 tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
-Naked Short Selling is [[Promise Delivery Delay]]
+In July with FMFM worsening and lost 60% value, SEC chairman Christopher Cox testify on Senate about protection order of 19 companies from [[Naked Short Selling]] in less than a month period. Banning an already illegal practices. Order to protect only selected companies. Only a temporary ban. An action that deviate from Cox usual character to let the market regulate itself.
+
+
+
 
 [[Moral Hazard Situation]] goes from econ 101 to public consciousness because of FMFM bailout and Lehman Brothers collapse. Apparently AIG also. AIG is going to be saved because they became too big too fail from Credit Default Swap
 
