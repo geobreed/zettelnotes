@@ -1,15 +1,12 @@
 ---
-title: 0005 (080917) Naked Short Selling, Meet Moral Hazard
+title: (080917) Naked Short Selling, Meet Moral Hazard
 date: 20080917
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
-In July with FMFM worsening and lost 60% value, SEC chairman Christopher Cox testify on Senate about protection order of 19 companies from [[Naked Short Selling]] in less than a month period. Banning an already illegal practices. Order to protect only selected companies. Only a temporary ban. An action that deviate from Cox usual character to let the market regulate itself.
+In July with FMFM worsening and lost 60% value, SEC chairman Christopher Cox testify on Senate about protection order of 19 companies from [[Naked Short Selling]] for less than a month period. Banning an already illegal practices. A practices that has many more effective alternative ways to address if really want to eliminate. There's also many other practices that more damaging to market, like conflict of interest of credit rating agency rate for CDO. Only for few selected companies. Only a temporary ban. An action that deviate from Cox usual character to let the market regulate itself. And in the end, after the protection those 19 companies has lower stock price than before the order.
 
-
-
-
-[[Moral Hazard Situation]] goes from econ 101 to public consciousness because of FMFM bailout and Lehman Brothers collapse. Apparently AIG also. AIG is going to be saved because they became too big too fail from Credit Default Swap
+[[Moral Hazard Situation]] goes from econ 101 to public consciousness because of FMFM bailout and Lehman Brothers collapse. Apparently AIG also. AIG is going to be saved because they became too big too fail from Credit Default Swap. Not insurance but acts like insurance.
 
 ----
 # Points
