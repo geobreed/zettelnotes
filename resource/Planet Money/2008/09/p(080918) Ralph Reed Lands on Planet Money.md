@@ -24,11 +24,18 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 				- we at post 9/11, we lost 1% GDP, we lost 600,000 jobs, 
 				- so Greenspan and the Federal Reserve want to make it easier to get credit
 				- so after inflation, money was free.
+				- easy money from the Fed
 			- 2. Federal Gov stated policy goal is to increase homeownership
 				- personally is a good goal, 
 				- 85% average family wealth is in its home, 
 				- the first rung to achieve financial self-sufficiency and nest egg to retirement. where equity goes
-			- 3. 
+				- policy that helped fuel the subprime market
+			- 3. Equity market either implode or stagnant from internet bubble pop in april 2000
+				- people money went from equity market and went to real estate, other commodities, other tangible properties
+				- so there's many people investor - not homeowner, who buys pre-construction homes, lots condos and flipping them, turning it into gold rush.
+				- wealth fleeing into the real estate sector
+			- and the effect seen in this crisis
+	- in democrat economist and republican economist they almost all have the same interest and agreement on economic issues, perhaps 98% of them. but why in political process 
 
 
 ----
