@@ -23,7 +23,12 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 			- 1. is Easy Money Policy at the Fed. 
 				- we at post 9/11, we lost 1% GDP, we lost 600,000 jobs, 
 				- so Greenspan and the Federal Reserve want to make it easier to get credit
-				- so after inflation
+				- so after inflation, money was free.
+			- 2. Federal Gov stated policy goal is to increase homeownership
+				- personally is a good goal, 
+				- 85% average family wealth is in its home, 
+				- the first rung to achieve financial self-sufficiency and nest egg to retirement. where equity goes
+			- 3. 
 
 
 ----
