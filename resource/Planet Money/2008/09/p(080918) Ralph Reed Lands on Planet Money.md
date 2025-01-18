@@ -17,6 +17,13 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- that is the perspective of incumbent party whether accurate or inaccurate, to be the one in charge of the economy.
 		- but McCain had some success to make the economy topic to be about tax issue that redirect to the lesson about crisis and contrast it with opposition's policy
 	- in political landscape, how you reconcile ideology and economics
+		- there is a debate whether this is an empirical science like, is there a literal law of gravity.
+		- there's also people who is hardcore adherents of the Laffer Curve, that raising taxes leads to lower GDP, lower job creation and so forth
+		- but this crisis is "a perfect storm of unintended consequences" of what were, at the time, viewed by almost everyone, with few exceptions, as sound objectives
+			- 1. is Easy Money Policy at the Fed. 
+				- we at post 9/11, we lost 1% GDP, we lost 600,000 jobs, 
+				- so Greenspan and the Federal Reserve want to make it easier to get credit
+				- so after inflation
 
 
 ----
