@@ -36,7 +36,14 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 				- wealth fleeing into the real estate sector
 			- and the effect seen in this crisis
 	- in democrat economist and republican economist they almost all have the same interest and agreement on economic issues, perhaps 98% of them. but why in political process it looks like the two parties doesn't see eye to eye
-		- you
+		- there is a real difference in the two parties campaigning
+	- a lot of both have in agreement, but the public rhetoric totally different, so if i hired you and says that we both see the world the same way what do you say
+		- i'll compare both of your record and i can show you chose different 95%
+	- if i want to focus that in political scene you can't run 98% agreement campaign
+		- i think you can't run an inauthentic and untrue campaign
+		- and we can disagree whether there is a real policy differences between candidates
+		- don't invent a difference if there is none, but if there's difference, what's the point in denying it
+	- 
 
 
 ----
