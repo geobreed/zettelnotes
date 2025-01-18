@@ -15,7 +15,8 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 - Ralph Reed, Republican strategist, former head of the Christian Coalition, interviewed about crisis
 	- about the incumbent republican will be "defending party" on election topic and democrat can ride the "change" narrative.
 		- that is the perspective of incumbent party whether accurate or inaccurate, to be the one in charge of the economy.
-		- but McCain had some success to make the economy topic to be about tax issue that redirect to the lesson about crisis and 
+		- but McCain had some success to make the economy topic to be about tax issue that redirect to the lesson about crisis and contrast it with opposition's policy
+	- in political landscape, how you reconcile ideology and economics
 
 
 ----
