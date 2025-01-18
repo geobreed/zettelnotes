@@ -35,7 +35,8 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 				- so there's many people investor - not homeowner, who buys pre-construction homes, lots condos and flipping them, turning it into gold rush.
 				- wealth fleeing into the real estate sector
 			- and the effect seen in this crisis
-	- in democrat economist and republican economist they almost all have the same interest and agreement on economic issues, perhaps 98% of them. but why in political process 
+	- in democrat economist and republican economist they almost all have the same interest and agreement on economic issues, perhaps 98% of them. but why in political process it looks like the two parties doesn't see eye to eye
+		- you
 
 
 ----
