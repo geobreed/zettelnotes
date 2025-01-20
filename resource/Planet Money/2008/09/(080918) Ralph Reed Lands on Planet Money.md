@@ -1,8 +1,8 @@
 ---
-title: 0006 (080918) Ralph Reed Lands on Planet Money
+title: (080918) Ralph Reed Lands on Planet Money
 date: 20080918
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
 
 an interview about the crisis with Ralph Reed, a republican strategist.
@@ -16,10 +16,9 @@ Some really believe in [[Laffer Curve Theory]]. But this crisis is a perfect sto
 
 Of course the incentive structure on financial instrument of housing assets also plays a part.
 
-On political campaign [[Focus Skewed Biases]] can make 2 parties to be a total opposite but it doesn't mean that it is inauthentic or untrue. Need to be careful about focusing and not exaggerating.
+On political campaign [[Focus Skewed Biases]] can make 2 parties to be a total opposite but it doesn't mean that it is inauthentic or untrue. Need to be careful about focusing and not exaggerating. 
 
-
-
+And on post crisis policy, one that virtually certain is increase capital requirement that will adjust the risk taking incentive and also might hamper progress.
 
 ----
 # Points
