@@ -9,12 +9,10 @@ an interview about the crisis with Ralph Reed, a republican strategist.
 
 The defending party in election can be burdened with a perspective of responsibility to the crisis. One way is to [[Admit, Learn, Contrast]].
 
-Some really believe in [[Laffer Curve Theory]]
+Some really believe in [[Laffer Curve Theory]]. But this crisis is a perfect storm of unintended consequences
 
 
-A theory about ratio of tax revenue and tax rate to be levied. That there is a curve that can chart and maximizes government tax revenue. Even though no consensus on what shape the curve is.
 
-Popularized by supply side economist Arthur Laffer that above certain threshold increasing the tax rate only decreasing government tax revenue. 
 
 
 ----
