@@ -16,6 +16,8 @@ Some really believe in [[Laffer Curve Theory]]. But this crisis is a perfect sto
 
 Of course the incentive structure on financial instrument of housing assets also plays a part.
 
+On political campaign [[Focus Skewed Biases]] can make 2 parties to be a total opposite but it doesn't mean that it is inauthentic or untrue. Need to be careful about focusing and not exaggerating.
+
 
 
 
