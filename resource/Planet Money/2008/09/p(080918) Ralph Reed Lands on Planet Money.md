@@ -9,8 +9,12 @@ an interview about the crisis with Ralph Reed, a republican strategist.
 
 The defending party in election can be burdened with a perspective of responsibility to the crisis. One way is to [[Admit, Learn, Contrast]].
 
-Some really believe in [[Laffer Curve Theory]]. But this crisis is a perfect storm of unintended consequences
+Some really believe in [[Laffer Curve Theory]]. But this crisis is a perfect storm of [[Unintended Consequences Outcomes]]. There's 3 big factors:
+1. Easy money from Fed, an easier to lend from post 9/11
+2. Fed policy to increase homeownership, easier to get mortgage
+3. Equity market move from internet bubble, wealth fleeing to real estate
 
+Of course the incentive structure on financial instrument of housing assets also plays a part.
 
 
 
