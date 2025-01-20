@@ -5,6 +5,18 @@ tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
 
+an interview about the crisis with Ralph Reed, a republican strategist.
+
+The defending party in election can be burdened with a perspective of responsibility to the crisis. One way is to [[Admit, Learn, Contrast]].
+
+Some really believe in [[Laffer Curve Theory]]
+
+
+A theory about ratio of tax revenue and tax rate to be levied. That there is a curve that can chart and maximizes government tax revenue. Even though no consensus on what shape the curve is.
+
+Popularized by supply side economist Arthur Laffer that above certain threshold increasing the tax rate only decreasing government tax revenue. 
+
+
 ----
 # Points
 
@@ -43,7 +55,36 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- i think you can't run an inauthentic and untrue campaign
 		- and we can disagree whether there is a real policy differences between candidates
 		- don't invent a difference if there is none, but if there's difference, what's the point in denying it
-	- 
+	- from the conservative side, what do you want to see as a new regulation on Wall Street
+		- the specifics is still developing currently, though we do need more regulation more stricter control
+		- but i think the increase capital requirement is a virtual certainty
+		- the whole point of FMFM was to keep mortgage market liquid by taking mortgages, bundling them and securities them and market them
+		- so that FMFM can keep loaning out money.
+		- and increasing capital requirement can stifle the rate of loaning
+		- so be careful that the regulation don't kill the golden egg goose
+		- as Wall Street Journal pointed out, 
+			- if Federal Reserve giving money that, after inflation, is essentially free, you eliminate the moral hazard of risk-taking
+			- so the people will act rationally
+			- if home equity loan on your house $100,000 at 1.5% 
+			- than from that money you buy condo in South Florida, which increasing in value at 10 to 15%
+			- people will act rational, they'll take the money and go
+- qna
+	- where is all this bailout money coming from? is it adding to our debt?
+		- most is not adding to our debt
+		- The Federal Reserve 
+			- is not technically part of the U.S. government
+			- has a balance sheet
+			- has its own money
+			- it's responsible for the U.S. government money 
+		- but maybe in the future the Fed need new money from the government and eventually added to our debt
+	- all the billions that were lost in the subprime shenanigans and in stock market this week, where did they go? if global pool of money shifting, who's getting it, and how do we take it back?
+		- there is less value in the world, and that value is denominated by money
+		- there are people getting rich, there are people that making bets against the success of housing bubble and they've made money
+		- but all combined, there is less value, a lot less
+	- could you just elaborate what things will look like 5 to 10 years down the road
+		- every recession feels awful
+		- the worst damages is to confidence and belief in the system itself
+		- this is a time to question the fundamentals of our financial system
 
 
 ----
