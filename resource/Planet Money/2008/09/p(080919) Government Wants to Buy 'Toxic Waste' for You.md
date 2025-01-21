@@ -8,7 +8,23 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Points
 
-- 
+- september 19th
+- Raghu Rajan, chief economist in International Monetary Fund, professor at Graduate School of Business at University of Chicago.
+	- Everybody wants to know from where the money for the bailout coming? The trillion dollars for super bailout and buy a lot of bad assets, Whose money is that? Where's the source?
+		- we don't know the form of the bailout, can be buyout of asset, or capital infusions
+		- but essentially it's the taxpayer money which is going to be invested hopefully not too high price
+		- and hoping the asset price recover and turn a profit
+		- it's an involuntary investment in Wall Street
+	- 'not too high a price' means 'not too high a risk'?
+		- well both, so far there is 2 proposal
+			- 1. government buys the toxic waste on the bank balance sheets
+			- 2. government buy shares in these firms directly
+		- in both scenario there is the question 'at what price?'
+		- if government overpays, than it means it's a gift from taxpayer to Wall Street
+		- and if holding these assets or shares over time and recover the value, there's profit on behalf of the taxpayer.
+	- it seems that if an object if worth less and the government buys it for anything, it's already paid more than it was worth isn't it?
+		- and there's the issue, some assets currently have no market, no seller no buyer
+		- but there is still some value, except nobody
 
 ----
 # Article
