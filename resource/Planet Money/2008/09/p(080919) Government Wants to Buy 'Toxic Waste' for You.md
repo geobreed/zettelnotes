@@ -37,7 +37,20 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- buying from open market can invite speculator to buy up the assets before dumping it, especially if the government set higher price than market value
 		- so there is a possibility of danger, the level of government involvement and their limit, a hesitant move can be taken advantage by speculators
 		- people analogize with Resolution Trust Corporation, an entity by the government to take over failed saving and loans corporations in 1980s
-		- but in that scenario 
+		- but in that scenario, the government owned those association because they gone bust and government is the insurer, the government doesn't have to set price and only have to sell them slowly over time
+		- in this scenario, the government have to buy assets and need to answer a lot of question, how much buying, from whom, at what price.
+	- do you see a smart way for the government to do this?
+		- the real problem in the industry is lack of capital
+		- and we need to figure out how to recapitalize it
+		- the fear is that the credit contraction because of the shortage of capital and then creating a recession
+		- there is 3 ways
+			- 1 government recapitalizes
+			- 2 find new shareholders, sovereign wealth funds, private equity to put capital
+			- 3 ask original shareholders to put up more capital
+		- the 1st option is really should be the last thing to try
+		- maybe because election year increase the motivation for action taking, the 1st option become the 1st choice
+		- 2nd option is a bit explored with china and korea
+		- but the 3rd option we haven't tried
 
 ----
 # Article
@@ -178,7 +191,10 @@ In that situation, the government effectively owned these savings and loans asso
 And then the question is, how much do you buy? Who do you buy from? Where do you buy? And none of those questions have been answered yet, and I don't know. We'll know at the end of this weekend what the answers are.
 
 **(Laura Conaway):**
-Do you see smart ways for the government to do this? Well, I mean, my own personal view is that the real problem we have in the industry is a shortage of capital. And the real question we should be pondering is, how do we recapitalize these financial firms, making sure that it's not...
+Do you see smart ways for the government to do this? 
+
+**(Raghu Rajan):**
+Well, I mean, my own personal view is that the real problem we have in the industry is a shortage of capital. And the real question we should be pondering is, how do we recapitalize these financial firms, making sure that it's not...
 
 **(Adam Davidson):**
 Hey, Laura? Sorry, I'm so sorry. Ellen keeps calling me. I think I just...
