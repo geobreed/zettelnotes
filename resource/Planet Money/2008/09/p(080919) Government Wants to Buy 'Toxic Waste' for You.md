@@ -24,7 +24,12 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- and if holding these assets or shares over time and recover the value, there's profit on behalf of the taxpayer.
 	- it seems that if an object if worth less and the government buys it for anything, it's already paid more than it was worth isn't it?
 		- and there's the issue, some assets currently have no market, no seller no buyer
-		- but there is still some value, except nobody
+		- but there is still some value, except nobody knows
+		- some people can say that the current market value is zero
+		- but some can say people are scared, and if the government come and buy the stuff, they can create support price
+		- and if its low enough, the government will make money when these assets market recovers
+	- what is the position among economists, does they agrees this is good or is it fairly hot debated right now?
+		- there is definitely 
 
 ----
 # Article
