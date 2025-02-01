@@ -30,7 +30,14 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- and if its low enough, the government will make money when these assets market recovers
 	- what is the position among economists, does they agrees this is good or is it fairly hot debated right now?
 		- there is definitely sense that something need to be done
-		- queasy feeling about government buying company and interfering with market and setting prices
+		- queasy feeling about government buying company and interfering with market and setting prices with worries of mistakes on each
+		- other concerns is if the current path is the wrong path to take and ended up just wasting taxpayer money
+	- there is hedge fund investors that sees opportunities to make a fortune from the government
+		- it really matters how it was structured, buy directly to firm or buy on the open market
+		- buying from open market can invite speculator to buy up the assets before dumping it, especially if the government set higher price than market value
+		- so there is a possibility of danger, the level of government involvement and their limit, a hesitant move can be taken advantage by speculators
+		- people analogize with Resolution Trust Corporation, an entity by the government to take over failed saving and loans corporations in 1980s
+		- but in that scenario 
 
 ----
 # Article
