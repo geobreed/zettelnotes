@@ -29,7 +29,8 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- but some can say people are scared, and if the government come and buy the stuff, they can create support price
 		- and if its low enough, the government will make money when these assets market recovers
 	- what is the position among economists, does they agrees this is good or is it fairly hot debated right now?
-		- there is definitely 
+		- there is definitely sense that something need to be done
+		- queasy feeling about government buying company and interfering with market and setting prices
 
 ----
 # Article
