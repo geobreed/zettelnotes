@@ -50,7 +50,12 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- the 1st option is really should be the last thing to try
 		- maybe because election year increase the motivation for action taking, the 1st option become the 1st choice
 		- 2nd option is a bit explored with china and korea
-		- but the 3rd option we haven't tried
+		- but the 3rd option we haven't tried and Goldman Sachs is better equipped sense wise for buying strange assets than some government bureaucrat
+		- my proposal is 2 step:
+			- 1 ask all to stop paying dividends to stop leakage of capital
+			- 2 raise more capital from the shareholders, a rights offering is an effective way
+	- the current message from the government is that the firms can't save itself but you don't believe it
+		- yes, because we haven't even doing the coercion
 
 ----
 # Article
