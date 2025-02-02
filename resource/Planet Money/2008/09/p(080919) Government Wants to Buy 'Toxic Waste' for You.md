@@ -8,7 +8,7 @@ an interview about the crisis with Raghu Rajan, a chief economist in IMF.
 
 At current time, september 19th, we still have no detail of the bailout. But essentially the bailout comes from the taxpayer money with the hope that the bailout will be a profitable investment. So far the proposal is for government buying the toxic assets or the firms shares. In both scenario the price point is important, if too low the bailout will fail, if too high then just giving free money away.
 
-At current time, 
+At current time, with no market activity the assets looks like worthless. And it does worthless in market value perspective. But from intrinsic value of the assets itself still has some value, only the market does not know at what price it currently at. 
 
 ----
 # Points
