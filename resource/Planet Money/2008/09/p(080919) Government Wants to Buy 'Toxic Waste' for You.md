@@ -4,6 +4,11 @@ date: 20080919
 tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
+an interview about the crisis with Raghu Rajan, a chief economist in IMF.
+
+At current time, september 19th, we still have no detail of the bailout. But essentially the bailout comes from the taxpayer money with the hope that the bailout will be a profitable investment. So far the proposal is for government buying the toxic assets or the firms shares. In both scenario the price point is important, if too low the bailout will fail, if too high then just giving free money away.
+
+At current time, 
 
 ----
 # Points
