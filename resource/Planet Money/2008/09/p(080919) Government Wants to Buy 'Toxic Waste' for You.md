@@ -56,6 +56,27 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 			- 2 raise more capital from the shareholders, a rights offering is an effective way
 	- the current message from the government is that the firms can't save itself but you don't believe it
 		- yes, because we haven't even doing the coercion
+		- The signal of this action is different than the government, if Citibank all capital to shareholder, they will be scared
+		- But if government ordered them to the signal is different
+		- But for the election year it’s all comforting because there’s something to be done and those bad incentives and moral hazard is postponed
+		- Politician sees short term horizon, but public need to sees long term problem
+		- Like we’re not bailing out Lehman brothers, a good stances
+		- But bailing aig
+	- the taxpayer money what is the eventual effect on the economy, maybe we get profit off this bail out, but diverting from roads schools troops 
+		- the government can issues more debt and not cutting budget
+		- But eventually there is choices to make
+	- What’s this got to do with the price of milk
+		- Nothing
+		- But it could eventually affect milk’s price if the economy collapse
+		- But it’s a long way from that
+	- What are sort of trickle down or ripple out effects
+		- If the government succeed refloating the financial system than there won’t be too much of an effect on access to loans
+		- If they fail then loans will be harder because of credit crunch and eventually impact ordinary citizen
+	- feels like the hypothetical direction taken is missing a couple opportunities like self capitalizing and other investment avenues
+		- Indeed, but hindsight is 20 20
+		- There is regulatory lapse like forcing to recapitalize
+		- But many of us including academics thought this is a crisis but not as deep as now
+
 
 ----
 # Article
