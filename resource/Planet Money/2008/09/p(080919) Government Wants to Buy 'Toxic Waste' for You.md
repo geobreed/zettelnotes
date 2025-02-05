@@ -8,9 +8,9 @@ an interview about the crisis with Raghu Rajan, a chief economist in IMF.
 
 At current time, september 19th, we still have no detail of the bailout. But essentially the bailout comes from the taxpayer money with the hope that the bailout will be a profitable investment. So far the proposal is for government buying the toxic assets or the firms shares. In both scenario the price point is important, if too low the bailout will fail, if too high then just giving free money away.
 
-Financial crisis is undeniably a [[Value Altering Condition]]. At current time, with no market activity the assets looks like worthless. And it does worthless in market value perspective. But from intrinsic value of the assets itself still has some value, only the market does not know at what price it currently at. But some can say that the market need the government to be a strong party to dictate a price support and jumpstart market activity.
+Financial crisis is undeniably a [[Value Altering Condition]]. At current time, with no market activity the assets looks like worthless. And it does worthless in market value perspective. But from intrinsic value of the assets itself still has some value, only the market does not know at what price it currently at. But some can say that the market need the government to be a strong party to dictate a price support and jumpstart market activity. Even though many economist agree that something need to be done, government setting prices or owning company does feels bad.
 
-
+Different than Resolution Trust Corporation that taking over failed saving and loans, the government act as an insurer, not setting price and only need to sell slowly over time.
 
 
 
