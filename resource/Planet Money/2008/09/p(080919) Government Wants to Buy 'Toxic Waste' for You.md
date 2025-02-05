@@ -12,7 +12,7 @@ Financial crisis is undeniably a [[Value Altering Condition]]. At current time, 
 
 Different than Resolution Trust Corporation that taking over failed saving and loans, the government act as an insurer, not setting price and only need to sell slowly over time.
 
-
+Some have think of a smart way for the government to handle this, force the firms shareholder to recapitalize. The government doesn't need to set price or own company and the shareholder has a reason to recapitalize.
 
 
 
