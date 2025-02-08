@@ -14,7 +14,7 @@ Different than Resolution Trust Corporation that taking over failed saving and l
 
 Some have think of a smart way for the government to handle this, one of that is force the firms shareholder to recapitalize. The government doesn't need to set price or own company and the shareholder has a reason to recapitalize.
 
-[[Message Through Action]] from the government side in election time to be seen that they doing something. But
+[[Message Through Action]] from the government side in election time to be seen that they doing something. But ending up sending the message that the firm can't save itself. 
 
 
 
