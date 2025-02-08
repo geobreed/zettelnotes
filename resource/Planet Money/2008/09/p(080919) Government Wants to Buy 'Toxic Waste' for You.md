@@ -16,9 +16,7 @@ Some have think of a smart way for the government to handle this, one of that is
 
 [[Message Through Action]]
 
-A declaration of intention can be conveyed through initiatives taken. Furthermore, the message conveyed will have more strength with the work already done instead of just a gesture.
 
-However, if the message isn't clear enough, there is a risk of [[Death Of Author]] and the message being misinterpreted by the recipient.
 
 
 
