@@ -1,8 +1,8 @@
 ---
-title: 080919)t Government Wants to Buy 'Toxic Waste' for You
+title: (080919) Government Wants to Buy 'Toxic Waste' for You
 date: 20080919
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
 an interview about the crisis with Raghu Rajan, a chief economist in IMF.
 
