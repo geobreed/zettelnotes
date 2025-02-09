@@ -26,7 +26,11 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 				- restart housing market simultaneously saving Wall Street and Main Street
 	- when public hear the Treasury bring $700 billion to buy bad assets, what they hear is giving money to a bunch of people who already made a profit off of them and cause this whole mess in the first place, how do you deal with that?
 		- there is a couple of issues here, if we analyze the root of all this, the subprime lending market
-			- 1. there is a requirement under Community Reinvestment Act, to aggressively lend to neighborhoods and outreach loans
+			- there is a requirement under Community Reinvestment Act, to aggressively lend to neighborhoods and outreach loans, especially low and moderate-income neighborhoods
+			- there's a large degree of culpability in the industry
+				- real estate brokers to mortgage brokers to financial institutions
+				- no one stopped
+	- this event 
 
 ----
 # Article
