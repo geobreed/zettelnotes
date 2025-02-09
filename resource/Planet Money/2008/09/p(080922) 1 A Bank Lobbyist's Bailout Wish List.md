@@ -8,7 +8,11 @@ An interview with Scott Talbott a lobbyist from the financial industry.
 
 Their position is support the White House Bill for the Treasury to buy the toxic assets and save the financial industry. Take some partial culpability with the actions of Community Reinvestment Act that require them to make aggressive lending to low and moderate income. But the incentive is for the bank is to not see the consequences and eventually set the risk too low of a price. 
 
-[[The Prime Mover]]
+The argument that 2008 financial crisis have [[The Prime Mover]] is not persuasive. There is a lot of regulations that was conceived by good intention and was considered smart ended up become a mistake when paired with bad incentives.
+
+Financial industry does see that they are seen by the public that they will get [[The Golden Parachute]]
+
+
 
 
 
