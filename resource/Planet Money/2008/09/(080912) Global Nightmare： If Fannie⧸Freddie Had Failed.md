@@ -21,7 +21,7 @@ That FMFM situation has an inevitable end of collapse from the beginning. An exa
 	- the gains are privatized but the risk is nationalized to taxpayer
 	- bad risk management on FMFM incentivize always taking bigger and bigger risk
 	- the arrangement come from perceived government backing, and in this moment is the one and only moment for the us government to clearly say they are not backing FMFM.
-	- but that moment is also the moment that FMFM is currently holding hostage US and potentially global financial system by being too big too fail
+	- but that moment is also the moment that FMFM is currently holding hostage US and potentially global financial system by being too big to fail
 - Letting Fannie Freddie collapse
 	- a lot of current and former finance ministers would not want that to happen
 	- potentially meltdown of financial system because market can't deal with it by themselves
