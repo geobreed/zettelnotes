@@ -10,7 +10,7 @@ Their position is support the White House Bill for the Treasury to buy the toxic
 
 The argument that 2008 financial crisis have [[The Prime Mover]] is not persuasive. There is a lot of regulations that was conceived by good intention and was considered smart ended up become a mistake when paired with bad incentives.
 
-Financial industry does see that they are seen by the public that they will get [[The Golden Parachute]] from the bailout. That they doesn't bear the full consequences of their mistakes because some institution is just [[Too Big to Fail]]
+Financial industry does see that they are seen by the public that they will get [[The Golden Parachute]] from the bailout. That they doesn't bear the full consequences of their mistakes because some institution is just [[Too Big to Fail]]. 
 
 
 
