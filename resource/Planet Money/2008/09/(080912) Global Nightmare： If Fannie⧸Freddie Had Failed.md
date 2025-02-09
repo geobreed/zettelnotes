@@ -26,7 +26,7 @@ That FMFM situation has an inevitable end of collapse from the beginning. An exa
 	- a lot of current and former finance ministers would not want that to happen
 	- potentially meltdown of financial system because market can't deal with it by themselves
 	- even if FMFM is local in the US, the repercussion will be felt globally
-- Too big too fail
+- Too big to fail
 	- a portfolio of $5 trillion, huge chunk of global economy
 	- more importantly, a big portion of credit market
 	- the effect of credit failure of that size can halt or massively increase the rate in credit market
