@@ -30,7 +30,18 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 			- there's a large degree of culpability in the industry
 				- real estate brokers to mortgage brokers to financial institutions
 				- no one stopped
-	- this event 
+	- to this pin this event on a prime movers or a single event is an argument that not particularly persuasive. There was lax lending standards. A complete collapse of prudent lending practices and risk was priced too cheaply. So what pushed your group to accept the consequences of their bad decisions. In normal times capitalism would welcome disappearance of institution that taken risk and doesn't pay off
+		- this is an intersection of politics and policy and the capitalism magic is shown on Lehman, although only Lehman currently
+		- but there is also a number of CEOs terminated etc
+		- but also we enter unusual area with the concept of too big to fail with AIG
+			- not because AIG made bad mistakes
+			- but AIG insures the shipping world, barbershops, bakeries
+			- the downstream effect on those institution will erase their insurance and they can't operate
+			- this effect justifies the Treasury stepping in
+	- this seems good for your membership, to not pay the price for the risks they took
+		- disagree, look at DOD
+			- they already have huge losses and decrease in share value which hurts companies and shareholder
+			- 
 
 ----
 # Article
