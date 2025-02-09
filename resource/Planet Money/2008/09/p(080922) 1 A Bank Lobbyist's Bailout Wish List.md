@@ -4,6 +4,13 @@ date: 20080922
 tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
+An interview with Scott Talbott a lobbyist from the financial industry. 
+
+Their position is support the White House Bill for the Treasury to buy the toxic assets and save the financial industry. Take some partial culpability with the actions of Community Reinvestment Act that require them to make aggressive lending to low and moderate income. But the incentive is for the bank is to not see the consequences and eventually set the risk too low of a price. 
+
+[[The Prime Mover]]
+
+
 
 
 ----
@@ -41,7 +48,12 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 	- this seems good for your membership, to not pay the price for the risks they took
 		- disagree, look at DOD
 			- they already have huge losses and decrease in share value which hurts companies and shareholder
-			- 
+			- the government taking priority ownership, through debt or equity position in companies
+			- there is a provision to limit executive comp, the executives, for those company that participate in the program
+	- for our listeners, they see that those guys are walking scot-free and you're saying they lost major. But they're not bearing the full consequences of their decision, maybe you're saying that the system can't be saved without preventing those people from feeling the full consequences for both institution and executives
+		- from executives standpoints, they will feel the pain if this compensation provision remains
+		- but we opposed that essentially the government setting the price control for executive compensation
+		- essentially it says, secretary shall require limits on compensation to include incentives for executives  to take risks that the Treasury secretary deems inappropriate or excessive
 
 ----
 # Article
