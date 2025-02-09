@@ -16,7 +16,7 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- it is a strong language, and from the document, the balance of power is shifting.
 		- Congress always want to assert their influence in policymaking
 		- this legislation is a gambit to deprive Congress of that influence in respect to the economy
-	- can Congress give this much power to the executive? shouldn't there 
+	- can Congress give this much power to the executive? shouldn't there be check and balance?
 
 ----
 # Article
