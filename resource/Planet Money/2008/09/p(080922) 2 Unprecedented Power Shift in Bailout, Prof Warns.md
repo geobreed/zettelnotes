@@ -17,6 +17,17 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- Congress always want to assert their influence in policymaking
 		- this legislation is a gambit to deprive Congress of that influence in respect to the economy
 	- can Congress give this much power to the executive? shouldn't there be check and balance?
+		- well, this is checks and balances
+		- they can give it up, the courts can't second guess, certainly not the executive branch
+	- this is about Treasury secretary buying some assets, not declare war or patriot act, is this really that big a power shift?
+		- it is a power to shape the economy
+		- to decide which financial institution survive or not
+		- when the 1930s regulation Glass-Steagall was about banks, this is much broader
+		- in this, for example the auto industry doesn't need to go to Congress for bailout
+		- this is determining the  winners and losers in the economy.
+		- and there is no other as big as this in history, even compared to Patriot Act or declaration of war because they bring a substantial oversight, because Congress retain spending authorization
+	- section 12, Decision by the Treasury secretary pursuant to the authority of this Act are non-reviewable and committed to agency to agency discretion. is this unusual or standard bureaucratic language
+		- it is unusual,
 
 ----
 # Article
