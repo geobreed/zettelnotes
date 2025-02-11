@@ -27,7 +27,18 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- this is determining the  winners and losers in the economy.
 		- and there is no other as big as this in history, even compared to Patriot Act or declaration of war because they bring a substantial oversight, because Congress retain spending authorization
 	- section 12, Decision by the Treasury secretary pursuant to the authority of this Act are non-reviewable and committed to agency to agency discretion. is this unusual or standard bureaucratic language
-		- it is unusual,
+		- it is unusual, the Constitution gives Congress the power to define the jurisdiction of the federal courts so to the extent that the section is limited that only decision by the secretary are non-reviewable
+	- any other bill that also says someone in government can never be reviewed in any way?
+		- no not in economic legislation at least
+	- in an email, you say that this is truly unprecedented and only this administration that have the chutzpah to keep the Congress way, way out of the loop
+		- yes and i stand by it
+		- and by chutzpah is that no other president would think they would succeed to have attempted this.
+		- like removing the power of 250 years partner
+		- the power of the purse, like asking for a blank check
+		- essentially the executive branch can bluff or play a chicken game with Congress into abdicating their core legislative powers
+	- so a new economic landscape
+		- yes, and the message from political science point of view is that when you have a real crisis, the way to deal is to get Congress out of the way and let the president act unilaterally
+		- and the leadership in Congress seems persuaded by this argument
 
 ----
 # Article
