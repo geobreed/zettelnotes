@@ -6,7 +6,7 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ---
 Interview with Jon Macey, deputy dean of Yale Law School, leading specialist in business and banking law. 
 
-[[Checks And Balances]]
+Interestingly, even though one side of the government is relinquishing their power, it is still a part of [[Checks And Balances]] of the government. Because 
 
 
 
