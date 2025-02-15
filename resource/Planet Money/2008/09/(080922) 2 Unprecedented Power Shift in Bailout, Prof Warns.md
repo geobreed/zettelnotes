@@ -1,8 +1,8 @@
 ---
-title: 080922) Unprecedented Power Shift in Bailout, Prof Warns
+title: (080922) Unprecedented Power Shift in Bailout, Prof Warns
 date: 20080922
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
 Interview with Jon Macey, deputy dean of Yale Law School, leading specialist in business and banking law. 
 
