@@ -8,7 +8,7 @@ Interview with Jon Macey, deputy dean of Yale Law School, leading specialist in 
 
 Interestingly, even though one side of the government is relinquishing their power, it is still a part of [[Checks And Balances]] of the government. Because to exercise a relinquish is an exercise of power.
 
-So one branch of the government using the crisis as a reason for the other branch of the government to not take part in it. For a new crisis that is unknown, 
+So one branch of the government using the crisis as a reason for the other branch of the government to not take part in it. For a new crisis that is unknown, the executive branch confidently says to the legislative branch to get out of the way and to not question any act taken. 
 
 
 
