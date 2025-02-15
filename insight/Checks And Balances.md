@@ -5,3 +5,5 @@ tags:
 citation:
 ---
 A process in government that split power so that each part of the government has the other in checks.
+
+For U.S. there is 3 branches of government, Judicial, Executive, and Legislative.
