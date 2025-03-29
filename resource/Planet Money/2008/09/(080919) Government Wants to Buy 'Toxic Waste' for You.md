@@ -1,14 +1,98 @@
 ---
-title: 080919)t Government Wants to Buy 'Toxic Waste' for You
+title: (080919) Government Wants to Buy 'Toxic Waste' for You
 date: 20080919
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
+an interview about the crisis with Raghu Rajan, a chief economist in IMF.
+
+At current time, september 19th, we still have no detail of the bailout. But essentially the bailout comes from the taxpayer money with the hope that the bailout will be a profitable investment. So far the proposal is for government buying the toxic assets or the firms shares. In both scenario the price point is important, if too low the bailout will fail, if too high then just giving free money away.
+
+Financial crisis is undeniably a [[Value Altering Condition]]. At current time, with no market activity the assets looks like worthless. And it does worthless in market value perspective. But from intrinsic value of the assets itself still has some value, only the market does not know at what price it currently at. But some can say that the market need the government to be a strong party to dictate a price support and jumpstart market activity. Even though many economist agree that something need to be done, government setting prices or owning company does feels bad.
+
+Different than Resolution Trust Corporation that taking over failed saving and loans, the government act as an insurer, not setting price and only need to sell slowly over time.
+
+Some have think of a smart way for the government to handle this, one of that is force the firms shareholder to recapitalize. The government doesn't need to set price or own company and the shareholder has a reason to recapitalize.
+
+[[Message Through Action]] from the government side in election time to be seen that they doing something. But ending up sending the message that the firm can't save itself. 
+
+
+
+
+
 
 ----
 # Points
 
-- 
+- september 19th
+- Raghu Rajan, chief economist in International Monetary Fund, professor at Graduate School of Business at University of Chicago.
+	- Everybody wants to know from where the money for the bailout coming? The trillion dollars for super bailout and buy a lot of bad assets, Whose money is that? Where's the source?
+		- we don't know the form of the bailout, can be buyout of asset, or capital infusions
+		- but essentially it's the taxpayer money which is going to be invested hopefully not too high price
+		- and hoping the asset price recover and turn a profit
+		- it's an involuntary investment in Wall Street
+	- 'not too high a price' means 'not too high a risk'?
+		- well both, so far there is 2 proposal
+			- 1. government buys the toxic waste on the bank balance sheets
+			- 2. government buy shares in these firms directly
+		- in both scenario there is the question 'at what price?'
+		- if government overpays, than it means it's a gift from taxpayer to Wall Street
+		- and if holding these assets or shares over time and recover the value, there's profit on behalf of the taxpayer.
+	- it seems that if an object if worth less and the government buys it for anything, it's already paid more than it was worth isn't it?
+		- and there's the issue, some assets currently have no market, no seller no buyer
+		- but there is still some value, except nobody knows
+		- some people can say that the current market value is zero
+		- but some can say people are scared, and if the government come and buy the stuff, they can create support price
+		- and if its low enough, the government will make money when these assets market recovers
+	- what is the position among economists, does they agrees this is good or is it fairly hot debated right now?
+		- there is definitely sense that something need to be done
+		- queasy feeling about government buying company and interfering with market and setting prices with worries of mistakes on each
+		- other concerns is if the current path is the wrong path to take and ended up just wasting taxpayer money
+	- there is hedge fund investors that sees opportunities to make a fortune from the government
+		- it really matters how it was structured, buy directly to firm or buy on the open market
+		- buying from open market can invite speculator to buy up the assets before dumping it, especially if the government set higher price than market value
+		- so there is a possibility of danger, the level of government involvement and their limit, a hesitant move can be taken advantage by speculators
+		- people analogize with Resolution Trust Corporation, an entity by the government to take over failed saving and loans corporations in 1980s
+		- but in that scenario, the government owned those association because they gone bust and government is the insurer, the government doesn't have to set price and only have to sell them slowly over time
+		- in this scenario, the government have to buy assets and need to answer a lot of question, how much buying, from whom, at what price.
+	- do you see a smart way for the government to do this?
+		- the real problem in the industry is lack of capital
+		- and we need to figure out how to recapitalize it
+		- the fear is that the credit contraction because of the shortage of capital and then creating a recession
+		- there is 3 ways
+			- 1 government recapitalizes
+			- 2 find new shareholders, sovereign wealth funds, private equity to put capital
+			- 3 ask original shareholders to put up more capital
+		- the 1st option is really should be the last thing to try
+		- maybe because election year increase the motivation for action taking, the 1st option become the 1st choice
+		- 2nd option is a bit explored with china and korea
+		- but the 3rd option we haven't tried and Goldman Sachs is better equipped sense wise for buying strange assets than some government bureaucrat
+		- my proposal is 2 step:
+			- 1 ask all to stop paying dividends to stop leakage of capital
+			- 2 raise more capital from the shareholders, a rights offering is an effective way
+	- the current message from the government is that the firms can't save itself but you don't believe it
+		- yes, because we haven't even doing the coercion
+		- The signal of this action is different than the government, if Citibank all capital to shareholder, they will be scared
+		- But if government ordered them to the signal is different
+		- But for the election year it’s all comforting because there’s something to be done and those bad incentives and moral hazard is postponed
+		- Politician sees short term horizon, but public need to sees long term problem
+		- Like we’re not bailing out Lehman brothers, a good stances
+		- But bailing aig
+	- the taxpayer money what is the eventual effect on the economy, maybe we get profit off this bail out, but diverting from roads schools troops 
+		- the government can issues more debt and not cutting budget
+		- But eventually there is choices to make
+	- What’s this got to do with the price of milk
+		- Nothing
+		- But it could eventually affect milk’s price if the economy collapse
+		- But it’s a long way from that
+	- What are sort of trickle down or ripple out effects
+		- If the government succeed refloating the financial system than there won’t be too much of an effect on access to loans
+		- If they fail then loans will be harder because of credit crunch and eventually impact ordinary citizen
+	- feels like the hypothetical direction taken is missing a couple opportunities like self capitalizing and other investment avenues
+		- Indeed, but hindsight is 20 20
+		- There is regulatory lapse like forcing to recapitalize
+		- But many of us including academics thought this is a crisis but not as deep as now
+
 
 ----
 # Article
@@ -149,7 +233,10 @@ In that situation, the government effectively owned these savings and loans asso
 And then the question is, how much do you buy? Who do you buy from? Where do you buy? And none of those questions have been answered yet, and I don't know. We'll know at the end of this weekend what the answers are.
 
 **(Laura Conaway):**
-Do you see smart ways for the government to do this? Well, I mean, my own personal view is that the real problem we have in the industry is a shortage of capital. And the real question we should be pondering is, how do we recapitalize these financial firms, making sure that it's not...
+Do you see smart ways for the government to do this? 
+
+**(Raghu Rajan):**
+Well, I mean, my own personal view is that the real problem we have in the industry is a shortage of capital. And the real question we should be pondering is, how do we recapitalize these financial firms, making sure that it's not...
 
 **(Adam Davidson):**
 Hey, Laura? Sorry, I'm so sorry. Ellen keeps calling me. I think I just...

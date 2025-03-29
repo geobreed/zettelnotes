@@ -1,15 +1,44 @@
 ---
-title: 0002 (080912) Global Nightmare： If Fannie/Freddie Had Failed
+title: (080912) Global Nightmare： If Fannie/Freddie Had Failed
 date: 20080912
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
+A brief explanation of Fannie Mae and Freddie Mac. About how their conception process contributing to [[Moral Hazard Situation]]. Then about the final consequence of that situation where the risk has been increasingly encompassing global financial market.
 
+That FMFM situation has an inevitable end of collapse from the beginning. An example that a well run [[System-Dependent Process]] maybe hiding a rot that may not apparent now but keep increasing until its too late.
 
 ----
 # Points
 
-- 
+- Brief explanation of Fannie Mae and Freddie Mac
+	- private companies 
+	- but created by US government
+	- their mission is to provide liquidity to housing markets, so that people can buy house
+	- private, profit seeking for their shareholder but also with a public mission
+	- there is pushback on FMFM idea, one is John Snow
+- FMFM bad idea
+	- the gains are privatized but the risk is nationalized to taxpayer
+	- bad risk management on FMFM incentivize always taking bigger and bigger risk
+	- the arrangement come from perceived government backing, and in this moment is the one and only moment for the us government to clearly say they are not backing FMFM.
+	- but that moment is also the moment that FMFM is currently holding hostage US and potentially global financial system by being too big to fail
+- Letting Fannie Freddie collapse
+	- a lot of current and former finance ministers would not want that to happen
+	- potentially meltdown of financial system because market can't deal with it by themselves
+	- even if FMFM is local in the US, the repercussion will be felt globally
+- Too big to fail
+	- a portfolio of $5 trillion, huge chunk of global economy
+	- more importantly, a big portion of credit market
+	- the effect of credit failure of that size can halt or massively increase the rate in credit market
+	- if you can't borrow, economy stops
+	- credit is cashflows
+	- credit directly affect mortgage but also confidence in credit market
+- Isolation finance system
+	- India managed to insulate from global crisis
+	- but not entirely, because of integration some impact will still be felt.
+	- Kuwait and Iraq also does not hold FMFM bond and so minimizing the impact
+	- the bonds from US are considered stable in world financial market, but with subprime mortgage failure that confidence is lowered.
+	- and with that failure also losing a lot of global capital.
 
 ----
 # Article
@@ -227,10 +256,10 @@ Inshallah.
 **(Adam Davidson):**
 All right. I was just showing off my Arabic there. Inshallah. That means God willing in Arabic. I also got a chance to talk to Ali Allawi. He was Iraq's first post-Saddam finance minister. No, that's actually not true. He was Iraq's first post-Saddam trade minister. Later, he was defense minister and later finance minister.
 
-Does Fani and Freddie affect Iraq?
+Does Fannie and Freddie affect Iraq?
 
 **(Ali Allawi):**
-Not on the surface. No, because we're not really integrated into the world financial market. The only way in which we are connected is through holdings of the central bank. But the central bank, as far as I know, has no quasi government debt. They hold treasury bills and bonds, but not Fani May or Freddie Mac or whatever.
+Not on the surface. No, because we're not really integrated into the world financial market. The only way in which we are connected is through holdings of the central bank. But the central bank, as far as I know, has no quasi government debt. They hold treasury bills and bonds, but not Fannie May or Freddie Mac or whatever.
 
 **(Adam Davidson):**
 It wouldn't be the biggest problem for Iraq right now.
@@ -268,13 +297,13 @@ This has been a problem of regulation in the United States, and until the U.S. c
 A year ago, you thought of the U.S. as the bedrock solid foundation of the global economy, and now you don't?
 
 **(Peter Costello):**
-U.S. has always been the world's largest financial market, and for most of the period of the 20th century, exported capital now, it actually imports it. And a lot of the imported capital has actually been lost in the subprime mortgage situation.
+U.S. has always been the world's largest financial market, and for most of the period of the 20th century, exported capital. Now, it actually imports it. And a lot of the imported capital has actually been lost in the subprime mortgage situation.
 
 **(Adam Davidson):**
 So we took the rest of the world's money and lost it for them.
 
 **(Peter Costello):**
-Yeah. Essentially, the way it worked is that mortgage originators made bad loans. They then onsold mortgages, which were bundled up and sold to U.S. institutions, but also institutions around the world. 
+Yeah. Essentially, the way it worked is that mortgage originators made bad loans. They then unsold mortgages, which were bundled up and sold to U.S. institutions, but also institutions around the world. 
 
 When those collateralized mortgages went down, institutions around the world lost money. 
 

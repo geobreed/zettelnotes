@@ -1,15 +1,76 @@
 ---
-title: 0004 (080917) Can You Pick a Politician on Economics?
+title: (080917) Can You Pick a Politician on Economics?
 date: 20080917
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
+Any financial decision consultation need to be done with professional but in a time of crisis there is always actions that come from panic, [[Clouded Judgment Behavior]] like panic sell when market is down.
 
+Government has a lot of move power. By action or inaction, they can hammer a message. But not all received the same, or even being understood correctly. 
+
+About regulation too, the focus on the amount does not alleviate the problem. [[Financial Policy Independence]] has to be maintained to make financial policy free from political use.
+
+[[Economic Bubble Period]] also will always exist as long as capitalism exist. 
 
 ----
 # Points
 
-- 
+- questions answering in September 16th 2008
+	- Lehman Brothers has a small rescue package from Barclays Bank
+	- AIG supposed to be save by bank consortium but cancelled, waiting for government response
+- Retirement money with Solomon Smith Barney, worrying? Should it be taken out and buy gold?
+	- consult personal financial advisor
+	- usually bad to panic sell
+	- stock, mutual fund should be for the long term
+	- money in FMFM, already lost though, including Lehman, Merrill Lynch
+	- owning gold also don't need to be literal bar but can be paper certificate
+- What about potential class action suits from shareholders of Fannie, Freddie, Lehman, Merrill, AIG? Is it against CEO or boar of directors and be paid by insurance company?
+	- there will be many lawsuits
+- About FDIC insurance for savings for less than 100,000 deposit defined by ownership, if account with a child is it two people one account?
+	- again, consult FDIC and local bank
+	- if I have personal, family, and company account, that's 3 accounts. Three separate categories ownership
+	- if I have 4 personal account in my name like checking or saving account, all of that only being covered up to 100,000. One actor, one category of ownership.
+- Just finished master's degree worry about debt accumulation in recession slash depression economy, any thoughts?
+	- we don't know the future, we don't know your circumstances, we're not financial advisor but education is always good
+- Will Lehman Brothers pensioner get their pension checks?
+	- yes but maybe
+- Will highest income tax rate to 91% like in 1950s and 60s return?
+	- greed exist
+	- it can be a problem but also solution
+- How federal government stabilize short term in financial market?
+	- they could try eliminate volatility and the swings
+	- they could say they're going to bail out every institution
+	- but at what costs? direct cost taxpayer and indirect in the moral hazard of FMFM
+	- for specific, they don't lower interest rate that shows fed don't want to risks causing inflation. That is a strong message, that fed will not going to step in to help as easily.
+	- next is, they say they won't bailout Lehman Brothers, but now they had a meeting with AIG, so the message is Lehman is not as big a problem as AIG.
+- Bank of America absorb Merrill Lynch, won't it make fewer larger companies that's too big to fail?
+	- fewer companies is bad, competition is good, no concentrated power in the market
+	- this is the death of investment bank business model.
+	- investment bank advise people, structure money into new form and then sell it, they are more speculative thing.
+	- they live by borrowing, and if the market loses confidence and there is panic they're gone.
+- For single issue voter, what should they look for in a candidate about this economic crisis.
+	- independence of a great fed chairman from government influence
+	- trade is good, trade helps America
+	- unilaterally lower trade barriers
+	- focus on smart and stupid regulation not more or less
+	- we just learned that investment bank acts like insurance companies for the rest of the economy and maybe need to be less leveraged
+	- identify awful stupid rules, maybe mark to market accounting, the need to record market worth that day, that create barrier and destroy initiative. The record also based on nothing.
+	- the more you understand economics, the less you can really listen politician.
+- US market hold steady, maybe even gaining, where does this based on? Is there a silver lining?
+	- overall general pull is upwards. Great Depression is also looks like a blip.
+	- there also sectors that doing great, like agriculture, American wine company or auto parts manufacturer.
+- Noting economic bubble and the tendencies, tech stock, home value bubble. Has the economy always bubble based? And what's the next sector vulnerable?
+	- there is always bubble since there is capitalism.
+	- even though two in a close row is odd, but there is argument it's the same bubble.
+	- we don't know next bubble is. 
+	- by nature, a bubble is irrational exuberance, moment when a lot of people believe the fundamental rules has changed.
+	- just hope you don't lose money in it.
+- How does peak oil apocalypse fit into financial collapse? 
+	- peak oil is a theory when we reach maximum amount of oil and from there, just less and less oil and the price goes up and up before mass adoption of cheap energy and the whole system will collapse.
+	- it's possible that energy might get more expensive. 
+	- when we don't understand something, our mind goes to worst case scenario.
+	- Any new technologies, like CDO and mortgage backed securities, these take a while to figure out. We are in early stages of financial tool.
+	- hopefully next time we're more intelligently using these tool.
 
 ----
 # Article
@@ -120,7 +181,7 @@ You're one actor.
 When you're one actor, one category of ownership. 
 
 **(Laura Conaway):**
-allright
+alright
 
 **(Mike Pascoe):**
 So a checkings and a savings account. 
