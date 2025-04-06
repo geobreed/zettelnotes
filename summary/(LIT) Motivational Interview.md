@@ -1,7 +1,15 @@
 
 # Motivational Interview
 ## PART I: CONTEXT
-### Chapter 1 Why Do People Change?
+### Chapter 1. Why Do People Change?
+
+[[You Would Think]]
+One of common frustration in professionals who deals with motivation. About why people don’t change. 
+"You would think that because of X he/she would do Y."
+About the mounting evidence of the negative still does not make a change in one behavior. 
+-
+is focusing on unchanging behavior. 
+
 ### Chapter 2. Ambivalence: The Dilemma of Change
 ### Chapter 3. Facilitating Change
 ## PART II: PRACTICE
