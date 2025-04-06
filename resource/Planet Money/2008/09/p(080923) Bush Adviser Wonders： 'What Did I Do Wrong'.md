@@ -8,7 +8,19 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 ----
 # Points
 
-- 
+- Tuesday, September 23 5:34 p.m news
+	- Paulson Bernanke met Senate Finance Committee, with testy reception. 
+		- A bit skepticism of timing. 
+		- Jim Bunning called un-American, socialism. 
+		- But in the end it came out. 
+		- Still don't know the final shape is like.
+		- Paulson only say what he wants, that the bill passed quickly.
+	- press gaggle phone call out of the White House.
+		- Tony Fratto, deputy press chief of White House, says about the 2 page bill had been worked out by policy staff for months
+		- although been thought as sort of a quite hastily drawn together
+- Interviews with Tim Adams, used to work for Hendy Paulson in Treasury department as undersecretary for international affairs at Treasury, now private consultation with the Lindsey Group.
+	- as close adviser to the president from the election and reelection, how do we weigh the economic policies, about what he or you get wrong.
+		- 
 
 ----
 # Article
