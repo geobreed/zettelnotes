@@ -20,7 +20,29 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- although been thought as sort of a quite hastily drawn together
 - Interviews with Tim Adams, used to work for Hendy Paulson in Treasury department as undersecretary for international affairs at Treasury, now private consultation with the Lindsey Group.
 	- as close adviser to the president from the election and reelection, how do we weigh the economic policies, about what he or you get wrong.
-		- 
+		- current condition is from past 20 or 30 years worth of decisions
+		- with recent dot-com bubble, systems are prone to bubbles, as is ours
+		- preparation from the Congress going forward is important
+		- about failure itself, there is a lot to go around.
+			- the system's failure
+			- wrong incentives for player
+			- results of regulatory entities in this and previous administration
+			- we changed laws with unintended consequences
+	- can you give me an example?
+		- we lift the leverage ratios in 2004, when Donaldson as Head of SEC, and we don't think of the result with unregulated institution like investment banks
+			- to explain, with 100 in investment bank, the past law is 12 to 1, they can lend 1,200
+			- with lifted ratio to 30 to 1, they can lend 3,000
+			- which is dangerously high leveraged situation
+		- and a lot of people and institution that transact and rating instrument that they don't understand
+		- only now we found out that we didn't understand the complexities
+		- a failure across the system
+		- a failure of management on these institution that is highly compensated
+		- a failure to understand what they transact but making loans and securitizing
+		- so no incentive to make sure it's a good quality lending.
+	- what did you personally get most wrong, the thing that you wish understood at the time?
+		- easy to look at the trees and ignore the forest, like regulators look at specific practices in entities that cause problems.
+		- but there wasn't enough attention to the whole system, because the assumption is the system self corrects
+		- but the entire supply chain failed
 
 ----
 # Article
