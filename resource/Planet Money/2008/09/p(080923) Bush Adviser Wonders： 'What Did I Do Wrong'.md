@@ -43,6 +43,33 @@ citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts
 		- easy to look at the trees and ignore the forest, like regulators look at specific practices in entities that cause problems.
 		- but there wasn't enough attention to the whole system, because the assumption is the system self corrects
 		- but the entire supply chain failed
+	- by entire supply chain, you mean maybe one or four banks, the rest is good.
+		- right, that is the assumption
+		- that everyone had computer model for all they buy and sell and know the fat-tailed distribution of potential outcomes
+		- but we didn't understand, and in the end we quit trying
+- interview with Brad Setser, a former Treasury official under Clinton, at the Council on Foreign Relations, about one specific part of this proposed bill from the White House
+	- section 10, maximum amount of authorized purchases by the secretary under this act shall be limited to $700 billion. how much is $700 billion? how should we think about it?
+		- a very large sum, more than the US oil import bill for a year even at these massive price
+		- a simple visual, 
+			- it's equal to the entire US trade and current account deficit
+			- equal to the amount we borrow from the rest of the world every given year
+			- about 5% of US GDP
+	- does anybody have $700 billion domestically? or it's just the US government?
+		- the US government don't have that money, 
+		- only ability to borrow and ability to promise with credibility to repay plus interest
+	- there is no one company or even one industry that could get $ 700 billion together
+		- well the closes would be the oil, the only 3 country who could is US japan china
+		- and only china which is like poor country lending rich country
+- listener questions
+	- the administration didn't cut out the golden parachutes for executives is there a reason that this will somehow benefit taxpayer?
+		- the argument is not so that they can spend on stuff
+		- but if it's cut, the bank are less likely to participate in this buyout because the executive don't want to lose their salary
+		- these are the very people whose expertise you need right now
+		- it's the science of incentives "the theory of moral sentiments" - economics does not talk about the moral of our nature, it talks about our incentives
+		- if no incentives to themselves, its easy to convince themselves about their own best interest
+	- but on street level, a lot of people want these bankers to leave
+		- and it's a shaky place to assume negotiating position, like asking for help and demanding
+		- but the argument from labor point of view, for them to leave to other industries or not prioritizing effort.
 
 ----
 # Article
