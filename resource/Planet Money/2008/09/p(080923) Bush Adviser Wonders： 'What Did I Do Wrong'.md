@@ -4,6 +4,10 @@ date: 20080923
 tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
+September 23rd at 5:34 PM news. Paulson and Bernanke being grilled because of timing of the bill among others, but the bill still passed. The bill that is months in works even though looks like hastily drawn together.
+
+Interviews with Tim Adams, ex undersecretary for Treasury. That the crisis is accumulation from the past 20 or 30 years of decisions. So the failure itself is a lot to go around. One is policies that encourage [[The Wrong Incentives]] 
+
 
 ----
 # Points
