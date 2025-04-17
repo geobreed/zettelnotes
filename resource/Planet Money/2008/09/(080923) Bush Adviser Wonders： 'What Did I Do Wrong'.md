@@ -1,12 +1,16 @@
 ---
-title: 080923) Bush Adviser Wonders - 'What Did I Do Wrong'
+title: (080923) Bush Adviser Wonders： 'What Did I Do Wrong'
 date: 20080923
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
 September 23rd at 5:34 PM news. Paulson and Bernanke being grilled because of timing of the bill among others, but the bill still passed. The bill that is months in works even though looks like hastily drawn together.
 
-Interviews with Tim Adams, ex undersecretary for Treasury. That the crisis is accumulation from the past 20 or 30 years of decisions. So the failure itself is a lot to go around. One is policies that has [[Unintended Consequences Outcomes]]. Like lifting leverage ratios from 12 to 1 in the past to 30 to 1 that encouraging [[The Wrong Incentives]] with unregulated institution like investment banks.
+Interviews with Tim Adams, ex undersecretary for Treasury. That the crisis is accumulation from the past 20 or 30 years of decisions. So the failure itself is a lot to go around. One is policies that has [[Unintended Consequences Outcomes]]. Like lifting leverage ratios from 12 to 1 in the past to 30 to 1 that encouraging [[The Wrong Incentives]] with unregulated institution like investment banks. One thing that feels like [[Unrecognized Unknown Knowledge]] is that almost all parties involved seems to think that they understands the instrument they transact. Seems to think that the system itself won't fail, will eventually self corrects. But we didn't, and then we quit trying.
+
+Interviews with Brad Setser, ex Treasury official, about $700 billion. The US government don't have that money but have the ability and credibility to borrow. Excluding oil industry, only US, Japan, and China that has the ability to lend. A bit weird that a poor country like China seems to funds rich country like US.
+
+The administrator seems hesitant to cut executive's golden parachute. Looking for a reasonable perspective for its benefit to taxpayer seems shaky. From Adam Smith's "The Theory of Moral Sentiments" we know about [[Incentive Based Morality]]. The executive is raising the argument that they have the expertise in this crisis and have other avenue to abandon the mess they create.
 
 
 ----
