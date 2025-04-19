@@ -1,12 +1,14 @@
 ---
-title: 080924)t Congressman Takes a Gut Check
+title: (080924) Congressman Takes a Gut Check
 date: 20080923
-tags: #PlanetMoney
-citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
+tags: 
+citation: “Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023).
 ---
 Update for Wednesday, 24th September at 5:37 p.m. John McCain suspend his campaign to work on the bill with pushback for cap on executives pay and protections for homeowner in bad mortgages. Barrack Obama still continuing.
 
-Interview with Brad Miller, Dem rep of North Carolina. About consequences of the passing of the bill still uncertain considering between the administrator and the financial industry both have [[The Credibility Problem]]. 
+Interview with Brad Miller, Dem rep of North Carolina. About consequences of the passing of the bill still uncertain considering between the administrator and the financial industry both have [[The Credibility Problem]]. The bank executive also seems to have difficulties to be [[Aware Injustices Resulted]] from their action. For the bill, hoping it will be enough reform to prevent the same thing from happening. From hearing there is backlash from Democrat about helping undeserving people to the Republican that taking it as socialism.
+
+Interestingly, in interview with Raghu Rajan, the bill itself can be considered election-year politics for both parties to be seen as in charge of the crisis. Currently the emergencies step already taken, but the problem still remains. The faster the Congress acts, the better the conditions.
 
 ----
 # Points
