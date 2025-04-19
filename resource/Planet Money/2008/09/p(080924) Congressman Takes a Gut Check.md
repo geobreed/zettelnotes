@@ -4,12 +4,59 @@ date: 20080923
 tags: #PlanetMoney
 citation: "“Planet Money,” _NPR_, 2 Juni 2023. [https://www.npr.org/podcasts/510289/planet-money](https://www.npr.org/podcasts/510289/planet-money) (diakses 4 Juni 2023)."
 ---
+Update for Wednesday, 24th September at 5:37 p.m. John McCain suspend his campaign to work on the bill with pushback for cap on executives pay and protections for homeowner in bad mortgages. Barrack Obama still continuing.
 
+Interview with Brad Miller, Dem rep of North Carolina. About consequences of the passing of the bill still uncertain considering between the administrator and the financial industry both have [[The Credibility Problem]]. 
 
 ----
 # Points
 
-- 
+- Wednesday, 24th September at 5:37 p.m news
+	- John McCain suspend his campaign, says he tries to work on $700 billion bailout
+	- the bill getting a lot of pushback in Congress from Democratic side
+		- ask for cap on executive pay for bankers
+		- protections for homeowners involved in bad mortgages
+	- Barrack Obama still continuing his campaign
+- interview with Brad Miller, Democratic Representative on North Carolina
+	- some want the bailout passed quickly, but what is the consequences if its not?
+		- potentially pretty cataclysmic, although isn't being described like the Great Depression
+		- coming from administrator that not entirely truthful, about an industry that also reticent to transparency. Both have credibility problem
+	- there is a visceral reaction to the proposed solution, about lending $700 billion to the rich that responsible for this mess
+		- they also seems to be clueless about the reaction
+		- they're drowning by their own making, and they're making demands about the type of rope they like to be saved.
+	- sounds like you're saying this is massive crisis, but you don't want to take this action
+		- if we spend $700 billion on rescuing this industry, we want real reforms
+		- so that we don't get the same crisis again.
+		- what happen here fundamentally is intentionally designed mortgages so the homeowners needs to refinance
+		- to caught them in a cycle of borrowing and gradually lose the equity of their home as house prices appreciated to the whole financial services industry.
+		- it isn't inadvertent by all the people involved in all these lending practices
+	- you think it's deliberate
+		- morally certain it was deliberate decision
+	- and this is something that you perceive is in agreement to be done and maybe some might prefer doing nothing is the best
+		- there are bad options and still to be determined if outraged Congress will pass it or not
+			- from Democrat, about helping people as undeserving because they don't do necessary service for honest living but trying to make a killing by cheating the middle class out of equity in their home.
+			- from Republican, about spending $700 billion and involved in industry that doesn't fit Republican theory, some even call it socialism.
+	- and you yourself, do you feel you have to do the thing you don't want to do, what is your internal emotional conflict
+		- i'm still figuring out
+		- i know i'm going to push for as much reform to the industry
+		- i'm going to decide if there is enough reform in the bill or not
+		- despite i do believe we are on the brink of financial catastrophe
+- interview with Raghu Rajan, former chief economist of IMF
+	- about the bill that's a bit of election-year politics, for Republican and Democrat to look like they were in charge but there might be other options. and there is time for those two to work this out.
+		- i think the immediate urgency has been taken off by the Fed and Treasury including guaranteeing money market funds
+		- the big concern was a run on the money market funds
+	- so the government stepped in and extend insurance to money market funds the same way savings deposits
+		- exactly, and the two banks with greatest attacked, Goldman Sachs and Morgan Stanley transformed to commercial banks and solidify government links
+		- immediate needs met but not out of the woods yet
+		- cost of interbank still high, banks still not trust each other
+		- the rationale for this plan, to remove the toxic waste from bank balance
+		- the problem still exist
+	- what happen if we don't do anything next week
+		- some things need to be done fast for the market to work again
+		- if the banks worried about each other's balance sheet that will affect economic activity over time so no more bank failures and for economic growth
+		- so the fact that there is a plan coming out in short order will help reassure the market
+	- so no apocalypse if a bill isn't passed by Friday
+		- i doubt it will be the end of the world but if passed fast by the Congress, it will be a good news.
 
 ----
 # Article
