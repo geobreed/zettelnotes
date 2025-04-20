@@ -1,8 +1,10 @@
 ---
 title: You Would Think
 date: 20250420
-tags: 
-citation:
+tags:
+  - book
+  - draft
+citation: "Miller, W. R., & Rollnick, S. Motivational Interviewing: Preparing People to Change Addictive Behavior, 2nd ed. New York: Guilford Press, 2002."
 ---
 Thinking about motivation, there is wonder of unchanging behavior. One of common frustration in professionals who deals with motivation. About why people don’t change. 
 "You would think that because of X he/she would do Y."

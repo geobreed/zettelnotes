@@ -1,0 +1,8 @@
+---
+title: The Dose Effects
+date: 20250420
+tags:
+  - book
+  - draft
+citation: "Miller, W. R., & Rollnick, S. Motivational Interviewing: Preparing People to Change Addictive Behavior, 2nd ed. New York: Guilford Press, 2002."
+---
