@@ -8,7 +8,7 @@ citation: "Miller, W. R., & Rollnick, S. Motivational Interviewing: Preparing Pe
 ---
 The source to finally adjust to new lifestyle. The research and lessons in the source book came from addiction fields that challenge initial assumption. 
 
-The core of helping professions with some that can be defined as:
+The core of helping professions can be defined as pieces of puzzle that can be called:
 - [[Natural Change Effects]]
 - [[Brief Intervention Effects]]
 - [[The Dose Effects]]
