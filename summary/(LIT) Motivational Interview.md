@@ -3,19 +3,9 @@
 ## PART I: CONTEXT
 ### Chapter 1. Why Do People Change?
 
-Thinking about motivation, there is wonder of [[You Would Think]]
-	One of common frustration in professionals who deals with motivation. About why people don’t change. 
-	"You would think that because of X he/she would do Y."
-	About the mounting evidence of the negative still does not make a change in one behavior. A hallmark of addictive behavior despite overwhelming evidence of its destructiveness. 
+![[You Would Think]]
+![[Reason For Change]]
 
-on unchanging behavior. But there is still change is a norm too. The research and lessons in this book come from addiction fields that challenge initial assumption. A more productive perspective in [[Reason For Change]]
-	The source to finally adjust to new lifestyle. 
-	The core of helping professions with some that can be defined as:
-	- [[Natural Change Effects]]
-	- [[Brief Intervention Effects]]
-	- [[The Dose Effects]]
-	- [[Faith-Hope Effects]]
-	- 
 	
 
 
